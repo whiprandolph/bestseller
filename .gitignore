@@ -1,0 +1,22 @@
+*.pyc
+*.TMP
+*.html
+*.HTML
+*Book ToC.md
+~$*
+*.doc
+*.docx
+*.docx#
+*.zip
+*.7z
+*.webp
+*.txt
+*.rdf
+*.RDF
+*.TXT
+*.csv
+*.CSV
+*.pdf
+*.PDF
+*.json
+*.JSON

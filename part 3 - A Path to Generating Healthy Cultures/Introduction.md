@@ -1,0 +1,1 @@
+Note - I haven't successfully co-founded a healthy culture. In this section I share lessons and practices I've integrated into my life as I work to generate healthy cultures in the world.
