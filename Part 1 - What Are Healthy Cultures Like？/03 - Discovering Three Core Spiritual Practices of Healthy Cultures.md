@@ -6,7 +6,7 @@
 * [The Second Core Spiritual Practice: Giving My Sacred Gifts](#the-second-core-spiritual-practice-giving-my-sacred-gifts)
 * [The Third Core Spiritual Practice: Living in Reciprocity](#the-third-core-spiritual-practice-living-in-reciprocity)
 * [Solidarity Together](#solidarity-together)
-* [Healthy vs Unhealthy Cultures: What is the Core Disease?](#healthy-vs-unhealthy-cultures-what-is-the-core-disease?)
+* [Common Patterns](#common-patterns)
 * [References](#references)
 <toc/>
 
@@ -51,8 +51,6 @@ Tom Brown Jr described how his Apache mentor Stalking Wolf helped him honor all 
 I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks like to hunt small animals like mice and shrews, so I knew they all would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?
 
 I looked up through the forest canopy just in time to notice a second, silent hawk fly to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
-
-<center><img src="./images/hawks_hunting.png" alt="Hawks Hunting" height="400" width="400" /><br/>_Hawks hunting_</center>
 
 Every day I practiced developing this practical, aware gratitude for all the gifts I received from people and the nonhumans. Once I understood that all beings have sacred gifts to give -- that is, special ways they contribute to making life better -- that raised the obvious question: do individual humans have sacred gifts to give too?
 
@@ -123,7 +121,7 @@ When a community includes the perspectives of human relationships and the land i
 
 ### Common Patterns
 
-I kept finding example after example of entire cultures -- entire nations -- where people live or lived in beautiful ways with each other and the Earth, and all of them embraced these three core spiritual practices. They had plenty of differences, including their clothes, songs, language, diet, family relationships, and more. But once I saw these really deep common patterns across all the beautiful healthy cultures I'd studied, I wondered: are there other things they all have in common?
+I kept finding example after example of entire cultures -- entire nations -- where people live or lived in beautiful ways with each other and the Earth, and all of them embraced these three core spiritual practices. They had plenty of differences, including their clothes, songs, language, diet, family relationships, and more. But once I saw these really deep common patterns across all the beautiful healthy cultures I studied, I wondered: are there other things they all have in common?
 
 I'd only ever lived in capitalist countries, but I'd studied communism and socialism a lot too over the years. I started to wonder: what kind of economy do healthy cultures have?
 

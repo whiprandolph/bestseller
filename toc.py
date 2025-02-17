@@ -153,6 +153,7 @@ def ref_check(contents, chapter_name):
     #  print("(%s) Possibly missing xxx- in %s:\n\n%s\n\n" % (count, chapter_name, line))
 
     # citation at front of line
+    if "## References" in line: break
     if line[0] =='[' and '-aaa' not in line:
       print("(%s) Line starts with bracket in %s:\n\n%s\n\n" % (count, chapter_name, line))
     count+=1

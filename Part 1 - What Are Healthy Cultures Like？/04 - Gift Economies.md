@@ -1,50 +1,16 @@
 ## Chapter 9: Gift Economies
 
-<toc/>
+When I first read Mohawk writers describe their traditional way of life as "a kind of utopia," I was skeptical. After all, I had been told my whole life that utopias don't exist. The Encyclopedia Britannica even says, "utopian and utopianism are words used to denote visionary reform that tends to be impossibly idealistic."[xxx-britannica utopia]
 
-* [To add](#to-add)
-* [Original](#original)
-* [Gift Economies Generate and Share Abundance](#gift-economies-generate-and-share-abundance)
-* [Gift Economies and Indian Givers](#gift-economies-and-indian-givers)
-* [Private Property Rights vs Sacred Responsibilities](#private-property-rights-vs-sacred-responsibilities)
-* [Stories of Sharing](#stories-of-sharing)
-* [Jesus Christ Wanted to Create a Healthy Culture that Generated Abundance for Everyone](#jesus-christ-wanted-to-create-a-healthy-culture-that-generated-abundance-for-everyone)
-  * [Stories of Women Spreading Abundance (from chap 24)](#stories-of-women-spreading-abundance-\(from-chap-24\))
-<toc/>
-
-### To add
-
-  * when each person trained to give their love every day and stand in solidarity with their neighbors, and when they don't allow selfishness to take hold, what kind of economy results?
-  * add: Tzutujil Mayans didn't have word for "door" much less lock
-  * also include stories of women spreading abundance from sex discrim/equality chapter
-
-### Original
-
-Often when activists describe their desire for a culture without rich and poor, and without anybody taking advantage of anybody else, I hear this dismissed as utopian, pie-in-the-sky, or an impossible and unreasonable ideal.
-
-The Encyclopedia Britannica demonstrates this when it defines "utopia" as "an ideal commonwealth whose inhabitants exist under seemingly perfect conditions. Hence utopian and utopianism are words used to denote visionary reform that tends to be impossibly idealistic."[xxx-britannica utopia]
-
-I have good news: the Encyclopedia Britannica is wrong. Utopias are real. Some exist now, and many more existed in the past. I believe living in a utopia is simply the experience of living in a healthy culture -- where everyone stands for a culture of mutual respect, and nobody rules over anybody else.
-
-I'm not the only one to consider it a utopia to live in a healthy culture. Describing their way of life before Europeans arrived and imposed their laws, a collection of Mohawk writers noted, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
-
-Many people seem to think of utopias as places where people never suffer, but I think this is misleading. Terrible things like wars, famines, plagues, and other troubles can still occur. What makes a healthy culture a utopia is that people can trust their neighbors to take care of each other and act in service of the group in difficult moments rather than take advantage of each other. It's not that there are no big challenges; it's that nobody in the group needs to face the challenges alone.
-
-One key aspect of living in a utopia is that group sharing is the norm, rather than individual profiting. These cultures have variations of a _gift economy_. Gift economies ensure everyone is taken care of, moving resources to where they're most needed or where they serve the greatest good. In contrast, unhealthy cultures operate with variations on a _profit economy_. Profit economies benefit individuals or sub-groups, moving resources to people who already have them. In profit economies, the more resources a person has, the more extra resources they're able to get. Thus profit economies reward selfishness, whereas gift economies reward generosity.
-
-### Gift Economies Generate and Share Abundance
-
-I experienced a gift economy among the Ashaninka where sharing was the norm. Plenty of other people living in other healthy cultures, past and present, show that this is not particularly unusual.
+But I kept reading and hearing about healthy cultures where sharing is a normal way of life, or was normal in the past when the culture could live in a fully traditional way.
 
 Nancy Basket summarized the traditional Cherokee culture of sharing this way: "If we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot."[xxx-basket interview]
 
-Ohiyesa wrote, "During the summer, when Nature is at her best, and provides abundantly for the savage, it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."[xxx-indian child life|early hardships]
+Sioux man Ohiyesa wrote, "During the summer, when Nature is at her best, and provides abundantly for the [indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."[xxx-indian child life|early hardships]
 
-For centuries, "savages" was an English term for all people of healthy cultures around the world. When he referred to savages, Ohiyesa was simply describing a common pattern in cultures that shared deeply as a normal way of life. (To learn why people of healthy cultures were called savages, see Chapter 22)
+These descriptions might have sounded too good to be true if I hadn't spent time with the Ashaninka and experienced this kind of deep sharing myself. Every time I found myself questioning these stories, I remembered back to my time with the Ashaninka and remembered that people really can live together in a way where sharing is the norm.
 
-In some ways, this deep sharing is comparable to how many nuclear families live in unhealthy cultures, sharing food, heat, transportation, and shelter. The parents and children all become poorer or richer together as the family's income goes up or down. Parents don't typically hand the children a bill after every meal.
-
-What is it like when an entire society embraces a gift economy where things are shared as needed, and what cultural practices help maintain such an economy so that people can continually generate and share abundance?
+What is it like when an entire society embraces a _gift economy_ where things are shared as needed, and what cultural practices help maintain such an economy so that people can continually generate and share abundance?
 
 ### Gift Economies and Indian Givers
 
@@ -187,6 +153,14 @@ Nancy Basket described the traditional role of the Cherokee gigau (GIG-ah-oo), m
 Basket described another way that women redistributed goods. In one ceremony, all the women would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most.
 
 When I lived briefly with the Ashaninka, women's willingness to share their wealth seemed magical to me. At every single house I visited, a woman graciously shared food and drink, and she invited me and my fellow travelers to rest. There was never any payment. I had to find other ways to give back.
+
+
+
+### To add
+
+  * when each person trained to give their love every day and stand in solidarity with their neighbors, and when they don't allow selfishness to take hold, what kind of economy results?
+  * add: Tzutujil Mayans didn't have word for "door" much less lock
+  * also include stories of women spreading abundance from sex discrim/equality chapter
 
 ### References
 
