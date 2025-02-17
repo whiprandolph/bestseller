@@ -58,7 +58,7 @@ def transform(chapter_list):
         html_path = md_path.replace(md_dir, html_dir)
         html_path = html_path.replace(".md", ".html")
         pdf_path = md_path.replace(md_dir, pdf_dir)
-        pdf_path = html_path.replace(".md", ".pdf")
+        pdf_path = pdf_path.replace(".md", ".pdf")
         md_publish_path = md_path.replace(md_dir, md_publish_dir)
         if not os.path.exists(os.path.dirname(html_path)):
             os.mkdir(os.path.dirname(html_path))
@@ -70,8 +70,7 @@ def transform(chapter_list):
         html = mdConverter.convert(md_contents)
         open(html_path, 'w', encoding='utf-8').write(html)
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
-        #subprocess.run(['pandoc', '-s', html_path, '-o', pdf_path])
-
+        
 def main():
     chapter_path_list = get_chapter_path_list()
     for chapter_path in chapter_path_list:

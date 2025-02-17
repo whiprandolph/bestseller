@@ -110,6 +110,6 @@ Mike had told me something else before we arrived at the Ashaninkas' villages:
 
 Mike was right about that too. A few months later, when I was talking with my father in Los Angeles, he asked me what I had learned. I teared up, as I still do today whenever I think about my time with the Ashaninka. I told my dad, "I don't know everything I learned. I'm still figuring it out. But I know this: people can live differently. We can treat each other well. I know it is possible, and I will never doubt it again because I saw it with my own eyes."
 
-I knew humans could live in a healthy culture - the Ashaninka had proven it's possible! But what else could I learn? Did they just get lucky and stumble on a pleasant way of life by chance? Are there other cultures that live or lived in similarly beautiful ways that I could learn from? 
+I knew humans could live in a healthy culture -- the Ashaninka had proven it's possible! But what else could I learn? Did they just get lucky and stumble on a pleasant way of life by chance? Are there other cultures that live or lived in similarly beautiful ways that I could learn from? 
 
 <div style="break-after:page"></div>
