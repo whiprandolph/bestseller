@@ -55,4 +55,4 @@ more stories of gift economies in unhealthy cultures - think of cardboard boxes 
 #### How can I tell if I'm in a healthy culture or not? 
 * Do my neighbors expect me to stand in solidarity with people when they're threatened? Or am I punished for this, because it is supposedly the police's job?
 * Is selfishness or greed common, or rare?
-* Do I trust leaders to put the needs of the group ahead of their own needs, no matter what? Do I trust the leaders to consistently tell the truth and keep their promises?
+* Do I trust leaders to put the needs of the group ahead of their own needs, no matter what? Do I trust the leaders to consistently tell the truth and keep their   promises?

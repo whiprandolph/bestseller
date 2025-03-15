@@ -5,10 +5,10 @@ import markdown2
 import subprocess
 from progress import chapters
 
-md_dir = r"C:\Users\whip\short-odoc"
-html_dir = r"C:\Users\whip\short-odoc-html"
-pdf_dir = r"C:\Users\whip\short-odoc-pdf"
-md_publish_dir = r"C:\Users\whip\short-odoc-md-publish"
+md_dir = r"C:\Users\whip\bestseller"
+html_dir = r"C:\Users\whip\bestseller-html"
+pdf_dir = r"C:\Users\whip\bestseller-pdf"
+md_publish_dir = r"C:\Users\whip\bestseller-md-publish"
 
 PUBLISH = True
 
