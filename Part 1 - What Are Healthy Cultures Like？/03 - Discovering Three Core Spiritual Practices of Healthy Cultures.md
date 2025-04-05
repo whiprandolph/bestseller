@@ -1,4 +1,4 @@
-## Chapter 2: Discovering Three Core Spiritual Practices of Healthy Cultures
+## Chapter 3: Discovering Three Core Spiritual Practices of Healthy Cultures
 
 <toc/>
 

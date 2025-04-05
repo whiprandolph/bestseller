@@ -1,5 +1,13 @@
 ## Meeting the Ashaninka
 
+For most of my life, I never thought there could be a human culture without racism, sexism, political corruption, pollution, injustice, or poverty. Every country I'd ever visited had these troubles, so they seemed universal and normal, like a disease that can't be treated, and so I just learned to live with them. But then I got to visit a nation where people live without these troubles -- without racism and sexism, without corruption or poverty. 
+
+A place where sharing is a normal way of life. A place where neighbors deeply trust each other and visitors are treated like family – not the dysfunctional families that many deal with here, but the loving family we all long for, with mutual understanding and respect.
+
+I was blessed to live briefly in such a place. And no, it’s not some cult or small commune, but a nation of thousands of people living in dozens of villages. My short time there in 2015 was utterly magical and changed my life. As the man who brought me there said, "you will spend the rest of your life figuring out lessons to learn from these people."
+
+
+
 In 2015, I got to spend time with a nation without sexism or racism. There was no corruption, greed, pollution or child abuse. The people, called the Ashaninka, shared with each other as a normal way of life, took care of the Earth, and deeply trusted their neighbors. I quickly learned to trust everyone I met, and I felt grateful for how much they shared with me. This wasn't a cult or tiny village, but a nation of many villages. It was utterly magical and changed my life.
 
 These people are called the Ashaninka, and on a map it looks like they live in eastern Peru in the Amazon rainforest. However, maps sometimes lie, and the Ashaninka don't live in Peru. The Peruvian government and laws are nowhere to be found! 
@@ -60,7 +68,7 @@ Mike had told me something else before we arrived at the Ashaninkas' villages:
 
 > _You will spend the rest of your life figuring out lessons to learn from these people._
 
-Mike was right about that too. A few months later, when I was talking with my father in Los Angeles, he asked me what I had learned. I teared up, as I still do today whenever I think about my time with the Ashaninka. I told my dad, "I don't know everything I learned. I'm still figuring it out. But I know this: people can live differently. We can treat each other well. I know it is possible, and I will never doubt it again because I saw it with my own eyes."
+He was right about that too. A few months later, when I was talking with my father in Los Angeles, he asked me what I had learned. I teared up, as I still do today whenever I think about my time with the Ashaninka. I told my dad, "I don't know everything I learned. I'm still figuring it out. But I know this: people can live differently. We can treat each other well. I know it is possible, and I will never doubt it again because I saw it with my own eyes."
 
 The more I looked around in my own culture, the United States, the more urgent it seemed to figure out those lessons. The deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
@@ -86,39 +94,6 @@ I can't escape the hurtful behavior at home either. My middle-aged black roommat
 
 These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive... which ends up meaning we have superficial conversations, talking about our hobbies, jobs, houses, or other things. If we talked about the most important issues we faced, such as racism, sexism, pollution, corporate greed, dishonest and unaccountable politicians, and more... well, there'd be plenty of material for conversation, but it could be a downer pretty quick! And if it doesn't seem like we can do anything about it, then what's the point of acknowledging all these things anyway?
 
-what am I supposed to learn from the Ashaninka about all this? It's like they're a different species. How can they be Homo sapiens like me and other Americans, and they live in such a beautiful way, and we don't?
+What am I supposed to learn from the Ashaninka about all this? It's like they're a different species. How can they be Homo sapiens like me and other Americans, and they live in such a beautiful way, and we don't?
 
-Are the Ashaninka unique, and there's nothing really to learn anyway? Did the Ashaninka just get lucky, and Americans didn't? Could there possibly be other nations like the Ashaninka, societies where people treat each other and the Earth in a respectful way, without discrimination, greed, and dishonest leaders? If so, could they help clarify the lessons that the Ashaninka have to offer?
-
-
-
-
-
-
-
-
-
-
-
-
-"Shocked to discover that..."
-
-Share my own emotions, my own awakening.
-
-
-
-Ok, so it feels shitty being around grocery stores, pharmacies, prisons, and banks. I mean, it's not so bad if I don't think about anything very much; I can just sort of go about my business with my head down and be ok. And most employees have no idea when I ask them questions; they mostly seem like honest, hard-working people just trying to keep their job, whatever that means for them. It's like I'm surrounded by a few rich crooks and tons of people who need a job and try not to think about the crooks.
-
-If I just stuck to celebrity news and the politics they talk about on TV, I wouldn't have this problem. Grocery stores and prisons would seem fine! It's tempting to forget what I've learned, sometimes.
-
-What the fuck am I supposed to learn from the Ashaninka about this? Their life is so different, it's like they live on a different planet!
-
-Mostly politicians seem to ignore these things. Some talk about it, but... mostly that just seems all there is to it. Just so much talk. And nothing much seems to change, no matter how elections go, election after election. The sexism, racism, greed, pollution, poverty just keep happening!
-
-These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive... which ends up meaning we have superficial conversations, talking about our hobbies, jobs, houses, or other things. If we talked about the most important issues we faced, such as racism, sexism, pollution, corporate greed, dishonest and unaccountable politicians, and more... well, there'd be plenty of material for conversation, but it could be a downer pretty quick! And if it doesn't seem like we can do anything about it, then what's the point of acknowledging all these things anyway?
-
-I mean, what am I supposed to learn from the Ashaninka about all this? It's like they're a different species. How can they be Homo sapiens like me and other Americans, and they live in such a beautiful way, and we don't?
-
-Are the Ashaninka unique, and there's nothing really to learn anyway? Did the Ashaninka just get lucky, and Americans didn't?
-
-It's hard to pull lessons from just one example. It takes two points to draw a line, and a lot more examples to see a pattern. Could there possibly be other nations like the Ashaninka, societies where people treat each other and the Earth in a respectful way, without discrimination, greed, and dishonest leaders? If so, could they help me learn the lessons the Ashaninka have to offer?
+Are the Ashaninka unique, and there's nothing really to learn anyway? Did the Ashaninka just get lucky, and Americans didn't? Could there be other nations like the Ashaninka, societies where people treat each other and the Earth in a respectful way, without discrimination, greed, and dishonest leaders? If so, could they help clarify the lessons that the Ashaninka have to offer?
