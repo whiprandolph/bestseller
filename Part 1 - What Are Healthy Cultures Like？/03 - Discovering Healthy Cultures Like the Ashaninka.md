@@ -1,14 +1,52 @@
-## Chapter 3: Discovering Three Core Spiritual Practices of Healthy Cultures
+## Chapter 3: Discovering Healthy Cultures Like the Ashaninka
 
 <toc/>
-
-* [The First Core Spiritual Practice: Practical, Aware Gratitude](#the-first-core-spiritual-practice-practical-aware-gratitude)
-* [The Second Core Spiritual Practice: Giving My Sacred Gifts](#the-second-core-spiritual-practice-giving-my-sacred-gifts)
-* [The Third Core Spiritual Practice: Living in Reciprocity](#the-third-core-spiritual-practice-living-in-reciprocity)
-* [Solidarity Together](#solidarity-together)
-* [Common Patterns](#common-patterns)
-* [References](#references)
 <toc/>
+
+It's funny -- one of the most amazing aspects of the Ashaninan culture wasn't something I even noticed until after I had left.
+
+They didn't have police, and they didn't have prisons. And yet, they seemed very relaxed, and didn't seem at all concerned about crime.
+
+Long before I even thought about "healthy cultures," I kept reading about other Europeans and Americans visiting them, and these observers all noticed the same thing: French missionaries visited the Huron in North America in the 1600s, and were shocked that thousands of people could get along so well without police and prisons. Weston Price, an American dentist, visited many healthy cultures in the 1930s and wrote, "few impressions can be more vivid than that of the absence of prisons and asylums." Benjamin Franklin observed healthy cultures of eastern North America and noticed the same thing: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
+
+I kept reading these kinds of observations, from people all around the world, and I thought about the police and prisons where I live. The United States spends huge amounts on prison and police, and yet their continues to be so much crime and political corruption. How come some nations live without police and prisons, and also seem to avoid crime? And how come the nations with police and prisons have so much crime?
+
+The more I read, the more I found stories of nations that seem or seemed like the Ashaninka. Superficially they were different -- Eskimos in northern North America might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia -- but I kept noticing deep, beautiful patterns that they all share in common. 
+
+Besides the lack of police and prisons, I also noticed observers remarking on their integrity. Ohiyesa was a Sioux man born in North America in the 1800s, and he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions [the USA]."
+
+American S.M. Barrett described having complete trust in Apache warrior Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise." Stanley Vestal and George Grinnell described how they found the Sioux and Cheyenne people completely trustworthy.
+
+* _Practical, aware gratitude_
+
+* _Sacrd gifts_
+
+* _Reciprocity_
+
+    * whether it was the Mbuti in Africa protecting their land from proachers, or Jenu Kurubu in India protecting their land from government-backed faux-conservationists who were supposedly trying to protect the land but really opening it up for tourism and mining, I kept seeing people in similar kinds of cultures standing with the land. The Lakota in North America, xxx in South America...
+
+* _Bravery_
+
+* _Generosity_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 After returning to the United States, I wanted to connect more deeply with the Earth. I wanted to live like the Ashaninka and build a similar community with my friends.
 
