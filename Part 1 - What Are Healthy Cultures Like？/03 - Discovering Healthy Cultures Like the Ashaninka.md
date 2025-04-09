@@ -3,31 +3,52 @@
 <toc/>
 <toc/>
 
-It's funny -- one of the most amazing aspects of the Ashaninan culture wasn't something I even noticed until after I had left.
+It's funny -- one of the most amazing aspects of the Ashaninkan culture wasn't something I even noticed until after I had left.
 
 They didn't have police, and they didn't have prisons. And yet, they seemed very relaxed, and didn't seem at all concerned about crime.
 
-Long before I even thought about "healthy cultures," I kept reading about other Europeans and Americans visiting them, and these observers all noticed the same thing: French missionaries visited the Huron in North America in the 1600s, and were shocked that thousands of people could get along so well without police and prisons. Weston Price, an American dentist, visited many healthy cultures in the 1930s and wrote, "few impressions can be more vivid than that of the absence of prisons and asylums." Benjamin Franklin observed healthy cultures of eastern North America and noticed the same thing: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
+Long before I even thought about "healthy cultures," I kept reading about other Europeans and Americans visiting them, and these observers all noticed the same thing: French missionaries visited the Huron in North America in the 1600s, and were shocked that thousands of people could get along so well without police and prisons. Weston Price, an American dentist, visited many healthy cultures around the world in the 1930s and wrote, "few impressions can be more vivid than that of the absence of prisons and asylums." Benjamin Franklin observed healthy cultures of eastern North America and noticed the same thing: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
 
-I kept reading these kinds of observations, from people all around the world, and I thought about the police and prisons where I live. The United States spends huge amounts on prison and police, and yet their continues to be so much crime and political corruption. How come some nations live without police and prisons, and also seem to avoid crime? And how come the nations with police and prisons have so much crime?
+I kept reading these kinds of observations, from people all around the world, and I thought about the police and prisons where I live. The United States spends huge amounts of money on prisons and police, and yet there continues to be so much crime and political corruption. How come some nations live without police and prisons, and also seem to avoid crime? And how come the nations with police and prisons have so much crime?
 
-The more I read, the more I found stories of nations that seem or seemed like the Ashaninka. Superficially they were different -- Eskimos in northern North America might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia -- but I kept noticing deep, beautiful patterns that they all share in common. 
+And it's not like they didn't have trouble -- in any society, sometimes people don't get along. But I kept reading about ways they addressed disputes that seemed to really help maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior and helping people get along without humiliating or punishing them too harshly.
 
-Besides the lack of police and prisons, I also noticed observers remarking on their integrity. Ohiyesa was a Sioux man born in North America in the 1800s, and he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions [the USA]."
+Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.
 
-American S.M. Barrett described having complete trust in Apache warrior Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise." Stanley Vestal and George Grinnell described how they found the Sioux and Cheyenne people completely trustworthy.
+The Ju/’hoan San (these punctuation symbols refer to sounds that don’t exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."
 
-* _Practical, aware gratitude_
+In these kinds of societies, I often notice that misbehaving people get counseled at first, and the response escalates if the misbehavior continues.
 
-* _Sacrd gifts_
+Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. Potawatomi woman Robin Kimmerer explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..." 
 
-* _Reciprocity_
+And while I found a few stories of healthy cultures banishing or killing someone for severe misbehavior, like hoading wealth or killing someone in anger, this seemed very rare.
 
-    * whether it was the Mbuti in Africa protecting their land from proachers, or Jenu Kurubu in India protecting their land from government-backed faux-conservationists who were supposedly trying to protect the land but really opening it up for tourism and mining, I kept seeing people in similar kinds of cultures standing with the land. The Lakota in North America, xxx in South America...
+All these cultures seem so different, each with their own ways of helping people get along, resolving disputes, and addressing anybody's selfish or hurtful behavior. But one way or another, each of these cultures has or had ways of maintaining a baseline of mutual respect among each other. That is, regardless how they treat outsiders, they seem to be able to maintain solidarity and respectful relationships between everyone inside the culture as a normal way of life.
+
+And so many stories show how beautiful life is when a culture is able to maintain this solidarity and mutual respect. Nancy Basket, a woman of Cherokee descent, described how, when traditional Cherokee towns got larger than 600-700 people, they became too big because hunting and foraging became difficult. The town needed to split into two. After agreeing on the new town site, often about seven miles away, everyone would go build the new buildings and homes regardless whether they were planning to move or not. They even made sure all the gardens were planted.
+
+People would go back and forth between the new and old sites as they prepared the new town. They did not create winners and losers, where the winners stayed and the losers had to go off and fend for themselves and build a house alone. Instead, everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
+
+### More Beautiful Patterns
+
+The more I read, the more I found stories of nations that currently or in the recent past seem like the Ashaninka in other ways too. Superficially they were different -- Eskimos in northern North America might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia -- but I kept noticing deep, beautiful patterns that they all share in common. 
+
+Besides the lack of police and prisons, I also noticed observers remarking on their integrity. Ohiyesa was a Sioux man born in North America in the 1800s, and he visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."
+
+American S.M. Barrett described having complete trust in Apache leader Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise." Stanley Vestal and George Grinnell described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.
+
+### Deep Solidarity and Comfort
+
+* Nootka from chap 3
+
+* Cherokee chap 2
+
+
 
 * _Bravery_
 
 * _Generosity_
+
 
 
 
@@ -165,50 +186,8 @@ I'd only ever lived in capitalist countries, but I'd studied communism and socia
 
 <div style="break-after:page"></div>
 
-### References
 
-[xxx-cherokee pop and extent]-aaa (Malinowski et al., 1999, 243)
+### Scratch
 
-[xxx-australia example]-aaa (Kenyon, 2020)
+This gives people a chance to course-correct without the extreme stress, danger, isolation, and humiliation that comes from people forced into a prison.
 
-[xxx-cultural survival sakhalin island]-aaa (Russia: Sakhalin Island Indigenous Peoples Protest Oil Development, 2005)
-
-[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
-
-[xxx-guardian mbuti]-aaa (Gauthier & Pravettoni, 2016)
-
-[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
-
-[xxx-original instructions|we are the environment]-aaa (Nelson, 2008, "Introduction")
-
-[xxx-original instructions|first nations survival]-aaa (Nelson, 2008, "First Nations Survival and the Future of the Earth")
-
-[xxx-counterpunch tipnis]-aaa (Solon, 2017)
-
-[xxx-kamana 2 nat|lose your mind]-aaa (Young, n.d.-b, 84)
-
-[xxx-kamana 3 nat|burning desire heart]-aaa (Young, n.d.-a, 14)
-
-[xxx-the best guardians of the forest]-aaa (Jenu Kuruba, n.d.)
-
-[xxx-native land map haud]-aaa (Ho-de-No-Sau-Nee-Ga (Haudenosaunee), n.d.)
-
-[xxx-the vision|p80]-aaa (Brown Jr, 1988, 80)
-
-[xxx-conversation dunbar number]-aaa ("Dunbar's Number: Why the Theory That Humans Can Only Maintain 150 Friendships Has Withstood 30 Years of Scrutiny," 2021)
-
-[xxx-huron farmers of the north|p26]-aaa (Trigger, 1969, 26)
-
-[xxx-huron farmers of the north|p71]-aaa (Trigger, 1969, 71)
-
-[xxx-braiding sweetgrass|skywoman falling]-aaa (Kimmerer, 2013, "Skywoman Falling")
-
-[xxx-braiding sweetgrass|allegiance to gratitude]-aaa (Kimmerer, 2013, "Allegiance to Gratitude")
-
-[xxx-resilience sami skerk]-aaa (Skerk, 2022)
-
-[xxx-cnapa concept note]-aaa (Debunking the Idea of Protected Areas, 2023)
-
-[xxx-cultural survival standing rock]-aaa (Weston, 2017)
-
-[xxx-encyclopedia haudenosaunee|pvii]-aaa (Johansen & Mann, 2000, vii)

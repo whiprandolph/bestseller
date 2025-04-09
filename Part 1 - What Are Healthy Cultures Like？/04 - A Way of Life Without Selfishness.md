@@ -1,3 +1,26 @@
+
+### Living in Reciprocity with Humans and Nonhumans
+
+* Most secure feeling in the world
+
+* _Practical, aware gratitude_
+
+* _Sacrd gifts_
+
+* _Reciprocity_
+
+    * whether it was the Mbuti in Africa protecting their land from proachers, or Jenu Kurubu in India protecting their land from government-backed faux-conservationists who were supposedly trying to protect the land but really opening it up for tourism and mining, I kept seeing people in similar kinds of cultures standing with the land. The Lakota in North America, xxx in South America...
+
+
+### Decision-making based on reciprocity
+
+Okanagan Jeannette Armstrong grew up in British Columbia, Canada. She described the en’owkinwiwx collective decision-making process which explicitly includes several components: minority views, the land, human relationships, and creativity. She said that “the minority voice is the most important voice to consider… [it] expresses the things that are going wrong… if you ignore this minority voice it will create conflict in your community and this conflict is going to create a breakdown… This conflict will endanger… how we think of ourselves as a cooperative unit…, a unit that knows how to work together… and loves one another.”21
+
+Armstrong described how she was brought up as a land speaker, someone trained to speak on behalf of the land in their councils. They also have speakers for children, mothers, elders, water, and others. Armstrong described how she was “trained by my Elders to think about the land and to speak about the land.” She does not represent people or consider herself an expert. Instead, “[I] must continuously be responsible to my community.” Every time the community considers a decision, no matter how small, “my responsibility is to stand up and ask, How will it impact the land… our food… our water? How is it going to impact my children, my grandchildren, my great-grandchildren, what’s the land going to look like in their time?”
+
+When a community includes the perspectives of human relationships and the land in their decision-making, “community changes… the material things don’t have a lot of meaning… material wealth and the securing of it or being fearful and being frightened about not having ‘things’ to sustain you, disappears… The realization that people and community are there to sustain you creates the most secure feeling in the world… When that happens, you’re imbued with the hope that others surrounding you in your community can provide.”
+
+
 ## Chapter 9: Gift Economies
 
 When I first read Mohawk writers describe their traditional way of life as "a kind of utopia," I was skeptical.[xxx-a basic call to consciousness|p104] After all, I had been told my whole life that utopias don't exist. The Encyclopedia Britannica even says, "utopian and utopianism are words used to denote visionary reform that tends to be impossibly idealistic."[xxx-britannica utopia]
