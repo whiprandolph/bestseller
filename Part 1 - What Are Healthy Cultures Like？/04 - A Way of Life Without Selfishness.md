@@ -1,20 +1,24 @@
 
 ### Living in Reciprocity with Humans and Nonhumans
 
+* gift economy based on sharing
+
+* indian givers
+
+* Private Property Rights vs Sacred Responsibilities
+
+* Three core spiritual practices
+
 * Most secure feeling in the world
 
-* _Practical, aware gratitude_
+* nature connection: living as a gift to the land
 
-* _Sacrd gifts_
-
-* _Reciprocity_
-
-    * whether it was the Mbuti in Africa protecting their land from proachers, or Jenu Kurubu in India protecting their land from government-backed faux-conservationists who were supposedly trying to protect the land but really opening it up for tourism and mining, I kept seeing people in similar kinds of cultures standing with the land. The Lakota in North America, xxx in South America...
+* Why aren't all human societies like this? Rulers who impose law/decide on enforcement.
 
 
 ### Decision-making based on reciprocity
 
-Okanagan Jeannette Armstrong grew up in British Columbia, Canada. She described the en’owkinwiwx collective decision-making process which explicitly includes several components: minority views, the land, human relationships, and creativity. She said that “the minority voice is the most important voice to consider… [it] expresses the things that are going wrong… if you ignore this minority voice it will create conflict in your community and this conflict is going to create a breakdown… This conflict will endanger… how we think of ourselves as a cooperative unit…, a unit that knows how to work together… and loves one another.”21
+Okanagan Jeannette Armstrong grew up in British Columbia, Canada. She described the en’owkinwiwx collective decision-making process which explicitly includes several components: minority views, the land, human relationships, and creativity. She said that “the minority voice is the most important voice to consider… [it] expresses the things that are going wrong… if you ignore this minority voice it will create conflict in your community and this conflict is going to create a breakdown… This conflict will endanger… how we think of ourselves as a cooperative unit…, a unit that knows how to work together… and loves one another.”
 
 Armstrong described how she was brought up as a land speaker, someone trained to speak on behalf of the land in their councils. They also have speakers for children, mothers, elders, water, and others. Armstrong described how she was “trained by my Elders to think about the land and to speak about the land.” She does not represent people or consider herself an expert. Instead, “[I] must continuously be responsible to my community.” Every time the community considers a decision, no matter how small, “my responsibility is to stand up and ask, How will it impact the land… our food… our water? How is it going to impact my children, my grandchildren, my great-grandchildren, what’s the land going to look like in their time?”
 
