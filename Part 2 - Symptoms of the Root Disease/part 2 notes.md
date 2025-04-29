@@ -1,0 +1,45 @@
+
+## Does the Economy Reward Selfishness or Generosity?
+
+* cascading selfishness, generosity
+
+* debt
+
+* gift economy vs market/command economy
+
+Present-day example?
+More you give, the less you have, the less security you have - health issues can’t be paid, losing a job risks losing the house (mortgage)
+
+## Sabotaging vs Encouraging Solidarity
+
+sabotaging efforts at cultural healing (Black Lives Matter, Russian secretly police-sponsored labor unions, etc)
+
+Vs solidarity: Nootka clown story
+
+## Chapter 9: Selfish Violence vs Violence-In-Service (rename)
+* Rulers spreading hate towards peace activists
+* Present-day example: calling peace activists “putin lovers” 
+* Wars based on lies / false flag attacks (ie 9/11, Nazi attack on Reichstag, etc)
+* Vs sacred circles: Apache collective self defense, CONAIE, black activists
+* Zapatistas	
+
+=== drafted ===
+
+## Heart-Closing or Heart-Opening Cultural Narratives
+
+* from heart-closing cultural narratives chapter
+    * disconnection from god, inherent selfishness, inherent badness/conditional goodness
+    * also from sexual sharing chapter - shaming sexuality, shaming women, conditioning men against pleasure/women
+
+* vs 3 core spiritual practices
+
+=== cut / spread around ===
+
+## Chapter: Why Don't More People Know About Healthy Cultures?
+* conquered people trained not to know what freedom is like - where everyone takes deep responsibility for ensuring a culture of respectful relations between the people, and between the people and the Earth
+
+* religious hate campaigns towards pagans (odoc chap 22)
+
+* normalize abuse / adopt authoritarian ideologies (chap 21)
+
+* vs... what from healthy cultures?

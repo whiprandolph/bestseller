@@ -1,5 +1,6 @@
 import os
 import toc
+import time
 import shutil
 import markdown2
 import subprocess
@@ -13,7 +14,7 @@ md_publish_dir = r"C:\Users\whip\bestseller-md-publish"
 PUBLISH = True
 
 
-def get_chapter_path_list():
+def get_file_list():
     path_list = []
     for part_name, chapter_names in chapters.items():
         part_path = os.path.join(md_dir, part_name)
@@ -24,6 +25,9 @@ def get_chapter_path_list():
                 print("Chapter path does not exist: %s" % chapter_path)
                 breakpoint()
             path_list.append(chapter_path)
+        images_path = os.path.join(part_path, 'images')
+        if os.path.exists(images_path):
+            path_list.extend([os.path.join(images_path, x) for x in os.listdir(images_path)])
     return path_list
 
 
@@ -39,7 +43,7 @@ def get_md(md_path):
     return md_contents
 
 
-def transform(chapter_list):
+def transform(file_list):
     mdConverter = markdown2.Markdown()
     if os.path.exists(html_dir):
         shutil.rmtree(html_dir)
@@ -50,11 +54,21 @@ def transform(chapter_list):
     if os.path.exists(md_publish_dir):
         shutil.rmtree(md_publish_dir)
     os.mkdir(md_publish_dir)
-    for md_path in chapter_list:
-        if not os.path.exists(md_path):
-            print("not found: %s" % md_path)
+    for file_path in file_list:
+        if not os.path.exists(file_path):
+            print("not found: %s" % file_path)
             breakpoint()
             a = 4
+        
+        if 'images' in file_path:
+            html_path = file_path.replace(md_dir, html_dir)
+            if not os.path.exists(os.path.dirname(html_path)):
+                os.mkdir(os.path.dirname(html_path))
+            shutil.copy(file_path, html_path)
+            continue
+        else:
+            md_path = file_path
+        
         html_path = md_path.replace(md_dir, html_dir)
         html_path = html_path.replace(".md", ".html")
         pdf_path = md_path.replace(md_dir, pdf_dir)
@@ -72,10 +86,13 @@ def transform(chapter_list):
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
 def main():
-    chapter_path_list = get_chapter_path_list()
-    for chapter_path in chapter_path_list:
-        toc.insert_and_return_toc(chapter_path)
-    transform(chapter_path_list)
+    file_list = get_file_list()
+    for file_path in file_list:
+        if '.md' in file_path:
+            toc.insert_and_return_toc(file_path)
+    transform(file_list)
 
 if __name__ == '__main__':
+    start_time = time.time()    
     main()
+    print("%ss" % round(time.time()-start_time, 2))
