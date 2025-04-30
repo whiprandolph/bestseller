@@ -32,3 +32,9 @@ What is purpose of the book?
 * Healthy cultures exist - seek wisdom from people who have it
 
 * 
+
+
+=======
+Also include
+* stability of economy, stability of leaders
+* human cultures are organisms

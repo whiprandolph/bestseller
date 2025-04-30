@@ -9,7 +9,9 @@ chapters = {
   (1, 1, "The Root Cultural Disease and Life Without It.md"),
   (1, 1, "Heart-Closing Vs Heart-Opening.md"),
   (1, 1, "Where Do Racism and Hatred Come From.md"),
+  (1, 1, "Gift Economy Vs Profit Economy.md"),
+  (1, 1, "Encouraging Solidarity Vs Discouraging Solidarity.md"),
+  (1, 1, "Selfish Violence vs Violence-In-Service.md"),
+  (1, 1, "Endless Predation When the Root Disease Takes Hold.md"),
   ],
 }
-
-

@@ -6,7 +6,7 @@ I moved all over the United States and visited countries in South America and Eu
 
 I often read stories of politicians and wealthy people breaking the law, and when their illegal behavior hurt too many people too much, protests would break out. Maybe the government bailed out the rich and screwed over the poor after a financial collapse, or a factory owner was screwing over workers, or a company had polluted so much land or water that many people's health and jobs were threatened.
 
-I saw these same kind of problems all over the United States, Spain, Russia, China, Brazil, and many similar nations around the worl. And when people came out and protested, demanding justice and to be treated respectfully, what do these people see?
+I saw these same kind of problems all over the United States, Spain, Russia, China, Brazil, and many similar nations around the world. And when people came out and protested, demanding justice and to be treated respectfully by their fellow citizens, what do these people see?
 
 It turns out, in all these unhealthy cultures, people trying to stand up for themselves see a similar response.
 
@@ -32,7 +32,7 @@ And in the capitalist United States, they see this:
 
 I was always taught growing up that the police's job is to keep people safe and enforce the law. But every time I saw the riot police come out, it seemed like they were protecting the rich and powerful from their poorer neighbors -- people angry about their low wages, pollution, corruption, and all the usual troubles in unhealthy cultures. It's like the police's actual job was to scare people away from standing up for themselves, and punish people for standing in solidarity to make a just society.
 
-Is it any wonder there’s corruption when people aren’t allowed to uphold their own laws and hold their leaders accountable?
+Is it any wonder there's corruption when people aren't allowed to uphold their own laws and hold their leaders accountable?
 
 All this seemed normal and natural until I found healthy cultures where people don't live this way. I believe every single human feels a deep urge to stand up for what's right in their culture, and unhealthy cultures essentially train people to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right. In healthy cultures, I believe that standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone is expected to uphold their laws to ensure they can maintain a respectful way of life.
 
@@ -64,4 +64,14 @@ This clown was very brave. I feel impressed that she invited her neighbors to ha
 
 This story showed me what it's like when everyone in a culture upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone upheld them.
 
-[...outro...]
+(...outro...)
+
+### References
+
+[xxx-american riot]
+
+[xxx-chinese riot]
+
+[xxx-daughters of copper woman|109-112]
+
+[xxx-venezuelan riot]

@@ -12,9 +12,12 @@ More you give, the less you have, the less security you have - health issues can
 
 ## Sabotaging vs Encouraging Solidarity
 
-sabotaging efforts at cultural healing (Black Lives Matter, Russian secretly police-sponsored labor unions, etc)
+* sabotaging efforts at cultural healing (Black Lives Matter, Russian secretly police-sponsored labor unions, etc)
 
-Vs solidarity: Nootka clown story
+* tricking people into not knowing healthy cultures exist - savages, etc.
+
+
+Vs solidarity: Cherokee town story
 
 ## Chapter 9: Selfish Violence vs Violence-In-Service (rename)
 * Rulers spreading hate towards peace activists
@@ -23,15 +26,6 @@ Vs solidarity: Nootka clown story
 * Vs sacred circles: Apache collective self defense, CONAIE, black activists
 * Zapatistas	
 
-=== drafted ===
-
-## Heart-Closing or Heart-Opening Cultural Narratives
-
-* from heart-closing cultural narratives chapter
-    * disconnection from god, inherent selfishness, inherent badness/conditional goodness
-    * also from sexual sharing chapter - shaming sexuality, shaming women, conditioning men against pleasure/women
-
-* vs 3 core spiritual practices
 
 === cut / spread around ===
 
