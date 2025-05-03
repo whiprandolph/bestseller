@@ -4,7 +4,6 @@ But then I got to visit a nation where people live without these troubles -- wit
 
 I was blessed to live briefly in such a place. And no, it’s not some cult or small commune, but a nation of thousands of people living in dozens of villages. My short time there in 2015 was utterly magical and changed my life. An Englishman named Mike invited me to visit this nation with him, and he told me, "you will spend the rest of your life figuring out lessons to learn from these people."
 
-
 ### Meeting the Ashaninka
 
 Before we entered their territory, Mike had told me how extremely generous they were and that I should bring many gifts to share, but even so I was constantly surprised at how giving they were. Whenever my host and I traveled around the region and felt like a rest, we would stop at the next house and the hostess would bring us their special fermented pink drink called peorentsi, as well as some simple and filling food. They didn't do this because I was special -- it was just normal for people to stop off at others' homes as they traveled, and to be received and fed without any expectation of trading or paying.

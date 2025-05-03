@@ -8,6 +8,11 @@ Growing up in the United States, I heard a lot of people say that peace is good,
 
 ### Violence-in-Service
 
+Stories of collective self-defense show how people can use violence responsibly, in service of the community instead of selfishly. 
+
+
+
+
 
 * Vs sacred circles: Apache collective self defense, CONAIE, black activists
-* Zapatistas	
+* Zapatistas

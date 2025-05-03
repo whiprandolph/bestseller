@@ -4,7 +4,7 @@ Sioux man Sitting Bull said, "The life of white men is slavery. They are prisone
 
 Well, just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in any unhealthy culture have no influence over how the laws are enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens have little influence over what happens around them. And when huge numbers of people resign themselves to tolerating predatory behavior instead of standing for what's right, abuse and exploitation become extremely common.
 
-Child sexual abuse runs rampant in these settings. Researchers in Germany, Ireland, the USA and Ireland have investigated Catholic priests for child abuse and found many thousands of victims in each country. One investigation just in France found over 216,000 child sexual assault victims between 1950-2020. Universally, investigators found higher Catholic Church authorities covering up or stalling investigations into the abusive priests.
+Child sexual abuse runs rampant in these settings. Researchers in Germany, Ireland, the USA and Ireland have investigated Catholic priests for child abuse and found many thousands of victims just from Catholic priests in each country. One investigation just in France found over 216,000 child sexual assault victims between 1950-2020. Universally, investigators found higher Catholic Church authorities covering up or stalling investigations into the abusive priests.
 
 Child rape can become quite normalized. One boy was raped by monks in Buddhist Tibet and complained to other monks. He said, "they shrugged and said simply that that was just the way things were."
 

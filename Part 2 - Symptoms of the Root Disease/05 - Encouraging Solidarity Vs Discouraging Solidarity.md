@@ -66,17 +66,7 @@ Astroturf social movements are simply a common pattern in unhealthy cultures whe
 
 What is it like when solidarity is not blocked by selfish and powerful people, but just a normal way of life? 
 
-Nancy Basket is a woman of Cherokee descent. She described how, when traditional Cherokee towns got larger than 600-700 people, they became too big because hunting and foraging became difficult. The town needed to split into two. After agreeing on the new town site, often about seven miles away, everyone would go build the new buildings and homes regardless whether they were planning to move or not. They even made sure all the gardens were planted.[xxx-basket interview]
-
-People would go back and forth between the new and old sites as they prepared the new town. They did not create winners and losers, where the winners stayed and the losers had to go off and fend for themselves. Instead, everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
-
-Okanagan Jeannette Armstrong grew up in British Columbia, Canada. She described the en'owkinwiwx collective decision-making process which explicitly includes several components: minority views, the land, human relationships, and creativity. She said that "the minority voice is the most important voice to consider... [it] expresses the things that are going wrong... if you ignore this minority voice it will create conflict in your community and this conflict is going to create a breakdown... This conflict will endanger... how we think of ourselves as a cooperative unit..., a unit that knows how to work together... and loves one another."[xxx-original instructions|armstrong]
-
-Armstrong described how she was brought up as a _land speaker_, someone trained to speak on behalf of the land in Okanagan councils. They also have speakers for children, mothers, elders, water, and others. Armstrong described how she was "trained by my Elders to think about the land and to speak about the land." She does not represent people or consider herself an expert. Instead, "[I] must continuously be responsible to my community." Every time the community considers a decision, no matter how small, "my responsibility is to stand up and ask, How will it impact the land... our food... our water? How is it going to impact my children, my grandchildren, my great-grandchildren, what's the land going to look like in their time?"
-
-What is it like when solidarity with other people and the Earth is simply a normal way of life? Armstrong said that when a community includes the perspectives of human relationships and the land in their decision-making, "community changes... the material things don't have a lot of meaning... material wealth and the securing of it or being fearful and being frightened about not having 'things' to sustain you, disappears... The realization that people and community are there to sustain you creates the most secure feeling in the world... When that happens, you're imbued with the hope that others surrounding you in your community can provide."
-
-These stories from the Cherokee and Okanaga show me that humans are capable of having whole nations without selfishness, and how beautiful such a life can be. Wars, famines, droughts, and other catastrophes might still happen, but at least people in such cultures can trust their neighbors to act in service of each other instead of selfishly focus on themselves. I believe to building this solidarity is part of the path to building new healthy cultures, where  _everybody stands for a culture of mutual respect, and nobody rules over anybody else_.
+[xxx-NOTE: consider replacing with Haudenosaunee piece]
 
 ### References
 
