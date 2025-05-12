@@ -1,14 +1,10 @@
-In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
+A human culture is a living organism. Just like a tree or lion or ant colony, human cultures can become injured. Any disrespect between two people is a type of cultural injury and not just a personal concern. Nancy Basket, a woman of Cherokee descent, says, "If there is trouble in a family, the whole nation suffers." Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."
 
-Sioux man Sitting Bull said, "Love of possessions is a disease," and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant." Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness is allowed to take hold in their society.
+Like all living organisms, human cultures that are injured try to heal themselves. Healthy human cultures heal their wounds of disrespectful behavior by deeply addressing the trouble and bringing back a baseline of mutual respect. This is the essence of cultural healing.
 
-When one or a few people act selfishly, the culture can respond and help them feel comfortable sharing again, or evict them if they insist on being selfish. But what happens when a ruling class exists, where a few people in a nation force laws on the rest and protect their wealth at all costs? Profit economies arise, creating widespread poverty and unnecessary suffering.
+Unhealthy cultures are essentially unable to heal. Returning to that baseline of mutual respect that humans find so fundamentally satisfying would radically threaten the status quo. Rulers and other authorities in positions of power would lose their ability to dominate and exploit everyone else. Thus unhealthy cultural patterns of deep disrespect continue.
 
-And what is the greatest threat to the wealth of the rich and powerful? The greatest threat to rich people's wealth, of course, is solidarity among the poor. Factory workers could just as easily run a factory without the owner taking all the profit. Landless peasants could easily have enough space for a home simply by taking unused land from the rich. Hungry people could easily eat well from excess food purchased by the rich.
-
-What keeps all these things from happening? If oppressed people could recognize their situation clearly and stand in solidarity with each other, the rich could not stop them from redistributing enough wealth so that everyone would have enough, and seeking justice for all the abuse that always comes with exploitation of the poor.
-
-The rich and powerful thus consistently recognize solidarity and generosity as a threat to their wealth and ability to continue exploiting the workers, and in every unhealthy culture they go to great lengths to sabotage solidarity.
+What are common ways that rulers and lower authorities block cultural healing, preventing people from building solidarity and collectively standing up to abusive authorities? And how could people intentionally generate a culture to maximize solidarity and invite the best behavior out of everybody?
 
 ### Sabotaging Solidarity in Unhealthy Cultures
 
@@ -66,7 +62,35 @@ Astroturf social movements are simply a common pattern in unhealthy cultures whe
 
 What is it like when solidarity is not blocked by selfish and powerful people, but just a normal way of life? 
 
-[xxx-NOTE: consider replacing with Haudenosaunee piece]
+The Haudenosaunee offer an example. Approximately 1,000 years ago, several nations were at war and suffering from seemingly endless violence. Finally they came together and decided to create a Confederacy of nations that would ensure a lasting peace. This became known as the Haudenosaunee Confederacy, which has survived as a healthy culture for over 900 years now.
+
+In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that has allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
+
+It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe six elements in particular have many lessons to teach. 
+
+1. _Solidarity_: Solidarity was a founding principle, as the writers note: "In terms of the internal affairs of the [Haudenosaunee], the first and most important principle was that under the law the people of the nations were one people." As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.
+
+Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society full of individuals who accepted responsibility for upholding their culture's rules, knowing those rules worked for everybody. The writers said that "universal justice is the product of a spiritually strong society, and many of the rules... are designed to create a strong society rather than a strong government."
+
+2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and made arrangements to avoid them. They included agreements to share hunting territories, outlawing theft and hoarding wealth, creating a Grand Council that would help resolve disputes among other things, and ensuring anyone within the Confederacy could occupy their land peacefully.
+
+Instead of seeking peace at all costs, the founders sought to create a just society. The Confederacy's founders believed "if absolute justice was established in the world, peace would naturally follow."
+
+3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account as a normal way of life. They embraced strict laws around conservation, hunting the minimal amount needed, and managing their population size to avoid degrading the land. 
+
+As a result, the Haudenosaunee writers said they lived with "almost unimaginable abundance and variety of nuts, berries, roots, and herbs. In addition to these, the rivers teemed with fish and the forest and its meadows abounded with game..."
+
+4. _Rejecting Private Property_: The traditional Haudenosaunee rejected private property and emphasize sharing. The Haudenosaunee writers noted, "Property is an idea by which people can be excluded from having access to lands or other means of producing a livelihood. That idea would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People. That idea (property) would produce slavery."
+
+5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. Adversaries could call for a cessation of hostilities at any time. The Haudenosunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
+
+6. _Leaders Serve the People_: They specifically avoided factions, and no government imposes law on anybody: "The national Councils of Chiefs do not govern the people; instead they act as representatives of their clans in a process that coordinates the wishes of the people."
+
+The traditional Haudenosaunee's political leaders are also their spiritual leaders. These leaders do not just say pleasant words. The Haudenosaunee writers said that their leaders conduct many ceremonies that "require the distribution of great wealth. As spiritual and political leaders, they provide a kind of economic conduit. To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."
+
+They recognized that a culture that accepted private property ownership would eventually have leaders that exclude people from accessing others' property. These leaders would no longer perform their duties of serving everyone and helping to redistribute goods. This shows how a gift economy, servant-leadership, and a culture of respect all fit together.
+
+What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
 
 ### References
 

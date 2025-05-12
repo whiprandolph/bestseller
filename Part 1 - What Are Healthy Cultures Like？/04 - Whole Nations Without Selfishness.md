@@ -307,3 +307,5 @@ All these stories are beautiful, and they made me wonder: what else might be dif
 [xxx-braiding sweetgrass|windigo footprints]
 
 [xxx-huron farmers of the north|p87]
+
+[xxx-NOTE: mbuti + jenu kuruba pieces may be duplicated from chap 3]

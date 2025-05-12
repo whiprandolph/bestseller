@@ -18,14 +18,6 @@ Other kinds of predation are common, with different kinds more or less common in
 
 Reports from France, USSR, USA and Great Britain all indicate that the governments knowingly exposed their own soldiers and sailors to nuclear weapon radiation without their consent. Decades after scientists had established the harmful effects of radiation, the Soviet Union, United States, France, and Great Britain all knowingly exposed their soldiers to nuclear radiation to study the effects of fighting around atomic bombs. Reports from all these countries show that soldiers were expected to remain silent, even as they were left to face terrible injuries, and even as their children were born with deformities that were clearly traceable to radiation poisoning. Soldiers widely understood the risks as well. One French soldier said, "we knew these things," but authorities demanded that soldiers "obey and shut up."
 
-It is even common for top authorities to attack their own people, blame it on someone else, and then use that as a pretext for launching a war based on lies. The Soviet military attacked their own town in secret, blamed the Finnish, and used that as an excuse to start the Winter War of 1939. The Nazi Germans burned the parliament building but blamed it on the communists as an excuse to outlaw the Communist party in Germany.
-
-In 1999, the Russian federal police secretly installed bombs in Russian apartment buildings. Some people became suspicious when a parliament member accidentally described one of the bombings before it happened. They became more suspicious when local police actually caught some of the perpetrators planting a live bomb -- and they turned out to be Russian federal police agents! No one was punished for this.
-
-Likewise, in the United States the government blamed Osama bin Laden for the 9/11 attacks in 2001, and used these as an excuse to invade Afghanistan and Iraq. However, in recent years the US federal police have revealed documents indicating that Saudi nationals on the payroll of the Saudi embassy supported the 9/11 attacks, including helping the 9/11 attackers with lodging, financing, translation, and travel. The Saudi ambassador was the billionaire prince Bandar, a good friend of the US president George W Bush. Somehow, the Saudis and Bush family escaped any investigation or punishment for their support of the 9/11 attacks.
-
-Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any other unhealthy culture, the problem is the same: people have allowed selfishness to take hold in their culture, and most of them resign themselves to tolerating abuse and not standing for what's right.
-
 A staggering level of abusive and exploitative behavior always occurs when people allow themselves to be ruled, and all these things will continue till people can generate healthy cultures again, where everyone stands for what's right, and nobody rules over anybody else.
 
 ### Healthy Cultures Don't Have Child Sexual Abuse
@@ -49,3 +41,15 @@ Healthy cultures see any disrespect as a cultural wound that affects everybody, 
 The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their culture's survival to protect themselves from predators.
 
 This taught me the importance of maintaining that internal baseline of mutual respect. Once a culture allows disrespect and tolerates predators, there is no end to the trouble.
+
+### Non-Predatory Leadership is Unstable in Unhealthy Cultures
+
+Of course, not all authority figures engage in predatory behavior or serve the rich. Some leaders, such as Jacobo Árbenz in Guatemala or Salvador Allende in Chile implemented policies that benefited the poor at the expense of the rich. And both were taken out in coups by high-ranking military and business officials.
+
+Why is it so hard in unhealthy cultures to get leaders elected who actually seek to serve all the people, including the poor? And why are they so quickly replaced when they do get to power?
+
+Healthy cultures and unhealthy cultures are both stable. In healthy cultures, when everyone stands for what's right and generosity is the norm, the people wouldn't tolerate a selfish leader, and he or she is quickly replaced.
+
+When people learn not to stand for what's right in unhealthy cultures, and the economy rewards selfishness so that there are a few rich and many poor, the rich wouldn't tolerate a generous leader who might threaten their wealth and privilege, and they'd be sacked.
+
+This shows clearly the path to living in a society with true servant-leaders: create a culture where everyone stands for what's right, and no one rules over anyone else.

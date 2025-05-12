@@ -14,4 +14,9 @@ chapters = {
   (1, 1, "Selfish Violence vs Violence-In-Service.md"),
   (1, 1, "Endless Predation When the Root Disease Takes Hold.md"),
   ],
+  "Part 3 - Ingredients of the Deepest Revolution": [
+  (1, 1, "Integrity and Bravery.md"),
+  (1, 1, "Sacred Responsibilities.md"),
+  (1, 1, "The Deepest Revolution.md"),
+  ],
 }
