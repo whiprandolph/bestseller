@@ -56,3 +56,23 @@ more stories of gift economies in unhealthy cultures - think of cardboard boxes 
 * Do my neighbors expect me to stand in solidarity with people when they're threatened? Or am I punished for this, because it is supposedly the police's job?
 * Is selfishness or greed common, or rare?
 * Do I trust leaders to put the needs of the group ahead of their own needs, no matter what? Do I trust the leaders to consistently tell the truth and keep their   promises?
+
+
+##  notes 5.15.25
+
+* put economics as second part 2 chapter
+
+
+part 2
+1. same as current
+2. economy
+3. combine heart-opening/closing + racism/hatred
+4. combine solidarity / violence-in-service/selfishness
+
+* mention assymetric prison exchanges - early and late in book?
+
+
+Start all part 2 chapters with healthy cultures?
+Endless predation - lightbulb moment leading into part 3
+  * our politics aren't working. Right/left, democracy-monarchy, capitalism-communism - these arguments aren't working. 
+  * trained to hold back/shut down self - endless predation is what happens, what we can easily predict will happen

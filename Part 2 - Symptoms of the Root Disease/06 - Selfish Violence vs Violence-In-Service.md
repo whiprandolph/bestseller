@@ -1,3 +1,5 @@
+## Selfish Violence Vs Violence-In-Service
+
 Growing up in the United States, I heard a lot of people say that peace is good, and violence is bad. And sure, peace may be preferable, but when another group attacks, and escape is impossible, a group of people may face a choice: use violence in self-defense, or submit to the attackers.
 
 Even if I desire peace, I don't see violence as inherently good or bad -- it's a question of how a person or group uses violence. Do they use violence selfishly, hurting others for their own personal benefit and lying about it? Or do people use violence in service of the group, in a way that benefits the people and nonhumans they love?

@@ -1,5 +1,11 @@
 ## The Deepest Revolution
 
+<toc/>
+
+* [Instead of Fighting Symptoms Separately, What if Activists Addressed the Root Disease Together?](#instead-of-fighting-symptoms-separately-what-if-activists-addressed-the-root-disease-together?)
+* [The Deepest Revolution](#the-deepest-revolution)
+<toc/>
+
 Dorothy Parker once described, "The only dependable law of life -- everything is always worse than you thought it was going to be." I agree, except this isn't a law of life -- it's a law of unhealthy cultures. 
 
 Selfishness and corruption are the same thing. So of course, in societies that systematically reward selfishness, there will be pervasive corruption, and no matter how much anybody investigates, there will always be more to find. Unhealthy cultures are rotten to the core, because all of them involve a few rulers exploiting many others and training them to tolerate it.
@@ -34,7 +40,7 @@ This deep unhealthy-culture training explains why, when a ruling class has sudde
 
 These qualities of personal strength cannot be understated. When Haudenosaunee writers described their traditional way of life, they wrote, "universal justice is the product of a spiritually strong society, and many of [our] rules... are designed to create a strong society rather than a strong government." When everyone stands for what's right, the government responds to the people. When too few stand for what's right, unhealthy cultures result.
 
-I believe all humans want to be in a culture where they can deeply trust their neighbors. What would it take for people to earn that depth of trust? For there to be deep trust, there also needs to be deep integrity, and the bravery to do what's right even when it's scary or hard. Deep trust requires widespread generosity instead of selfishness. Deep trust requires neighbors who seek the truth by cultivating awareness rather than making hurtful assumptions or clinging to rigid dogmas. I believe the path to building a healthy culture involves deep training in all these healthy-culture qualities. 
+I believe all humans want to be in a culture where they can deeply trust their neighbors. What would it take for people to earn that depth of trust? For there to be deep trust, there also needs to be deep integrity, and the bravery to do what's right even when it's scary or hard. Deep trust requires widespread generosity instead of selfishness. Deep trust requires neighbors who seek the truth by cultivating awareness rather than making hurtful assumptions or clinging to rigid dogmas. I believe the path to building healthy cultures involves deep training in all these healthy-culture qualities. 
 
 As Okanagan woman Jeannette Armstrong said, "The realization that people and community are there to sustain you creates the most secure feeling in the world..." Ultimately, I believe this deep trust comes when everyone in a group commits to acting in service of each other, and in service of the Earth.
 
@@ -60,11 +66,11 @@ The same is true for almost any cause:
 
 * No _anti-racism activists_ have ever fully ended racism in their unhealthy culture.
 
-Activists may occasionally see some positive changes after years or decades of effort, but what would it take to have big, enduring victories and deep cultural change? The racism, sexism, disconnection from nature, widespread child abuse, environmental destruction, wars that serve the rich, and many other troubles are not actually different problems. They are merely symptoms of the same root cultural disease, where _a few people rule impose law on everybody else, and forbid people from upholding the laws they live by_.
+Activists may occasionally see some positive changes after years or decades of effort, but what would it take to have big, enduring victories and deep cultural change? The racism, sexism, disconnection from nature, widespread child abuse, environmental destruction, wars that serve the rich, and many other troubles are not actually different problems. They are merely symptoms of the same root cultural disease, where _a few people impose law on everybody else, and forbid people from upholding the laws they live by_.
 
-As every doctor knows, treating a symptom will never actually lead to deep healing because the underlying disease persists. So long as activists treat racism, sexism, greed, child abuse, pollution, and political corruption as different problems, and allow rulers to persist, all these big troubles will tragically persist too and meaningful, enduring change will be elusive.
+As any doctor knows, treating a symptom will never actually lead to deep healing because the underlying disease persists. So long as activists treat racism, sexism, greed, child abuse, pollution, and political corruption as different problems, and allow rulers to persist, all these big troubles will tragically persist too and meaningful, enduring change will be elusive.
 
-My dream is for feminists to join forces with people fighting racism, and for them to work with environmentalists, labor activists, and others. What if all these different activists didn't just fight separately against the symptoms, but also addressed the root cultural disease together and created a new healthy culture?
+My dream is for feminists to join forces with people fighting racism, and for them to work with environmentalists, labor activists, and others. What if all these different activists didn't just fight separately against the symptoms, but also addressed the root cultural disease together and created new healthy cultures?
 
 ### The Deepest Revolution
 

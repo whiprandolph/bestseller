@@ -3,7 +3,7 @@ chapters = {
     (1, 1, "Unhealthy Cultures Seem so Similar.md"),
     (1, 1, "What is a Healthy Culture Even Like.md"),
     (1, 1, "Discovering Healthy Cultures Like the Ashaninka.md"),
-    (1, 1, "Whole Nations Without Selfishness.md"),
+    (1, 1, "Whole Nations With Pervasive Generosity.md"),
   ],
   "Part 2 - Symptoms of the Root Disease": [
   (1, 1, "The Root Cultural Disease and Life Without It.md"),
@@ -14,7 +14,7 @@ chapters = {
   (1, 1, "Selfish Violence vs Violence-In-Service.md"),
   (1, 1, "Endless Predation When the Root Disease Takes Hold.md"),
   ],
-  "Part 3 - Ingredients of the Deepest Revolution": [
+  "Part 3 - The Deepest Revolution": [
   (1, 1, "Integrity and Bravery.md"),
   (1, 1, "Sacred Responsibilities.md"),
   (1, 1, "The Deepest Revolution.md"),

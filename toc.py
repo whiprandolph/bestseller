@@ -10,7 +10,8 @@ search_terms = []
 def get_pound_count(line):
   count = 0
   idx = 0
-  while idx < len(line) and line[idx] == '#':
+  line_len = len(line)
+  while idx < line_len and line[idx] == '#':
     count += 1
     idx += 1
   return count
@@ -98,6 +99,7 @@ def insert_and_return_toc(input_filename):
   file_blob = file_blob[file_blob.find("<toc/>", 1):]
   lines = file_blob.split("\n")
   toc_links = []
+  
   for line in lines:
     line = line.strip()
     if search_terms:

@@ -3,6 +3,7 @@
 <toc/>
 
 * [Trustworthy and Generous](#trustworthy-and-generous)
+* [References](#references)
 <toc/>
 
 It's funny -- one of the most amazing aspects of the Ashaninkan culture was something I didn't even notice until after I had left.
@@ -27,7 +28,7 @@ And while I found a few stories of healthy cultures banishing or killing someone
 
 All these cultures seem so different, each with their own ways of helping people get along, resolving disputes, and addressing anybody's selfish or hurtful behavior. But one way or another, each of these cultures has or had ways of maintaining a baseline of mutual respect among each other. That is, regardless how they treat outsiders, they seem to be able to maintain solidarity and respectful relationships between everyone inside the culture as a normal way of life.
 
-I had found plenty of stories of individual Americans or small groups acting with kindness to each other regardless of how much money they had -- but never everyone in the entire nation, or in a whole town. And yet as I kept studying these cultures that seem so beautiful, I found stories of whole towns or whole nations acting with kindness to every member. 
+I had found plenty of stories of individual Americans or small groups acting with kindness to each other regardless of how much money they had -- but never everyone in ans entire nation, or in a whole town. And yet as I kept studying these cultures that seem so beautiful, I found stories of whole towns or whole nations acting with kindness to every member. 
 
 Nancy Basket, a woman of Cherokee descent, offered one example. She described how, when traditional Cherokee towns got larger than 600-700 people, they became too big because hunting and foraging became difficult. The town needed to split into two. After agreeing on the new town site, often about seven miles away, everyone would go build the new buildings and homes regardless whether they were planning to move or not. They even made sure all the gardens were planted.
 
@@ -51,14 +52,20 @@ I remember first reading about Geronimo's integrity, and my mind went to all the
 
 And it's not just trustworthiness -- I kept finding stories of incredible generosity, not just occasionally but as a normal way of life for the whole nation.
 
-Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. They did not have markets for trading or bartering, but instead embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.
+Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one[xxx-duplicate story with chap 4]. They did not have markets for trading or bartering, but instead embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.
 
 The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
 
-How amazing would it be to live in a society where people don't accumulate wealth to hoard it and enrich themselves, instead gathering wealth so they can give away as much as possible to their neighbors? This wasn't unique to the Huron. Martín Prechtel described how the Tzutujil Mayans had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.
+How amazing would it be to live in a society where people don't accumulate wealth to hoard it and enrich themselves, instead gathering wealth so they can give away as much as possible to their neighbors? This wasn't unique to the Huron. Martín Prechtel described how the Tzutujil Mayans had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away."[xxx-duplicate story chap racism/hatred] Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.
 
 These stories would have seemed almost unbelievable if I hadn't seen this sort of generosity with my own eyes during my time with the Ashaninka.
 
-All these stories showed me that the beauty of the Ashaninkas isn't unique. Every culture is unique in its own ways. But while every culture has its own unique ways of gathering food, every culture has some way of gathering food. Likewise, each of these beautiful cultures I found has had their own unique ways of maintaining a respectful way of life with each other -- but they all, one way or another, do or did maintain a respectful way of life among everybody. They embrace integrity and generosity, and have systems of conflict resolution that work while avoiding punitive police and prisons. Because generosity was or is so common, they didn't have rich people and poor people, and governments that pretend to serve the people while actually serving the rich.
+All these stories showed me that the beauty of the Ashaninkas isn't unique. Every culture is unique in its own ways. But while every culture has its own unique ways of gathering food, every culture has some way of gathering food. Likewise, each of these beautiful cultures I found has had their own unique ways of maintaining a respectful way of life -- but they all, one way or another, do or did maintain a respectful way of life within the culture. They embrace integrity and generosity, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they didn't have rich people and poor people, and governments that pretend to serve the people while actually serving the rich.
 
 Still... how do all these nations maintain such a beautiful way of life? And why are some cultures so unhealthy in comparison, with widespread greed, corruption, poverty, disconnection from nature, and untrustworthy behavior? What lessons could I learn from the Ashaninka and all these other cultures about how to live in such a beautiful way?
+
+### References
+
+[xxx-duplicate story with chap 4]
+
+[xxx-duplicate story chap racism/hatred]
