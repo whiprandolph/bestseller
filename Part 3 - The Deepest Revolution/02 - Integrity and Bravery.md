@@ -3,7 +3,7 @@
 <toc/>
 
 * [Integrity as Structure of People and Societies](#integrity-as-structure-of-people-and-societies)
-* [Bravery: the Capacity to Act with Integrity of Service in any Situation](#bravery-the-capacity-to-act-with-integrity-of-service-in-any-situation)
+* [Bravery: the Capacity to Act in Service in any Situation](#bravery-the-capacity-to-act-in-service-in-any-situation)
 * [Integrity and Bravery can be Practiced](#integrity-and-bravery-can-be-practiced)
 <toc/>
 
@@ -15,15 +15,15 @@ In every society I have found without rulers, police, and prisons, I've noticed 
 
 If you wanted to be part of a society where you totally trusted everyone else in every way, and you wanted them to trust you just as much, what qualities would you need to cultivate to make that possible?
 
-I believe that "most secure feeling in the world" comes when people can totally trust each other. And to have that total trust, each person needs to have total integrity to honor that trust.
+I believe that "most secure feeling in the world" comes when people can totally trust each other. And for that to happen, each person needs to have total integrity to honor that trust.
 
 Most people know the importance of honesty and promise-keeping, two forms of integrity -- I call them Integrity of Word and Integrity of Action. I want to trust people to tell me the truth, no matter how unpleasant, so I value honesty. I want to be able to rely on people, so I value relationships with people who keep their promises.
 
-There's another way that I believe everybody wants to trust: that people will "do the right thing" or "stand for what's right" even if they haven't explicitly promised to. In other words, people want to trust that others in their society will act in service of their neighbors instead of selfishly, even if they haven't made any specific promises.
+There's another way that I believe everybody wants to trust: that people will "do the right thing" or "stand for what's right" even if they haven't explicitly promised to. In other words, people want to trust that others in their society will act in service of their neighbors instead of selfishly, even when they haven't made any specific promises.
 
-This trust that others will act in service is easy to see even in unhealthy cultures. Every infant is born trusting their mother to care for them, without the mother ever making any promises. When I go to the doctor, I trust that the doctor will try to heal me instead of maximizing their pay. Children at school trust the teacher to support their personal growth first, not prioritize their career or pay. This attitude of service is assumed -- how offended would a doctor or teacher be if patients or students wanted them to promise not to selfishly maximize their pay at the expense of healing or teaching? And of course, the newborn couldn't even ask for a promise -- they have no choice but to trust the mother to act in service.
+This trust that others will act in service is easy to see even in unhealthy cultures. Every infant is born trusting their mother to care for them, without the mother ever making any promises. When I go to the doctor, I trust that the doctor will try to heal me instead of maximizing their pay. Children at school trust the teacher to support their personal growth first, not prioritize their career or pay. This attitude of service is assumed -- how offended would a doctor or teacher be if patients or students wanted them to promise to do their job and not to selfishly maximize their pay? And of course, the newborn couldn't even ask for a promise -- they have no choice but to trust the mother to act in service.
 
-I don't expect any random doctor to heal me or teacher to teach me. But once I enter into a doctor-patient relationship, or a teacher-student relationship, I have this expectation that they'll act in service of me. A mother creates this trust-relationship by giving birth. Any relationship between people comes with this deep expectation that each will act in service rather than selfishly, even before any explicit promises have been made.
+I don't expect any random doctor to heal me or teacher to teach me. But once I enter into a doctor-patient relationship, or a teacher-student relationship, I have this expectation that they'll act in service. A mother creates this trust-relationship by giving birth. Any relationship between people comes with this deep expectation that each will act in service rather than selfishly, even before any explicit promises have been made.
 
 This same desire to trust extends beyond two people, to villages and whole nations. I believe in a deep way, everybody wants to trust that others in their society will act in service of the group rather than selfishly, so I consider acting in service its own kind of integrity -- what I call _Integrity of Service_. 
 
@@ -43,25 +43,25 @@ Whether in engineering, psychology, or many other settings, integrity is commonl
 
 Just as a bridge requires structural integrity to remain strong, and individuals require integrity to remain integrated and whole, human cultures require integrity to remain healthy.
 
-People can agree to protect each other from attack, share resources, or agree to live respectfully together, but will they actually keep their agreements? Integrity allows people to uphold important agreements, and thus I believe integrity forms the structure of any healthy culture. Can I rely on my neighbors to support me if enemies approach? If one neighbor acts disrespectfully, can I rely on the rest of my neighbors to stand in solidarity with me, and ensure that everyone enjoys a baseline of mutual respect?
+People can agree to protect each other from attack, share resources, or agree to live respectfully together, but will they actually keep their agreements? Integrity allows people to uphold the laws they choose to live by, and thus I believe integrity forms the structure of any healthy culture. Can I rely on my neighbors to support me if enemies approach? If one neighbor acts disrespectfully, can I rely on the rest of my neighbors to stand in solidarity with me, and ensure that everyone enjoys a baseline of mutual respect?
 
 This all comes down to integrity. Do people consistently speak the truth and keep their promises, even when it might be uncomfortable or dangerous? Do my neighbors "do the right thing" even if they haven't promised to? If not, then I cannot trust my neighbors, and I'm on my own. When people consistently show integrity, then everybody can relax into a deep trust of each other. We know that we can rely on each other no matter what comes, and I believe this widespread, total integrity is part of what allows people to maintain a healthy culture, where "the most secure feeling in the world" is simply a normal part of life.
 
-### Bravery: the Capacity to Act with Integrity of Service in any Situation
+### Bravery: the Capacity to Act in Service in any Situation
 
-For years I thought of bravery as the ability to aggressively face danger without fear.
-
-Finally I found a deeper perspective on bravery offered by the Sioux man Ohiyesa:
+For years I thought of bravery as the ability to aggressively face danger without fear. Eventually I found a deeper perspective on bravery offered by the Sioux man Ohiyesa:
 
 > [An Indian's] own conception of bravery makes of it a high moral virtue, for to him it consists not so much in aggressive self-assertion as in absolute self-control. The truly brave man, we contend, yields neither to fear nor anger, desire nor agony; he is at all times master of himself; his courage rises to the heights of chivalry, patriotism, and real heroism.
 
-I think of bravery this way: I think of bravery this way: _A person showing bravery remains fully conscious and acts in service of what matters under any challenge._
+I think of bravery this way: _A person showing bravery remains fully conscious and acts in service of what matters under any challenge._
 
 In other words, bravery is simply a person's ability to act in service no matter what. That is, they'll "do the right thing" or "stand for what's right" even if it's scary or uncomfortable.
 
-If people only stood in solidarity when it felt good, solidarity would not be worth much! It's people's willingness to stand for what's right or have integrity of service even when it's hard that gives relationships strength. It's also what allows people to deeply trust each other.
+If people only stood in solidarity when it felt comfortable, solidarity would not be worth much! It's people's willingness to stand for what's right or have integrity of service even when it's hard that gives relationships strength. It's also what allows people to deeply trust each other.
 
-When people are trained not to choose and uphold their own laws, and they're punished for illegally upholding the law, they're essentially trained for cowardice. Instead of standing for what's right at all costs, submissive people learn to maximize their safety and comfort while hoping the police take care of the problems. Some people, such as police or soldiers, are trained to show bravery but only when they're following orders.
+Ohiyesa described how far the Sioux took this bravery: "'Let neither cold, hunger, nor pain, nor the fear of them, neither the bristling teeth of danger nor the very jaws of death itself, prevent you from doing a good deed,' said an old chief to a scout who was about to seek the buffalo in midwinter for the relief of a starving people. This was his childlike conception of courage."
+
+When people are trained not to choose and uphold their own laws, and they're punished for illegally upholding the law, they're essentially trained for cowardice. Instead of standing for what's right at all costs, submissive people learn to maximize their safety and comfort while hoping the police take care of the problems. Some people, such as police or soldiers, are trained to show bravery but only when they're following orders. Thus abusive and selfish behavior continues, seemingly endlessly.
 
 ### Integrity and Bravery can be Practiced
 
@@ -83,6 +83,12 @@ This careful progression is essential. Consistently facing one's edge or one's f
 
 An excellent practice for cultivating integrity and bravery is simple: always face your fears. Why would a person lie, or break a promise? Often because they're afraid of the consequences of doing whats right. Why do people do cowardly things like side with the big bully instead of standing with the victim, or pretending to believe falsehoods just because their job depends on it? Of course -- because doing the right thing can be scary.
 
-These are simple truths that any Kindergartner knows, and I believe they're fundamental to generating a healthy culture. To anyone who wishes to be part of creating a new healthy culture, I strongly suggest: cultivate your integrity and bravery, ideally with others in a group where people lovingly hold each other to a high standard of excellence.
+These are simple truths that any kindergartner knows, and I believe they're fundamental to generating a healthy culture. To anyone who wishes to be part of creating a new healthy culture, I strongly suggest: cultivate your integrity and bravery, ideally with others in a group where people lovingly hold each other to a high standard of excellence.
 
-When a group has widespread, pervasive integrity and bravery, then widespread trust will naturally follow, and I believe that "most secure feeling in the world" will not be far behind.
+When whole nations of people cultivate bravery and integrity as a normal way of life, the resulting stories are breathtaking. American colonel RI Dodge encountered the bravery and physical training of Apache warriors, and he wrote, "The tenacity of life of an Indian, the amount of lead he will carry off, indicates a nervous system so dull as to class him with brutes rather than men... I myself have seen an Indian go off with two bullets through his body, within an inch of his spine, the only effect of which was to cause him to change his gait from a run to a dignified walk."
+
+This shows how easily people can make foolish assumptions. Colonel Dodge was fighting against warriors who trained to run as much as 75 miles per day for days in a row, intentionally cultivated bravery, and were heavily motivated to protect the land and people they loved. Instead of noticing the warriors' deep love, bravery and physical capability, Dodge thought they were unfeeling brutes because they kept going even when he shot them repeatedly.
+
+My final suggestion is this: _build a library of stories of brave people_. Surround yourself with brave people and stories about them to help build your own courage. This way bravery won't seem rare, but just a normal and excellent way of life.
+
+When a group has widespread, pervasive integrity and bravery, then I believe widespread trust and _the most secure feeling in the world_ will naturally follow.

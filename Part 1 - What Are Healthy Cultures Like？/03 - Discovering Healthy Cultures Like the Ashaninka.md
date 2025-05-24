@@ -28,7 +28,7 @@ And while I found a few stories of healthy cultures banishing or killing someone
 
 All these cultures seem so different, each with their own ways of helping people get along, resolving disputes, and addressing anybody's selfish or hurtful behavior. But one way or another, each of these cultures has or had ways of maintaining a baseline of mutual respect among each other. That is, regardless how they treat outsiders, they seem to be able to maintain solidarity and respectful relationships between everyone inside the culture as a normal way of life.
 
-I had found plenty of stories of individual Americans or small groups acting with kindness to each other regardless of how much money they had -- but never everyone in ans entire nation, or in a whole town. And yet as I kept studying these cultures that seem so beautiful, I found stories of whole towns or whole nations acting with kindness to every member. 
+I had found plenty of stories of individual Americans or small groups acting with kindness to each other regardless of how much money they had -- but never everyone in entire nation, or in a whole town. And yet as I kept studying these cultures that seem so beautiful, I found stories of whole towns or whole nations acting with kindness to every member. 
 
 Nancy Basket, a woman of Cherokee descent, offered one example. She described how, when traditional Cherokee towns got larger than 600-700 people, they became too big because hunting and foraging became difficult. The town needed to split into two. After agreeing on the new town site, often about seven miles away, everyone would go build the new buildings and homes regardless whether they were planning to move or not. They even made sure all the gardens were planted.
 

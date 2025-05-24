@@ -74,7 +74,7 @@ In South America, the Yuracares, Tchimanes and other cultures work to prevent th
 
 Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, even putting their lives on the line if need be. Eventually I understood this as the third core spiritual practice: living in reciprocity. This means I have a responsibility to give back to all the beings who give so much to me. It is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for giving back to all the beings who give humans so much.
 
-In her book Braiding Sweetgrass, Robin Kimmerer noted how any culture of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."
+In her book _Braiding Sweetgrass_, Robin Kimmerer noted how any culture of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-duplicate with sacred responsibility chapter]
 
 ### How Can Everyone Be Divine If Some People Act with Cruelty and Selfishness?
 
@@ -88,22 +88,8 @@ Many religions and ideologies of unhealthy cultures encourage that sickness, or 
 
 But that doesn't mean anyone's inherently bad. Everyone has love to give in this life. And no matter what's happened in the past, every moment is a fresh chance to choose how to show up in the world.
 
-What are your gifts? What could you do or be or give that would make your heart sing?
-
-
-
-
-
-### Scratch / Include if possible
-
-* Sacred Walk - ancestors or future generations (from Good Contact chapter)
-
-* 3 Core Spiritual Practices
-
-"Good people with a sickness" - Martin Luther King Jr, Don Cox's mother, etc.
-
-## Walking in a Sacred Way
-
 ### References
+
+[xxx-duplicate with sacred responsibility chapter]
 
 [xxx-NOTE: duplicate from earlier chapters]

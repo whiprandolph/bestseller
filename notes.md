@@ -1,3 +1,7 @@
+### Todo
+
+
+### Old Notes
 * open with Ashaninka piece?
   * still immersive, first-hand, no/minimal theorizing
 

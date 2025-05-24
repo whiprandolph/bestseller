@@ -2,7 +2,7 @@
 
 I grew up in the United States, a culture where I had no influence on the laws I was supposed to live by. I also was absolutely forbidden from upholding the laws of my own culture. It was the police's job to confront anyone who violated the laws, but they had to follow orders, and it always seemed like rich people got away with a lot more than the poor. Everyone seemed to accept this as normal, so I never questioned it growing up. 
 
-I moved all over the United States and visited countries in South America and Europe. Every place I visited, and every country and empire I read about in history books all worked this same way. Normal citizens were forbidden from upholding their own laws and taking a stand against illegal activity, so when illegal behavior happened, people mostly just got stressed out and worried or angry that the government wasn't doing its job.
+I moved all over the United States and visited countries in South America and Europe. Every place I visited, and every country and empire I read about in history books all worked this same way. Normal citizens were forbidden from upholding their own laws and taking a stand against illegal activity, so when illegal behavior happened, people mostly just got stressed out and worried or angry that the government wasn't "doing its job".
 
 I often read stories of politicians and wealthy people breaking the law, and when their illegal behavior hurt too many people too much, protests would break out. Maybe the government bailed out the rich and screwed over the poor after a financial collapse, or a factory owner was screwing over workers, or a company had polluted so much land or water that many people's health and jobs were threatened.
 
@@ -30,7 +30,7 @@ And in the capitalist United States, they see this:
 **Riot Police in the United States**[xxx-american riot]
 </center>
 
-I was always taught growing up that the police's job is to keep people safe and enforce the law. But every time I saw the riot police come out, it seemed like they were protecting the rich and powerful from their poorer neighbors -- people angry about their low wages, pollution, corruption, and all the usual troubles in unhealthy cultures. It's like the police's actual job was to scare people away from standing up for themselves, and punish people for standing in solidarity to make a just society.
+I was always taught growing up that the police's job is to keep people safe and enforce the law. But every time I saw the riot police come out, it seemed like they were protecting the rich and powerful from their poorer neighbors -- people angry about their low wages, pollution, corruption, and all the usual troubles in unhealthy cultures. It's like the police's actual job was to scare people away from standing up for themselves, and punish people for standing in solidarity to seek justice.
 
 Is it any wonder there's corruption when people aren't allowed to uphold their own laws and hold their leaders accountable?
 
