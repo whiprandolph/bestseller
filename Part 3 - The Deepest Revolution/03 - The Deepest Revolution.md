@@ -70,7 +70,7 @@ In shallow revolutions, people overthrow their ruling class only to install new 
 
 I believe the deepest revolution occurs when a group takes a stand together, creating their own laws to make a respectful society, and protecting themselves from any unhealthy cultures that might try to reconquer them. This was the Zapatistas' path. They did not march on the capital of Mexico and take over the country, which would have only made them rulers of an unhealthy culture. Instead they took a stand for their own laws and protected each other when the military attacked.
 
-In a sense, the deepest revolution is simple: a group of people would simply need to make agreements with each other, and then have the integrity and bravery to uphold them. They would need to make agreements about how to protect themselves from selfish outsiders. They would need to agree on how to treat each other respectfully, and resolve disputes. They would need to make agreements about how to share, make decisions, and account for the needs of the Earth where they live.
+In a sense, the deepest revolution is simple: a group of people would simply need to make agreements with each other, and then have the integrity and bravery to uphold those agreements. They would need to make agreements about how to protect themselves from selfish outsiders. They would need to agree on how to treat each other respectfully, and resolve disputes. They would need to make agreements about how to share, make decisions, and account for the needs of the Earth where they live.
 
 Of course, this begs many questions. What would these agreements look like exactly? How could a group of deep integrity grow, cultivating trust between people who used to be strangers? How could people cultivate deep generosity despite living in a profit economy which rewards selfishness? How could people learn how to receive the Earth's gifts in respectful ways, including fire, shelter, food, water, and life lessons? How could a group survive in the face of infiltrators and snitches? How could such a group effectively defend itself and the land, including with modern weapons?
 
@@ -85,3 +85,10 @@ I see each individual as a little potential healthy-subculture bubble. As these 
 My suggestion is: find a person to have this sort of deep connection with. Then find another. And then go from there.
 
 (outro?)
+
+## Scratch / Other Ideas
+
+* Nothing will save us from ourselves, so stop waiting:
+    * marxists: economic transformation will put workers on top (look up citation)
+    * capitalists: invisible hand of the market
+    * Christians: Jesus will come back for us
