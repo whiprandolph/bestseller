@@ -40,7 +40,7 @@ As I write in 2025, the United States is supporting Israel in its genocide of th
 
 The Israelis began the genocide in October 2023, with tremendous US support in the form of weapons, surveillance, fuel, political cover at the United Nations, and more. But just how bad has the violence been? Many news stories say that only 40-50,000 Palestinians have died -- surely a tragedy, but not a genocide.
 
-Before the present conflict started in October 2023, the Palestinian population was estimated at 2.2 million. When US President Trump took office, he stated the Palestinian population as around 1.7-1.8 million.[1] Other estimates confirm this, using normal techniques to estimate military+civilian casualties in war. So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, disease, and so on while extremely few Israelis have died.
+Before the present conflict started in October 2023, the Palestinian population was estimated at 2.2 million. When US president Trump took office, he stated the Palestinian population as around 1.7-1.8 million.[1] Other estimates confirm this, using normal techniques to estimate military+civilian casualties in war. So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, disease, and so on while extremely few Israelis have died.
 
 How have the Israeli and American governments trained their population to tolerate and even support this genocide? You guessed it: spreading racist and hateful propaganda towards Palestinians, and punishing anyone who tried to speak the truth and stand up for what's right.
 
@@ -68,7 +68,7 @@ Martin Prechtel described a similar pattern with the Tzutujil Mayans of central 
 
 These stories seemed amazing when I first found them, but now I believe they are actually quite normal in societies that maintain a baseline of mutual respect internally, where everyone stands for what's right as a normal way of life and nobody imposes law on anybody else.
 
-In these kinds of societies, I don't see racism or hatred. So many problems, including racism, hatred, sexism, pollution, poverty in the midst of abundance, disconnection from nature, corruption, greed, child abuse, and more are _symptoms of the root cultural disease where a few people rule over the rest_. Any culture with this disease will show these symptoms, each in its own way. And I believe a single cure could end all these terrible troubles: creating cultures where everyone stands for what's right, and no one rules over anyone else.
+In these kinds of societies, I don't see racism or hatred. So many problems, including racism, hatred, sexism, pollution, poverty in the midst of abundance, disconnection from nature, corruption, greed, child abuse, and more are _symptoms of the root cultural disease where a few people rule over the rest, and people accept their own obedience as legitimate_. Any culture with this disease will show these symptoms, each in its own way. And I believe a single cure could end all these terrible troubles: creating cultures where everyone stands for what's right, and no one rules over anyone else.
 
 ### References
 
