@@ -1,3 +1,6 @@
+### Chapter ending
+
+In cultures where everyone embraces this practice of gracious receiving, where people retell stories of others' good deeds, they wind up with leaders who don't spread racism and hatred. So many problems, including racism, hatred, sexism, pollution, poverty in the midst of abundance, disconnection from nature, corruption, greed, child abuse, and more are _symptoms of the root cultural disease where a few people rule over the rest, and people accept their own obedience as legitimate_. Any culture with this disease will show these symptoms, each in its own way. And I believe a single cure could end all these terrible troubles: creating cultures where everyone stands for what's right, and no one rules over anyone else.
 
 
 

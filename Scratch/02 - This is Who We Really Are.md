@@ -2,7 +2,7 @@
 
 For most of my life, I never thought there could be a human culture without racism, sexism, political corruption, pollution, injustice, or poverty. Every country I'd ever visited had these troubles, so they seemed universal and normal, like a disease that can't be treated, and so I just learned to live with them. But then I got to visit a nation where people live without these troubles -- without racism and sexism, without corruption or poverty. 
 
-A place where sharing is a normal way of life. A place where neighbors deeply trust each other and visitors are treated like family – not the dysfunctional families that many deal with here, but the loving family we all long for, with mutual understanding and respect.
+A place where sharing is a normal way of life. A place where neighbors deeply trust each other and visitors are treated like family -- not the dysfunctional families that many deal with here, but the loving family we all long for, with mutual understanding and respect.
 
 I was blessed to live briefly in such a place. And no, it’s not some cult or small commune, but a nation of thousands of people living in dozens of villages. My short time there in 2015 was utterly magical and changed my life. As the man who brought me there said, "you will spend the rest of your life figuring out lessons to learn from these people."
 

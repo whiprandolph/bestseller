@@ -5,6 +5,7 @@
 * [Living in Reciprocity as a Normal Way of Life](#living-in-reciprocity-as-a-normal-way-of-life)
 * [Cultivate Deep Awareness and Unity Through Nature Connection Practices](#cultivate-deep-awareness-and-unity-through-nature-connection-practices)
 * [Sacred Responsibilities](#sacred-responsibilities)
+* [References](#references)
 <toc/>
 
 The sun was setting one evening in 2015 as I sat with about 8-10 of my Ashaninkan hosts. Some of them had gone fishing in the nearby river earlier that day, and we were all passing around pieces of fish they'd caught. I had brought food with me when I first arrived a week earlier, but we had traveled away from my sleeping area, and I didn't have my food with me to share.
@@ -23,7 +24,7 @@ In the following years, I made a big shift -- I started noticing nonhumans givin
 
 The more I noticed all the gifts I received, the more I wanted to give back -- to the birds and chestnut trees, to the streams and the deer. Just like I was grateful to the Ashaninka, and felt this desire to give back to the people who'd given so much to me, I felt the same desire to give back to the nonhumans who gave so much to me.
 
-In her book _Braiding Sweetgrass_, Potawatomi woman Robin Kimmerer described the importance of this reciprocity: "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal's family or community. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."
+In her book _Braiding Sweetgrass_, Potawatomi woman Robin Kimmerer described the importance of this reciprocity: "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal's family or community. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-duplicate with spirituality chapter]
 
 I believe living in reciprocity is a sacred responsibility, and really, it's who we are as human beings. No one had to force me to feel gratitude, or force me to give back to the people and nonhumans who gave to me. Indeed, someone would have had to force me _not_ to, the desire to give back was so strong.
 
@@ -105,3 +106,7 @@ For millennia, unhealthy cultures have been spreading, and they encourage and re
 But the truth remains: living in reciprocity with other people and the Earth is a sacred responsibility. Other sacred responsibilities enable that reciprocity: Cultivating deep awareness and gratitude for the gifts of life, each person cultivating their own sacred gifts and learning how to give their deepest love, learning the practical skills to meaningfully serve other people and the Earth, and more. I believe that embracing these responsibilities is essential for any group that wanted to create a new healthy culture.
 
 There is another sacred responsibility: cultivating the personal strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in the next chapter: _Integrity and Bravery_.
+
+### References
+
+[xxx-duplicate with spirituality chapter]
