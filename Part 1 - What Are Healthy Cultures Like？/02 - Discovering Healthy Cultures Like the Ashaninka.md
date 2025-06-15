@@ -1,4 +1,6 @@
-## Chapter 3: Discovering Healthy Cultures Like the Ashaninka
+## Chapter 2: Discovering Healthy Cultures Like the Ashaninka
+
+Why do nations without police and prisons also have vanishingly little crime? And why do nations with police and prisons consistently have huge amounts of crime?
 
 It's funny -- one of the most amazing aspects of the Ashaninkan culture was something I didn't even notice until after I had left.
 
@@ -8,7 +10,7 @@ Long before I even thought about "healthy cultures," I kept reading about other 
 
 In contrast, the United States, France, and every other country spend huge amounts of money on prisons and police, and yet there continues to be so much crime and political corruption. How come some nations live without police and prisons, and also seem to avoid crime? And how come the nations with police and prisons have so much crime?
 
-And it's not like healthy cultures don't have trouble -- in any society, sometimes people don't get along. But I kept reading about ways that peope of healthy cultures saddressed disputes that seemed to really help maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior and helping people get along without humiliating or punishing them too harshly.
+And it's not like healthy cultures don't have trouble -- in any society, sometimes people don't get along. But I kept reading about ways that people of healthy cultures saddressed disputes that seemed to really help maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior and helping people get along without humiliating or punishing them too harshly.
 
 Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.
 

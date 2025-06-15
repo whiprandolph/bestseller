@@ -1,4 +1,4 @@
-## Encouraging Solidarity Vs Discouraging Solidarity
+## Chapter 8: Encouraging Solidarity Vs Discouraging Solidarity
 
 A human culture is a living organism. Just like a tree or lion or ant colony, human cultures can become injured. Any disrespect between two people is a type of cultural injury and not just a personal concern. Nancy Basket, a woman of Cherokee descent, says, "If there is trouble in a family, the whole nation suffers." Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."
 
@@ -82,7 +82,7 @@ Instead of seeking peace at all costs, the founders sought to create a just soci
 
 As a result, the Haudenosaunee writers said they lived with "almost unimaginable abundance and variety of nuts, berries, roots, and herbs. In addition to these, the rivers teemed with fish and the forest and its meadows abounded with game..."
 
-4. _Rejecting Private Property_: The traditional Haudenosaunee rejected private property and emphasize sharing. The Haudenosaunee writers noted, "Property is an idea by which people can be excluded from having access to lands or other means of producing a livelihood. That idea would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People. That idea (property) would produce slavery."
+4. _Rejecting Private Property_: The traditional Haudenosaunee rejected private property and emphasized sharing. The Haudenosaunee writers noted, "Property is an idea by which people can be excluded from having access to lands or other means of producing a livelihood. That idea would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People. That idea (property) would produce slavery."
 
 5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. Adversaries could call for a cessation of hostilities at any time. The Haudenosunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
 

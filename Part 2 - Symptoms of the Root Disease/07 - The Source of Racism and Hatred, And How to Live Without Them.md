@@ -1,4 +1,4 @@
-## Chapter 8: The Source of Racism and Hatred, And How to Live Without Them
+## Chapter 7: The Source of Racism and Hatred, And How to Live Without Them
 
 Remember that old story "The Emperor's New Clothes"?
 

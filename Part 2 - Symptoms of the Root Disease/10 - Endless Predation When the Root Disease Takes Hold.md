@@ -1,4 +1,4 @@
-## Endless Predation When the Root Disease Takes Hold
+## Chapter 10: Endless Predation When the Root Disease Takes Hold
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." At first this seemed like an exaggeration. How can even middle-class people be prisoners?
 

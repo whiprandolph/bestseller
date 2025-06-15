@@ -1,4 +1,4 @@
-## Chapter 7: Empowering Vs Disempowering Spirituality
+## Chapter 6: Empowering Vs Disempowering Spirituality
 
 If you were a king, and you wanted to train your subjects to obey you, how would you do this? Your subjects should learn not to stand up for what's right, and instead passively accept your laws and how you choose to enforce them (or not).
 

@@ -1,4 +1,4 @@
-## Chapter 6: Gift Economy Vs Profit Economy
+## Chapter 5: Gift Economy Vs Profit Economy
 
 In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
 

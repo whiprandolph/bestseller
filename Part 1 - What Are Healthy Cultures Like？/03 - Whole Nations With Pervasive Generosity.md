@@ -1,4 +1,4 @@
-## Whole Nations With Pervasive Generosity
+## Chapter 3: Whole Nations With Pervasive Generosity
 
 The more stories I found of healthy cultures, the more I saw how generosity and reciprocity are or were a normal, default way of life. 
 

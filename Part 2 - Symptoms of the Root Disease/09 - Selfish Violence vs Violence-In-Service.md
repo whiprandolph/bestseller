@@ -1,4 +1,4 @@
-## Selfish Violence Vs Violence-In-Service
+## Chapter 9: Selfish Violence Vs Violence-In-Service
 
 Growing up in the United States, I heard a lot of people say that peace is good, and violence is bad. And sure, peace may be preferable, but when another group attacks, and escape is impossible, a group of people may face a choice: use violence in self-defense, or submit to the attackers.
 
@@ -6,9 +6,9 @@ Even if I desire peace, I don't see violence as inherently good or bad -- it's a
 
 ### Selfish Violence in Unhealthy Cultures
 
-In unhealthy cultures where people are not able to hold their leaders accountable, selfish violence is common. Often the leaders will want to go to war for selfish reasons that would never motivate the public.
+In unhealthy cultures where people are not able to hold their leaders accountable, selfish violence is common. Often the leaders will want to go to war for selfish reasons that would never motivate the public to go along.
 
-After all, who would risk their lives just to help rich people become a little richer? Thus politicians will make up fake motivations for the war, and peace activists will notice the lies and try to point out the truth. Then politicians will accuse the peace activists of being traitors spreading enemy propaganda to keep the country from uniting in support of the military. As Nazi leader Hermann Goering said after World War II, "It works the same way in any country."
+After all, who would risk their lives just to help rich people become a little richer? Thus politicians will make up fake motivations for the war, and peace activists will notice the lies and try to point out the truth. Then politicians will accuse the peace activists of being traitors spreading enemy propaganda to keep the country from uniting in support of the military. As Nazi leader Hermann Goering said after World War II, "whether it is a democracy or a fascist dictatorship or a parliament or a communist dictatorship... It works the same way in any country."
 
 In Germany, the United States, and many other countries as I write, anyone who opposes increased war against Russia in Ukraine risks being called a "Putin lover" or "Putin troll" -- Vladimir Putin being the president of Russia. Politicians in these countries maintain the fiction that Russia invaded Ukraine unprovoked, but when activists try to point out all the provocations -- such as the NATO military alliance expanding to Russian borders, putting nuclear-capable missiles on Russian borders, and arming the Ukrainian military for the purpose of going to war with Russia -- when activists try to point out these facts and the government's lies, in the hopes of avoiding an unnecessary war, they are accused of spreading Russian propaganda.
 

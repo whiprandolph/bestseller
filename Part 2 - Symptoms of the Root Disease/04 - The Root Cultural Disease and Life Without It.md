@@ -1,4 +1,6 @@
-## Chapter 5: The Root Cultural Disease and Life Without It
+## Chapter 4: The Root Cultural Disease and Life Without It
+
+
 
 I grew up in the United States, a society where I had no influence on the laws I lived by. I also was absolutely forbidden from upholding the laws I was supposed to obey. I could see obvious evidence of politicians being corrupt, domestic violence in the house next door, or people illegally cutting down trees, and I would be severely punished if I tried to personally stop these things. It was the police's job to confront anyone who violated the laws, but they had to follow orders, and it always seemed like so many illegal, hurtful things just kept happening. Growing up, everyone around me accepted this as normal, so I never questioned it.
 
