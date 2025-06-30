@@ -3,12 +3,12 @@ chapters = {
     (1, 1, "Introduction - Unhealthy Cultures Seem so Similar.md"),
   ],
   "Part 1 - What Are Healthy Cultures Like？": [
-    (1, 1, "What is a Healthy Culture Even Like.md"),
-    (1, 1, "Discovering Healthy Cultures Like the Ashaninka.md"),
-    (1, 1, "Whole Nations With Pervasive Generosity.md"),
+    (1, 1, "This is Who We Really Are.md"),
+    (1, 1, "Healthy Cultures Were the Norm for Millions of Years.md"),
+    (1, 1, "Pervasive Generosity is Normal.md"),
   ],
-  "Part 2 - Symptoms of the Root Disease": [
-    (1, 1, "The Root Cultural Disease and Life Without It.md"),
+  "Part 2 - What's Gone Wrong？": [
+    (1, 1, "What Happens When People Seek Justice？.md"),
     (1, 1, "Gift Economy Vs Profit Economy.md"),
     (1, 1, "Empowering Vs Disempowering Spirituality.md"),
     (1, 1, "The Source of Racism and Hatred, And How to Live Without Them.md"),

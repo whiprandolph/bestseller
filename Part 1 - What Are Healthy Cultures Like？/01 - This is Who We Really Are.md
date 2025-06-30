@@ -16,7 +16,7 @@ My short time there in 2015 was utterly magical and changed my life. As the Engl
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 
-Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are what we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _the Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, solidarity, and bravery to do it.
+Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are what we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, solidarity, and bravery to do it.
 
 ### Meet the Ashaninka
 

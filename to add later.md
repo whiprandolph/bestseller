@@ -9,7 +9,7 @@ And it's not just humans who have an inner knowing. Every being has a special ro
 
 ### Healthy vs Unhealthy Cultures: What is the Core Disease?
 
-For years, I wondered what all these beautiful cultures have in common. In traditional stories from all these healthy cultures, just like I had seen with the Ashaninka, their children seem so capable and confident, both men and women have positions of real leadership, and they have leaders that people actually want to follow. It's normal for people to accept deep responsibility to treat each other and the Earth in a good way. Why do some cultures have these qualities, and others seem really unhealthy?
+For years, I wondered what all these beautiful cultures have in common. In traditional stories from all these healthy cultures, just like I had seen with the Ashaninka, their children seem so capable and confident, both men and women have positions of real leadership, and they have leaders that people actually want to follow. It's normal for people to accept deep responsibility to treat each other and the Earth in a good way. Why do some cultures have these qualities, and others seemreally unhealthy?
 
 And what do all these unhealthy cultures have in common, with their racism, sexism, self-serving political leaders, pollution, and more?
 

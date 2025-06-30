@@ -99,4 +99,4 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 A few thousand years ago, every human alive lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
 
-To explore deep spiritual training, join me in _Chapter 7: Heart-Closing Vs Heart-Opening_.
+To explore deep spiritual training, join me in _Chapter 6: Heart-Closing Vs Heart-Opening_.

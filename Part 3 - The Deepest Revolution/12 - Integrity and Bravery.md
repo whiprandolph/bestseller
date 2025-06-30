@@ -2,7 +2,7 @@
 
 <toc/>
 
-* [Integrity as Structure of People and Societies](#integrity-as-structure-of-people-and-societies)
+* [Integrity is the Spiritual Structure of People and Societies](#integrity-is-the-spiritual-structure-of-people-and-societies)
 * [Bravery: the Capacity to Act in Service in any Situation](#bravery-the-capacity-to-act-in-service-in-any-situation)
 * [Integrity and Bravery can be Practiced](#integrity-and-bravery-can-be-practiced)
 <toc/>
@@ -31,7 +31,7 @@ The Haudenosaunee described how they explicitly raised their children to have th
 
 Unfortunately, this deep Integrity of Service is forbidden in unhealthy cultures that require people to obey the law, but punish people for upholding the law. That is, people are not allowed to defend the oppressed, as that's supposedly the police's job, though the police are also required to follow orders of even-higher authorities. And thus it is rare for people in unhealthy cultures to cultivate total integrity -- precisely the quality that would allow the deepest solidarity and trust.
 
-### Integrity as Structure of People and Societies
+### Integrity is the Spiritual Structure of People and Societies
 
 There is good news though: integrity is who we are as humans. You and I and every other person _are_ integrity. You _are_ the act of standing for what's right, or the speaking of the truth, or the keeping of your promise, among many other things. Many people have learned to "hold back" or "shut down" parts of themselves, afraid or ashamed to do what they know in their heart is right, and one way this shows up is low integrity. I believe that for each person, part of learning to "be my best self" involves cultivating a deep integrity.
 
