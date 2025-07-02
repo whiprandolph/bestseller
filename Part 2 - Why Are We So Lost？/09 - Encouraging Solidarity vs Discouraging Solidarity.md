@@ -1,4 +1,4 @@
-## Chapter 8: Encouraging Solidarity Vs Discouraging Solidarity
+## Chapter 9: Encouraging Solidarity vs Discouraging Solidarity
 
 A human culture is a living organism. Just like a tree or lion or ant colony, human cultures can become injured. Any disrespect between two people is a type of cultural injury and not just a personal concern. Nancy Basket, a woman of Cherokee descent, says, "If there is trouble in a family, the whole nation suffers." Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."
 

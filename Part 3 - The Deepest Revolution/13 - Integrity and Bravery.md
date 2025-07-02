@@ -1,4 +1,4 @@
-## Integrity and Bravery
+## Chapter 13: Integrity and Bravery
 
 <toc/>
 

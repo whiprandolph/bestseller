@@ -17,13 +17,13 @@ More you give, the less you have, the less security you have - health issues can
 * tricking people into not knowing healthy cultures exist - savages, etc.
 
 
-Vs solidarity: Cherokee town story
+vs solidarity: Cherokee town story
 
 ## Chapter 9: Selfish Violence vs Violence-In-Service (rename)
 * Rulers spreading hate towards peace activists
 * Present-day example: calling peace activists “putin lovers” 
 * Wars based on lies / false flag attacks (ie 9/11, Nazi attack on Reichstag, etc)
-* Vs sacred circles: Apache collective self defense, CONAIE, black activists
+* vs sacred circles: Apache collective self defense, CONAIE, black activists
 * Zapatistas	
 
 

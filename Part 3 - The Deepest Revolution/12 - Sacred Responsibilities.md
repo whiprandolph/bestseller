@@ -1,4 +1,4 @@
-## Sacred Responsibilities
+## Chapter 12: Sacred Responsibilities
 
 <toc/>
 
@@ -97,7 +97,7 @@ I've had women tell me "you're not a woman, so you can't know what it's like." I
 
 Ultimately, I can only know my own experience, but this doesn't have to limit me when I practice deep empathy. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's perspectives, but I can at least understand them and understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 
-I believe these nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, I found it easier to understand people's perspectives. I believe when everybody is raised with these nature connection practices, mutual understanding can be common, and this helps healthy cultures find and maintain a deep unity. They also help me make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When I continuously pay attention to what I observe, I notice what I know and what I don't know. There's little room for unexamined beliefs.
+These nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, I found it easier to understand people's perspectives. I believe when everybody is raised with these nature connection practices, mutual understanding can be common, and this helps healthy cultures find and maintain a deep unity. They also help me make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When I continuously pay attention to what I observe, I notice what I know and what I don't know. There's little room for unexamined beliefs.
 
 ### Sacred Responsibilities
 
@@ -105,7 +105,7 @@ For millennia, unhealthy cultures have been spreading, and they encourage and re
 
 But the truth remains: living in reciprocity with other people and the Earth is a sacred responsibility. Other sacred responsibilities enable that reciprocity: Cultivating deep awareness and gratitude for the gifts of life, each person cultivating their own sacred gifts and learning how to give their deepest love, learning the practical skills to meaningfully serve other people and the Earth, and more. I believe that embracing these responsibilities is essential for any group that wanted to create a new healthy culture.
 
-There is another sacred responsibility: cultivating the personal strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in the next chapter: _Integrity and Bravery_.
+There is another sacred responsibility: cultivating the personal strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in _Chapter 13: Integrity and Bravery_.
 
 ### References
 

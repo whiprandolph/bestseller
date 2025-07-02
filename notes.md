@@ -1,5 +1,7 @@
-### Todo
-
+### Final Formatting Reminders
+* make sure chap 4 images, captions, and lead-ins are all on the same page
+* make sure all _ and * and ** become bold/underlined
+* remove all ** edit marks
 
 ### Old Notes
 * open with Ashaninka piece?

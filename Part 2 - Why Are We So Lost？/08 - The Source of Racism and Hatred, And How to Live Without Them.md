@@ -1,4 +1,4 @@
-## Chapter 7: The Source of Racism and Hatred, And How to Live Without Them
+## Chapter 8: The Source of Racism and Hatred, And How to Live Without Them
 
 Remember that old story "The Emperor's New Clothes"?
 
@@ -70,7 +70,9 @@ These stories of selfish rulers contrast vividly with countless stories of gener
 
 What is it about healthy cultures that allows them to have selfless, generous servant-leaders? Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? Or is there a responsibility people could take to ensure that only the most selfless people become leaders?
 
-[xxxfasfd], and Martín Prechtel described how their leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
+If you wanted leaders who were so humble that they would never campaign for office, how would you work with your neighbors to choose those humble people as leaders?
+
+Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
 
 It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging. 
 
@@ -87,7 +89,3 @@ I love telling stories of others' good deeds -- it's fun! Who doesn't like telli
 One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
 
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. What good deeds have you witnessed recently? And to whom could you share the happy stories of these good deeds?
-
-### References
-
-[xxxfasfd]

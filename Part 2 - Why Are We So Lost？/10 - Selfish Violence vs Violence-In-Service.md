@@ -1,4 +1,4 @@
-## Chapter 9: Selfish Violence Vs Violence-In-Service
+## Chapter 10: Selfish Violence vs Violence-In-Service
 
 Growing up in the United States, I heard a lot of people say that peace is good, and violence is bad. And sure, peace may be preferable, but when another group attacks, and escape is impossible, a group of people may face a choice: use violence in self-defense, or submit to the attackers.
 

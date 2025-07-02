@@ -1,4 +1,4 @@
-## Chapter 3: Pervasive Generosity is Normal
+## Chapter 4: Pervasive Generosity is Normal
 
 Take a moment and picture living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person -- young or old -- has food to eat, tools to share, and a place to sleep. Imagine the feeling of safety from knowing that you don't need to fend for yourself in times of drought, famine, or even war. A world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
@@ -32,11 +32,13 @@ In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shep
 
 These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any society that encourages generosity and strongly discourages selfishness. The people serve each other and the Earth generously, and generosity is pervasive in all these societies, including their leadership. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.
 
-Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the women would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.[xxx-cindy: The Haudenosaunee quote was a duplicate quote from chap 2 which I replaced with the Cherokee story here. Also removed the Jesus reference and added the missionary story below. What do you think?]**
+I grew up in a Christian family, and I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed extreme because I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.**
 
-Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the woman commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.**
+Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the women would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.
 
-I've studied many different kinds of economies, whether communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but their core, all these economies encourage selfishness. 
+Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the woman commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.
+
+I've studied many different kinds of economies, whether communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage selfishness. 
 
 I saw the same selfishness in American employees trying to maximize their wages, business owners trying to maximize profits, or Chinese farm brigade workers in the 1950s trying to maximize their work points. One way or another, all these economies have encouraged people to try to get as much as possible, either to get rich or to avoid poverty or punishment.
 
@@ -88,7 +90,7 @@ In healthy cultures, everyone stands for a culture of mutual respect, so they ha
 
 In unhealthy human cultures, one person or a few people rule over everyone else. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid everybody else from taking initiative to hold misbehaving people accountable.
 
-Another way of putting it is this: in unhealthy cultures, a small number of people trap a large number in exploitative relationships. Rulers use all manner of tricks, traps, and childhood training to convince everyone to remain obedient. Many of these techniques are reviewed briefly in this book, and they are covered in greater detail in the free book _One Disease One Cure_ by the same author.**
+Another way of putting it is this: in unhealthy cultures, a small number of people trap a large number in exploitative relationships. Rulers use all manner of tricks, traps, and childhood training to convince everyone to remain obedient. Many of these techniques are reviewed briefly in this book, and they are covered in greater detail in the free book _One Disease One Cure_ by the same author.
 
 Other names for an unhealthy culture include "authoritarian culture," "unfree culture," "low-accountability culture" and "abusive culture."
 
@@ -98,14 +100,8 @@ Every single culture where a person or group imposes law on the rest also has se
 
 I simply don't see these troubles in the societies where everyone stands for what's right, and everyone agrees on the rules they will live by -- that is, in cultures without a ruling class imposing laws on the rest.
 
-That is good news! It means there is a way to end racism. There is also a way to end sexism, widespread greed, pollution, disconnection from nature, and so many other problems. The way to end all these troubles is simply the path to freedom: working with other people to generate a culture where everyone agrees on their laws and everyone upholds them as a normal way of life, taking humans' and nonhumans' needs into account.**
+That is good news! It means there is a way to end racism. There is also a way to end sexism, widespread greed, pollution, disconnection from nature, and so many other problems. The way to end all these troubles is simply the path to freedom: working with other people to generate a culture where everyone agrees on their laws and everyone upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
 
 How do rulers or ruling classes make it so hard to have an economy based on sharing and reciprocity? And how do ruling classes shape their society so people tolerate endless exploitation and corruption?
 
-To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - What's Gone Wrong?_.[xxx-Cindy: updating part/chapter/header names is entirely manual. I will always intend to keep them up-to-date, so please mark any that are old/wrong so I can fix it.]
-
-### References
-
-[xxx-cindy: The Haudenosaunee quote was a duplicate quote from chap 2 which I replaced with the Cherokee story here. Also removed the Jesus reference and added the missionary story below. What do you think?]
-
-[xxx-Cindy: updating part/chapter/header names is entirely manual. I will always intend to keep them up-to-date, so please mark any that are old/wrong so I can fix it.]
+To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We Lost?_.

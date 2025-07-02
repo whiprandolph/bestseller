@@ -6,15 +6,15 @@ What is not at all normal, in terms of our basic human nature, is how people liv
 
 Because most people alive today have never experienced nation-wide generosity and respect, our dominant unhealthy cultures can seem quite normal to us.
 
-But they are not.
+But they are not normal.
 
 ### No Police, No Prisons, No Widespread Crime
 
-One striking example of how different healthy cultures are compared to what we generally think of as 'normal' is their remarkable lack of prison, police, and crime.
+One striking example of how different healthy cultures are compared to what we generally think of as 'normal' is their remarkable lack of prisons, police, and crime.
 
 Can you even imagine living in a nation without crime?
 
-I was amazed to discover that the Ashaninka  had no police or prisons, yet they also seemed so relaxed and unconcerned about crime. There were no locked doors. In fact, they didn't have any doors!
+I was amazed to discover that the Ashaninka had no police or prisons, yet they also seemed so relaxed and unconcerned about crime. There were no locked doors. In fact, they didn't have any doors!
 
 Avoiding crime may seem impossible in societies numbering in the thousands or more, yet many large healthy human cultures have lived this way -- not just occasionally, but for millions of years.
 
@@ -56,14 +56,6 @@ Nancy Basket, a woman of Cherokee descent described how such kindness was mainta
 
 People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
 
-### Protecting the Land
-
-In every healthy culture I've found, in addition to standing in solidarity with each other, the people also stand in solidarity with the Earth. In other words, the people also stand for the needs of the nonhumans they live with.
-
-The Sioux sought to protect the water from oil spills by leading the Dakota Access Pipeline protests in 2016 in North America. In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means "to respect," so the Jenu Kuruba simply live in a way that respects the tigers. The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.
-
-In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established." Stories from other nations in northern Asia, South America and around the world show whole nations of people similarly living in solidarity with each other and the Earth.
-
 ### Trustworthy and Generous
 
 The more I read, the more I found stories of nations that currently or in the recent past were similar to the Ashaninka. Superficially, of course, they were and are different -- Eskimos in the arctic might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia. But I kept noticing deep, beautiful patterns that healthy cultures seem to all share in common when they are able to live in a traditional way.
@@ -84,7 +76,7 @@ The Huron would publicly announce whenever someone donated a large amount toward
 
 How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, instead gathering wealth so they can give away as much as possible to their neighbors?
 
-This wasn't unique to the Huron, and these practices aren't just from the ancient past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.
+This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.
 
 Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."
 
@@ -108,7 +100,7 @@ These healthy cultures were a major threat to colonial leaders, because their ex
 
 For a while I wondered how healthy cultures could keep prisoners of war if they don't have prisons. I also had heard of healthy cultures killing their captives -- how does that square with being a culture based on generosity and integrity?
 
-There are three ways to deal with captives that allow a nation to maintain a baseline of mutual respect: release the captive, kill them, or integrate them and treat them respectfully. 
+There are three ways to deal with captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. 
 
 People of healthy cultures have openly acknowledged that they treat their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Sioux man Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."
 
@@ -118,20 +110,4 @@ In this way, healthy cultures do not capture people and treat them abusively, wh
 
 All these stories showed me that the beauty of the Ashaninka isn't unique. Every culture is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect. Different nations might do this in different ways, but all healthy cultures, one way or another, do or did somehow maintain a respectful way of life. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and the leadership serves everyone instead of a few rich people.
 
-Still... how do all these nations maintain such a beautiful way of life? And why are some cultures so unhealthy in comparison, with widespread greed, corruption, poverty, disconnection from nature, and untrustworthy behavior? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other cultures to make that possible?
-
-### References
-
-[xxx-duplicate story with chap 4]
-
-[xxx-duplicate story in chapter on racism/hatred]
-
-[xxx-CINDY-note: This quote is referenced again in the racism/hate chapter, but here the text emphasizes leaders being on the same level, whereas there it emphasizes how leaders don't campaign]
-
-[xxx-NOTE TO CINDY: I'm concerned that referencing ODOC here in paragraph 2 breaks the flow while setting the theme of the chapter. Reference it near the end?]
-
-[xxx-note to Cindy: "no crime" seems too categorical, since I found some examples of 'crime' in unhealthy cultures. But it seems fair to say that no-crime was/is the baseline, so that an act of selfishness stands out as something to be addressed.]
-
-[xxx-CINDY: I'm glad for the added subtitles]
-
-[xxx-CINDY: added the 1990 date about the Tzutujil Mayans to emphasize that this isn't ancient history]
+Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?**
