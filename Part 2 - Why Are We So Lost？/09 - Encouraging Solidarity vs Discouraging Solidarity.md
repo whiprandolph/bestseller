@@ -6,7 +6,7 @@ Like all living organisms, human cultures that are injured try to heal themselve
 
 Unhealthy cultures are essentially unable to heal. Returning to that baseline of mutual respect that humans find so fundamentally satisfying would radically threaten the status quo. Rulers and other authorities in positions of power would lose their ability to dominate and exploit everyone else. Thus unhealthy cultural patterns of deep disrespect continue.
 
-What are common ways that rulers and lower authorities block cultural healing, preventing people from building solidarity and collectively standing up to abusive authorities? And how could people intentionally generate a culture to maximize solidarity and invite the best behavior out of everybody?
+What are common ways that rulers and lower authorities block cultural healing, preventing people from building solidarity and collectively stopping deep injustices? And how could people intentionally generate a culture to maximize solidarity and invite the best behavior out of everybody?
 
 ### Sabotaging Solidarity in Unhealthy Cultures
 
@@ -14,15 +14,15 @@ Authorities and wealthy people sabotage solidarity in countless ways. Attacks on
 
 ### Attacking Individuals
 
-East German police developed a practice called _Zersetzung_ in German, meaning disintegration or decomposition. This police practice intended to cause activists to mentally, emotionally, and socially disintegrate without any explicit use of force. They might cause other government bureaucracies to lose citizens' forms, take longer than usual to respond to citizens' inquiries or requests, or otherwise seriously frustrate the lives of activists. East German police would sabotage people's reputation. They fabricated and circulated love letters or evidence of illegal behavior among an activist's friends and family in order to sabotage relationships, and they often succeeded.
+In the mid-1900s, East German police developed a practice called _Zersetzung_, meaning disintegration or decomposition. This police practice intended to cause activists to mentally, emotionally, and socially disintegrate without any explicit use of force. They might cause other government bureaucracies to lose citizens' forms, take longer than usual to respond to citizens' inquiries or requests, or otherwise seriously frustrate the lives of activists. East German police would sabotage people's reputation. They fabricated and circulated love letters or evidence of illegal behavior among an activist's friends and family in order to sabotage relationships, and they often succeeded.
 
 They also surveilled activists to dig up and publicize any private behaviors they might want hidden, such as drug use or criminal records. They might make appointments or order goods in the activist's name. They would even manipulate a person's home, secretly entering and rearranging items like clothes and only removing things no burglar would snatch, such as a single piece of important mail. They might secretly damage a bike or car. Activists would start to doubt their memory and their ability to live a functional life. Police might cause strange noises on a phone line, repeatedly stop and search someone, and make conspicuous visits to the activist's workplace so coworkers would be aware of the police's interest. People's careers were ruined without them even understanding why. Zersetzung was gaslighting on a massive scale.
 
-In another example of reputation sabotage, the US decided to have Julian Assange accused of sexual assault after Assange revealed huge numbers of war crimes and deceit by US political leaders. 
+In another example of reputation sabotage, in the 2010s the US decided to have Julian Assange accused of sexual assault in Sweden after Assange revealed huge numbers of war crimes and deceit by US political leaders. The original Swedish prosecutor Eva Finne acknowledged, "There is no suspicion of any crime whatsoever." However, corrupt politics won out, and continual political persecution resulted in Assange being trapped for 12 years in an embassy and later a British prison.
 
-Authorities may audit the taxes of activists to force them to waste huge amounts of time. In 2022, American Matt Taibbi was busily exposing documents which showed how the US government pressured a social media company to censor content. Three weeks later, the US federal tax authority (IRS) opened an investigation of Taibbi. Fortunately powerful politicians contacted the IRS on Taibbi's behalf, and the IRS agents decided Taibbi didn't owe any taxes after all.
+Authorities may audit the taxes of activists to force them to waste huge amounts of time. In 2022, American Matt Taibbi was busily exposing documents showing how the US government pressured a social media company to censor content. Three weeks later, the US federal tax authority (IRS) opened an investigation of Taibbi. Fortunately, powerful politicians contacted the IRS on Taibbi's behalf, and the IRS agents decided Taibbi didn't owe any taxes after all.
 
-Murder is the firmest response authorities may take to suppress activism. One of the most famous examples in history is the Roman murder of Jesus Christ. He had consistently advocated breaking the law to feed and heal people who needed it, and he even attacked moneylenders for profiting in the Temple. He associated with many Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples. Finally he was arrested and nailed to a cross and left to die in public. This was a common way for the government to kill revolutionaries in order to scare everyone else into submission.
+Murder is the firmest response authorities may take to suppress activism. One of the most famous examples in history is the Roman murder of Jesus Christ. He had consistently advocated breaking the law to feed and heal people who needed it, and he even attacked moneylenders for profiting in the Temple. He associated with many Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples. Finally he was arrested and nailed to a cross and left to die in public. This was a common way for the Roman authorities to publicly torture revolutionaries to death in order to scare everyone else into submission.
 
 The US government's killing of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States in the 1950s and 1960s. Over time, he expanded his work over time to include anti-imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy. 
 
@@ -42,7 +42,7 @@ The Nazis worked diligently to scare all Germans into submission. Bruce Bettelhe
 
 This led to other group members believing they were safe as long as they stayed out of leadership positions. The Nazis did not want any public opposition, so they responded by arresting lawyers essentially randomly across the group. Nobody was explicitly told why they were arrested, but they all learned it was from their activism work. This scared everyone and allowed the Nazis to leave a few leading lawyers in place when they decided this was helpful to them.
 
-Infiltration is particularly devious, where undercover police officers or contractors will pretend to be activists and participate in social movements. In 2011-2012, eight British women activists filed a lawsuit stating they were tricked into having long-term relationships with police who sabotaged their efforts to mitigate animal cruelty, reduce pollution, and more. Prosecutors and police chiefs set up 12 inquiries to investigate police misconduct, but all took place in secret and there has been no sign of change. Some of the women had even had children with the undercover police who had secretly worked to undermine all the good work they were doing.
+Infiltration is particularly devious, where undercover police officers or contractors will pretend to be activists and participate in social movements. In 2011-2012, eight British women activists filed a lawsuit stating they were tricked into having long-term relationships with police who sabotaged their efforts to mitigate animal cruelty, reduce pollution, and more. Prosecutors and police chiefs set up 12 "inquiries" to investigate police misconduct, but all took place in secret and there has been no sign of change. Some of the women had even had children with the undercover police who had secretly worked to undermine all the good work they were doing.
 
 The Tsarist Russian secret police provide more examples of police infiltration. Helpful informants were more likely to get into university or get a job, while incorruptible activists were denied. One police chief even allowed infiltrators to engage in illegal behavior to earn the trust of the real activists. Infiltrators were trained in all the fashionable revolutionary and socialist theories, and whenever an activist group seemed to settle on one theory, the infiltrators would start advocating for an opposing one, never letting the group settle on a coherent understanding of their problems and what to do about them. The manipulation ran deep!
 
@@ -62,11 +62,13 @@ Astroturf social movements are simply a common pattern in unhealthy cultures whe
 
 ## Healthy Cultures: When Solidarity is a Normal Way of Life
 
-What is it like when solidarity is not blocked by selfish and powerful people, but just a normal way of life? 
+Many people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it would take to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 
-The Haudenosaunee offer an example. Approximately 1,000 years ago, several nations were at war and suffering from seemingly endless violence. Finally they came together and decided to create a Confederacy of nations that would ensure a lasting peace. This became known as the Haudenosaunee Confederacy, which has survived as a healthy culture for over 900 years now.
+Fortunately, I have found two helpful case studies from people who have successfully created healthy cultures. This chapter describes the Haudenosaunee, and the book _One Disease One Cure_ also explores the Zapatistas in detail.
 
-In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that has allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
+Long ago, several nations in eastern North America were at war and suffering from seemingly endless violence. Finally they came together and decided to create a confederacy that would ensure a lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroqouis, which has survived as a healthy culture for over 900 years now.
+
+In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe six elements in particular have many lessons to teach. 
 
@@ -74,7 +76,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society full of individuals who accepted responsibility for upholding their culture's rules, knowing those rules worked for everybody. The writers said that "universal justice is the product of a spiritually strong society, and many of the rules... are designed to create a strong society rather than a strong government."
 
-2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and made arrangements to avoid them. They included agreements to share hunting territories, outlawing theft and hoarding wealth, creating a Grand Council that would help resolve disputes among other things, and ensuring anyone within the Confederacy could occupy their land peacefully.
+2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and made arrangements to avoid them. They included agreements to share hunting territories, outlaw theft and forbid hoarding wealth. They created a Grand Council that helped resolve disputes among other things, and ensured anyone within the Confederacy could occupy their land peacefully.
 
 Instead of seeking peace at all costs, the founders sought to create a just society. The Confederacy's founders believed "if absolute justice was established in the world, peace would naturally follow."
 
@@ -84,7 +86,7 @@ As a result, the Haudenosaunee writers said they lived with "almost unimaginable
 
 4. _Rejecting Private Property_: The traditional Haudenosaunee rejected private property and emphasized sharing. The Haudenosaunee writers noted, "Property is an idea by which people can be excluded from having access to lands or other means of producing a livelihood. That idea would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People. That idea (property) would produce slavery."
 
-5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. Adversaries could call for a cessation of hostilities at any time. The Haudenosunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
+5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
 
 6. _Leaders Serve the People_: They specifically avoided factions, and no government imposes law on anybody: "The national Councils of Chiefs do not govern the people; instead they act as representatives of their clans in a process that coordinates the wishes of the people."
 
@@ -93,9 +95,3 @@ The traditional Haudenosaunee's political leaders are also their spiritual leade
 They recognized that a culture that accepted private property ownership would eventually have leaders that exclude people from accessing others' property. These leaders would no longer perform their duties of serving everyone and helping to redistribute goods. This shows how a gift economy, servant-leadership, and a culture of respect all fit together.
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
-
-### References
-
-[xxx-basket interview]
-
-[xxx-original instructions|armstrong]

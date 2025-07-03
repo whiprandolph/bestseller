@@ -76,7 +76,7 @@ I find disturbing stories at home too. My black roommate recently said that some
 
 These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, dishonest politicians, and more... well, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
 
-What else am I supposed to learn from the Ashaninka? How can they be humans like me and other Americans, and they live in such a beautiful way, while we don't?
+What am I supposed to learn from the Ashaninka? How can they be humans like me and other Americans, and they live in such a beautiful way, while we don't?
 
 Are the Ashaninka unique? Did they just get lucky, and Americans didn't? Are there societies like the Ashaninka, either now or in the recent past, where people treat each other and the Earth with respect, without discrimination, greed, and dishonest leaders? If so, could they help clarify the lessons that the Ashaninka have to offer?
 
@@ -85,3 +85,5 @@ It turns out, yes, there are more societies like the Ashaninka. Countless more!
 The next chapter explores how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
 
 Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy cultures show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
+
+<div style="break-after:page"></div>

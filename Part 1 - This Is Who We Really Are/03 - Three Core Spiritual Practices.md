@@ -6,7 +6,7 @@ I believe that many of the other shared characteristics of healthy cultures, pas
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
-I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude for the gifts of life_ by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and focused my attention on observing the nonhumans all around me. At first, I felt a bit bored. But the more I observed the world around me, the more I began to see.**
+I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude for the gifts of life_ by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and focused my attention on observing the nonhumans all around me. At first, I felt a bit bored. But the more I observed the world around me, the more I began to see.
 
 Over time, I learned to notice which plants are edible, and which trees offer good wood for burning. I studied the language of birds, and what they could tell me about the rest of the forest.
 
@@ -28,25 +28,25 @@ Through my nature connection practices, I learned so many ways each creature con
 
 Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being." Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"
 
-Each person has sacred gifts, a life purpose, a way they make the world a better place -- _and only they can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is for each person to _cultivate and give their sacred gifts_ too.** 
+Each person has sacred gifts, a life purpose, a way they make the world a better place -- _and only they can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is for each person to _cultivate and give their sacred gifts_ too. 
 
 I believe that cultivating and giving one's sacred gifts fully is how a person gives their deepest love. Thus, training a person to give their sacred gifts trains them to give their deepest love in life, and to be their best self.
 
 Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. Ten Fingers also noted that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.
 
-These two spiritual practices of gratitude and gift-giving are both so beautiful. And the third core spiritual practice ties them all together.**
+These two spiritual practices of gratitude and gift-giving are both so beautiful. And the third core spiritual practice ties them all together.
 
 ### The Third Core Spiritual Practice: Living in Reciprocity
 
-Many healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to live in a traditional way. At one point I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
+Many healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
 
 The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills. In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account. The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.
 
-In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established." The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging the old-growth forests.[xxx-NOTE: duplicate from earlier chapters]
+In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established." The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging the old-growth forests.
 
 In South America, the Yuracares, Tchimanes and other cultures work to prevent the destruction of their forests in the TIPNIS region of Bolivia, where the government wants to allow illegal road development, monocrop farming, and deforestation. In northern Asia, the Evenk, Nivkh, and other cultures work to stop destructive Russian oil and gas extraction activities.
 
-Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, even putting their lives on the line if need be. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. It is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for giving back to all the beings who give humans so much.
+Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their neighbors, both human and nonhuman.
 
 In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-duplicate with sacred responsibility chapter]
 
@@ -56,18 +56,16 @@ A person's spirituality is simply how they relate to themselves and the world. I
 
 These three core spiritual practices are core to who we are as humans. You are the giving of your deepest love, just like I'm the giving of my love. Giving to others in gratitude for what we receive is who we are as humans.
 
-People may learn to 'hold back' or 'shut down' parts of themselves to survive in their unhealthy culture, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, selflessness, bravery, integrity, dignity, joy, strong servant-leadership, and more. And _One Disease One Cure_ explores these connections even further.
+People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy culture, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, selflessness, bravery, integrity, dignity, joy, strong servant-leadership, and more. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
 
-Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among the people, and between people and the Earth?
+Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among their people, and between people and the Earth?
 
-These practices aren't just for whole nations; anybody could embrace them right now to cultivate and give a deeper love. And it turns out, what's good for the individual is also good for the group. As Robin Kimmerer wrote, "in order for the whole to flourish, each of us has to be strong in who we are and carry our gifts with conviction, so they can be shared with others."
+These practices aren't just for some people. Anybody could embrace them right now to cultivate and give a deeper love. And it turns out, what's good for the individual is also good for the group. As Robin Kimmerer wrote, "in order for the whole to flourish, each of us has to be strong in who we are and carry our gifts with conviction, so they can be shared with others."
 
 What are your gifts? What can you give or do or be that would open your heart and let it sing?
+
+<div style="break-after:page"></div>
 
 ### References
 
 [xxx-duplicate with sacred responsibility chapter]
-
-[xxx-NOTE: duplicate from earlier chapters]
-
-[xxx-cindy: need to rewrite the intro here. This is mostly copy-pasted from the religions/spirituality chapter. I also had a section called "Protecting the Land" in chapter 2 that was basically redundant with "Living in Reciprocity", so I took that out and shrunk chapter 2.]

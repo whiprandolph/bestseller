@@ -13,6 +13,9 @@ md_publish_dir = r"C:\Users\whip\bestseller-md-publish"
 
 PUBLISH = True
 
+full_html = ""
+full_html_path = os.path.join(html_dir, 'full_book.html')
+
 def get_file_list():
     path_list = []
     chapter_number = 0
@@ -83,6 +86,7 @@ def transform(file_list):
         md_contents = get_md(md_path)
         html = mdConverter.convert(md_contents)
         open(html_path, 'w', encoding='utf-8').write(html)
+        open(full_html_path, 'a', encoding='utf-8').write(html)
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
 def main():

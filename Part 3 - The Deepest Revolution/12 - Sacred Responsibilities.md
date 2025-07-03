@@ -2,8 +2,8 @@
 
 <toc/>
 
-* [Living in Reciprocity as a Normal Way of Life](#living-in-reciprocity-as-a-normal-way-of-life)
-* [Cultivate Deep Awareness and Unity Through Nature Connection Practices](#cultivate-deep-awareness-and-unity-through-nature-connection-practices)
+* [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
+* [Gracious Receiving: Choose Leaders that Actually Serve the People](#gracious-receiving-choose-leaders-that-actually-serve-the-people)
 * [Sacred Responsibilities](#sacred-responsibilities)
 * [References](#references)
 <toc/>
@@ -38,7 +38,7 @@ These are the three core spiritual practices at play --
 
 The big shift was to see myself as the Earth, not somehow different or separated -- another attitude I see in every healthy culture. Okanagan woman Jeannette Armstrong said, "it's not just that we're part of the land... but that the land is us." It's true -- each of us is a gift of the Earth, alive to receive the gifts of others and give our own gifts in reciprocity, each person in their own way.
 
-### Living in Reciprocity as a Normal Way of Life
+### Live in Reciprocity as a Normal Way of Life
 
 I never knew how intimately people could know the Earth and even enrich the Earth as a normal way of life till I studied healthy cultures, where people embrace these three core spiritual practices as a normal way of life.
 
@@ -55,7 +55,7 @@ Bilgee said, "Gazelles are a scourge on the grassland... they... eat all the tim
 
 Bilgee even said his people don't use wolf pelts as bedding, even though they are far superior to sheep pelts, saying, "We respect the wolves too much... Tengger [God] is the father, the grassland is the mother, and the wolves kill only animals that harm the grassland. How could Tengger not bestow its favors on wolves?"
 
-People living in this way can generate tremendous wild abundance. In their book _A Basic Call to Consciousness_, Mohawk writers described how, when they were able to live in a fully traditional way, taking only what they needed and practicing strict conservation, they lived with "almost unimaginable abundance and variety of nuts, berries, roots, and herbs. In addition to these, the rivers teemed with fish and the forest and its meadows abounded with game..."
+People living in this way can generate tremendous wild abundance. In their book _A Basic Call to Consciousness_, Haudenosaunee writers described how, when they were able to live in a fully traditional way, taking only what they needed and practicing strict conservation, they lived with "almost unimaginable abundance and variety of nuts, berries, roots, and herbs. In addition to these, the rivers teemed with fish and the forest and its meadows abounded with game..."
 
 This is simply a gift economy in action, where people do not just share generously amongst themselves within their culture, but actively serve the nonhumans around them. The Mohawk writers noted, "ours is a Way of Life, and... our economy cannot be separated from the many aspects of our culture." I believe this is because they do not just share among each other while selfishly taking from the nonhumans. That practice of living in reciprocity doesn't just exist between people, but it's a responsibility towards nonhumans as well.
 
@@ -69,35 +69,31 @@ Growing up in an unhealthy culture made it hard for me to find these three core 
 
 But I have good news: all these perspectives can be practiced. And it turns out, cultivating deep awareness doesn't just help people relate to nonhumans better -- awareness helps people relate to each other better, too.
 
-### Cultivate Deep Awareness and Unity Through Nature Connection Practices
+### Gracious Receiving: Choose Leaders that Actually Serve the People
 
-I was pleasantly surprised when I noticed that nature connection practices helped me connect with people in a deeper way than I ever had before. After practicing for years, it's clear to me that if a whole group of people embraced these practices, they could be closely connected indeed.
+Stories of selfish rulers contrast vividly with countless stories of generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
 
-The _Kamana_ program produced by Jon Young introduces students to a very special nature connection practice called the sit spot. I picked a place outdoors within a few minutes' walk from my home where I could view wildlife. My first sit spot was next to a stream winding through a big forest, but during times when I've moved around a lot, I've also used my backyard or a nearby park.
+Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? Or is there a responsibility people could take to ensure that only the most selfless people become leaders?
 
-The goal is to go to the sit spot daily and explore and notice what's going on. What plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. And I learned to feel curious about the experiences of the beings around me.
+Can you imagine having leaders who were so humble that they would never campaigned for office? How would they even become leaders then?
 
-I asked myself questions about what I saw. Why would a bird constantly look up as it eats? I learned that they are continuously aware in case predators arrive, so birds constantly eat, look around, eat, and look again. Do some species of tree like growing together and others don't? For example, I learned that black walnuts produce a compound which only some plants find toxic, and thus black walnuts like growing with trees like sugar maple and box elder but avoid trees like white pines.
+Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
 
-I continually practiced feeling into the experiences of other beings. For example, I studied hawks and songbirds, and I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me in an instant. If I were a songbird, I would probably eat carefully too!
+It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging. 
 
-Eventually, I learned that plants and animals could help me notice parts of the landscape I couldn't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not be able to see rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
+If you want to be able to live in a healthy culture, with leaders who serve the people instead of selfishly serving themselves, _notice other people's good deeds and tell their stories_. This is based on that first core spiritual practice of practical, aware gratitude for the gifts of others. Each good deed is a gift, and one way to receive that gift graciously is to tell the story so that others know.
 
-The first core spiritual practice -- cultivating a practical, aware gratitude -- is a big part of this sit spot training. I learned that birds and plants and other beings could teach me about my environment, or they could show me when I'm feeling anxious or stressed. They could help me become more aware about my environment or myself if only I became more aware of them. This awareness is a gift that they give. I learned to feel into the birds and plants and streams around me so that they were extensions of me. Their awareness became an extension of my awareness, and the only limit was how carefully I could pay attention, and how well I could interpret the behaviors I observed.
+When you notice someone who consistently tells the truth even when they could get away with lying, let the person know that you see them, and when appropriate, tell the stories to other people. When someone keeps a promise even when they really don't feel like it, tell the story. When someone consistently shows up to meetings early and well-prepared and helps the group make good decisions, tell those stories. When someone is a source of calm and good humor in difficult moments, or gives generously when they think no one's looking -- _tell those stories_ so that the person's reputation grows.
 
-This is training in deep empathy, and I noticed it also helped me with people. For example, growing up, I learned that women can get extra sensitive during their period. For years I found this annoying and learned to leave women alone during this time. But as with my nature connection practices, I started asking, "how is this a gift?" or "what does this have to teach me?" And I noticed that some women friends would reject food during their period that they normally ate, and when I asked, they said the food was rancid. I would try it and I couldn't taste any rancidity at first. Over time, I learned to taste my food more and more, and I began to notice the occasional rancidity, especially in store-bought food. I realized that the sensitive women had noticed something I couldn't notice. Like the birds, women could show me something about my environment that I couldn't notice directly. When a woman said some food was rancid, even if I couldn't detect it, I began to trust her, and I rejected the food too. Over time this helped me notice rancidity I couldn't notice before.
+This is how a group can select the most humble, generous, honest, and capable leaders, including people who would never campaign for a leadership role. When everyone in a culture practices noticing good deeds and retelling the stories, the reputations of the best leaders grow naturally. When it's time to pick a leader, the people will know who it should be.
 
-The more I practiced, the more this deep empathy helped me see. For example, when black people complain about police brutality, it shows me where my society isn't as healthy or fair as it seems in my experience. When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it. I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust everyone, but I take care to notice what lessons I can learn from others.
+Given that some healthy cultures have had many tens of thousands of people, and spanned up to 40,000 sq. miles or more, this practice doesn't just work at the village level, but can help nations of any size choose the best people at each level of leadership.
 
-Noticing all the different ways a person makes the world a better place is one way to receive their gifts. After everyone else went home, which coworker stayed late to get the project done on time? Which activists show up to meetings early so we can start on time? Who maintains a sense of humor in stressful moments, or gives solid constructive feedback instead of lashing out angrily when someone makes a mistake? I just practice noticing and either giving thanks or offering constructive feedback when that seems appropriate.
+I love telling stories of others' good deeds -- it's fun! Who doesn't like telling and hearing good news? Who doesn't like encouraging and rewarding good behavior? Every retelling is a little celebration.
 
-Receiving nonhumans' gifts is similar. I notice all the ways each tree, stream or deer makes the world a better place. I also notice when they're annoying, like the deer who recently ate my garden, but even that deer had a lesson for me. They taught me where my security was lacking.
+One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
 
-I've had women tell me "you're not a woman, so you can't know what it's like." In a sense, that's true. I'm a man, so I can't know what a woman's experience is like. But by the same logic, I cannot know other men's experiences either. I'm not a black man, so I can't know what a black man's experience is like. I'm neither rich nor impoverished, so I can't know what the rich or poor men's experiences are like. I wasn't born into a healthy culture, so I can't know what that experience is like. And I can't know the experiences of birds or trees.
-
-Ultimately, I can only know my own experience, but this doesn't have to limit me when I practice deep empathy. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's perspectives, but I can at least understand them and understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
-
-These nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, I found it easier to understand people's perspectives. I believe when everybody is raised with these nature connection practices, mutual understanding can be common, and this helps healthy cultures find and maintain a deep unity. They also help me make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When I continuously pay attention to what I observe, I notice what I know and what I don't know. There's little room for unexamined beliefs.
+This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
 ### Sacred Responsibilities
 

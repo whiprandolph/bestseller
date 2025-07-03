@@ -1,18 +1,18 @@
-## Chapter 5: Gift Economy vs Profit Economy
+## Chapter 5: Encouraging Generosity vs Encouraging Selfishness
 
 In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
 
 Sioux man Sitting Bull said, "Love of possessions is a disease," and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant." Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness were allowed to take hold in their society.
 
-When one or a few people act selfishly, the culture can respond and help them feel comfortable sharing again, or evict them if they insist on being selfish.**
+When one or a few people act selfishly, the culture can respond and help them feel comfortable sharing again, or evict them if they insist on being selfish.
 
-But what happens when a ruling class exists, so that a few people force laws on the rest, protecting their own wealth at all costs and forbidding people from standing for what's right? What happens when selfishness is allowed to fester, and people can no longer maintain a way of life based on sharing?**
+But what happens when a ruling class exists, so that a few people force laws on the rest, protecting their own wealth at all costs and forbidding people from standing for what's right? What happens when selfishness is allowed to fester, and people can no longer maintain a way of life based on sharing?
 
-### Profit Economy: When Selfishness is Allowed to Take Hold**
+### Profit Economy: When Selfishness is Allowed to Take Hold
 
 Tragically, ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy_. Profit economies motivate individuals to try to get more than they give, training people to profit from their neighbors. Over time, profit economies _move resources toward people who already have them_. In a profit economy, the more resources a person has, the more additional resources they are able to get.
 
-Capitalism, socialism, and communism are all examples of profit economies. The main difference is simply whether wealthy individuals and corporations control most property (capitalism) or whether the ruling government controls a larger share (socialism and communism).**
+Capitalism, socialism, and communism are all examples of profit economies. The main difference is simply whether wealthy individuals and corporations control most property (capitalism) or whether the ruling government controls a larger share (socialism and communism).
 
 I recognize two major kinds of profit economy: market economies and command economies. Most unhealthy cultures have some mix of these.
 
@@ -28,7 +28,7 @@ Many people in 2025 recognize chattel slave plantations or forced prison labor a
 
 * _Advantage 1: Market economies are self-organizing slave societies_. Market economies are slave societies because they're based on coerced labor, keeping people in financial desperation and forcing them to find any paid work to survive. They are self-organizing because administrators do not need to order individual workers to do specific jobs. Workers will actively look for jobs, and if none are available, they may seek out training or move to other regions where there's work. Entrepreneurs will seek out business opportunities to try and get rich. All these people are trying to find ways to work for money, meaning everyone ultimately serves the people with the money: the rich and the government which is the source of most money in the first place.
 
-* _Advantage 2: Politicians and businessmen can pretend that workers live in a free society_. Wage slaves can legally choose their job and where to live. This offers much more flexibility than in chattel slavery, prison slavery, or military slavery, and so politicians can pretend that wage slaves live in a free country, and they should be proud and grateful.**
+* _Advantage 2: Politicians and businessmen can pretend that workers live in a free society_. Wage slaves can legally choose their job and where to live. This offers much more flexibility than in chattel slavery, prison slavery, or military slavery, and so politicians can pretend that wage slaves live in a free country, and they should be proud and grateful.
 
 Soviet East German minister for state security Erich Milke once said, "The [German Democratic Republic] is a state that guarantees its citizens freedom, democracy, and basic human rights." On Human Rights Day, Canadian prime minister Justin Trudeau noted that, "defending human rights and democracy has always been, and will continue to be, a priority for Canada..." Whether socialist or capitalist, these are simply different forms of market economy that allow politicians to pretend that the workers are free.
 
@@ -38,7 +38,7 @@ People of healthy cultures -- who currently or in recent times lived in actual f
 
 Authorities use a vast number of techniques to make people feel financially desperate and willing to do work they don't want to do in order to earn money. As a result, many people sacrifice their integrity, health, family time, and other important things just to keep the job they need to survive. This financial desperation explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."
 
-Different ruling classes manage their economies very differently to maintain desperation and maximize productivity, but there are some common patterns.**
+Different ruling classes manage their economies very differently to maintain desperation and maximize productivity, but there are some common patterns.
 
 Without a job, workers may not be able to pay for housing, food, or health care for their family. Inflation continuously saps the value of previous savings, meaning the money instantly becomes less valuable starting the moment it's earned. Even relatively well-paid workers may fear not having enough money for retirement, unexpectedly losing a job, or having a health crisis, and thus even well-off people can feel financially desperate as well.
 
@@ -46,15 +46,15 @@ Banks and landlords regulate the prices of houses and apartments, calculating th
 
 Authorities may make the drawbacks of poverty arbitrarily terrible, including putting poor people in prison, shaming poor people, forcing poor people to eat less nutritious food, or taking away poor people's children when they struggle to provide safe, clean homes.
 
-Authorities may allow crime and drugs in the poor parts of town, have the police mistreat poor people in a variety of ways, routinely underfund schools in the poor districts, and allow factory pollution to be worse in poor areas.**
+Authorities may allow crime and drugs in the poor parts of town, have the police mistreat poor people in a variety of ways, routinely underfund schools in the poor districts, and allow factory pollution to be worse in poor areas.
 
 The financial desperation that powers most market economies also compels poor people to fight the wars of the rich. In unhealthy cultures around the world, plenty of people join the police or military as a way to escape poverty or dangerous neighborhoods.
 
 Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
 
-Of course, rulers may not need to force bankers, politicians, and individual bosses to all play their part. All they need to do is create an economy that systematically rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, playing their part in maintaining their profit economy.**
+Of course, rulers may not need to force bankers, politicians, and individual bosses to all play their part. All they need to do is create an economy that systematically rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, playing their part in maintaining their profit economy.
 
-### Command Economies: When Your Master Chooses You**
+### Command Economies: When Your Master Chooses You
 
 Authorities' underlying attitude in market economies is "find a way to serve us, or enjoy your poverty." Workers don't legally have to have a job, but they face desperate poverty if they don't find a way to serve some master somewhere. However, in market economies the worst punishment for disobedience is usually just being fired. In command economies, the approach is more direct: "Obey my order, or I will punish you." Workers in these situations generally do not choose their boss and are physically punished if they do not follow orders.
 
@@ -64,7 +64,7 @@ Militaries are command economies as well. When there is a draft, governments for
 
 Whether the workers are trying to avoid punishment or poverty, or the leaders are trying to get rich, every role helps reinforce the profit economy that ultimately generates wealth for the ruling class.
 
-What would it be like to live in a nation without selfishness, where sharing was rewarded instead of profiting?**
+What would it be like to live in a nation without selfishness, where sharing was rewarded instead of profiting?
 
 ### Gift Economies Generate and Spread Abundance
 Gift economies reward sharing. They ensure everyone is taken care of, moving resources to where they're most needed or where they serve the greatest good. 
@@ -107,4 +107,4 @@ In cultures that forbid people from standing for what's right and upholding thei
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for what's right, and nobody rules over anybody else.
 
-Selfishness is pervasive in every unhealthy culture. Why has it been so rare for unhealthy cultures to address that deep selfishness? And what is life like in a society where courageous solidarity is the norm instead? To find out, join me in _Chapter 6: Why Are We So Lost?_**
+Selfishness is pervasive in every unhealthy culture. Why has it been so rare for unhealthy cultures to address that deep selfishness? And what is life like in a society where courageous solidarity is the norm instead? To find out, join me in _Chapter 6: Why Are We So Lost?_

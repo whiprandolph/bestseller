@@ -12,13 +12,13 @@ When you live in a culture where few people care if you eat tonight or what happ
 
 But is it really normal?
 
-Every healthy culture I've studied deeply supports and promotes generosity (giving) and reciprocity (sharing with others who share with me) as a normal way of life. The following stories show what life would be like if, instead of default selfishness, generosity and reciprocity were the norm.
+Every healthy culture I've studied strongly promotes generosity (giving) and reciprocity (sharing with others who share with me) as a normal way of life. The following stories show what life would be like if, instead of default selfishness, generosity and reciprocity were the norm.
 
 ### Generosity from Birth
 
-Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and so on, and at each feast they gave away as much as they could for the benefit of those who had little.
+Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and so on, and at each feast the parents gave away as much as they could for the benefit of those who had little.
 
-Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's band was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to be brave as he faced the consequences of his generosity. She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
+Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to be brave as he faced the consequences of his generosity. She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
 
 ### Generosity Towards All Life
 
@@ -30,11 +30,11 @@ In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shep
 
 ### Generosity is the Norm
 
-These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any society that encourages generosity and strongly discourages selfishness. The people serve each other and the Earth generously, and generosity is pervasive in all these societies, including their leadership. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.
+These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any society that encourages generosity and strongly discourages selfishness. The people base their lives on the three core spiritual practices of gratitude, gift-giving, and reciprocity, and so generosity is pervasive in all these societies, including their leadership. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.
 
-I grew up in a Christian family, and I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed extreme because I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.**
+I grew up in a Christian family, and I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed extreme because I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.
 
-Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the women would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.
+Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.
 
 Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the woman commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.
 
@@ -50,7 +50,7 @@ How do healthy cultures maintain widespread generosity? Is it by chance? Are som
 
 Eventually I noticed that it's no accident: in every healthy culture I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-In her book _Braiding Sweetgrass_, Potawatomi woman Robin Kimmerer describes how the traditional Potawatomi noticed when people behaved selfishly and helped them feel comfortable sharing again. If someone refused to share, the Potawatomi first counseled them, and if they insisted on acting greedily, they then escalated to ostracizing and even banishing them.
+In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she describes how the traditional Potawatomi noticed when people behaved selfishly and helped them feel comfortable sharing again. If someone refused to share, the Potawatomi first counseled them, and if they insisted on acting greedily, they then escalated to ostracizing and even banishing them.
 
 Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to be in a culture with pervasive selfishness and greed? 
 
@@ -90,7 +90,7 @@ In healthy cultures, everyone stands for a culture of mutual respect, so they ha
 
 In unhealthy human cultures, one person or a few people rule over everyone else. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid everybody else from taking initiative to hold misbehaving people accountable.
 
-Another way of putting it is this: in unhealthy cultures, a small number of people trap a large number in exploitative relationships. Rulers use all manner of tricks, traps, and childhood training to convince everyone to remain obedient. Many of these techniques are reviewed briefly in this book, and they are covered in greater detail in the free book _One Disease One Cure_ by the same author.
+Another way of putting it is this: in unhealthy cultures, a small number of people trap a large number in exploitative relationships. Rulers use all manner of tricks, traps, and childhood training to convince everyone to remain obedient. Many of these abusive techniques are reviewed briefly in this book, and they are covered in greater detail in the free book _One Disease One Cure_ by the same author.
 
 Other names for an unhealthy culture include "authoritarian culture," "unfree culture," "low-accountability culture" and "abusive culture."
 
@@ -98,10 +98,12 @@ Having rulers creates all the other problems that anybody can see. Racism, sexis
 
 Every single culture where a person or group imposes law on the rest also has sexism, racism, greed, corruption, poverty, and so many other troubles that seem to never go away.
 
-I simply don't see these troubles in the societies where everyone stands for what's right, and everyone agrees on the rules they will live by -- that is, in cultures without a ruling class imposing laws on the rest.
+I simply don't see these troubles in societies where everyone stands for what's right, and everyone agrees on the rules they will live by -- that is, in cultures without a ruling class imposing laws on the rest.
 
-That is good news! It means there is a way to end racism. There is also a way to end sexism, widespread greed, pollution, disconnection from nature, and so many other problems. The way to end all these troubles is simply the path to freedom: working with other people to generate a culture where everyone agrees on their laws and everyone upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
+That is good news! It means there is a way to end racism. There is also a way to end sexism, widespread greed, pollution, disconnection from nature, and so many other problems. The way to end all these troubles is simply the path to freedom: working with other people to generate a culture where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
 
 How do rulers or ruling classes make it so hard to have an economy based on sharing and reciprocity? And how do ruling classes shape their society so people tolerate endless exploitation and corruption?
 
 To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We Lost?_.
+
+<div style="break-after:page"></div>

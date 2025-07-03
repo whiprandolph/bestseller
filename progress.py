@@ -5,11 +5,11 @@ chapters = {
   "Part 1 - This Is Who We Really Are": [
     (1, 1, "This is Who We Really Are.md"),
     (1, 1, "Healthy Cultures Were the Norm for Millions of Years.md"),
-    (1, 1, "Three Core Spiritual Practices of Healthy Cultures.md"),
+    (1, 1, "Three Core Spiritual Practices.md"),
     (1, 1, "Pervasive Generosity is Normal.md"),
   ],
   "Part 2 - Why Are We So Lost？": [
-    (1, 1, "Gift Economy vs Profit Economy.md"),
+    (1, 1, "Encouraging Generosity vs Encouraging Selfishness.md"),
     (1, 1, "Why Are We So Lost？.md"),
     (1, 1, "Empowering vs Disempowering Spirituality.md"),
     (1, 1, "The Source of Racism and Hatred, And How to Live Without Them.md"),

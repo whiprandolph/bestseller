@@ -94,7 +94,7 @@ This was obviously humiliating for colonial leaders who pretended not to abusive
 
 In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy culture they'd been able to experience!
 
-These healthy cultures were a major threat to colonial leaders, because their existence showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, and corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.
+These healthy cultures were a major threat to colonial leaders, because their existence showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.
 
 ### Deep Respect, Even when Capturing Prisoners of War
 
@@ -110,4 +110,6 @@ In this way, healthy cultures do not capture people and treat them abusively, wh
 
 All these stories showed me that the beauty of the Ashaninka isn't unique. Every culture is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect. Different nations might do this in different ways, but all healthy cultures, one way or another, do or did somehow maintain a respectful way of life. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and the leadership serves everyone instead of a few rich people.
 
-Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?**
+Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?
+
+<div style="break-after:page"></div>
