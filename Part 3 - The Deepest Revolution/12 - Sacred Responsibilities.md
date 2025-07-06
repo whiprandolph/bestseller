@@ -2,6 +2,7 @@
 
 <toc/>
 
+* [Children](#children)
 * [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
 * [Gracious Receiving: Choose Leaders that Actually Serve the People](#gracious-receiving-choose-leaders-that-actually-serve-the-people)
 * [Sacred Responsibilities](#sacred-responsibilities)
@@ -37,6 +38,8 @@ These are the three core spiritual practices at play --
 3. Living in reciprocity: giving back to the humans and nonhumans who give so much to me.
 
 The big shift was to see myself as the Earth, not somehow different or separated -- another attitude I see in every healthy culture. Okanagan woman Jeannette Armstrong said, "it's not just that we're part of the land... but that the land is us." It's true -- each of us is a gift of the Earth, alive to receive the gifts of others and give our own gifts in reciprocity, each person in their own way.
+
+### Children
 
 ### Live in Reciprocity as a Normal Way of Life
 

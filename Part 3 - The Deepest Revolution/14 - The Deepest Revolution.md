@@ -13,8 +13,7 @@ In the 1770s, American revolutionaries cried "Give me Liberty or give me Death!"
 
 Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but their attitudes of body-shaming, women-shaming, sex-shaming, equating pleasure and sin, belief in people's inclination to evil or disconnection from god, and other profoundly hurtful attitudes have actually trained people not to have the personal strength to stand for what's right, as Jesus Christ did. For centuries, anyone who didn't adopt this deeply hurtful Christian interpretation of Jesus Christ's teachings was labeled a heretic and tortured to death. The history of Islam, Buddhism, and other authoritarian religions have similar stories.
 
-As the Mohawk writers noted, "We need to identify the process that so often leads people who are honestly seeking to resist and destroy colonization to unconsciously recreate the elements of
-their own oppression."
+As the Haudenosaunee writers noted, "We need to identify the process that so often leads people who are honestly seeking to resist and destroy colonization to unconsciously recreate the elements of their own oppression."
 
 A few thousand years ago, every human alive lived in healthy cultures, meaning every human has ancestors who once lived in a beautiful way. Some people have been trapped in unhealthy cultures for decades, and other people and their ancestors have been trapped for centuries or millennia. Each in their own way, ruling classes around the world consistently train people to tolerate and even support having rulers impose law on them. People are trained not to have a deep connection with nonhumans, and not to notice what's missing. They're trained to think they're free because they can vote, or choose what job they work at. They're trained to think they don't need to stand for what's right because it's the police's job to enforce the law -- which means they're trained for cowardice. They're trained to think "tribes" all transitioned to "civilizations" thousands of years ago, and due to agriculture or population size, no other way of life is possible. They're trained for selfishness, shame, distrust, isolation, despair, and other paralyzing qualities that discourage people from standing for what's right in solidarity with each other and the Earth.
 
@@ -66,13 +65,17 @@ But it doesn't have to be this way.
 
 ### The Deepest Revolution
 
+Many people fear that their country is getting "less free" or is "becoming fascist." Unhealthy cultures are all dictatorships, were a few people dictate the law and how it's enforced, and the rest are expected to obey. They do not become more or less free over time.
+
+Instead, people simply learn to accept certain amounts of exploitation and abuse as legitimate and normal. When ruling classes want to increase the normal levels of exploitation or suppress people's speech, this can seem like a loss of freedom. But this is like prisoners complaining that the warden is reducing the amount of time they can spend outside in the courtyard. Yes, life is worse after the change. But the prisoners weren't free before it.
+
 In shallow revolutions, people overthrow their ruling class only to install new rulers. The ideologies might change, but the exploitation remains, and the lives of most people don't change much.
 
 I believe the deepest revolution occurs when a group takes a stand together, creating their own laws to make a respectful society, and protecting themselves from any unhealthy cultures that might try to reconquer them. This was the Zapatistas' path. They did not march on the capital of Mexico and take over the country, which would have only made them rulers of an unhealthy culture. Instead they took a stand for their own laws and protected each other when the military attacked.
 
 In a sense, the deepest revolution is simple: a group of people would simply need to make agreements with each other, and then have the integrity and bravery to uphold those agreements. They would need to make agreements about how to protect themselves from selfish outsiders. They would need to agree on how to treat each other respectfully, and resolve disputes. They would need to make agreements about how to share, make decisions, and account for the needs of the Earth where they live.
 
-Of course, this begs many questions. What would these agreements look like exactly? How could a group of deep integrity grow, cultivating trust between people who used to be strangers? How could people cultivate deep generosity despite living in a profit economy which rewards selfishness? How could people learn how to receive the Earth's gifts in respectful ways, including fire, shelter, food, water, and life lessons? How could a group survive in the face of infiltrators and snitches? How could such a group effectively defend itself and the land, including with modern weapons?
+Of course, this begs many questions. What would these agreements look like exactly? How could a group of deep integrity grow, cultivating trust between people who used to be strangers? How could people cultivate deep generosity despite living in a profit economy which rewards selfishness? How could people learn how to receive the Earth's gifts in respectful ways, including fire, shelter, food, water, and life lessons? How could a group survive in the face of infiltrators and snitches? How could such a group effectively defend itself and the land, including with effective weapons?
 
 There are no easy answers, but I think the answer is simple: once they truly commit to deep change, every person and group _will figure it out_. Of course, "simple" doesn't mean "easy." It helped me to find healthy cultures and people of unhealthy cultures who can teach by example. I collected many stories in _One Disease One Cure_ from healthy cultures around the world, showing how people maintain a way of life with widespread integrity, generosity, and dignity, all while living in reciprocity with nonhumans. There are also examples of people of unhealthy cultures acting with incredible bravery and integrity even knowing it might cost them their lives, including Harriet Tubman, Jesus Christ, and Martin Luther King Jr. Find the heroes and mentors who can inspire and teach practical lessons.
 
@@ -92,3 +95,9 @@ My suggestion is: find a person to have this sort of deep connection with. Then 
     * marxists: economic transformation will put workers on top (look up citation)
     * capitalists: invisible hand of the market
     * Christians: Jesus will come back for us
+
+
+
+Many people fear that their country is getting "less free" or is "becoming fascist." Unhealthy cultures are all dictatorships, were a few people dictate the law and how it's enforced, and the rest are expected to obey. They do not become more or less free over time.
+
+Instead, people simply learn to accept certain amounts of exploitation or abuse as legitimate and normal. When ruling classes want to increase the normal levels of exploitation or suppress people's speech, this can seem like a loss of freedom. But this is like prisoners complaining that the warden is reducing the amount of time prisoners can spend outside in the courtyard. Yes, life is worse after the change. But the prisoners weren't free before it.

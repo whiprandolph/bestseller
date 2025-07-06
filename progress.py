@@ -11,7 +11,7 @@ chapters = {
   "Part 2 - Why Are We So Lost？": [
     (1, 1, "Encouraging Generosity vs Encouraging Selfishness.md"),
     (1, 1, "Why Are We So Lost？.md"),
-    (1, 1, "Empowering vs Disempowering Spirituality.md"),
+    (1, 1, "Encouraging vs Discouraging Spirituality.md"),
     (1, 1, "The Source of Racism and Hatred, And How to Live Without Them.md"),
     (1, 1, "Encouraging Solidarity vs Discouraging Solidarity.md"),
     (1, 1, "Selfish Violence vs Violence-In-Service.md"),

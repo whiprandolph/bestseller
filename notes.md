@@ -4,6 +4,20 @@
 * remove all ** edit marks
 * add hawks hunting pic?
 
+### Costs
+
+#### Editing (1560)
+
+* 450 - Mar 22 invoice
+
+* 420 - May 28 invoice
+
+* 690 - June 25 invoice
+
+#### Copyrights (300)
+
+* AP for two riot police pics: $300 total, paid 7.5.25
+
 ### Old Notes
 * open with Ashaninka piece?
   * still immersive, first-hand, no/minimal theorizing

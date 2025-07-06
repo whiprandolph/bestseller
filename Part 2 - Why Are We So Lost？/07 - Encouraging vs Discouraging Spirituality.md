@@ -1,4 +1,4 @@
-## Chapter 7: Encouraging vs Discouraging Spirituality**
+## Chapter 7: Encouraging vs Discouraging Spirituality
 
 If you were a king, and you wanted to train your subjects to obey you, what would you do? For starters, you would want to train your subjects to not stand up for what's right, and instead to passively accept your laws and how you choose to enforce them (or not).
 
@@ -18,9 +18,9 @@ Self-respecting people generally do not passively submit to abusive authorities.
 
 When anyone is disrespected, it's normal for people to respond to protect the victim, just like the Nootka protected the mirror-person discussed in the previous chapter.
 
-Haudenosaunee writers noted how they consistently maintained "the ideology that, if an injustice occurs, it is their moral duty to defend the oppressed against their oppressor" based on the belief that "if absolute justice was established in the world, peace would naturally follow... [and] universal justice is the product of a spiritually strong society." In order to do this, "many of the rules... are designed to create a strong society rather than a strong government."**
+Haudenosaunee writers noted how they traditionally maintained "the ideology that, if an injustice occurs, it is their moral duty to defend the oppressed against their oppressor" based on the belief that "if absolute justice was established in the world, peace would naturally follow... [and] universal justice is the product of a spiritually strong society." In order to do this, "many of the rules... are designed to create a strong society rather than a strong government."
 
-However, in unhealthy cultures -- just like in abusive domestic relationships between two people -- abusive authorities consistently treat their subjects poorly, training people to believe all manner of deeply hurtful things that encourage shame, low self-worth, a sense of disconnection from divinity, fear of one's core instincts, rejection of pleasure, a belief that humans are inherently selfish and untrustworthy, beliefs that people deserve to suffer, and more.**
+However, in unhealthy cultures -- just like in abusive domestic relationships between two people -- abusive authorities consistently treat their subjects poorly in countless ways, encouraging shame, low self-worth, disconnection from divinity, fear of one's core instincts, rejection of pleasure, beliefs that humans are inherently selfish and untrustworthy, beliefs that people deserve to suffer, and more.
 
 For example, the Catholic Church's official dogma states that humans are "inclined to sin" and have "an inclination to evil." Still one of the most followed religions in the world, Catholicism states that the first human (Adam) "lost the original holiness and justice he had received from God, not only for himself but for all human beings."
 
@@ -36,11 +36,11 @@ Evil could exist almost anywhere, from doorways to cracks in stones, and -- surp
 
 Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."
 
-Why would rulers deliberately push these attitudes and beliefs if not to deliberately discourage the personal strength and collective solidarity that might allow people to unite, make their own respectful laws, and uphold those laws together?**
+Why would rulers deliberately push these attitudes and beliefs if not to deliberately discourage the personal strength and collective solidarity that might allow people to unite, make their own respectful laws, and uphold those laws together?
 
-Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.**[xxx-CINDY: moved this and the previous para to slightly later in the section to break up the laundry list of BS. What do you think of this location?]
+Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
-Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing this desire for sensual pleasures is supposedly the path to ending suffering.
+Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.
 
 Authoritarian religions commonly teach divisive sexism, discouraging solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..." The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man." Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."
 
@@ -95,7 +95,5 @@ If everyone truly has deep love to give, how come racism and hatred are so preva
 [xxx-duplicate with sacred responsibility chapter]
 
 [xxx-NOTE: duplicate from earlier chapters]
-
-[xxx-CINDY: let's talk about the chapter name]
 
 [xxx-CINDY: moved this and the previous para to slightly later in the section to break up the laundry list of BS. What do you think of this location?]

@@ -1,10 +1,28 @@
-## Chapter 8: The Source of Racism and Hatred, And How to Live Without Them
+## Chapter 8: Where Do Racism and Hatred Come From?
+
+Many people born and raised in unhealthy cultures seem to think that humans are naturally racist, sexist, and prone to hate. Or at least some are.
+
+This is not true. No one is born racist, sexist, or hateful. Every child, regardless of their culture, is born with an open heart, capable of empathizing with others and full of curiosity.
+
+However, immersed from birth in unhealthy cultures, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are programmed to discriminate against others, but that programming is not inherent in our DNA. It has to be taught.**
+
+How are racism and other kinds of discrimination taught? I believe this relentless training arises from three underlying cultural drivers:
+
+1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. For example, in the 1600s, wealthy slaveowners in colonial Virginia decided ony black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Anyone who spoke out against this system was imprisoned or killed.
+
+2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than help slaves escape. We see this in many other forms today, as people adopt whatever attitudes help protect their greater privilege.
+
+3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes.
+
+How does this work in practice? Eventually I learned that a simple children's story illustrates how authorities impose and maintain racism and hatred, similar to major events currently happening in the news.
+
+### Authorities Impose and Maintain Racism and Hatred
 
 Remember that old story "The Emperor's New Clothes"?
 
 A con man tricks an emperor into believing that he is dressed in beautiful, expensive clothing when, in fact, he is wearing nothing at all. Afraid to be called a fool by this very confident man, the emperor pretends that he really is wearing beautiful clothing, and his close officials go along with it. The emperor then goes out among the public stark naked, and the masses of people pretend to admire his fine clothing. Everybody maintains this pretense until a child blurts out that the emperor is nude.
 
-Why would all the adults pretend to believe an obvious falsehood? When I first found this story as a child, it seemed silly! Eventually I learned that this story actually explains one of the major drivers of racism and hatred in the world, including major events currently happening in the news.
+When I first found this story as a child, it seemed silly! Why would all the adults pretend to believe an obvious falsehood? But I have a question for you -- do you think you would point out the king's nakedness? Or would you pretend too?
 
 So what does this old children's story have to teach about ignorance, racism, and hatred happening right now?
 
@@ -72,11 +90,11 @@ Stories of selfish rulers contrast vividly with countless stories of generous se
 
 Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? Or is there a responsibility people could take to ensure that only the most selfless people become leaders?
 
-Can you imagine having leaders who were so humble that they would never campaigned for office? How would they even become leaders then?
+Can you imagine having leaders who were so humble that they would never campaign for office? How would they even become leaders then?
 
 Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
 
-It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging. 
+It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging.
 
 If you want to be able to live in a healthy culture, with leaders who serve the people instead of selfishly serving themselves, _notice other people's good deeds and tell their stories_. This is based on that first core spiritual practice of practical, aware gratitude for the gifts of others. Each good deed is a gift, and one way to receive that gift graciously is to tell the story so that others know.
 

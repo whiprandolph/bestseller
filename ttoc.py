@@ -6,17 +6,18 @@ import markdown2
 import subprocess
 from progress import chapters
 
-md_dir = r"C:\Users\whip\bestseller"
-html_dir = r"C:\Users\whip\bestseller-html"
-pdf_dir = r"C:\Users\whip\bestseller-pdf"
-md_publish_dir = r"C:\Users\whip\bestseller-md-publish"
+md_dir = r"C:\Users\whip\tdr"
+html_dir = r"C:\Users\whip\tdr-book-html"
+top_images_dir = os.path.join(html_dir, 'images')
+pdf_dir = r"C:\Users\whip\tdr-book-pdf"
+md_publish_dir = r"C:\Users\whip\tdr-md-publish"
 
 PUBLISH = True
 
 full_html = ""
 full_html_path = os.path.join(html_dir, 'full_book.html')
 
-def get_file_list():
+def get_file_list(ignore_images = False):
     path_list = []
     chapter_number = 0
     for part_name, chapter_names in chapters.items():
@@ -28,9 +29,10 @@ def get_file_list():
                 breakpoint()
             path_list.append(chapter_path)
             chapter_number += 1
-        images_path = os.path.join(part_path, 'images')
-        if os.path.exists(images_path):
-            path_list.extend([os.path.join(images_path, x) for x in os.listdir(images_path)])
+        if not ignore_images:
+            images_path = os.path.join(part_path, 'images')
+            if os.path.exists(images_path):
+                path_list.extend([os.path.join(images_path, x) for x in os.listdir(images_path)])
     return path_list
 
 
@@ -67,6 +69,11 @@ def transform(file_list):
             html_path = file_path.replace(md_dir, html_dir)
             if not os.path.exists(os.path.dirname(html_path)):
                 os.mkdir(os.path.dirname(html_path))
+            # also put image in top-level images dir
+            if not os.path.exists(top_images_dir):
+                os.mkdir(top_images_dir)
+            top_img_dir_dest_path = os.path.join(top_images_dir, os.path.basename(file_path))
+            shutil.copy(file_path, top_img_dir_dest_path)
             shutil.copy(file_path, html_path)
             continue
         else:
@@ -89,6 +96,10 @@ def transform(file_list):
         open(full_html_path, 'a', encoding='utf-8').write(html)
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
+def is_chapter_name(chapter_name, chapter_path):
+  return 'introduction' not in chapter_name.lower() and 'appendices' not in chapter_path.lower() and "preface material" not in chapter_path.lower() and "part 12" not in chapter_path.lower()
+
+
 def main():
     file_list = get_file_list()
     for file_path in file_list:
@@ -97,6 +108,6 @@ def main():
     transform(file_list)
 
 if __name__ == '__main__':
-    start_time = time.time()    
+    start_time = time.time()
     main()
     print("%ss" % round(time.time()-start_time, 2))
