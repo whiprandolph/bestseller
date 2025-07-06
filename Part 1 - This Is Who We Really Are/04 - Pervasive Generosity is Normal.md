@@ -50,7 +50,7 @@ How do healthy cultures maintain widespread generosity? Is it by chance? Are som
 
 Eventually I noticed that it's no accident: in every healthy culture I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she describes how the traditional Potawatomi noticed when people behaved selfishly and helped them feel comfortable sharing again. If someone refused to share, the Potawatomi first counseled them, and if they insisted on acting greedily, they then escalated to ostracizing and even banishing them.
+Robin Kimmerer described how the traditional Potawatomi noticed when people behaved selfishly and helped them feel comfortable sharing again. If someone refused to share, the Potawatomi first counseled them, and if they insisted on acting greedily, they then escalated to ostracizing and even banishing them.
 
 Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to be in a culture with pervasive selfishness and greed? 
 

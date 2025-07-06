@@ -42,7 +42,7 @@ Actually, no. As later chapters show, when people live in respectful societies w
 
 And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, isolation, and humiliation that comes from being imprisoned.
 
-Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. Potawatomi woman Robin Kimmerer explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..." 
+Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..." 
 
 Banishing or killing someone for severe misbehavior, like hoarding wealth or killing someone in anger, appears to have been very rare.
 
@@ -106,7 +106,7 @@ People of healthy cultures have openly acknowledged that they treat their captiv
 
 Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.
 
-In this way, healthy cultures do not capture people and treat them abusively, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy cultures ensure they keep that baseline of mutual respect.
+In this way, healthy cultures do not capture people and treat them abusively, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy cultures ensure they keep that internal baseline of mutual respect.
 
 All these stories showed me that the beauty of the Ashaninka isn't unique. Every culture is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect. Different nations might do this in different ways, but all healthy cultures, one way or another, do or did somehow maintain a respectful way of life. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and the leadership serves everyone instead of a few rich people.
 

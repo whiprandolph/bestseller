@@ -1,4 +1,4 @@
-## Introduction: Can Whole Nations Exist Without Sexism, Racism, Pollution, Dishonest Leaders, Rich and Poor, Disconnection from Nature, and Child Abuse?
+## Introduction to The Deepest Revolution
 
 I grew up in a middle-class family in the United States. Even though my life had always been pretty comfortable, by my mid-20s I had the sense that something in my culture was deeply wrong.
 
@@ -36,7 +36,7 @@ Was my desire for a healthy culture without discrimination, corruption, and gree
 
 As soon as I began to ask these questions, I realized I did not even know what a healthy culture looked like. Thinking back on all the unsatisfying political conversations I had had, and all the political conversations I saw on TV, I realized I'd never found anybody who had any idea what a healthy culture looked like either.
 
-Eventually, I realized how ridiculous this is. Imagine if doctors only studied sick people, and never encountered even one healthy person in their entire careers. Even after a decade of studying of various diseases, what if doctors could only speculate on what a healthy person was like, and could only give diagnoses and cures based on their theoretical idea of "healthy?" Each doctor might have their own hunch about what makes a person healthy, but none of them would actually know, and so, not surprisingly, a lot of their "cures" might not be very helpful.
+Eventually, I realized how ridiculous this is. Imagine if doctors only studied sick people, and never encountered even one healthy person in their entire careers. Even after a decade of studying various diseases, what if doctors could only speculate on what a healthy person was like, and could only give diagnoses and cures based on their theoretical idea of "healthy?" Each doctor might have their own hunch about what makes a person healthy, but none of them would actually know, and so, not surprisingly, a lot of their "cures" might not be very helpful.
 
 This is essentially what happens when most people try to diagnose what's wrong with their unhealthy culture and suggest fixes. People who have never even heard of healthy cultures without corruption, greed, and discrimination are trying to diagnose the social and political problems of their own unhealthy culture and promote various cures.
 

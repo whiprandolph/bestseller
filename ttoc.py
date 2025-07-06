@@ -64,7 +64,7 @@ def transform(file_list):
             print("not found: %s" % file_path)
             breakpoint()
             a = 4
-        
+
         if 'images' in file_path:
             html_path = file_path.replace(md_dir, html_dir)
             if not os.path.exists(os.path.dirname(html_path)):

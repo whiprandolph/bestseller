@@ -12,7 +12,7 @@ I'm not talking about a weird cult or tiny communities of saints. I'm talking ab
 
 Does this sound like a fantasy? I thought so too, until I was blessed to live briefly in such a place, a nation of thousands of people living across many villages deep in the Amazon forests. 
 
-My short time there in 2015 was utterly magical and changed my life. As the Englishman named Mike who invited me said, "you will spend the rest of your life figuring out lessons to learn from these people."
+My short time with the Ashaninka in 2015 was utterly magical and changed my life. As the Englishman named Mike who invited me said, "you will spend the rest of your life figuring out lessons to learn from these people."
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 
@@ -38,7 +38,7 @@ Even their leaders surprised me. When I arrived at one very far-away village, a 
 
 Given their integrity and generosity, I wasn't surprised that no one seemed concerned about robbery. I never saw a building with doors, much less locks. Few of their houses even had walls!
 
-On Mike's suggestion, I made sure to bring a large sack of goods with me as gifts, including material for fishing, sewing, cooking, and anything else Mike had said they would find useful. I estimated I spent hundreds of dollars on it all, and when they told me I could leave it in a home far from the village where I would be staying, I hesitated at first. Yet when I returned 2 weeks later with many Ashaninka to give out the gifts, I found the sack untouched, just as I had left it.
+On Mike's suggestion, I made sure to bring a large sack of goods with me as gifts, including material for fishing, sewing, cooking, and anything else Mike had said they would find useful. I spent hundreds of dollars on it, and when they told me I could leave it in a home far from the village where I would be staying, I hesitated at first. Yet when I returned 2 weeks later with many Ashaninka to give out the gifts, I found the sack untouched, just as I had left it. This kind of widespread integrity was normal and unremarkable.
 
 As I handed out the gifts, they seemed genuinely grateful, and no one asked for more. I felt happy to share but sad too that I didn't have more to give. 
 
@@ -48,7 +48,7 @@ When it was time for me to go a week later, I did not want to say good-bye. All 
 
 I left the Ashaninka feeling both elated and confused.
 
-A few months later, my father asked me what I had learned. I told him, I didn't yet know, and I was still figuring it out. But I knew this: people can live differently. We can treat each other well. I knew it was possible, and I would never doubt it again because I saw it with my own eyes.
+A few months later, my father asked me what I had learned. I told him that I didn't know yet, and I was still figuring it out. But I knew this: people can live differently. We can treat each other well. I knew it was possible, and I would never doubt it again because I saw it with my own eyes.
 
 The more I looked around in my own culture, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
