@@ -40,7 +40,11 @@ And who are the police protecting the rich and powerful from? Of course, they ar
 
 In unhealthy cultures, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption, crime, and domination?
 
-As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way. Every single human feels a deep urge to stand up for what's right in their culture, and unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right.
+As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
+
+Every single human feels a deep urge to stand up for what's right in their culture, and _your urge to "stand for what's right" is the natural urge to uphold the laws of your own society_. In healthy cultures, people are expected to act on that urge. In unhealthy cultures, they are punished for acting on it.**
+
+Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against their abusive authorities.**
 
 In healthy cultures, standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the courage to consistently uphold their laws with integrity.
 
@@ -58,9 +62,9 @@ If a person were vain about their clothes, a mirror might follow behind them wea
 
 The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how silly it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."
 
-Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.[xxx-Cindy: added "glass" mirrors to distinguish from human-mirrors]
+Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.
 
-One day, a mirror from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else. 
+One day, a mirror person from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else. 
 
 She moved to the front and waited for church to start.
 
@@ -70,7 +74,7 @@ The preacher started ranting about nudity, naked women, sin, and respect for God
 
 Acting violently towards a mirror was absolutely not allowed, and the storyteller said, "The people just about ripped him apart." But the mirror protected him from the crowd, went up to where the preacher had been, and began speaking.
 
-The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by people who looked and acted differently. Then she reminded her neighbors of the beauty of their respectful way of life when she said, "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd about following anybody "who was so mixed up they'd do forbidden things."[xxx-Cindy: is this still clear with all the uses of the word mirror?]
+The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by people who looked and acted differently. Then she reminded her neighbors of the beauty of their respectful way of life when she said, "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd about following anybody "who was so mixed up they'd do forbidden things."
 
 I feel impressed that this woman calmly but clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story showed me that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
 
@@ -81,15 +85,7 @@ And this solidarity was not a one-off event. It was a way of life. The clown wal
 This solidarity can only exist if neighbors act generously with each other. If selfishness is widespread, it is naturally hard for people to trust each other to stand for what's right, even at great personal risk.
 
 ### Solidarity and Generosity Used to be Universal
-[xxx-cindy: this closing section moved from the econ chapter]
-A few thousand years ago, every human alive lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
 
-To explore deep spiritual training, join me in _Chapter 6: Heart-Closing vs Heart-Opening_.
+A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
 
-### References
-
-[xxx-Cindy: added "glass" mirrors to distinguish from human-mirrors]
-
-[xxx-Cindy: is this still clear with all the uses of the word mirror?]
-
-[xxx-cindy: this closing section moved from the econ chapter]
+To explore deep spiritual training, join me in _Chapter 7: Encouraging vs Discouraging Spirituality_.

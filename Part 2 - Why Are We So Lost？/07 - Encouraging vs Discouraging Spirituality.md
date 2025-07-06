@@ -28,7 +28,7 @@ And it's not just humans who are inherently bad or evil. Catholic dogma states t
 
 And it gets worse -- apparently we were born into a sinful world that our sinful ways helped create! What message could possibly encourage more hopelessness?
 
-In another example, the Islamic Quran likewise causes people to doubt their own sense of right and wrong, and to trust authorities instead. The Quran repeatedly states Allah's omniscience: "Allah is All-Forgiving, Most Merciful... Surely Allah is Almighty, All-Wise... And Allah is All-Hearing, All-Knowing." The Quran paints the Islamic God Allah as omniscient, and how should a person respond if they have a feeling, urge, or thought that does not align with their authorities' religious text? The Quran is clear: "Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
+The Islamic Quran likewise causes people to doubt their own sense of right and wrong, and to trust authorities instead. The Quran repeatedly states Allah's omniscience: "Allah is All-Forgiving, Most Merciful... Surely Allah is Almighty, All-Wise... And Allah is All-Hearing, All-Knowing." The Quran paints the Islamic God Allah as omniscient, and how should a person respond if they have a feeling, urge, or thought that does not align with their authorities' religious text? The Quran is clear: "Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
 
 Buddhist authorities have pulled the same authority-supporting tricks. Visitors to Tibet prior to the Chinese takeover in the 1950s found Tibetan Buddhists teaching that the world is full of evil. Every bend of the road, stream crossing, or village entrance had to have a row of flags to exorcize evil spirits. Lakes, wells, and streams teamed with demons who brought floods and hail storms upon anyone who violated their religious leaders' rules.
 
@@ -36,7 +36,7 @@ Evil could exist almost anywhere, from doorways to cracks in stones, and -- surp
 
 Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."
 
-Why would rulers deliberately push these attitudes and beliefs if not to deliberately discourage the personal strength and collective solidarity that might allow people to unite, make their own respectful laws, and uphold those laws together?
+Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people free themselves by uniting, making their own respectful laws, and upholding those laws together?**
 
 Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
@@ -56,25 +56,31 @@ And if people really are so terrible, then of course it's foolish to trust one's
 
 Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave," and the Christian Bible and Islamic Quran urge Christians and Muslims around the world to believe they are free even while obeying their authorities. Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise. And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
 
-And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "normal" and "just how life is" to countless inhabitants, including Americans, Chinese, Australians, Koreans, and more. Most citizens may vote, have unproductive political arguments with neighbors, worry about their life after death, pray intensely, wait for a prophet to be reborn and save them, or almost anything other than doing the one thing that could actually improve their spiritual, emotional, and physical lives immensely: come together in solidarity, create their own laws, and uphold them to create new healthy cultures.
+And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "normal" and "just how life is" to countless inhabitants, including Americans, Chinese, Australians, Koreans, and more. Most citizens may vote, have unproductive political arguments with neighbors, worry about their life after death, "pray" intensely by thinking thoughts in their head, wait for a prophet to be reborn and save them, or almost anything other than doing the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.**
 
 ### Authorities Kill or Imprison Our Spiritual Leaders
 
 When authorities outlaw the path to freedom, and people forget what it's like to take deep responsibility for each other and the Earth, they can easily become isolated and spiritually lost, focusing on making money or clinging to whatever comfort and safety they can find.
 
-Still, that innate human desire to be who we really are runs deep. Spiritual leaders commonly arise in every unhealthy culture to help people walk a good path again. Spiritual leaders like Jesus Christ, Martin Luther King Jr, and countless others have helped people share resources, trust their neighbors, release their shame, increase their self-worth, understand their true history, and more. 
+Still, that innate human desire to be who we really are runs deep. Spiritual leaders commonly arise in every unhealthy culture to help people walk a good path again. Spiritual leaders like Jesus Christ, Martin Luther King Jr, and countless others have helped people share resources, trust their neighbors, release their shame, increase their self-worth, recognize false propaganda, understand their true history, and more.
 
-Jesus Christ was called a "messiah" (which simply means "savior" or "liberator") because the Jews wanted someone to save them. But save them from what? They wanted someone to save them from oppressive Roman rule. They wanted a revolutionary, and Jesus stood up and carried on with his revolutionary work even knowing authorities would surely kill him for it. And they did.
+Jesus Christ was called a "messiah" (which simply means "savior" or "liberator") because the Jews wanted someone to save them. But save them from what? They wanted someone to save them from oppressive Roman rule. They wanted a revolutionary, and Jesus stood up and did his revolutionary work even knowing authorities would surely kill him for it. And they did.
 
-Just like the United States government killed Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999. Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom?
+Martin Luther King Jr worked to end racial oppression and imperialism in the United States in the 1950s and 1960s, and like Jesus Christ, he carried on his work fully aware that he would be killed for it. And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.**
 
-In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
+In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.**
+
+Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order.**
 
 Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually kill or imprison the wisest and bravest leaders among us.
 
 #### How Can Everyone Be Divine If Some People Act with Cruelty and Selfishness?
 
-Are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine force in each person's heart will help them find their gifts if they will only listen. 
+Authoritarian religions commonly encourage shame, disconnection from divinity, a sense of inherent badness or conditional goodness, self-doubt, and sexism. But the three core spiritual practices encourage the opposite. A practical aware gratitude encourages deep awareness of others and gratitude for each person's gifts instead of hurtful sexist or racist assumptions. Everyone has sacred gifts to give, a life purpose that only they can get done, and this belief encourages high self-worth and a sense of inherent goodness, and leaves no room for shame. And living in reciprocity encourages deep and secure solidarity rather than isolation, despair, and division.**
+
+The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace these practices? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?**
+
+So which is it? Are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine force in each person's heart will help them find their gifts if they will only listen. 
 
 When people act on that divine voice -- when a person offers their sacred gifts, acting with integrity, generosity, courage, awareness, authenticity, joy, and other beautiful qualities -- then the person is _acting with an open heart_, offering their deepest love. The more a person learns to "hold back" or "shut down" parts of themselves, the more they're _closing their heart to that divine voice_. The ones who hold back the most are often called "cold-hearted" or said to have "hearts of stone." In other words, they don't listen to that divine voice inside them that all people have, and so they act selfishly instead, withholding their gifts.
 
@@ -84,16 +90,8 @@ Like Jesus Christ, black American civil rights leader Martin Luther King Jr carr
 
 I believe that no one is inherently bad, but some people do have a sickness, or stumble on a good path. And some people get really sick and cause huge amounts of unnecessary suffering. This is what happens when people of unhealthy cultures grow up learning to "hold back" or "shut down" sacred parts of themselves, learning to ignore abuse, ignore uncomfortable feelings or truths, or believe that people are untrustworthy, selfish, or bad, each person in their own way.
 
-Many religions and ideologies of unhealthy cultures encourage that sickness, that heart-closure, or that stumbling. They train people to think selfishness is good, or humans are born disconnected from god, or we're inclined to sin and inherently bad, or we can't trust our instincts and feelings and neighbors. When children's love and dignity isn't welcome, many people learn to "hold back" or "shut down" parts of themselves or ignore some parts of reality to get along in their unhealthy culture, which only reinforces these early childhood patterns as people grow into adulthood with deceitful politicians, propaganda-filled media, and authoritarian schools, churches, and jobs. 
+Many religions and ideologies of unhealthy cultures encourage that sickness, that heart-closure, or that stumbling. They train people to think selfishness is good, or humans are born disconnected from god, or we're inclined to sin and inherently bad, or we can't trust our instincts and feelings and neighbors. When children's love and dignity isn't welcome, many people learn to "hold back" or "shut down" parts of themselves or ignore some parts of reality to get along in their unhealthy culture, which only reinforces these early childhood patterns as people grow into adulthood with deceitful politicians, propaganda-filled media, and authoritarian schools, churches, and jobs.
 
 No one is inherently bad or selfish. Everyone has love to give. And no matter what's happened in the past, every moment is a fresh new chance to show up in the world in a good way.
 
-If everyone truly has deep love to give, how come racism and hatred are so prevalent? Find out in _Chapter 8: The Source of Racism and Hatred, And How to Live Without Them_.
-
-### References
-
-[xxx-duplicate with sacred responsibility chapter]
-
-[xxx-NOTE: duplicate from earlier chapters]
-
-[xxx-CINDY: moved this and the previous para to slightly later in the section to break up the laundry list of BS. What do you think of this location?]
+If everyone truly has deep love to give, how come racism and hatred are so prevalent? Find out in _Chapter 8: Where Do Racism and Hatred Come From？_.

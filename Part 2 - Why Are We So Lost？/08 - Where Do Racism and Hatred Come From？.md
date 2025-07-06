@@ -8,13 +8,17 @@ However, immersed from birth in unhealthy cultures, many babies eventually becom
 
 How are racism and other kinds of discrimination taught? I believe this relentless training arises from three underlying cultural drivers:
 
-1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. For example, in the 1600s, wealthy slaveowners in colonial Virginia decided ony black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Anyone who spoke out against this system was imprisoned or killed.
+1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. 
 
-2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than help slaves escape. We see this in many other forms today, as people adopt whatever attitudes help protect their greater privilege.
+    For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.**
 
-3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes.
+2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.**
 
-How does this work in practice? Eventually I learned that a simple children's story illustrates how authorities impose and maintain racism and hatred, similar to major events currently happening in the news.
+3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.**
+
+How does this work in practice?
+
+A simple children's story illustrates how authorities impose and maintain racism and hatred, similar to major events currently happening in the news.
 
 ### Authorities Impose and Maintain Racism and Hatred
 
@@ -86,15 +90,15 @@ When people are trapped with selfish and unaccountable leaders, the results are 
 
 ### Ending 1: Gracious Receiving: Choose Leaders that Actually Serve the People
 
-Stories of selfish rulers contrast vividly with countless stories of generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
+Selfish rulers who encourage divisive racism and hate contrast vividly with generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
 
-Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? Or is there a responsibility people could take to ensure that only the most selfless people become leaders?
+Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? 
 
-Can you imagine having leaders who were so humble that they would never campaign for office? How would they even become leaders then?
+It turns out that it is everyone's responsibility to ensure that only the most selfless people become leaders. Can you imagine having leaders who are so humble that they would never campaign for office? How would they even become leaders then?
 
 Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
 
-It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging.
+It's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging.
 
 If you want to be able to live in a healthy culture, with leaders who serve the people instead of selfishly serving themselves, _notice other people's good deeds and tell their stories_. This is based on that first core spiritual practice of practical, aware gratitude for the gifts of others. Each good deed is a gift, and one way to receive that gift graciously is to tell the story so that others know.
 
@@ -108,7 +112,9 @@ I love telling stories of others' good deeds -- it's fun! Who doesn't like telli
 
 One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
 
-This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. What good deeds have you witnessed recently? And to whom could you share these happy stories?
+This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is how you can help choose leaders who actually serve the people instead of selfishly serving themselves.
+
+What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
 ### Ending 2: Cultivate Deep Awareness and Unity Through Nature Connection Practices
 

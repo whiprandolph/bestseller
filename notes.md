@@ -2,7 +2,9 @@
 * make sure chap 4 images, captions, and lead-ins are all on the same page
 * make sure all _ and * and ** become bold/underlined
 * remove all ** edit marks
+* make all riot police images the same size
 * add hawks hunting pic?
+* verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
 
 ### Costs
 
@@ -17,6 +19,10 @@
 #### Copyrights (300)
 
 * AP for two riot police pics: $300 total, paid 7.5.25
+
+### Reader support
+
+* 16.26 - 2x part 1 printouts (Naj, Chris) on 7.5.25
 
 ### Old Notes
 * open with Ashaninka piece?

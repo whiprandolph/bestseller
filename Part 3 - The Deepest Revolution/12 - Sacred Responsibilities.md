@@ -3,6 +3,8 @@
 <toc/>
 
 * [Children](#children)
+* [Have High Standards for Yourself and Others](#have-high-standards-for-yourself-and-others)
+* [Cultivate Deep Awareness](#cultivate-deep-awareness)
 * [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
 * [Gracious Receiving: Choose Leaders that Actually Serve the People](#gracious-receiving-choose-leaders-that-actually-serve-the-people)
 * [Sacred Responsibilities](#sacred-responsibilities)
@@ -31,17 +33,39 @@ I believe living in reciprocity is a sacred responsibility, and really, it's who
 
 These are the three core spiritual practices at play --
 
-1. A practical, aware gratitude: Noticing the gifts of others, both people and nonhumans. 
+1. A practical, aware gratitude: Noticing the gifts of others, both people and nonhumans, and feeling grateful for them. 
 
-2. Giving my gifts: giving my deepest love, whether that takes the form of material gifts, mentoring, personal qualities like joy or integrity, or in ways.
+2. Giving my gifts: giving my deepest love, or living out your life purpose. Other gifts may take the form of mentoring, personal qualities like joy or integrity, material gifts, or other things.
 
-3. Living in reciprocity: giving back to the humans and nonhumans who give so much to me.
+3. Living in reciprocity: giving back to the humans and nonhumans who give so much to you.
 
 The big shift was to see myself as the Earth, not somehow different or separated -- another attitude I see in every healthy culture. Okanagan woman Jeannette Armstrong said, "it's not just that we're part of the land... but that the land is us." It's true -- each of us is a gift of the Earth, alive to receive the gifts of others and give our own gifts in reciprocity, each person in their own way.
 
 ### Children
 
+* Some people become authoritarian parents, being very strict but using shame, physical abuse, etc. 
+
+* Some people reject authoritarian upbringings, but have low or no standards or set boundaries poorly. 
+
+### Have High Standards for Yourself and Others
+
+* people have low standards for each other, and often for themselves
+
+* but beautiful qualities like authenticity, integrity, responsibility, thoughtfulness, bravery, joy, and generosity really can be pervasive and normal. Living a deeply meaningful life, in service of people you care about and who care about you -- this can be normal.
+
+### Cultivate Deep Awareness
+
+* nature connection -> human connection
+
+* practice feeling gratitude - notice the gifts of life, and practice feeling grateful
+
+* from that gratitude, consider - how can you serve the beings you feel grateful for?
+
+* avoid hurtful assumptions. Ignorance can be ok temporarily, but believing hurtful and false things can really damage relationships.
+
 ### Live in Reciprocity as a Normal Way of Life
+
+* [xxx-NEED: add "the Earth loves you back" -- love is not just one way]
 
 I never knew how intimately people could know the Earth and even enrich the Earth as a normal way of life till I studied healthy cultures, where people embrace these three core spiritual practices as a normal way of life.
 
@@ -109,3 +133,5 @@ There is another sacred responsibility: cultivating the personal strength to sta
 ### References
 
 [xxx-duplicate with spirituality chapter]
+
+[xxx-NEED: add "the Earth loves you back" -- love is not just one way]

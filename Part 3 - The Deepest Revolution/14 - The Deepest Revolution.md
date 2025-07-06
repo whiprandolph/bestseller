@@ -69,7 +69,7 @@ Many people fear that their country is getting "less free" or is "becoming fasci
 
 Instead, people simply learn to accept certain amounts of exploitation and abuse as legitimate and normal. When ruling classes want to increase the normal levels of exploitation or suppress people's speech, this can seem like a loss of freedom. But this is like prisoners complaining that the warden is reducing the amount of time they can spend outside in the courtyard. Yes, life is worse after the change. But the prisoners weren't free before it.
 
-In shallow revolutions, people overthrow their ruling class only to install new rulers. The ideologies might change, but the exploitation remains, and the lives of most people don't change much.
+In shallow revolutions, people overthrow their ruling class only to install new rulers. The ideologies might change, but the exploitation remains, and the lives of most people don't change much. 
 
 I believe the deepest revolution occurs when a group takes a stand together, creating their own laws to make a respectful society, and protecting themselves from any unhealthy cultures that might try to reconquer them. This was the Zapatistas' path. They did not march on the capital of Mexico and take over the country, which would have only made them rulers of an unhealthy culture. Instead they took a stand for their own laws and protected each other when the military attacked.
 
@@ -95,9 +95,3 @@ My suggestion is: find a person to have this sort of deep connection with. Then 
     * marxists: economic transformation will put workers on top (look up citation)
     * capitalists: invisible hand of the market
     * Christians: Jesus will come back for us
-
-
-
-Many people fear that their country is getting "less free" or is "becoming fascist." Unhealthy cultures are all dictatorships, were a few people dictate the law and how it's enforced, and the rest are expected to obey. They do not become more or less free over time.
-
-Instead, people simply learn to accept certain amounts of exploitation or abuse as legitimate and normal. When ruling classes want to increase the normal levels of exploitation or suppress people's speech, this can seem like a loss of freedom. But this is like prisoners complaining that the warden is reducing the amount of time prisoners can spend outside in the courtyard. Yes, life is worse after the change. But the prisoners weren't free before it.
