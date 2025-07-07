@@ -4,6 +4,7 @@
 
 * [Instead of Fighting Symptoms Separately, What if Activists Addressed the Root Disease Together?](#instead-of-fighting-symptoms-separately-what-if-activists-addressed-the-root-disease-together?)
 * [Talking About Revolution](#talking-about-revolution)
+* [Acknowledging Unproductive Conversations](#acknowledging-unproductive-conversations)
 * [The Deepest Revolution](#the-deepest-revolution)
 <toc/>
 
@@ -63,11 +64,33 @@ Any culture with unaccountable leaders and a few wealthy people will always have
 
 But it doesn't have to be this way.
 
-### The Deepest Revolution
+### Acknowledging Unproductive Conversations
 
-Many people fear that their country is getting "less free" or is "becoming fascist." Unhealthy cultures are all dictatorships, were a few people dictate the law and how it's enforced, and the rest are expected to obey. They do not become more or less free over time.
+Many people recognize the corruption in their society, but if they haven't studied healthy cultures, they may not know how to get to the root of the problem.
+
+* _If you're already not free, you can't get "less free"_: Many people fear that their country is getting "less free" or is "becoming fascist." Unhealthy cultures are all dictatorships, were a few people dictate the law and how it's enforced, and the rest are expected to obey. Unhealthy cultures do not become more or less free over time.
 
 Instead, people simply learn to accept certain amounts of exploitation and abuse as legitimate and normal. When ruling classes want to increase the normal levels of exploitation or suppress people's speech, this can seem like a loss of freedom. But this is like prisoners complaining that the warden is reducing the amount of time they can spend outside in the courtyard. Yes, life is worse after the change. But the prisoners weren't free before it.
+
+* _Decolonizing is not enough_: Likewise, conversations about "colonialism" are often unclear. The British, French, Spanish and Russians colonized North America, but neither the colonized nor colonizers were free. Colonization is simply one way unhealthy cultures spread, with unfree societies attacking and trapping people of other societies in exploitative relationships.
+
+What does it mean to "decolonize?" Didn't the United States decolonize when it "freed" itself from British colonial rule in the American Revolutionary War? Didn't Mexico decolonize when it "freed" itself from Spanish rule? And yet these nations have all the same problems they did before, including racism, sexism, greed, pollution, corruption, and so on. So merely seeking to "decolonize" does not get to the root of the trouble and help generate healthy cultures again.
+
+* _The grass isn't greener on the other side_: Many activists in communist societies have seen how bad life is there, and they've heard how great life is in capitalist societies, so they work to make their society more capitalist. Likewise many activists in capitalist societies have heard how great life is in communist societies and worked to support a communist revolution. And yet countries like the socialist Soviet Union, communist China, or capitalist United States are all dictatorships, where a few people dictate the law, and everyone else is punished for standing for what's right. Is it any wonder they have similar injustices?
+
+* _Magical thinking doesn't work_: Countless people have engaged in magical thinking throughout history, hoping that exploitation would go away on its own. Marxists may believe that economic or technological change will ultimately result in workers owning the means of production, but after 150 years, this shows no signs of happening.
+
+    Christians have waited for Jesus Christ to return and "save" them for almost 2,000 years, all while priests, kings, aristocrats, and wealthy businessmen have benefited from Christians' labor in farms, factories, offices and armies.
+
+    After World War II, countless Europeans and Americans promised to "Never Again" allow genocide, and yet European and American leaders have supported many genocides since WWII ended. Why?
+    
+What are the deep lessons that people of unhealthy cultures haven't learned?
+
+So long as unaccountable leaders impose law and punish people for standing for what's right, the same kinds of abuses keep happening, including genocide, exploitation, child abuse, pollution, and punishments for those who oppose these things.
+
+To have a way of life where respect is normalized instead of abuse, with true freedom, and with leaders who actually serve the people, only one path will accomplish these goals: _The Deepest Revolution_.
+
+### The Deepest Revolution
 
 In shallow revolutions, people overthrow their ruling class only to install new rulers. The ideologies might change, but the exploitation remains, and the lives of most people don't change much. 
 
@@ -89,9 +112,4 @@ My suggestion is: find a person to have this sort of deep connection with. Then 
 
 (outro?)
 
-## Scratch / Other Ideas
-
-* Nothing will save us from ourselves, so stop waiting:
-    * marxists: economic transformation will put workers on top (look up citation)
-    * capitalists: invisible hand of the market
-    * Christians: Jesus will come back for us
+<div style="break-after:page"></div>

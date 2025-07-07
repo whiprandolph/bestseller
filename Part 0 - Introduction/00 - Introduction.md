@@ -1,4 +1,4 @@
-## Introduction to The Deepest Revolution
+## Introduction
 
 I grew up in a middle-class family in the United States. Even though my life had always been pretty comfortable, by my mid-20s I had the sense that something in my culture was deeply wrong.
 

@@ -6,13 +6,12 @@ import shutil
 import publish
 import zipfile
 import pdf_toc
-import gen_index
 import subprocess
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
 
-from progress import chapters
+from progress import chapters 
 
 assert publish.CUT_OUT_REFS_AND_TOCS == True, "Set publish.CUT_OUT_REFS_AND_TOCS to True"
 
@@ -26,7 +25,7 @@ BOOK_ADDED_STYLE = """
 
 <style>\n
   p {\n
-    font-size: 10.85pt;
+    font-size: 11pt;
     color:black;
   }\n
   @page {
@@ -40,7 +39,7 @@ BOOK_ADDED_STYLE = """
     padding-right: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
-    max-width:40em;
+    /*max-width:40em;*/
   }
 </style>
 </html>
@@ -49,21 +48,19 @@ BOOK_ADDED_STYLE = """
 chap_ids = set()
 
 cover_src_path = os.path.join(repo_root_dir, "images\\online_front_cover.png")
-biblio_copyright_path = r"C:\Users\whip\tdr\chapters\Part 4 - Closing Notes\15 - Bibliography and Copyright.md"
-online_copyright_path = r"C:\Users\whip\tdr\chapters\Part 12 - Closing Notes\04 - Copyright.md"
+copyright_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\15 - Bibliography and Copyright.md"
 cover_dest_path = os.path.join(book_final, "online_front_cover.png")
-online_book_md_path = os.path.join(book_final, "book_online.md")
 phys_book_md_path = os.path.join(book_final, "book_phys.md")
-phys_pre_idx_book_md_path = os.path.join(book_final, "book_phys_pre_idx.md")
-online_book_html_path = os.path.join(book_final, "book_online.html")
+online_book_md_path = os.path.join(book_final, "book_online.md")
 phys_book_html_path = os.path.join(book_final, "book_phys.html")
-book_epub_path = os.path.join(book_final, "One Disease One Cure.epub")
-book_zip_path = os.path.join(book_final, "One Disease One Cure.zip")
-book_zip_dir = os.path.join(book_final, "One Disease One Cure -- Zip")
+online_book_html_path = os.path.join(book_final, "book_online.html")
+book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
+book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
+book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
 online_content_pdf_path = os.path.join(book_final, "content_online.pdf")
 phys_content_pdf_path = os.path.join(book_final, "content_phys.pdf")
-online_book_pdf_path = os.path.join(book_final, "One Disease One Cure.pdf")
-phys_book_pdf_path = os.path.join(book_final, "One Disease One Cure -- PHYSICAL.pdf")
+online_book_pdf_path = os.path.join(book_final, "The Deepest Revolution.pdf")
+phys_book_pdf_path = os.path.join(book_final, "The Deepest Revolution -- PHYSICAL.pdf")
 phys_book_pdf_path_tmp = os.path.join(book_final, "tmp_phys_book.pdf")
 index_path = os.path.join(book_final, "index.pdf")
 
@@ -88,43 +85,27 @@ def verify_epub():
   os.remove(book_zip_path)
 
 
-def build_ref_map(ref_blob):
-  ref_map = {}
-
-  for line in ref_blob.split("\n"):
-    if not line.strip(): continue
-
-    assert "[xxx" in line and "-aaa" in line, line
-
-    xxx, official = line.split("-aaa ")
-    xxx = xxx.strip()
-    official = official.strip()
-    assert xxx.startswith("[xxx") and xxx[-1] == "]", line
-    assert official[0] == "(" and official[-1] == ")", line
-
-    ref_map[xxx] = official
-  return ref_map
-
-
 def process_chapter(full_path):
   blob = open(full_path, 'r', encoding='utf-8').read()
   chap_id = blob.split("\n")[0].split(":")[0].strip("#").strip(" ")
   chap_id = chap_id.replace(" ", "_")
   assert chap_id not in chap_ids, chap_id
   chap_ids.add(chap_id)
+  references = "### References"
   try:
     assert '<toc/>' not in blob, "Chap %s has <toc/>" % full_path
-    assert "## References" not in blob, "reference in chap %s" % full_path
+    assert references not in blob, "reference in chap %s" % full_path
+    assert "break-after:page" in blob, "no break-after in %s" % full_path
   except AssertionError as exc:
     response = input("FAILED ASSERTION '%s', CONFIRM WE SHOULD CONTINUE (Y/n) > " % exc)
     if response == 'n':
       sys.exit()
-  return blob, []
+  if references in blob:
+    return blob.split(references)[0]
+  return blob
 
 
 def main():
-
-  gen_index.fresh_start_check()
 
   print("Starting at %s" % time.ctime())
   start_time = time.time()
@@ -137,31 +118,27 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  with open(phys_book_md_path, 'w', encoding='utf-8') as book_md:
+  assert len(full_list) == 16, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file in full_list:
-      if 'copyright' in file.lower(): continue # these are handled later
-
-      body, chap_cite_list = process_chapter(file)
+      body = process_chapter(file)
       book_md.write("%s\n" % body)
-      chapter_name = body.split("\n", 1)[0].strip("## ").strip()
-      if "introduction" in chapter_name.lower():
-        assert len(chap_cite_list) == 0
+      chap_line = body.split("\n", 1)[0]
+      assert chap_line.startswith("## "), chap_line
+      chapter_name = chap_line.strip("## ").strip()
   
-  shutil.copyfile(phys_book_md_path, online_book_md_path)
-
-  # phys book doesn't have the biblio, does have the index, has different copyright/biblio page
-  with open(phys_book_md_path, 'a', encoding='utf-8') as phys_book_md:
-    body, _ = process_chapter(biblio_copyright_path)
-    phys_book_md.write("%s\n\n" % body)
-
-  #phys_pre_idx_book_md_path
-
-  with open(online_book_md_path, 'a', encoding='utf-8') as online_book_md:
-    body, _ = process_chapter(online_copyright_path)
-    online_book_md.write("%s\n\n" % body)
+  subprocess.run(['pandoc', '-s', online_book_md_path,
+                            '-o', online_book_html_path])
+  book_html = open(online_book_html_path, 'r', encoding='utf-8').read()
+  book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
+  open(online_book_html_path, 'w', encoding='utf-8').write(book_html)
+ 
+  # phys book has bw images
+  # online book has color images and for epub, front cover only
 
   shutil.copyfile(cover_src_path, cover_dest_path)
   make_online_pdf()
+  breakpoint()
   make_phys_book()
   make_epub()
   #os.startfile(book_final)
@@ -178,13 +155,6 @@ def make_online_pdf():
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating online content.pdf")
-    if os.path.exists(online_book_html_path):
-      os.remove(online_book_html_path)
-    subprocess.run(['pandoc', '-s', online_book_md_path,
-                              '-o', online_book_html_path])
-    book_html = open(online_book_html_path, 'r', encoding='utf-8').read()
-    book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
-    open(online_book_html_path, 'w', encoding='utf-8').write(book_html)
     subprocess.run(['node', r'C:\Users\whip\tdr_js\online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS)
   finally:
@@ -243,28 +213,10 @@ def make_phys_book():
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating phys content.pdf")
-    if os.path.exists(phys_book_html_path):
-      os.remove(phys_book_html_path)
-    tmp_phys_md_path = "%s_tmp" % phys_book_md_path
-    shutil.copyfile(phys_book_md_path, tmp_phys_md_path)
-    open(tmp_phys_md_path, 'a', encoding='utf-8').write("\n# Index\n\nfoo")
-    subprocess.run(['pandoc', '-s', tmp_phys_md_path, # make pdf w/fake index to get index into ToC correctly
-                              '-o', phys_book_html_path])
-    book_html = open(phys_book_html_path, 'r', encoding='utf-8').read()
-    book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
-    open(phys_book_html_path, 'w', encoding='utf-8').write(book_html)
     subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
-    print("Generating index html...")
-    gen_index.main()
-    print("Making index into pdf...")
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\index.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
-
+    shutil.copy(online_book_md_path, phys_book_md_path)
     print("Generating table of contents...")
     pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path_tmp, dimensions=PHYS, is_phys=True)
-    os.remove(phys_book_html_path)
-    os.remove(tmp_phys_md_path)
-    os.remove(phys_book_pdf_path_tmp)
-    os.remove(phys_content_pdf_path) # remove content_pdf w/placeholder index
     update_images_bw()
     print("images updated to bw, remaking phys html %s" % time.ctime())
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
@@ -278,7 +230,6 @@ def make_phys_book():
     merger = PdfWriter()
     merger.append(pdf_toc.phys_toc_pdf_path)
     merger.append(phys_content_pdf_path)
-    merger.append(index_path)
     merger.write(phys_book_pdf_path)
     merger.close()
   finally:

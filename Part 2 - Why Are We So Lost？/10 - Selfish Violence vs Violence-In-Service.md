@@ -28,13 +28,13 @@ This is simply a normal problem in cultures that tolerate selfishness and abuse,
 
 Stories of collective self-defense show how people can use violence responsibly, in service of the community and common good.
 
-#### The Black Panthers Used Violence in Service of the Common Good
+#### Violence in Service 1: The Black Panthers
 
 The Black Panthers were an American black revolutionary organization active in the 1960s and 1970s. While they had many programs, including making clothing and breakfasts available to poor black children, one of their most famous actions was to have a few warriors trail police cars. When the police officers would pull over another motorist, these Panthers would pull over within seeing distance behind the police car. Without interfering at all, the Panthers displayed weapons, letting the officers know that they would take a stand if the officers acted abusively.
 
 These warriors didn't risk violence for personal gain. They acted to protect their community by upholding the laws they lived by and holding the police accountable for misbehavior, and they inspired huge numbers of people to join the Panthers. I believe one reason so many people joined the Panthers was exactly this willingness to use or threaten to use violence in service of the community, to establish healthy boundaries that forbade abusive behavior.
 
-#### The Apache Used Violence in Service of the Common Good
+#### Violence in Service 2: The Apache
 
 The Bedonkohe Apache warrior Geronimo offered another example of violence-in-service. His people believed they were at peace with the Mexicans, and so when he and many other warriors went into a Mexican town to trade, they only left behind a token force to protect the camp and the women, children, and elders. When the warriors returned, they found that Mexican soldiers had killed the entire protection force and many of their families. Geronimo had lost more than anyone -- his mother, wife, and all his children were dead. He later told his biographer, "I had lost all."
 
@@ -46,7 +46,7 @@ Finally all the warriors assembled. They had set several safe havens where the w
 
 Finally they tracked down the Mexicans, including two companies of infantry and two of cavalry. Geronimo sent flanking detachments and led advances and they kept fighting even as all the Apaches' arrows were spent and their spears were broken. After hours of vicious fighting, many Mexicans and Apaches lay dead on the ground. Finally the Apache warriors were the only ones remaining, having fully vanquished the Mexicans.
 
-#### The Zapatistas Use Violence in Service of the Common Good
+#### Violence in Service 3: The Zapatistas
 
 The Zapatistas are a healthy culture in southern North America, many of whose members are from local indigenous groups. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy culture where everyone upholds their laws. 
 
@@ -76,4 +76,6 @@ The Zapatistas' struggle continues as I write in 2025. The Mexican government ch
 
 One fighter noted, "We will always carry resistance and rebellion in our hearts, because we are guardians of Mother Earth, we are not the owners. The Earth is not ours, it belongs to all of us who fight for life. We were born in it, we live in it, we are going to take care of it and we are going to protect it -- and if necessary, we will die for it."
 
-The Black Panthers, Apaches, and Zapatistas showed me what it's like to use violence in service of the community. No one in these stories used violence selfishly or deceitfully. I suspect everyone in these stories would have preferred peace, but when the options were self-defense or submission, they chose to use violence in service of the people they loved and in service of the Earth.
+The Black Panthers, Apaches, and Zapatistas showed me what it's like to use violence in service of the community. No one in these stories used violence selfishly. I suspect everyone in these stories would have preferred peace, but when the options were self-defense or submission, they chose to use violence in service of the people they loved and in service of the Earth.
+
+<div style="break-after:page"></div>

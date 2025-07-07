@@ -6,24 +6,20 @@ from pprint import pprint as pprint
 from progress import chapters
 from pypdf import PdfReader, PdfWriter
 
-md_root_dir = r"C:\Users\whip\tdr\chapters"
+md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
-chapters_dir = r"C:\Users\whip\tdr\chapters"
-book_md_path = os.path.join(book_final, "book.md")
-book_html_path = os.path.join(book_final, "book.html")
-book_epub_path = os.path.join(book_final, "One Disease One Cure.epub")
-book_zip_path = os.path.join(book_final, "One Disease One Cure.zip")
-book_zip_dir = os.path.join(book_final, "One Disease One Cure -- Zip")
-online_toc_pdf_path = os.path.join(book_final, "toc_online.pdf")
-phys_toc_pdf_path = os.path.join(book_final, "toc_phys.pdf")
+chapters_dir = r"C:\Users\whip\tdr"
+online_book_html_path = os.path.join(book_final, "book_online.html")
+book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
+book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
+book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
+toc_pdf_path = os.path.join(book_final, "toc.pdf")
 book_cover_path = os.path.join(book_final, "online_front_cover.png")
-online_toc_html_path = os.path.join(book_final, "toc_online.html")
-phys_toc_html_path = os.path.join(book_final, "toc_phys.html")
+toc_html_path = os.path.join(book_final, "toc.html")
 
 images_source = r"C:\Users\whip\tdr-book-html\images"
 images_dest = os.path.join(book_final, "images")
-
 
 def get_name(grouping, chapter_name, chapter_number, idx):
 
@@ -32,10 +28,9 @@ def get_name(grouping, chapter_name, chapter_number, idx):
   non_chapter_path = os.path.join(grouping_path, "%02d - %s" % (idx, chapter_name))
   chapter_path = os.path.join(grouping_path, "%02d - %s" % (chapter_number, chapter_name))
   document_path = non_chapter_path
-  breakpoint()
-  if is_chapter_name(chapter_name, chapter_path):
-    document_path = chapter_path
-    add_to_chapter_counter = 1
+  #if is_chapter_name(chapter_name, chapter_path):
+  document_path = chapter_path
+  add_to_chapter_counter = 1
 
   name = open(document_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
 
@@ -60,7 +55,7 @@ def get_page_number(pdf, name, start_page):
   import pdb;pdb.set_trace()
 
 
-def prep_pdf_toc(content_path, dimensions={}, is_phys=False):
+def prep_pdf_toc(content_path, dimensions={}):
   pdf = PdfReader(content_path)
 
   chapter_number = 0
@@ -69,57 +64,52 @@ def prep_pdf_toc(content_path, dimensions={}, is_phys=False):
   for part in chapters:
     if not part in toc_data:
       toc_data[part] = []
-    for index, (a, b, chapter) in enumerate(chapters[part]):
-      breakpoint()  
+    for index, (a, b, chapter) in enumerate(chapters[part]): 
       name, chapter_number = get_name(part, chapter, chapter_number, index)
-      if is_phys:
-        if 'bibliography' in name.lower() and 'copyright' not in name.lower():
-          continue
-        if 'bibliography' not in name.lower() and 'copyright' in name.lower():
-          continue
-      else:
-        if 'bibliography and copy' in name.lower():
-          continue
-        if 'index' in name.lower():
-          continue
       page_number = get_page_number(pdf, name, page_number)
       toc_data[part].append((name, page_number))
-  output_table(toc_data, dimensions, is_phys)
+  
+  output_table(toc_data, dimensions)
   verify(toc_data, pdf)
 
 
 def verify(toc_data, pdf):
   # sanity checks
   try:
-    assert 'Chapter 10' in toc_data["Part 03 - Gift Economy vs Profit Economy"][2][0] and 94 == toc_data["Part 03 - Gift Economy vs Profit Economy"][2][1], "gift/profit"
-    assert 'Chapter 18' in toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][0] and 170 == toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][1], "heart"
-    assert 'Chapter 34' in toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][0] and 351 == toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][1], "sabotage"
-    assert 'Appendix 2' in toc_data["Part 11 - Appendices"][2][0] and 543 == toc_data["Part 11 - Appendices"][2][1], "appendices"
-    assert len(pdf.pages) == 605 or len(pdf.pages) == 562, len(pdf.pages)
+    print("*** Add sanity checks! ***")
+    #assert 'Chapter 10' in toc_data["Part 03 - Gift Economy vs Profit Economy"][2][0] and 94 == toc_data["Part 03 - Gift Economy vs Profit Economy"][2][1], "gift/profit"
+    #assert 'Chapter 18' in toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][0] and 170 == toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][1], "heart"
+    #assert 'Chapter 34' in toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][0] and 351 == toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][1], "sabotage"
+    #assert 'Appendix 2' in toc_data["Part 11 - Appendices"][2][0] and 543 == toc_data["Part 11 - Appendices"][2][1], "appendices"
+    #assert len(pdf.pages) == 605 or len(pdf.pages) == 562, len(pdf.pages)
   except AssertionError as exc:
     pp(toc_data)
     print("ERROR in ToC Validation: %s" % exc)
     import pdb;pdb.set_trace()
 
 
-def write_toc_line(md, name, page_number):
+def write_chapter_line(md, name, page_number):
   md.write("<a class=\"toc-link\" href=\"#link_to_heading\">\n")
   md.write("<span class=\"title\">%s<span class=\"leaders\" aria-hidden=\"true\"></span></span>\n" % name)
   md.write("<span class=\"page\"><span class=\"visually-hidden\">Page</span> %s</span>\n" % page_number)
   md.write("</a>\n")
 
-def output_table(toc_data, dimensions={}, is_phys=False):
-  toc_html_path = online_toc_html_path if not is_phys else phys_toc_html_path
-  md = open(toc_html_path,'w')
-  md.write("<html><title>One Disease One Cure</title>\n")
+def write_part_line(md, name, page_number):
+  md.write("<a class=\"toc-link\" href=\"#link_to_heading\">\n")
+  md.write("<span class=\"title\">%s</span>\n" % name)
+  md.write("</a>\n")
+
+def output_table(toc_data, dimensions={}):
+  md = open(toc_html_path, encoding='utf-8', mode='w')
+  md.write("<html><title>The Deepest Revolution</title>\n")
   md.write("<style>\n%s\n</style>\n" % css)
   print("pdf_toc: dimensions=%s" % dimensions)
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
   md.write("<body>\n\n")
-  md.write("<center><h2>One Disease One Cure</h2><br/>\n\n")
-  md.write("<h4>Ending Our Multi-Millennia Catastrophe</h4><br/>\n\n")
+  md.write("<center><h2>The Deepest Revolution</h2><br/>\n\n")
+  md.write("<h2>DRAFT</h2><br/>\n\n")
   md.write("<h4>Whip Randolph</h4><br/></center>\n\n")
 
   md.write("<div style=\"break-after:always\"></div><div style=\"break-after:page\"></div>\n")
@@ -130,15 +120,17 @@ def output_table(toc_data, dimensions={}, is_phys=False):
     if 'Part 0 ' in part or 'Part 12' in part:
       for name, page_number in toc_data[part]:
         md.write("<li>\n")
-        write_toc_line(md, name, page_number)
+        write_chapter_line(md, name, page_number)
         md.write("</li>\n")
     else:
       md.write("<li>\n")
-      write_toc_line(md, toc_data[part][0][0],toc_data[part][0][1])
+      writeable = part.replace("？", '?')
+      write_part_line(md, writeable, toc_data[part][0][1])
       md.write("<ol role=\"list\">\n")
-      for name, page_number in toc_data[part][1:]:
+      for name, page_number in toc_data[part]:
         md.write("<li>\n")
-        write_toc_line(md, name, page_number)
+        writeable = name.replace("？", '?')
+        write_chapter_line(md, writeable, page_number)
         md.write("</li>\n")
       md.write("</ol>\n")
       md.write("</li>\n")
@@ -148,13 +140,9 @@ def output_table(toc_data, dimensions={}, is_phys=False):
   md.close()
 
   print("  == Making ToC PDF\n")
-  if is_phys:
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_toc_to_pdf.js'])
-  else:
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\online_toc_to_pdf.js'])
+  subprocess.run(['node', r'C:\Users\whip\tdr_js\toc_to_pdf.js'])
 
-def merge_pdfs(content_path, book_pdf_path, is_phys):
-  toc_pdf_path = phys_toc_pdf_path if is_phys else online_toc_pdf_path
+def merge_pdfs(content_path, book_pdf_path):
   print("  == Merging PDFs (toc path: %s)\n" % toc_pdf_path)
   pdfs = [toc_pdf_path, content_path]
 
@@ -165,9 +153,9 @@ def merge_pdfs(content_path, book_pdf_path, is_phys):
   merger.write(book_pdf_path)
   merger.close()
 
-def main(content_path, book_pdf_path, dimensions={}, is_phys=False):
-  prep_pdf_toc(content_path, dimensions, is_phys)
-  merge_pdfs(content_path, book_pdf_path, is_phys)
+def main(content_path, book_pdf_path, dimensions={}):
+  prep_pdf_toc(content_path, dimensions)
+  merge_pdfs(content_path, book_pdf_path)
 
 
 css = """

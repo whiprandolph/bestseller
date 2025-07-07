@@ -142,4 +142,4 @@ Ultimately, I can only know my own experience, but this doesn't have to limit me
 
 These nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, it was easier to understand people's perspectives. When everybody embraces these deep awareness practices, mutual understanding becomes common, and this can help any group find and maintain a deep unity.
 
-[needs ending]
+<div style="break-after:page"></div>

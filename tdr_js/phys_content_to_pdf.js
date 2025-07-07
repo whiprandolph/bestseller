@@ -7,8 +7,8 @@ const puppeteer = require('puppeteer');
   await page.goto('http://localhost:8000/book_phys.html', {waitUntil: 'networkidle2'});
   await page.pdf({
     displayHeaderFooter: true,
-    paperWidth: 5,
-    paperHeight: 9,
+    paperWidth: 8.5,
+    paperHeight: 11,
     headerTemplate: '<div id="header-template"></div>',
     footerTemplate: '<div id="footer-template" style="font-size:11px !important; color:#000000; position:absolute; left:.8in; top:10.4in;"> <span class="pageNumber"></span> </div>',
     path:'C:\\Users\\whip\\tdr_published_files\\content_phys.pdf',

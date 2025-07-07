@@ -130,6 +130,8 @@ But the truth remains: living in reciprocity with other people and the Earth is 
 
 There is another sacred responsibility: cultivating the personal strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in _Chapter 13: Integrity and Bravery_.
 
+<div style="break-after:page"></div>
+
 ### References
 
 [xxx-duplicate with spirituality chapter]

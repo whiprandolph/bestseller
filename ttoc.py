@@ -97,7 +97,8 @@ def transform(file_list):
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
 def is_chapter_name(chapter_name, chapter_path):
-  return 'introduction' not in chapter_name.lower() and 'appendices' not in chapter_path.lower() and "preface material" not in chapter_path.lower() and "part 12" not in chapter_path.lower()
+  return ("preface material" not in chapter_path.lower() and 
+          "part 4" not in chapter_path.lower())
 
 
 def main():
@@ -109,5 +110,9 @@ def main():
 
 if __name__ == '__main__':
     start_time = time.time()
-    main()
+    try:
+        main()
+    except Exception as exc:
+        print("Error: %s" % exc)
+        breakpoint()
     print("%ss" % round(time.time()-start_time, 2))

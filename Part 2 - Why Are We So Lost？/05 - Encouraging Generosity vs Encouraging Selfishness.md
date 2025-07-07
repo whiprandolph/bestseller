@@ -108,3 +108,5 @@ In cultures that forbid people from standing for what's right and upholding thei
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for what's right, and nobody rules over anybody else.
 
 Selfishness is pervasive in every unhealthy culture. Why has it been so rare for unhealthy cultures to address that deep selfishness? And what is life like in a society where courageous solidarity is the norm instead? To find out, join me in _Chapter 6: Why Are We So Lost?_
+
+<div style="break-after:page"></div>

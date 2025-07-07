@@ -92,3 +92,5 @@ This shows how easily people can make foolish assumptions. Colonel Dodge was fig
 My final suggestion is this: _build a library of stories of brave people_. Surround yourself with brave people and stories about them to help build your own courage. This way bravery won't seem rare, but just a normal and excellent way of life.
 
 When a group has widespread, pervasive integrity and bravery, then I believe widespread trust and _the most secure feeling in the world_ will naturally follow.
+
+<div style="break-after:page"></div>

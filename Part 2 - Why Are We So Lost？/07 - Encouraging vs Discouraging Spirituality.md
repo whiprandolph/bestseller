@@ -95,3 +95,5 @@ Many religions and ideologies of unhealthy cultures encourage that sickness, tha
 No one is inherently bad or selfish. Everyone has love to give. And no matter what's happened in the past, every moment is a fresh new chance to show up in the world in a good way.
 
 If everyone truly has deep love to give, how come racism and hatred are so prevalent? Find out in _Chapter 8: Where Do Racism and Hatred Come From？_.
+
+<div style="break-after:page"></div>
