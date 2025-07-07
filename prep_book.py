@@ -61,7 +61,6 @@ online_content_pdf_path = os.path.join(book_final, "content_online.pdf")
 phys_content_pdf_path = os.path.join(book_final, "content_phys.pdf")
 online_book_pdf_path = os.path.join(book_final, "The Deepest Revolution.pdf")
 phys_book_pdf_path = os.path.join(book_final, "The Deepest Revolution -- PHYSICAL.pdf")
-phys_book_pdf_path_tmp = os.path.join(book_final, "tmp_phys_book.pdf")
 index_path = os.path.join(book_final, "index.pdf")
 
 images_source = r"C:\Users\whip\tdr-book-html\images"
@@ -79,8 +78,8 @@ def verify_epub():
   for path in os.listdir(book_zip_dir):
     if path.lower().endswith('png') or path.lower().endswith('jpg'):
       img_count+=1
-  # should be 30 for contents, 31 w/cover
-  assert img_count == 3, "Invalid image count, %s" % img_count
+  # should be 3 for contents, 4 w/cover
+  assert img_count == 4, "Invalid image count, %s" % img_count
   shutil.rmtree(book_zip_dir)
   os.remove(book_zip_path)
 
@@ -118,13 +117,13 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 16, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 19, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file in full_list:
       body = process_chapter(file)
       book_md.write("%s\n" % body)
       chap_line = body.split("\n", 1)[0]
-      assert chap_line.startswith("## "), chap_line
+      assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
       chapter_name = chap_line.strip("## ").strip()
   
   subprocess.run(['pandoc', '-s', online_book_md_path,
@@ -138,7 +137,6 @@ def main():
 
   shutil.copyfile(cover_src_path, cover_dest_path)
   make_online_pdf()
-  breakpoint()
   make_phys_book()
   make_epub()
   #os.startfile(book_final)
@@ -165,8 +163,7 @@ def make_epub():
   print(" == Creating book.html, starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path,
-                            '--metadata', 'title=One Disease One Cure',
-                            '--metadata', 'subtitle=Ending Our Multi-Millennia Catastrophe',
+                            '--metadata', 'title=The Deepest Revolution',
                             '--metadata', 'author=Whip Randolph'])
   subprocess.run(['ebook-convert', online_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
@@ -178,19 +175,8 @@ def make_epub():
 
 def update_images_bw():
   image_names = [
-    "hawks_hunting",
-    "fredgraph-nairu-unemployment-fedfunds",
-    "bulldozer_pic",
-    "destroy-kulaks",
-    "carrying_a_tree",
-    "glowing_heart_chained_heart",
-    "black-white-arrest-rate-difference",
-    "black-white-prison-education",
-    "rise-total-incarceration-usa",
-    "guerilla_gardening",
     "american_riot_police",
     "chinese_riot_police",
-    "cursed_field",
     "venezuelan_riot_police",
   ]
   phys_book_md = open(phys_book_md_path, 'r', encoding='utf-8').read()
@@ -213,25 +199,16 @@ def make_phys_book():
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating phys content.pdf")
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     shutil.copy(online_book_md_path, phys_book_md_path)
-    print("Generating table of contents...")
-    pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path_tmp, dimensions=PHYS, is_phys=True)
     update_images_bw()
-    print("images updated to bw, remaking phys html %s" % time.ctime())
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
     book_html = open(phys_book_html_path, 'r', encoding='utf-8').read()
     book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
     open(phys_book_html_path, 'w', encoding='utf-8').write(book_html)
-    print("Re-creating phys content...")
     subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
-    # add html toc to phys-book-html here
-    merger = PdfWriter()
-    merger.append(pdf_toc.phys_toc_pdf_path)
-    merger.append(phys_content_pdf_path)
-    merger.write(phys_book_pdf_path)
-    merger.close()
+    print("Reusing table of contents...")
+    pdf_toc.merge_pdfs(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path)
   finally:
     server.terminate()
   pass

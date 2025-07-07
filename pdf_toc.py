@@ -25,12 +25,12 @@ def get_name(grouping, chapter_name, chapter_number, idx):
 
   add_to_chapter_counter = 0
   grouping_path = os.path.join(chapters_dir, grouping)
-  non_chapter_path = os.path.join(grouping_path, "%02d - %s" % (idx, chapter_name))
+  non_chapter_path = os.path.join(grouping_path, chapter_name)
   chapter_path = os.path.join(grouping_path, "%02d - %s" % (chapter_number, chapter_name))
   document_path = non_chapter_path
-  #if is_chapter_name(chapter_name, chapter_path):
-  document_path = chapter_path
-  add_to_chapter_counter = 1
+  if is_chapter_name(chapter_name, grouping_path):
+    document_path = chapter_path
+    add_to_chapter_counter = 1
 
   name = open(document_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
 
@@ -88,15 +88,10 @@ def verify(toc_data, pdf):
     import pdb;pdb.set_trace()
 
 
-def write_chapter_line(md, name, page_number):
+def write_toc_line(md, name, page_number):
   md.write("<a class=\"toc-link\" href=\"#link_to_heading\">\n")
   md.write("<span class=\"title\">%s<span class=\"leaders\" aria-hidden=\"true\"></span></span>\n" % name)
   md.write("<span class=\"page\"><span class=\"visually-hidden\">Page</span> %s</span>\n" % page_number)
-  md.write("</a>\n")
-
-def write_part_line(md, name, page_number):
-  md.write("<a class=\"toc-link\" href=\"#link_to_heading\">\n")
-  md.write("<span class=\"title\">%s</span>\n" % name)
   md.write("</a>\n")
 
 def output_table(toc_data, dimensions={}):
@@ -117,20 +112,20 @@ def output_table(toc_data, dimensions={}):
   md.write("<ol class=\"toc-list\" role=\"list\">\n")
 
   for part in toc_data:
-    if 'Part 0 ' in part or 'Part 12' in part:
+    if 'Part 0 ' in part or 'Part 4' in part:
       for name, page_number in toc_data[part]:
         md.write("<li>\n")
-        write_chapter_line(md, name, page_number)
+        write_toc_line(md, name, page_number)
         md.write("</li>\n")
     else:
       md.write("<li>\n")
       writeable = part.replace("？", '?')
-      write_part_line(md, writeable, toc_data[part][0][1])
+      write_toc_line(md, writeable, toc_data[part][0][1])
       md.write("<ol role=\"list\">\n")
-      for name, page_number in toc_data[part]:
+      for name, page_number in toc_data[part][1:]:
         md.write("<li>\n")
         writeable = name.replace("？", '?')
-        write_chapter_line(md, writeable, page_number)
+        write_toc_line(md, writeable, page_number)
         md.write("</li>\n")
       md.write("</ol>\n")
       md.write("</li>\n")

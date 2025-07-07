@@ -64,7 +64,7 @@ Astroturf social movements are simply a common pattern in unhealthy cultures whe
 
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
 
-## A Case Study in Founding a Healthy Culture: The Haudenosaunee
+### A Case Study in Founding a Healthy Culture: The Haudenosaunee
 
 Many people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it would take to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 

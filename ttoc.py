@@ -23,12 +23,16 @@ def get_file_list(ignore_images = False):
     for part_name, chapter_names in chapters.items():
         part_path = os.path.join(md_dir, part_name)
         for a, b, chapter_name in chapter_names:
-            chapter_path = os.path.join(part_path, "%02d - %s" % (chapter_number, chapter_name))
+            if not is_chapter_name(chapter_name, part_path):
+                chapter_path = os.path.join(part_path, chapter_name)
+            else:
+                chapter_path = os.path.join(part_path, "%02d - %s" % (chapter_number, chapter_name))
+                chapter_number += 1
             if not os.path.exists(chapter_path):
                 print("Chapter path does not exist: %s" % chapter_path)
                 breakpoint()
             path_list.append(chapter_path)
-            chapter_number += 1
+            
         if not ignore_images:
             images_path = os.path.join(part_path, 'images')
             if os.path.exists(images_path):
@@ -96,9 +100,10 @@ def transform(file_list):
         open(full_html_path, 'a', encoding='utf-8').write(html)
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
-def is_chapter_name(chapter_name, chapter_path):
-  return ("preface material" not in chapter_path.lower() and 
-          "part 4" not in chapter_path.lower())
+def is_chapter_name(chapter_name, directory):
+  return ("Part Introduction" not in chapter_name and
+          "preface material" not in directory.lower() and 
+          "part 4" not in directory.lower())
 
 
 def main():

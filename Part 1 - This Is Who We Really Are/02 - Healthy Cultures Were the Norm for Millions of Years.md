@@ -26,7 +26,7 @@ Benjamin Franklin seemed equally surprised by healthy cultures he visited in eas
 
 In sharp contrast, the United States, France, and every other unhealthy culture around the world spend huge amounts of time, energy, and money trying to control crime with prisons and police -- and yet so much crime and political corruption continues.
 
-How can some nations live without police and prisons, and also mostly avoid crime, while other nations, chock full of police and prisons, have so much crime?
+How can some nations live without police and prisons, and also no widespread crime, while other nations, chock full of police and prisons, have so much crime?
 
 It's not as if healthy cultures don't have some troubles -- in any society, people sometimes don't get along. The difference is that people of healthy cultures address disputes in ways that maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior without demanding humiliation or submission. And when mutual respect is the norm, any selfish or hurtful act stands out as something to be immediately addressed so everyone can return to that respectful baseline.
 

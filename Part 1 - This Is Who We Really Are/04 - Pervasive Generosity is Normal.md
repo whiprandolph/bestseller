@@ -104,6 +104,6 @@ That is good news! It means there is a way to end racism. There is also a way to
 
 How do rulers or ruling classes make it so hard to have an economy based on sharing and reciprocity? And how do ruling classes shape their society so people tolerate endless exploitation and corruption?
 
-To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We Lost?_.
+To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We So Lost?_.
 
 <div style="break-after:page"></div>
