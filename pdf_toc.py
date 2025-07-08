@@ -61,12 +61,19 @@ def prep_pdf_toc(content_path, dimensions={}):
   chapter_number = 0
   page_number = 0
   toc_data = {}
+  add_part_name = True
   for part in chapters:
     if not part in toc_data:
       toc_data[part] = []
     for index, (a, b, chapter) in enumerate(chapters[part]): 
       name, chapter_number = get_name(part, chapter, chapter_number, index)
+      if name.startswith("Part "):
+        add_part_name = True
+        continue  
       page_number = get_page_number(pdf, name, page_number)
+      if add_part_name and not "Part 0" in part :
+        toc_data[part].append((part, page_number-1))
+        add_part_name = False
       toc_data[part].append((name, page_number))
   
   output_table(toc_data, dimensions)
@@ -103,7 +110,7 @@ def output_table(toc_data, dimensions={}):
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
   md.write("<body>\n\n")
-  md.write("<center><h2>The Deepest Revolution</h2><br/>\n\n")
+  md.write("<center><h2>The<br/>Deepest Revolution</h2><br/>\n\n")
   md.write("<h2>DRAFT</h2><br/>\n\n")
   md.write("<h4>Whip Randolph</h4><br/></center>\n\n")
 

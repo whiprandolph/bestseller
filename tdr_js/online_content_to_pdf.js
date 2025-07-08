@@ -7,10 +7,10 @@ const puppeteer = require('puppeteer');
   await page.goto('http://localhost:8000/book_online.html', {waitUntil: 'networkidle2'});
   await page.pdf({
     displayHeaderFooter: true,
-    paperWidth: 8.5,
-    paperHeight: 11,
+    paperWidth: 6,
+    paperHeight: 9,
     headerTemplate: '<div id="header-template"></div>',
-    footerTemplate: '<div id="footer-template" style="font-size:11px !important; color:#000000; padding-left:20px"> <span class="pageNumber"></span> </div>',
+    footerTemplate: '<div id="footer-template" style="font-size:11px !important; color:#000000; position:absolute; left:1.2in; top:9.1in;"> <span class="pageNumber"></span> </div>',
     path:'C:\\Users\\whip\\tdr_published_files\\content_online.pdf',
     margin: {
       top: '100px',

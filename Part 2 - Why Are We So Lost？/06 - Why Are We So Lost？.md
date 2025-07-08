@@ -1,6 +1,6 @@
 ## Chapter 6: Why Are We So Lost?
 
-Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand for what's right_ for ourselves and our neighbors.
+Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors.
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
@@ -42,7 +42,7 @@ In unhealthy cultures, where people are forbidden from holding their leaders acc
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right in their culture, and _your urge to "stand for what's right" is the natural urge to uphold the laws of your own society_. In healthy cultures, people are expected to act on that urge. In unhealthy cultures, they are punished for acting on it.**
+Every single human feels a deep urge to stand up for what's right in their culture. _Your urge to "stand for what's right" is the natural urge to uphold the laws of your own culture_. In healthy cultures, people are expected to act on that urge. In unhealthy cultures, people are trained to repress that urge and punished for acting on it.**[xxx-I replaced "society" with "culture". It's not just that the urge is natural, it's that the urge is the motivation to uphold the laws of one's culture, and I want to emphasize that several times in the book.]
 
 Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against their abusive authorities.**
 
@@ -91,3 +91,7 @@ A few thousand years ago, everybody lived in a healthy culture where solidarity 
 To explore deep spiritual training, join me in _Chapter 7: Encouraging vs Discouraging Spirituality_.
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-I replaced "society" with "culture". It's not just that the urge is natural, it's that the urge is the motivation to uphold the laws of one's culture, and I want to emphasize that several times in the book.]

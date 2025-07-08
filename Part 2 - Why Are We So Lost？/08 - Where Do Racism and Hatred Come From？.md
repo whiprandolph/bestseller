@@ -4,17 +4,17 @@ Many people born and raised in unhealthy cultures seem to think that humans are 
 
 This is not true. No one is born racist, sexist, or hateful. Every child, regardless of their culture, is born with an open heart, capable of empathizing with others and full of curiosity.
 
-However, immersed from birth in unhealthy cultures, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are programmed to discriminate against others, but that programming is not inherent in our DNA. It has to be taught.**
+However, immersed from birth in unhealthy cultures, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are programmed to discriminate against others, but that programming is not inherent in our DNA. It has to be taught.
 
 How are racism and other kinds of discrimination taught? I believe this relentless training arises from three underlying cultural drivers:
 
 1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. 
 
-    For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.**
+    For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.
 
-2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.**
+2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.
 
-3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.**
+3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.
 
 How does this work in practice?
 
@@ -92,7 +92,7 @@ When people are trapped with selfish and unaccountable leaders, the results are 
 
 Selfish rulers who encourage divisive racism and hate contrast vividly with generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
 
-Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? 
+Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out?
 
 It turns out that it is everyone's responsibility to ensure that only the most selfless people become leaders. Can you imagine having leaders who are so humble that they would never campaign for office? How would they even become leaders then?
 

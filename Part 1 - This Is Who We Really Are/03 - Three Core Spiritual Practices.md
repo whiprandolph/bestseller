@@ -34,7 +34,7 @@ I believe that cultivating and giving one's sacred gifts fully is how a person g
 
 Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. Ten Fingers also noted that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.
 
-These two spiritual practices of gratitude and gift-giving are both so beautiful. And the third core spiritual practice ties them all together.
+These two spiritual practices of gratitude and gift-giving are both so beautiful. The third core spiritual practice ties them all together.
 
 ### The Third Core Spiritual Practice: Living in Reciprocity
 

@@ -48,7 +48,7 @@ This taught me the importance of maintaining that internal baseline of mutual re
 
 Of course, not all authority figures engage in predatory behavior or serve the rich. Some leaders, such as Jacobo Árbenz in Guatemala or Salvador Allende in Chile implemented policies that benefited the poor at the expense of the rich. And both were killed in coups by high-ranking military and business officials.
 
-Why is it so hard in unhealthy cultures to get leaders elected who actually seek to serve all the people, including the poor? And why are they so quickly replaced when they do get to power?
+Why is it so hard in unhealthy cultures to elect leaders who actually serve all the people, including the poor? And why are they so quickly killed, corrupted, or replaced when they do get to power?
 
 In healthy cultures, when everyone stands for what's right and generosity is the norm, the people wouldn't tolerate a selfish leader, and selfish leaders are quickly replaced.
 
@@ -58,17 +58,21 @@ This shows that _healthy and unhealthy cultures are both stable_, meaning they c
 
 ### When People Learn to "Hold Back" or "Shut Down" Parts of Themselves
 
+[xxx-note: this section mixes two things, adulthood training and early childhood abuse/deprivation. Could be more clear, or could be split into two sections]
+
 Dorothy Parker once described, "The only dependable law of life -- everything is always worse than you thought it was going to be." I agree, except this isn't a law of life -- it's a law of unhealthy cultures. 
 
 Selfishness and corruption are the same thing. So of course, in societies that systematically reward selfishness, there will be pervasive corruption, and no matter how much anybody investigates, there will always be more corruption to find. Unhealthy cultures are rotten to the core, because all of them involve a few rulers exploiting many others and training them to tolerate it.
 
-Widespread and endless child sexual abuse, hatred, racism, sexism, pollution, greed, disconnection from nature persist endlessly -- and it doesn't matter who we vote for, these things keep happening. It doesn't matter what political party is in power, or whether a society is democratic or theocratic, or capitalist or communist. So long as people are trained to obey the law instead of standing for what's right, these terrible troubles will continue.
+Julian Assange described how people learn to tolerate exploitation: "Every time we witness an injustice and do not act, we train our character to be passive in its presence and thereby eventually lose all ability to defend ourselves and those we love."
+
+Widespread child sexual abuse, hatred, racism, sexism, pollution, greed, disconnection from nature, and corruption persist endlessly -- and it doesn't matter who we vote for; these things keep happening. It doesn't matter what political party is in power, or whether a society is democratic or theocratic, or capitalist or communist. So long as people are trained to obey the law instead of standing for what's right, these terrible troubles will continue.
 
 Every single human has a deep urge to stand for what's right in their society, and this is the natural urge to uphold the laws they live by. In every society without rulers, children are raised into adults who stand for what's right as a normal, daily way of life.
 
-In unhealthy cultures, children often experience a wide range of traumas where they learn to "hold back" or "shut down" parts of themselves, or ignore some uncomfortable part of reality -- and then learn to ignore that they're holding back. This is simply a normal way to deal with traumas that seem overwhelming, and can't be dealt with satisfactorily. Essentially, children can learn how to subconsciously tolerate dissatisfaction or disrespect or ignore some aspects of reality so that in adulthood this seems normal.
+In unhealthy cultures, children often experience a wide range of traumas where they learn to "hold back" or "shut down" parts of themselves, or ignore some uncomfortable part of reality -- and then learn to ignore that they're holding back. This is simply a normal way to cope with overwhelming situations that can't be dealt with satisfactorily. Essentially, children can learn how to subconsciously tolerate dissatisfaction or disrespect or ignore some aspects of reality so that in adulthood this seems normal.
 
-Some sorts of child abuse are more common than others, but in cultures where rulers force people to tolerate endless predation and not stand for what's right, trauma is inevitable, and in one way or another, nearly everyone learns to hold back somehow. Thus it is common for people to grow up with all manner of emotional troubles, as each traumatized generation raises the next and passes on different kinds of emotional wounds.
+Some sorts of child abuse are more common than others, but in cultures where rulers force people to tolerate endless predation and not stand for what's right, abuse is inevitable, and in one way or another, nearly everyone learns to hold back somehow. Thus it is common for people to grow up with all manner of emotional troubles, as each abused generation raises the next and passes on different kinds of emotional wounds.
 
 How are people trained to tolerate living in an unhealthy culture with endless predation and abuse? And what qualities would they need to cultivate to have the strength to live in a healthy culture instead?
 
@@ -94,7 +98,9 @@ How are people trained to tolerate living in an unhealthy culture with endless p
 
 * _Deep awareness_: Unhealthy cultures often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, politics, education, or anywhere else -- instead of training people for deep awareness.
 
-* _Strong Children_: It is traumatic to live in a society which requires people to obey rulers' laws, and forbids people from standing for what's right even while political, corporate, and religious authorities are obviously exploiting the rest and breaking the law. Traumatized parents can easily unintentionally traumatize their children, meaning emotional troubles are widespread in unhealthy cultures. This emotional wounding is often reinforced in schools and churches that train children to be obedient, and to feel ashamed or bad if they disobey authorities. Training children for obedience is the opposite of training children to bravely stand for what's right.
+* _Strong Children_: It is traumatic to live in a society which requires people to obey rulers' laws, and forbids people from standing for what's right even while political, corporate, and religious authorities are obviously exploiting the rest and breaking the law. Adults c
+
+    Even well-meaning parents with emotional troubles can unintentionally act hurtfully towards their children who can develop emotional troubles of their own, meaning emotional troubles are widespread in unhealthy cultures. This emotional wounding is often reinforced in schools and churches that train children to be obedient, and to feel ashamed or bad if they disobey authorities. Training children for obedience is the opposite of training children to bravely stand for what's right.
 
 * _Trust_: Since low-integrity and selfishness are so widespread in unhealthy cultures, many people can easily learn not to trust their neighbors, or be very guarded.
 

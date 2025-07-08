@@ -8,11 +8,16 @@
 * [The Deepest Revolution](#the-deepest-revolution)
 <toc/>
 
-For thousands of years, unhealthy cultures have spread around the world. Every unhealthy culture is a dictatorship, where a few people dictate the law and expect obedience from everyone else. Countless people have discussed and sought freedom -- but without knowing what freedom is even like!
+For thousands of years, unhealthy cultures have spread around the world. Every unhealthy culture is a dictatorship, where a few people dictate the law and expect obedience from everyone else. Countless people have discussed and sought freedom -- but often without knowing what freedom is even like!
 
 In the 1770s, American revolutionaries cried "Give me Liberty or give me Death!" while fighting to preserve a chattel slave society. In the 1910s, rebels worked to create a revolutionary workers' paradise to replace the Russian monarchy, but the resulting Soviet government was so oppressive that people were sent to jail for decades merely for reading the wrong book. 
 
-Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but their attitudes of body-shaming, women-shaming, sex-shaming, equating pleasure and sin, belief in people's inclination to evil or disconnection from god, and other profoundly hurtful attitudes have actually trained people not to have the personal strength to stand for what's right, as Jesus Christ did. For centuries, anyone who didn't adopt this deeply hurtful Christian interpretation of Jesus Christ's teachings was labeled a heretic and tortured to death. The history of Islam, Buddhism, and other authoritarian religions have similar stories.
+Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but obedient Christian missionaries and soldiers consistently spread dictatorships rather than oppose them like Jesus Christ did.
+
+Countless people have joined labor unions but no labor movement has ever ended the exploitation of workers. Likewise, no feminist movement has ever ended sexism in their society, no racist movement has ever ended racism, no environmental movement has ever ended pollution in their culture. Authorities keep pushing for wars based on lies, making the poor die so the rich can profit.
+
+
+their attitudes of body-shaming, women-shaming, sex-shaming, equating pleasure and sin, belief in people's inclination to evil or disconnection from god, and other profoundly hurtful attitudes have actually trained people not to have the personal strength to stand for what's right, as Jesus Christ did. For centuries, anyone who didn't adopt this deeply hurtful Christian interpretation of Jesus Christ's teachings was labeled a heretic and tortured to death. The history of Islam, Buddhism, and other authoritarian religions have similar stories.
 
 As the Haudenosaunee writers noted, "We need to identify the process that so often leads people who are honestly seeking to resist and destroy colonization to unconsciously recreate the elements of their own oppression."
 
@@ -76,7 +81,7 @@ Instead, people simply learn to accept certain amounts of exploitation and abuse
 
 What does it mean to "decolonize?" Didn't the United States decolonize when it "freed" itself from British colonial rule in the American Revolutionary War? Didn't Mexico decolonize when it "freed" itself from Spanish rule? And yet these nations have all the same problems they did before, including racism, sexism, greed, pollution, corruption, and so on. So merely seeking to "decolonize" does not get to the root of the trouble and help generate healthy cultures again.
 
-* _The grass isn't greener on the other side_: Many activists in communist societies have seen how bad life is there, and they've heard how great life is in capitalist societies, so they work to make their society more capitalist. Likewise many activists in capitalist societies have heard how great life is in communist societies and worked to support a communist revolution. And yet countries like the socialist Soviet Union, communist China, or capitalist United States are all dictatorships, where a few people dictate the law, and everyone else is punished for standing for what's right. Is it any wonder they have similar injustices?
+* _Other flavors of tyrrany don't taste better_: Many activists in communist societies have seen how bad life is there, and they've heard how great life is in capitalist societies, so they work to make their society more capitalist. Likewise many activists in capitalist societies have heard how great life is in communist societies and worked to support a communist revolution. And yet countries like the socialist Soviet Union, communist China, or capitalist United States are all dictatorships, where a few people dictate the law, and everyone else is punished for standing for what's right. Is it any wonder they have similar injustices?
 
 * _Magical thinking doesn't work_: Countless people have engaged in magical thinking throughout history, hoping that exploitation would go away on its own. Marxists may believe that economic or technological change will ultimately result in workers owning the means of production, but after 150 years, this shows no signs of happening.
 

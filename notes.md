@@ -5,6 +5,7 @@
 * make all riot police images the same size
 * add hawks hunting pic?
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
+* fix formatting of part intro pages - need visible title centered w/newline between part x and title.
 
 ### Costs
 

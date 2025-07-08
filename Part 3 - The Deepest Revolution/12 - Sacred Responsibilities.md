@@ -3,10 +3,9 @@
 <toc/>
 
 * [Children](#children)
-* [Have High Standards for Yourself and Others](#have-high-standards-for-yourself-and-others)
+* [Hold Yourself and Others to a High Standard](#hold-yourself-and-others-to-a-high-standard)
 * [Cultivate Deep Awareness](#cultivate-deep-awareness)
 * [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
-* [Gracious Receiving: Choose Leaders that Actually Serve the People](#gracious-receiving-choose-leaders-that-actually-serve-the-people)
 * [Sacred Responsibilities](#sacred-responsibilities)
 * [References](#references)
 <toc/>
@@ -47,11 +46,33 @@ The big shift was to see myself as the Earth, not somehow different or separated
 
 * Some people reject authoritarian upbringings, but have low or no standards or set boundaries poorly. 
 
-### Have High Standards for Yourself and Others
+### Hold Yourself and Others to a High Standard
 
-* people have low standards for each other, and often for themselves
+Beautiful qualities really can be pervasive and normal, like authenticity, integrity, responsibility, thoughtfulness, bravery, joy, and generosity. Living a deeply meaningful life, in service of people you care about and who care about you -- this can be normal. For these qualities to be normal in a group of people, I believe they simply need to have high expectations for themselves, each person holding themselves and each other to a high standard of excellent behavior.
 
-* but beautiful qualities like authenticity, integrity, responsibility, thoughtfulness, bravery, joy, and generosity really can be pervasive and normal. Living a deeply meaningful life, in service of people you care about and who care about you -- this can be normal.
+When cowardice, selfishness, and low integrity are pervasive, many people learn to have low expectations for each other. I know people who have learned never to trust anybody to speak the truth or "stick their neck out" for others.
+
+The truth is that people's behavior changes dramatically after they become trapped in unhealthy cultures and fully submit to abusive authorities. Crow woman Pretty Shield described how the United States killed the buffalo that the Crow depended on, and after this the Crow had to either starve or submit to American law. She described the transformation the men went through when they finally submitted: "Our men had fought hard against our enemies, holding them back from our beautiful country by their bravery; but now, with everything else going wrong, we began to be whipped by weak foolishness... Our wise-ones became fools, and drank the white man's whisky. But what else was there for us to do? We knew no other way than to listen to our chiefs and head men. Our old men used to be different; even our children were different when the buffalo were here."
+
+There is no room for masculine wisdom and bravery in an unhealthy culture that forbids peope from upholding their own laws and standing for what's right. Thus many men do not cultivate these qualities, and do not know what they are missing. This explains why so many women in unhealthy cultures wonder "where are all the good men?"
+
+Sioux man Rain-In-The-Face man described how his spirit died when he submitted: "Rain-In-The-Face was killed when he put down his weapons before the Great Father [US president]. His spirit was gone then; only his poor body lived on..."
+
+Rain-In-The-Face knew what it was like to live in a healthy culture that welcomed all his gifts, including his willingness to stand for what's right no matter what. Thus he knew that his spirit died when he submitted. But when people are born into an unhealthy culture, they are trained for submissive obedience from an early age, and many don't even recognize the deep impact this has on them -- on their spiritual strength, their authenticity, bravery, dignity, integrity, joy, and many other qualities.
+
+These transition stories and many others showed me that widespread selfishness, low integrity, drunkenness, depression, superficiality, and other troubles are not inevitable. They are simply predictable consequences among people who have embraced submissive obedience, and who try to maximize their safety and comfort in an unhealthy culture.
+
+_Merely living under rulers does not lead anybody to develop these terrible qualities_. The trouble comes when a person internally submits, embracing shame, low self-worth, self-doubt, selfishness, distraction, isolation, or other attitudes that allow them to avoid the dissatisfaction of giving less than their deepest love.
+
+Thus, if you want to help form a healthy culture or healthy subculture, _lovingly hold yourself and others to a high standard of excellent behavior_. Avoid shame, condescension, and hurtful assumptions, and also learn not to accept less than full integrity, authenticity, wisdom, and other beautiful qualities.
+
+I also urge you to either join or start a group of people committed to each other's personal growth. Releasing shame and self-doubt is very hard alone, or even impossible. In contrast, personal growth can be fun with other trusted people that are all committed to bringing out the best in each other and living a joyful, meaningful, and intentional life.
+
+Cowardice, foolishness, low awareness, and other hurtful qualities prevent a person from having the strength to stand for what's right. A person who embraces these cannot be part of a healthy culture. Qualities like bravery, wisdom, gratitude, awareness, generosity, joy, and others form the spiritual foundation needed to participate in a healthy culture.
+
+I am not asking anyone to "be perfect." I ask you to commit to being your best self, learning as much as possible from your mistakes, walking a meaningful path in life, and consistently facing your fears. Hold yourself and others to a high standard, and become friends with people that also hold themselves and others to a high standard.
+
+In this way, caring people can bring out the best in each other, and build that spiritual foundation upon which a healthy culture might someday form.
 
 ### Cultivate Deep Awareness
 
@@ -62,6 +83,14 @@ The big shift was to see myself as the Earth, not somehow different or separated
 * from that gratitude, consider - how can you serve the beings you feel grateful for?
 
 * avoid hurtful assumptions. Ignorance can be ok temporarily, but believing hurtful and false things can really damage relationships.
+
+* your attention is one of the most precious and powerful things you have. Do you pay attention to your surroundings, or are you in your head or on your phone? Do you pay attention to your feelings or avoid them? Do you distract yourself from a meaningless life with televised sports, social media, alcohol, and drugs? Or do you seek meaningful relationships, cultivate meaningful skills, and deeply enjoy life? Do you hide from your fears, or do you face them?
+
+Notice where you put your attention, and where you don't. Your attention is always _somewhere_. I'm simply suggesting that you cultivate awareness like any other crucial life skill, one that can transform your life and relationships, and help you generate a healthy culture if you choose.
+
+How can you feel grateful if you don't notice all the gifts you receive?
+
+
 
 ### Live in Reciprocity as a Normal Way of Life
 
@@ -95,32 +124,6 @@ But anyone can practice living in a reciprocal way with the Earth. One simple wa
 Growing up in an unhealthy culture made it hard for me to find these three core spiritual practices. I didn't grow up practicing gratitude as a way of life or receiving the gifts of the Earth, and I didn't grow up practicing deep awareness so that I could see all the gifts I had been receiving without even noticing it. I didn't grow up learning to feel equally grateful for the gifts of nonhumans and humans, and feeling an equally strong desire to give back.
 
 But I have good news: all these perspectives can be practiced. And it turns out, cultivating deep awareness doesn't just help people relate to nonhumans better -- awareness helps people relate to each other better, too.
-
-### Gracious Receiving: Choose Leaders that Actually Serve the People
-
-Stories of selfish rulers contrast vividly with countless stories of generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
-
-Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out? Or is there a responsibility people could take to ensure that only the most selfless people become leaders?
-
-Can you imagine having leaders who were so humble that they would never campaigned for office? How would they even become leaders then?
-
-Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
-
-It turns out, it's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging. 
-
-If you want to be able to live in a healthy culture, with leaders who serve the people instead of selfishly serving themselves, _notice other people's good deeds and tell their stories_. This is based on that first core spiritual practice of practical, aware gratitude for the gifts of others. Each good deed is a gift, and one way to receive that gift graciously is to tell the story so that others know.
-
-When you notice someone who consistently tells the truth even when they could get away with lying, let the person know that you see them, and when appropriate, tell the stories to other people. When someone keeps a promise even when they really don't feel like it, tell the story. When someone consistently shows up to meetings early and well-prepared and helps the group make good decisions, tell those stories. When someone is a source of calm and good humor in difficult moments, or gives generously when they think no one's looking -- _tell those stories_ so that the person's reputation grows.
-
-This is how a group can select the most humble, generous, honest, and capable leaders, including people who would never campaign for a leadership role. When everyone in a culture practices noticing good deeds and retelling the stories, the reputations of the best leaders grow naturally. When it's time to pick a leader, the people will know who it should be.
-
-Given that some healthy cultures have had many tens of thousands of people, and spanned up to 40,000 sq. miles or more, this practice doesn't just work at the village level, but can help nations of any size choose the best people at each level of leadership.
-
-I love telling stories of others' good deeds -- it's fun! Who doesn't like telling and hearing good news? Who doesn't like encouraging and rewarding good behavior? Every retelling is a little celebration.
-
-One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
-
-This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
 ### Sacred Responsibilities
 

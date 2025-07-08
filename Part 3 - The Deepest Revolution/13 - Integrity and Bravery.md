@@ -5,6 +5,7 @@
 * [Integrity is the Spiritual Structure of People and Societies](#integrity-is-the-spiritual-structure-of-people-and-societies)
 * [Bravery: the Capacity to Act in Service in any Situation](#bravery-the-capacity-to-act-in-service-in-any-situation)
 * [Integrity and Bravery can be Practiced](#integrity-and-bravery-can-be-practiced)
+* [References](#references)
 <toc/>
 
 Imagine living in a society without any rulers imposing law, without any police enforcing it, and without any prisons to scare people into submission.
@@ -42,6 +43,8 @@ Researchers also describe integrity as part of a person's emotional strength. On
 Whether in engineering, psychology, or many other settings, integrity is commonly recognized as the essence of something's structure. Anything without integrity is unreliable, prone to collapse, or not solid. I believe the same is true for healthy cultures.
 
 Just as a bridge requires structural integrity to remain strong, and individuals require integrity to remain integrated and whole, human cultures require integrity to remain healthy.
+
+"Standing for what's right" is the natural urge to uphold the laws you live by. Humans are only supposed to have just laws which are fairly enforced, and healthy cultures maintain this way of life by expecting everyone to stand for what's right all the time -- that's simply what it means for healthy culture to uphold its laws. "Standing for what's right" is a deep form of integrity of service, where each person stands for the wellbeing of the whole group.[xxx-needs work]
 
 People can agree to protect each other from attack, share resources, or agree to live respectfully together, but will they actually keep their agreements? Integrity allows people to uphold the laws they choose to live by, and thus I believe integrity forms the structure of any healthy culture. Can I rely on my neighbors to support me if enemies approach? If one neighbor acts disrespectfully, can I rely on the rest of my neighbors to stand in solidarity with me, and ensure that everyone enjoys a baseline of mutual respect?
 
@@ -94,3 +97,7 @@ My final suggestion is this: _build a library of stories of brave people_. Surro
 When a group has widespread, pervasive integrity and bravery, then I believe widespread trust and _the most secure feeling in the world_ will naturally follow.
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-needs work]

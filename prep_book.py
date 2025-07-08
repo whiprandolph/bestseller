@@ -19,7 +19,7 @@ repo_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
 
-PHYS = {"width":5, 'height':9}
+PHYS = {"width":6, 'height':9}
 
 BOOK_ADDED_STYLE = """
 
@@ -30,6 +30,9 @@ BOOK_ADDED_STYLE = """
   }\n
   @page {
     size: %sin %sin;
+  }
+  h1 {
+    display: none;
   }
   blockquote {
     color: black;
@@ -96,7 +99,9 @@ def process_chapter(full_path):
     assert references not in blob, "reference in chap %s" % full_path
     assert "break-after:page" in blob, "no break-after in %s" % full_path
   except AssertionError as exc:
-    response = input("FAILED ASSERTION '%s', CONFIRM WE SHOULD CONTINUE (Y/n) > " % exc)
+    response = 'y'
+    time.sleep(.25)
+    print("FAILED ASSERTION '%s', CONFIRM WE SHOULD CONTINUE (Y/n) > " % exc)
     if response == 'n':
       sys.exit()
   if references in blob:
@@ -139,7 +144,7 @@ def main():
   make_online_pdf()
   make_phys_book()
   make_epub()
-  #os.startfile(book_final)
+  os.startfile(book_final)
   cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
@@ -214,7 +219,6 @@ def make_phys_book():
   pass
 
 def cleanup():
-  #import pdb;pdb.set_trace()
   print("Cleaning up... (%s)" % time.ctime())
   for filename in os.listdir(book_final):
     path = os.path.join(book_final, filename)
@@ -225,4 +229,9 @@ def cleanup():
         os.remove(path)
 
 if __name__ == "__main__":
-  main()
+  try:
+    main()
+  except Exception as exc:
+    print("Error!")
+    print(exc)
+    breakpoint()

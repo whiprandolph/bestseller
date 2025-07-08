@@ -36,7 +36,13 @@ Evil could exist almost anywhere, from doorways to cracks in stones, and -- surp
 
 Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."
 
-Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people free themselves by uniting, making their own respectful laws, and upholding those laws together?**
+Authoritarian religions often blame the victims for their own suffering instead of acknowledging the abuses imposed by the ruling class. The Christian Bible and Jewish Torah claim, in Genesis 3:16, that God condemned women forever because the "original" woman Eve tempted a man to eat forbidden fruit, saying "I [God] will make your pains in childbearing very severe; with painful labor you will give birth to children." It turns out that the vast majority of Jewish and Christian women began suffering more-difficult childbirths after this period, but not because of God.**
+
+Many observers have noticed that women in healthy cultures commonly have relatively easy childbirths. Weston Price visited healthy cultures around the world in the 1900s and noticed "With several of these tribes... the ease with which childbirth is accomplished is so great that it is looked upon as quite an insignificant experience." Bartolome De Las Casas remarked on the Arawaks, "pregnant women work to the last minute and give birth almost painlessly; up the next day, they bathe in the river and are as clean and healthy as before giving birth..."**
+
+Why might childbirth be easier for women in healthy cultures? Research shows that women struggle to eat high-nutrition diets in unhealthy cultures where ruling classes force so many people into poverty. The Bible and Torah claim that God says that women deserve difficult childbirths, when the reality is that unnecessarily difficult childbirths in unhealthy cultures clearly stem from widespread nutritional deficiencies which are common when so many people live in poverty. In other words, difficult childbirths stem from oppression imposed by rulers, not due to "God's" wrath towards women due to the first woman's disobedience. But you wouldn't learn that from the Bible or Torah would you?**
+
+Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people to free themselves by uniting, making their own respectful laws, and upholding those laws together?**
 
 Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
@@ -56,7 +62,7 @@ And if people really are so terrible, then of course it's foolish to trust one's
 
 Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave," and the Christian Bible and Islamic Quran urge Christians and Muslims around the world to believe they are free even while obeying their authorities. Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise. And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
 
-And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "normal" and "just how life is" to countless inhabitants, including Americans, Chinese, Australians, Koreans, and more. Most citizens may vote, have unproductive political arguments with neighbors, worry about their life after death, "pray" intensely by thinking thoughts in their head, wait for a prophet to be reborn and save them, or almost anything other than doing the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.**
+And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "normal" and "just how life is" to countless inhabitants, including Americans, Chinese, Australians, Koreans, and more. Most citizens may think they are "good," or trying to "do their part." They may take all sorts of unproductive actions, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, "praying" intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than doing the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.
 
 ### Authorities Kill or Imprison Our Spiritual Leaders
 
@@ -66,19 +72,25 @@ Still, that innate human desire to be who we really are runs deep. Spiritual lea
 
 Jesus Christ was called a "messiah" (which simply means "savior" or "liberator") because the Jews wanted someone to save them. But save them from what? They wanted someone to save them from oppressive Roman rule. They wanted a revolutionary, and Jesus stood up and did his revolutionary work even knowing authorities would surely kill him for it. And they did.
 
-Martin Luther King Jr worked to end racial oppression and imperialism in the United States in the 1950s and 1960s, and like Jesus Christ, he carried on his work fully aware that he would be killed for it. And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.**
+Martin Luther King Jr worked to end racial oppression and imperialism in the United States in the 1950s and 1960s, and like Jesus Christ, he carried on his work fully aware that he would be killed for it. And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.
 
-In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.**
+In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
-Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order.**
+Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order.
 
 Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually kill or imprison the wisest and bravest leaders among us.
 
 #### How Can Everyone Be Divine If Some People Act with Cruelty and Selfishness?
 
-Authoritarian religions commonly encourage shame, disconnection from divinity, a sense of inherent badness or conditional goodness, self-doubt, and sexism. But the three core spiritual practices encourage the opposite. A practical aware gratitude encourages deep awareness of others and gratitude for each person's gifts instead of hurtful sexist or racist assumptions. Everyone has sacred gifts to give, a life purpose that only they can get done, and this belief encourages high self-worth and a sense of inherent goodness, and leaves no room for shame. And living in reciprocity encourages deep and secure solidarity rather than isolation, despair, and division.**
+Authoritarian religions commonly encourage shame, disconnection from divinity, a sense of inherent badness or conditional goodness, self-doubt, and sexism. But the three core spiritual practices encourage the opposite.
 
-The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace these practices? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?**
+The first spiritual practice, *developing a practical aware gratitude*, encourages deep awareness of others and gratitude for each person's gifts instead of hurtful sexist or racist assumptions.
+
+The second spiritual practice of *giving our gifts* reminds us that everyone has sacred gifts to give, a life purpose that only they can contribute, and this belief encourages high self-worth and a sense of inherent goodness, and leaves no room for shame.
+
+And the third core spiritual practice of *living in reciprocity* encourages deep and secure solidarity rather than the isolation, despair, and division that many of us in unhealthy cultures feel daily.
+
+The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace these practices? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?
 
 So which is it? Are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine force in each person's heart will help them find their gifts if they will only listen. 
 
