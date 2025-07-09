@@ -6,11 +6,15 @@ import markdown2
 import subprocess
 from progress import chapters
 
-md_dir = r"C:\Users\whip\tdr"
+source_dir = r"C:\Users\whip\tdr"
+md_dir = r"C:\Users\whip\tdr-md-publish"
 html_dir = r"C:\Users\whip\tdr-book-html"
+md_images_dir = os.path.join(source_dir, 'images')
 top_images_dir = os.path.join(html_dir, 'images')
 pdf_dir = r"C:\Users\whip\tdr-book-pdf"
 md_publish_dir = r"C:\Users\whip\tdr-md-publish"
+why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\05 - Why Are We So Lost.html"
+why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\05 - Why Are We So Lost.docx"
 
 PUBLISH = True
 
@@ -19,9 +23,9 @@ full_html_path = os.path.join(html_dir, 'full_book.html')
 
 def get_file_list(ignore_images = False):
     path_list = []
-    chapter_number = 0
+    chapter_number = 1
     for part_name, chapter_names in chapters.items():
-        part_path = os.path.join(md_dir, part_name)
+        part_path = os.path.join(source_dir, part_name)
         for a, b, chapter_name in chapter_names:
             if not is_chapter_name(chapter_name, part_path):
                 chapter_path = os.path.join(part_path, chapter_name)
@@ -70,24 +74,31 @@ def transform(file_list):
             a = 4
 
         if 'images' in file_path:
-            html_path = file_path.replace(md_dir, html_dir)
+            html_path = file_path.replace(source_dir, html_dir)
+            md_path = file_path.replace(source_dir, md_dir)
             if not os.path.exists(os.path.dirname(html_path)):
                 os.mkdir(os.path.dirname(html_path))
+            if not os.path.exists(os.path.dirname(md_path)):
+                os.mkdir(os.path.dirname(md_path))
+            
             # also put image in top-level images dir
+            if not os.path.exists(md_images_dir):
+                os.mkdir(md_images_dir)
             if not os.path.exists(top_images_dir):
                 os.mkdir(top_images_dir)
             top_img_dir_dest_path = os.path.join(top_images_dir, os.path.basename(file_path))
             shutil.copy(file_path, top_img_dir_dest_path)
             shutil.copy(file_path, html_path)
+            shutil.copy(file_path, md_path)
             continue
         else:
             md_path = file_path
         
-        html_path = md_path.replace(md_dir, html_dir)
+        html_path = md_path.replace(source_dir, html_dir)
         html_path = html_path.replace(".md", ".html")
-        pdf_path = md_path.replace(md_dir, pdf_dir)
+        pdf_path = md_path.replace(source_dir, pdf_dir)
         pdf_path = pdf_path.replace(".md", ".pdf")
-        md_publish_path = md_path.replace(md_dir, md_publish_dir)
+        md_publish_path = md_path.replace(source_dir, md_publish_dir)
         if not os.path.exists(os.path.dirname(html_path)):
             os.mkdir(os.path.dirname(html_path))
         if not os.path.exists(os.path.dirname(md_publish_path)):
@@ -103,6 +114,7 @@ def transform(file_list):
 def is_chapter_name(chapter_name, directory):
   return ("Part Introduction" not in chapter_name and
           "preface material" not in directory.lower() and 
+          "part 0" not in directory.lower() and
           "part 4" not in directory.lower())
 
 
@@ -112,6 +124,10 @@ def main():
         if '.md' in file_path:
             toc.insert_and_return_toc(file_path)
     transform(file_list)
+    os.chdir(os.path.dirname(why_so_lost_html))
+    subprocess.run(['pandoc', '-s', why_so_lost_html,
+                              '-o', why_so_lost_docx])
+
 
 if __name__ == '__main__':
     start_time = time.time()

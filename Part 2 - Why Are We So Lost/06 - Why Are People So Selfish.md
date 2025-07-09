@@ -1,4 +1,4 @@
-## Chapter 5: Encouraging Generosity vs Encouraging Selfishness
+## Chapter 6: Why Are People So Selfish?
 
 In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
 
@@ -107,6 +107,8 @@ In cultures that forbid people from standing for what's right and upholding thei
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for what's right, and nobody rules over anybody else.
 
-Selfishness is pervasive in every unhealthy culture. Why has it been so rare for unhealthy cultures to address that deep selfishness? And what is life like in a society where courageous solidarity is the norm instead? To find out, join me in _Chapter 6: Why Are We So Lost?_
+How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
+
+To explore deep spiritual training, join me in _Chapter 7: Why Is Shame So Common?_.
 
 <div style="break-after:page"></div>

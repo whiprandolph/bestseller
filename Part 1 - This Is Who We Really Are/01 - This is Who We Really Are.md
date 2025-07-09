@@ -1,4 +1,4 @@
-## Chapter 1: This is Who We Really Are
+## Chapter 1: This Is Who We Really Are
 
 I have really good news!
 

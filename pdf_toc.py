@@ -58,7 +58,7 @@ def get_page_number(pdf, name, start_page):
 def prep_pdf_toc(content_path, dimensions={}):
   pdf = PdfReader(content_path)
 
-  chapter_number = 0
+  chapter_number = 1
   page_number = 0
   toc_data = {}
   add_part_name = True

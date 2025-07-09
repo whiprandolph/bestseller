@@ -1,4 +1,4 @@
-## Chapter 8: Where Do Racism and Hatred Come From?
+## Chapter 8: Why Are People So Racist And Hateful?
 
 Many people born and raised in unhealthy cultures seem to think that humans are naturally racist, sexist, and prone to hate. Or at least some are.
 
@@ -116,30 +116,11 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
-### Ending 2: Cultivate Deep Awareness and Unity Through Nature Connection Practices
-
-How could nature connection practices help people avoid racism and hatred, and cultivate deep awareness and unity instead?
-
-I was pleasantly surprised to discover that that nature connection practices helped me connect with people in a deeper way than I ever had before. After practicing for years, it's clear to me that if a whole group of people embraced these practices, they could be closely connected indeed and there would be no place for racism and hatred.
-
-Every day, I would go to the same spot and pay attention to the nonhumans. I ask what plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. And I learned to feel curious about the experiences of the beings around me.
-
-I asked myself questions about what I saw. Why would a bird constantly look up as it eats? I learned that they are continuously aware in case predators arrive, so birds constantly eat, look around, eat, and look again. Do some species of tree like growing together and others don't? For example, I learned that black walnuts produce a compound which only some plants find toxic, and thus black walnuts like growing with trees like sugar maple and box elder but avoid trees like white pines.
-
-I continually practiced feeling into the experiences of other beings. For example, I studied hawks and songbirds, and I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me in an instant. If I were a songbird, I would probably eat carefully too!
-
-Eventually, I learned that plants and animals could help me notice parts of the landscape I couldn't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not be able to see rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
-
-The first core spiritual practice -- cultivating a practical, aware gratitude -- is a big part of this daily awareness training. I learned that birds and plants and other beings could teach me about my environment, or they could show me when I'm feeling anxious or stressed. They could help me become more aware about my environment or myself if only I became more aware of them. This awareness is a gift that they give. I learned to feel into the birds and plants and streams around me so that they were extensions of me. Their awareness became an extension of my awareness, and the only limit was how carefully I could pay attention, and how well I could interpret the behaviors I observed.
-
-This is training in deep empathy, and I noticed it also helped me with people. For example, growing up, I learned that women can get extra sensitive during their period. For years I found this annoying and learned to leave women alone during this time. But as with my nature connection practices, I started asking, "how is this a gift?" or "what does this have to teach me?" And I noticed that some women friends would reject food during their period that they normally ate, and when I asked, they said the food was rancid. I would try it and I couldn't taste any rancidity at first. Over time, I learned to taste my food more and more, and I began to notice the occasional rancidity, especially in store-bought food. I realized that the sensitive women had noticed something I couldn't notice. Like the birds, women could show me something about my environment that I couldn't notice directly. When a woman said some food was rancid, even if I couldn't detect it, I began to trust her, and I rejected the food too. Over time this helped me notice rancidity I couldn't notice before.
-
-The more I practiced, the more deeply I could see. For example, when black Americans complain about police brutality, it shows me where my society isn't as healthy or fair as it seems in my experience. When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it. I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust anyone, but I take care to notice what lessons I can learn from others.
-
-I've had women tell me "you're not a woman, so you can't know what it's like." In a sense, that's true. I'm a man, so I can't know what a woman's experience is like. But by the same logic, I cannot know other men's experiences either. I'm not a black man, so I can't know what a black man's experience is like. I'm neither rich nor impoverished, so I can't know what the rich or poor men's experiences are like. I wasn't born into a healthy culture, so I can't know what that experience is like. And I can't know the experiences of birds or trees.
-
-Ultimately, I can only know my own experience, but this doesn't have to limit me when I practice deep empathy. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's perspectives, but I can at least understand them and understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
-
-These nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, it was easier to understand people's perspectives. When everybody embraces these deep awareness practices, mutual understanding becomes common, and this can help any group find and maintain a deep unity.
-
 <div style="break-after:page"></div>
+
+
+[XXX-add - so many nuances, but if we solve the root problemm, we don't need to think about all the superficial differences in racism here vs there]
+
+### References
+
+

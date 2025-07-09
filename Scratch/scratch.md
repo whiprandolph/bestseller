@@ -2,9 +2,17 @@
 
 In cultures where everyone embraces this practice of gracious receiving, where people retell stories of others' good deeds, they wind up with leaders who don't spread racism and hatred. So many problems, including racism, hatred, sexism, pollution, poverty in the midst of abundance, disconnection from nature, corruption, greed, child abuse, and more are _symptoms of the root cultural disease where a few people rule over the rest, and people accept their own obedience as legitimate_. Any culture with this disease will show these symptoms, each in its own way. And I believe a single cure could end all these terrible troubles: creating cultures where everyone stands for what's right, and no one rules over anyone else.
 
+### Bible-Childbirth
 
+Authoritarian religions often blame the victims for their own suffering instead of acknowledging the abuses imposed by the ruling class. The Christian Bible and Jewish Torah claim, in Genesis 3:16, that God condemned women forever because the "original" woman Eve tempted a man to eat forbidden fruit, saying "I [God] will make your pains in childbearing very severe; with painful labor you will give birth to children."
 
+The Book of Genesis is an allegory for ancient Jews' transition from a healthy culture to an unhealthy culture. In the "Garden of Eden" they had no shame of their naked bodies and paid careful attention to the plants and animals. After God "expelled" them from the Garden, their lives were primarily shaped by abusive authorities and all the usual troubles followed: body shame, sexism, extra hard work to pay taxes to the ruling class, and much more. 
 
+It turns out that the vast majority of Jewish and Christian women began suffering more-difficult childbirths after this period, but not because of God.
+
+Many observers have noticed that women in healthy cultures commonly have relatively easy childbirths. Weston Price visited healthy cultures around the world in the 1900s and noticed "With several of these tribes... the ease with which childbirth is accomplished is so great that it is looked upon as quite an insignificant experience." Bartolome De Las Casas remarked on the Arawaks, "pregnant women work to the last minute and give birth almost painlessly; up the next day, they bathe in the river and are as clean and healthy as before giving birth..."
+
+Why might childbirth be easier for women in healthy cultures? Research shows that women struggle to eat high-nutrition diets in unhealthy cultures where ruling classes force so many people into poverty. The Bible and Torah claim that God says that women deserve difficult childbirths, when the reality is that unnecessarily difficult childbirths in unhealthy cultures clearly stem from widespread nutritional deficiencies which are common when so many people live in poverty. In other words, difficult childbirths stem from oppression imposed by rulers, not due to "God's" wrath towards women due to the first woman's disobedience. But you wouldn't learn that from the Bible or Torah would you?
 
 ### Living in Reciprocity with Humans and Nonhumans
 

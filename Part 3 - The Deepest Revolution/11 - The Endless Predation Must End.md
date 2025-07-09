@@ -1,6 +1,6 @@
-## Chapter 11: It is Time for the Endless Predation to End
+## Chapter 11: The Endless Predation Must End
 
-Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." At first this seemed like an exaggeration. How can even middle-class people be prisoners?
+Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." At first I thought he was exaggerating. How can even middle-class people be prisoners?
 
 Well, just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in any unhealthy culture have no influence over how the laws are enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. And when huge numbers of people resign themselves to tolerating predatory behavior instead of standing for what's right, abuse and exploitation become extremely common.
 
@@ -109,3 +109,7 @@ For hundreds of thousands of years, every child was trained for these beautiful 
 It is time to end the endless predation. This will require creating new healthy cultures. You and the people around you can do this. What perspectives could help you succeed? Let us explore in _Chapter 12 - Sacred Responsibilities_.
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-note: this section mixes two things, adulthood training and early childhood abuse/deprivation. Could be more clear, or could be split into two sections]

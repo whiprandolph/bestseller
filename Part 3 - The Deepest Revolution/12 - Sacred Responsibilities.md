@@ -3,8 +3,9 @@
 <toc/>
 
 * [Children](#children)
-* [Hold Yourself and Others to a High Standard](#hold-yourself-and-others-to-a-high-standard)
+* [Commit to Personal Growth for Yourself and Others](#commit-to-personal-growth-for-yourself-and-others)
 * [Cultivate Deep Awareness](#cultivate-deep-awareness)
+* [Cultivate Deep Awareness and Unity Through Nature Connection Practices](#cultivate-deep-awareness-and-unity-through-nature-connection-practices)
 * [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
 * [Sacred Responsibilities](#sacred-responsibilities)
 * [References](#references)
@@ -46,13 +47,13 @@ The big shift was to see myself as the Earth, not somehow different or separated
 
 * Some people reject authoritarian upbringings, but have low or no standards or set boundaries poorly. 
 
-### Hold Yourself and Others to a High Standard
+### Commit to Personal Growth for Yourself and Others
 
-Beautiful qualities really can be pervasive and normal, like authenticity, integrity, responsibility, thoughtfulness, bravery, joy, and generosity. Living a deeply meaningful life, in service of people you care about and who care about you -- this can be normal. For these qualities to be normal in a group of people, I believe they simply need to have high expectations for themselves, each person holding themselves and each other to a high standard of excellent behavior.
+Beautiful qualities really can be pervasive and normal, including authenticity, integrity, responsibility, thoughtfulness, bravery, joy, and generosity. Living a deeply meaningful life, in service of people you care about and who care about you -- this can be normal. For these qualities to be normal in a group of people, I believe they simply need to have high expectations for themselves, each person holding themselves and each other to a high standard of excellent behavior.
 
-When cowardice, selfishness, and low integrity are pervasive, many people learn to have low expectations for each other. I know people who have learned never to trust anybody to speak the truth or "stick their neck out" for others.
+When cowardice, selfishness, and low integrity are pervasive, many people learn to have low expectations for each other. Plenty of people have learned never to trust anybody to speak the truth or "stick their neck out" for others.
 
-The truth is that people's behavior changes dramatically after they become trapped in unhealthy cultures and fully submit to abusive authorities. Crow woman Pretty Shield described how the United States killed the buffalo that the Crow depended on, and after this the Crow had to either starve or submit to American law. She described the transformation the men went through when they finally submitted: "Our men had fought hard against our enemies, holding them back from our beautiful country by their bravery; but now, with everything else going wrong, we began to be whipped by weak foolishness... Our wise-ones became fools, and drank the white man's whisky. But what else was there for us to do? We knew no other way than to listen to our chiefs and head men. Our old men used to be different; even our children were different when the buffalo were here."
+Tragically, people's behavior changes dramatically after they become trapped in unhealthy cultures and fully submit to abusive authorities. Crow woman Pretty Shield described how the United States killed the buffalo that the Crow depended on, and after this the Crow had to either starve or submit to American law. She described the transformation the men went through when they finally submitted: "Our men had fought hard against our enemies, holding them back from our beautiful country by their bravery; but now, with everything else going wrong, we began to be whipped by weak foolishness... Our wise-ones became fools, and drank the white man's whisky. But what else was there for us to do? We knew no other way than to listen to our chiefs and head men. Our old men used to be different; even our children were different when the buffalo were here."
 
 There is no room for masculine wisdom and bravery in an unhealthy culture that forbids peope from upholding their own laws and standing for what's right. Thus many men do not cultivate these qualities, and do not know what they are missing. This explains why so many women in unhealthy cultures wonder "where are all the good men?"
 
@@ -60,11 +61,11 @@ Sioux man Rain-In-The-Face man described how his spirit died when he submitted: 
 
 Rain-In-The-Face knew what it was like to live in a healthy culture that welcomed all his gifts, including his willingness to stand for what's right no matter what. Thus he knew that his spirit died when he submitted. But when people are born into an unhealthy culture, they are trained for submissive obedience from an early age, and many don't even recognize the deep impact this has on them -- on their spiritual strength, their authenticity, bravery, dignity, integrity, joy, and many other qualities.
 
-These transition stories and many others showed me that widespread selfishness, low integrity, drunkenness, depression, superficiality, and other troubles are not inevitable. They are simply predictable consequences among people who have embraced submissive obedience, and who try to maximize their safety and comfort in an unhealthy culture.
+These stories and many others showed me that widespread selfishness, low integrity, drunkenness, depression, superficiality, and other troubles are not inevitable. They are simply predictable consequences among people who have embraced submissive obedience, and who try to maximize their safety and comfort in an unhealthy culture.
 
 _Merely living under rulers does not lead anybody to develop these terrible qualities_. The trouble comes when a person internally submits, embracing shame, low self-worth, self-doubt, selfishness, distraction, isolation, or other attitudes that allow them to avoid the dissatisfaction of giving less than their deepest love.
 
-Thus, if you want to help form a healthy culture or healthy subculture, _lovingly hold yourself and others to a high standard of excellent behavior_. Avoid shame, condescension, and hurtful assumptions, and also learn not to accept less than full integrity, authenticity, wisdom, and other beautiful qualities.
+Thus, if you want to help form a healthy culture or healthy subculture, _commit to personal growth and lovingly hold yourself and others to a high standard of excellent behavior_. Avoid shame, condescension, and hurtful assumptions, and also learn not to accept less than full integrity, authenticity, wisdom, and other beautiful qualities.
 
 I also urge you to either join or start a group of people committed to each other's personal growth. Releasing shame and self-doubt is very hard alone, or even impossible. In contrast, personal growth can be fun with other trusted people that are all committed to bringing out the best in each other and living a joyful, meaningful, and intentional life.
 
@@ -90,7 +91,33 @@ Notice where you put your attention, and where you don't. Your attention is alwa
 
 How can you feel grateful if you don't notice all the gifts you receive?
 
+### Cultivate Deep Awareness and Unity Through Nature Connection Practices
 
+How could nature connection practices help people avoid racism and hatred, and cultivate deep awareness and unity instead?
+
+I was pleasantly surprised to discover that that nature connection practices helped me connect with people in a deeper way than I ever had before. After practicing for years, it's clear to me that if a whole group of people embraced these practices, they could be closely connected indeed and there would be no place for racism and hatred.
+
+Every day, I would go to the same spot and pay attention to the nonhumans. I ask what plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. And I learned to feel curious about the experiences of the beings around me.
+
+I asked myself questions about what I saw. Why would a bird constantly look up as it eats? I learned that they are continuously aware in case predators arrive, so birds constantly eat, look around, eat, and look again. Do some species of tree like growing together and others don't? For example, I learned that black walnuts produce a compound which only some plants find toxic, and thus black walnuts like growing with trees like sugar maple and box elder but avoid trees like white pines.
+
+I continually practiced feeling into the experiences of other beings. For example, I studied hawks and songbirds, and I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me in an instant. If I were a songbird, I would probably eat carefully too!
+
+Eventually, I learned that plants and animals could help me notice parts of the landscape I couldn't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not be able to see rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
+
+The first core spiritual practice -- cultivating a practical, aware gratitude -- is a big part of this daily awareness training. I learned that birds and plants and other beings could teach me about my environment, or they could show me when I'm feeling anxious or stressed. They could help me become more aware about my environment or myself if only I became more aware of them. This awareness is a gift that they give. I learned to feel into the birds and plants and streams around me so that they were extensions of me. Their awareness became an extension of my awareness, and the only limit was how carefully I could pay attention, and how well I could interpret the behaviors I observed.
+
+This is training in deep empathy, and I noticed it also helped me with people. For example, growing up, I learned that women can get extra sensitive during their period. For years I found this annoying and learned to leave women alone during this time. But as with my nature connection practices, I started asking, "how is this a gift?" or "what does this have to teach me?" And I noticed that some women friends would reject food during their period that they normally ate, and when I asked, they said the food was rancid. I would try it and I couldn't taste any rancidity at first. Over time, I learned to taste my food more and more, and I began to notice the occasional rancidity, especially in store-bought food. I realized that the sensitive women had noticed something I couldn't notice. Like the birds, women could show me something about my environment that I couldn't notice directly. When a woman said some food was rancid, even if I couldn't detect it, I began to trust her, and I rejected the food too. Over time this helped me notice rancidity I couldn't notice before.
+
+The more I practiced, the more deeply I could see. For example, when black Americans complain about police brutality, it shows me where my society isn't as healthy or fair as it seems in my experience. When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it. I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust anyone, but I take care to notice what lessons I can learn from others.
+
+I've had women tell me "you're not a woman, so you can't know what it's like." In a sense, that's true. I'm a man, so I can't know what a woman's experience is like. But by the same logic, I cannot know other men's experiences either. I'm not a black man, so I can't know what a black man's experience is like. I'm neither rich nor impoverished, so I can't know what the rich or poor men's experiences are like. I wasn't born into a healthy culture, so I can't know what that experience is like. And I can't know the experiences of birds or trees.
+
+Ultimately, I can only know my own experience, but this doesn't have to limit me when I practice deep empathy. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's perspectives, but I can at least understand them and understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
+
+These nature connection practices are a key part of generating unity in a culture. Once I started really noticing the perspectives of insects and bears and plants, it was easier to understand people's perspectives. When everybody embraces these deep awareness practices, mutual understanding becomes common, and this can help any group find and maintain a deep unity.
+
+[xxx-ADD ]
 
 ### Live in Reciprocity as a Normal Way of Life
 
@@ -135,8 +162,14 @@ There is another sacred responsibility: cultivating the personal strength to sta
 
 <div style="break-after:page"></div>
 
+[xxx-add take risks, become comfortable with uncertainty]
+
 ### References
 
 [xxx-duplicate with spirituality chapter]
 
 [xxx-NEED: add "the Earth loves you back" -- love is not just one way]
+
+[xxx-add take risks, become comfortable with uncertainty]
+
+[xxx-ADD ]

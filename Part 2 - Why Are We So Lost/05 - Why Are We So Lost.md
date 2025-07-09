@@ -1,6 +1,6 @@
-## Chapter 6: Why Are We So Lost?
+## Chapter 5: Why Are We So Lost?
 
-Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors.
+Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society.
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
@@ -10,28 +10,28 @@ And they would be shocked if they were threatened with severe violence for tryin
 
 But for many of us living in the United States, Spain, Russia, China, Egypt, and every other unhealthy culture around the world, such unjust behavior is not so shocking, is it?
 
-Various groups of people have tried countless times over centuries to come together and seek justice. And when they do, what do they see?
+Countless groups of people have tried countless times over centuries to come together and seek justice. And when they do, what do they see?
 
 Regardless of the particular country, or the type of government or economy, when people seek justice in unhealthy cultures, they see a similar response.
 
 In Venezuela, people standing up for themselves and seeking justice see this:
 
 <center>
-<img src="./images/venezuelan_riot_police.jpg" width=50% alt="Riot Police in Venezuela"/><br/>
-Riot Police in Venezuela</center>
+<img src="./images/venezuelan_riot_police.jpg" width=4.43in alt="Riot Police in Venezuela"/><br/>
+_Riot Police in Venezuela_</center>
 <br/><div style="break-after:page"></div>
 In communist China, they see this:
 
 <center>
-<img src="./images/chinese_riot_police.jpg" width=50% alt="Riot Police in China"/><br/>
-Riot Police in China
+<img src="./images/chinese_riot_police.jpg" width=4.43in alt="Riot Police in China"/><br/>
+_Riot Police in China_
 </center>
 <br/>
 And in the capitalist United States, they see this:
 
 <center>
-<img src="./images/american_riot_police.jpg" width=50% alt="Riot Police in the United States"/><br/>
-Riot Police in the United States
+<img src="./images/american_riot_police.jpg" width=4.43in alt="Riot Police in the United States"/><br/>
+_Riot Police in the United States_
 </center>
 <br/>
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
@@ -42,9 +42,9 @@ In unhealthy cultures, where people are forbidden from holding their leaders acc
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right in their culture. _Your urge to "stand for what's right" is the natural urge to uphold the laws of your own culture_. In healthy cultures, people are expected to act on that urge. In unhealthy cultures, people are trained to repress that urge and punished for acting on it.**[xxx-I replaced "society" with "culture". It's not just that the urge is natural, it's that the urge is the motivation to uphold the laws of one's culture, and I want to emphasize that several times in the book.]
+Every single human feels a deep urge to stand up for what's right. _Your urge to "stand for what's right" is your natural urge to uphold the laws of your own culture_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support.
 
-Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against their abusive authorities.**
+Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against abusive authorities.
 
 In healthy cultures, standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the courage to consistently uphold their laws with integrity.
 
@@ -86,12 +86,8 @@ This solidarity can only exist if neighbors act generously with each other. If s
 
 ### Solidarity and Generosity Used to be Universal
 
-A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
+A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
 
-To explore deep spiritual training, join me in _Chapter 7: Encouraging vs Discouraging Spirituality_.
+Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 6: Why Are People So Selfish?_.
 
 <div style="break-after:page"></div>
-
-### References
-
-[xxx-I replaced "society" with "culture". It's not just that the urge is natural, it's that the urge is the motivation to uphold the laws of one's culture, and I want to emphasize that several times in the book.]

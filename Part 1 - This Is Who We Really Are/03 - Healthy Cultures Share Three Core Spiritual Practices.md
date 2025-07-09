@@ -1,4 +1,4 @@
-## Chapter 3: Three Core Spiritual Practices
+## Chapter 3: Healthy Cultures Share Three Core Spiritual Practices
 
 Every healthy culture I've studied has been unique in its language, art, music, and day-to-day customs. Yet, without exception, every healthy culture shares something so basic that it transcends these local differences: they all follow the same three core spiritual practices.
 

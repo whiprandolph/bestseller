@@ -25,7 +25,7 @@ BOOK_ADDED_STYLE = """
 
 <style>\n
   p {\n
-    font-size: 11pt;
+    font-size: 12pt;
     color:black;
   }\n
   @page {
@@ -51,7 +51,6 @@ BOOK_ADDED_STYLE = """
 chap_ids = set()
 
 cover_src_path = os.path.join(repo_root_dir, "images\\online_front_cover.png")
-copyright_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\15 - Bibliography and Copyright.md"
 cover_dest_path = os.path.join(book_final, "online_front_cover.png")
 phys_book_md_path = os.path.join(book_final, "book_phys.md")
 online_book_md_path = os.path.join(book_final, "book_online.md")
@@ -122,7 +121,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 19, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 21, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file in full_list:
       body = process_chapter(file)

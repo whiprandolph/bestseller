@@ -1,4 +1,4 @@
-## Chapter 2: Healthy Cultures Were the Norm for Millions of Years
+## Chapter 2: Healthy Cultures Have Existed for Millions of Years
 
 My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. Countless groups of people around the world, large and small, have lived with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
 
@@ -36,7 +36,9 @@ The Ju/'hoan San (these punctuation symbols refer to sounds that don’t exist i
 
 Some people think these beautiful practices can only work in small groups, but these kinds of effective approaches have worked in both small and very large nations.
 
-So what's the secret? How in the world do healthy cultures mostly avoid crime? Isn't selfish, violent, or otherwise bad behavior just an unfortunate part of human nature?
+### So What's Their Secret?
+
+How in the world do healthy cultures mostly avoid crime? Isn't selfish, violent, or otherwise bad behavior just an unfortunate part of human nature?
 
 Actually, no. As later chapters show, when people live in respectful societies where everyone stands for what's right and gives generously as a normal way of life, the motivation to behave selfishly is greatly diminished.
 
@@ -47,6 +49,14 @@ Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. 
 Banishing or killing someone for severe misbehavior, like hoarding wealth or killing someone in anger, appears to have been very rare.
 
 All these cultures seem so different, each with their own ways of helping people get along, resolving disputes, and addressing anybody's selfish or hurtful behavior. But one way or another, people of healthy cultures have or had ways of maintaining a baseline of mutual respect. That is, they found ways to maintain solidarity and respectful relations among everyone inside the culture as a normal way of life.
+
+### But Can We Live This Way Today?
+
+Yes! There are present-day examples of people who struggled with greed, discrimination, and corruption for centuries, but then founded a new healthy culture and did away with these problems. The Zapatistas were conquered by the Spanish 500 years ago, then lived under Mexican rule until their revolution in 1994. Even after so long, they remembered how to have a healthy culture, so when they were able to launch their revolution they knew how to re-establish that baseline of mutual respect amongst themselves even while under attack from the Mexican military.
+
+As just one example, the Zapatistas substantially reduced the sexism that women faced. When women were interviewed 20 years later in 2014, one said "The capitalists had us believing this idea... that women are not valuable." Another woman said, "The [women] suffered a lot before '94: humiliation, mistreatment, rape." But the revolution brought deep change, with one Zapatista woman saying "As women we have the same rights as men, we have the right to decide which duties we can carry out in the communities..." Another woman said, "in those [Mexican] organizations there are many problems of rape and mistreatment, while with us, Zapatistas, it is not that way..."
+
+The Zapatistas showed me that even people who have lived with sexism, greed, and corruption for centuries can still come together, create a healthy culture, and choose to live without these troubles.
 
 Of course, there are many stories of individual Americans or small groups pulling together in times of crisis or generally acting with kindness toward others. But a whole nation? Or even a whole town? Other than the Ashaninka, I personally have never seen a whole nation or a whole town of honest, giving, respectful people. Have you?
 

@@ -6,6 +6,7 @@
 * [Talking About Revolution](#talking-about-revolution)
 * [Acknowledging Unproductive Conversations](#acknowledging-unproductive-conversations)
 * [The Deepest Revolution](#the-deepest-revolution)
+* [References](#references)
 <toc/>
 
 For thousands of years, unhealthy cultures have spread around the world. Every unhealthy culture is a dictatorship, where a few people dictate the law and expect obedience from everyone else. Countless people have discussed and sought freedom -- but often without knowing what freedom is even like!
@@ -56,6 +57,8 @@ Activists may occasionally see some positive changes after years or decades of e
 As any doctor knows, treating a symptom will never actually lead to deep healing because the underlying disease persists. So long as activists treat racism, sexism, greed, child abuse, pollution, and political corruption as different problems, and allow rulers to persist, all these big troubles will tragically persist too and meaningful, enduring change will be elusive.
 
 My dream is for feminists to join forces with people fighting racism, and for them to work with environmentalists, labor activists, and others. What if all these different activists didn't just fight separately against the symptoms, but also addressed the root cultural disease together and created new healthy cultures?
+
+[xxx-ADD: The truth is we only have one political problem. Greed, poverty, corruption, discrimination, injustice, pollution are only different aspects of a single root political problem, or different symptoms of a single cultural disease -- where a few people impose law on the rest, and everyone else submissively obeys.]
 
 ### Talking About Revolution
 
@@ -118,3 +121,7 @@ My suggestion is: find a person to have this sort of deep connection with. Then 
 (outro?)
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-ADD: The truth is we only have one political problem. Greed, poverty, corruption, discrimination, injustice, pollution are only different aspects of a single root political problem, or different symptoms of a single cultural disease -- where a few people impose law on the rest, and everyone else submissively obeys.]

@@ -6,6 +6,67 @@
 * add hawks hunting pic?
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
 * fix formatting of part intro pages - need visible title centered w/newline between part x and title.
+* play with page margins to get more text on a page, shrink page count. 
+* play with font size slightly - small changes can have big efffect on page count due to whole paragraphs getting shifted around
+* verify part/chapter formatting is correct in epub, esp preface material and post-material
+* vertical center the part names
+
+### Early Reader Feedback
+
+#### Bob
+
+##### Part 1 - 7.9.25 call
+
+* Overall impressions
+  - makes me want to get back to the big book
+  - really good
+  - on a big level: does a really good job painting the big picture, saying what's wrong, what needs to be done to make a healthy culture
+    - people need to do lots of work to grow after growing up in unhealthy culture w/racism, sexism etc
+    - bringing up NVC
+    - interested in getting into detail more
+    - paints accurate, really good picture about what's unhealthy
+    - process of changing society and myself - very important component of "what to do with this information" - expects that's coming up, excited to dig deeper into "what to do"
+
+* Anything you disagree with, or find suspicious
+  - "whole nations can live without them" - reacted to this; "who we really are, what human nature is - more broadly defined, 2 years olds go through period of discovering self, get me-oriented till parents help them" - thinks we have all those parts, if we do have human nature, it's malleable and includes everything we see in history
+    - addressed this in part 1 well, but reacted to my saying that "exploitation etc is not part of human nature" - my sense of human nature is that it is, and it's our job to figure out what to develop, what to set aside
+
+  - healthy cultures shared are mostly historic, but how to live this way is much more complex now w/all the bullshit forced on us now by mainstream culture
+  - hard to read these examples -- that's not my life, my cultuer is way more complex.
+    - don't know a way around this.
+    - understood the European-prisoner part
+
+  - I am emotionally struck that cultures that have been healthy historically are not extant, haven't dealt with what we've dealt with and "come out the other side"
+****** give example in part 1 of Zapatistas going from unhealthy -> healthy, releasing sexism --> shows that people can pull out of shitty cultural patterns, and that this isn't just historical but is happening now
+
+* Any parts you specially liked, found surprising or interesting
+
+  - having gone through court system - comment about 98% of prisoners not getting fair trial stood out; "Very potent, very powerful" - didn't realize that was true.
+  - liked 3 core spiritual practices - hit home for me - already aware of gratitude part, has daily meditation; sacred gifts & reciprocity are work he can do - he's introverted and can focus on himself, could focus on giving his gifts and reciprocity more
+
+* Any parts that seemed slow or tedious? Any parts where you felt like putting the book down?
+
+  - this shorter version is terrific, not long-winded, not repetitive
+  - read part 1 three times
+  - fact that concepts are clear, examples illuminate that - very strong part of this shortened version
+  - thinking back to big book - was a positive - very engaging, but a massive amount of reading; fact that he agreed with everything, some of the new-to-him details are stimulating
+
+* Are you curious to read part 2?
+
+  - absolutely
+  - questions we've been discussing in this call - I want to read on, hard to dissect part 1 on this call knowing part 2/3 are coming
+  - "I'm excited about it"
+
+* other feedback
+
+  - Big "YES" - all these cultures seem so different, each with their own ways, but one way or another have or had ways of maintaining baseline of mutual respect... "YES, ABSOLUTELY"
+    - not all perfect, but have baseline people agree on
+    - work with people as stuff shows up
+    - solidarity, respectful baseline allows culture to have normal healthy framework within which things are resolved
+
+MY TAKEAWAYS:
+* strong start
+* 
 
 ### Costs
 

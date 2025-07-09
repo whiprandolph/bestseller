@@ -1,4 +1,4 @@
-## Chapter 7: Encouraging vs Discouraging Spirituality
+## Chapter 7: Why Is Shame So Common?
 
 If you were a king, and you wanted to train your subjects to obey you, what would you do? For starters, you would want to train your subjects to not stand up for what's right, and instead to passively accept your laws and how you choose to enforce them (or not).
 
@@ -36,13 +36,7 @@ Evil could exist almost anywhere, from doorways to cracks in stones, and -- surp
 
 Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."
 
-Authoritarian religions often blame the victims for their own suffering instead of acknowledging the abuses imposed by the ruling class. The Christian Bible and Jewish Torah claim, in Genesis 3:16, that God condemned women forever because the "original" woman Eve tempted a man to eat forbidden fruit, saying "I [God] will make your pains in childbearing very severe; with painful labor you will give birth to children." It turns out that the vast majority of Jewish and Christian women began suffering more-difficult childbirths after this period, but not because of God.**
-
-Many observers have noticed that women in healthy cultures commonly have relatively easy childbirths. Weston Price visited healthy cultures around the world in the 1900s and noticed "With several of these tribes... the ease with which childbirth is accomplished is so great that it is looked upon as quite an insignificant experience." Bartolome De Las Casas remarked on the Arawaks, "pregnant women work to the last minute and give birth almost painlessly; up the next day, they bathe in the river and are as clean and healthy as before giving birth..."**
-
-Why might childbirth be easier for women in healthy cultures? Research shows that women struggle to eat high-nutrition diets in unhealthy cultures where ruling classes force so many people into poverty. The Bible and Torah claim that God says that women deserve difficult childbirths, when the reality is that unnecessarily difficult childbirths in unhealthy cultures clearly stem from widespread nutritional deficiencies which are common when so many people live in poverty. In other words, difficult childbirths stem from oppression imposed by rulers, not due to "God's" wrath towards women due to the first woman's disobedience. But you wouldn't learn that from the Bible or Torah would you?**
-
-Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people to free themselves by uniting, making their own respectful laws, and upholding those laws together?**
+Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people to free themselves by uniting, making their own respectful laws, and upholding those laws together?
 
 Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
@@ -106,6 +100,6 @@ Many religions and ideologies of unhealthy cultures encourage that sickness, tha
 
 No one is inherently bad or selfish. Everyone has love to give. And no matter what's happened in the past, every moment is a fresh new chance to show up in the world in a good way.
 
-If everyone truly has deep love to give, how come racism and hatred are so prevalent? Find out in _Chapter 8: Where Do Racism and Hatred Come From？_.
+If everyone truly has deep love to give, how come racism and hatred are so prevalent? Find out in _Chapter 8: Why Are People So Racist And Hateful？_.
 
 <div style="break-after:page"></div>

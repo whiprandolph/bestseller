@@ -1,4 +1,4 @@
-## Chapter 4: Pervasive Generosity is Normal
+## Chapter 4: What If Pervasive Generosity Was Normal?
 
 Take a moment and picture living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person -- young or old -- has food to eat, tools to share, and a place to sleep. Imagine the feeling of safety from knowing that you don't need to fend for yourself in times of drought, famine, or even war. A world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
@@ -104,6 +104,6 @@ That is good news! It means there is a way to end racism. There is also a way to
 
 How do rulers or ruling classes make it so hard to have an economy based on sharing and reciprocity? And how do ruling classes shape their society so people tolerate endless exploitation and corruption?
 
-To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We So Lost?_.
+To expose these troubles, and explore how people in healthy cultures avoid them, join me in _Part 2 - Why Are We So Lost?_
 
 <div style="break-after:page"></div>
