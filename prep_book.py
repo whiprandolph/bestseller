@@ -121,7 +121,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 21, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 22, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file in full_list:
       body = process_chapter(file)
@@ -134,8 +134,10 @@ def main():
                             '-o', online_book_html_path])
   book_html = open(online_book_html_path, 'r', encoding='utf-8').read()
   book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
+  book_html = book_html.replace("**", "")
   open(online_book_html_path, 'w', encoding='utf-8').write(book_html)
  
+  print("About to start PDF, not waiting...")
   # phys book has bw images
   # online book has color images and for epub, front cover only
 

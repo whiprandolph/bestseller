@@ -18,16 +18,17 @@ chapters = {
     (1, 1, "Why Are People So Racist And Hateful.md"),
     (1, 1, "Why Don't People Stand Together.md"),
     (1, 1, "Selfish Violence vs Violence-In-Service.md"),
+    (1, 1, "The Endless Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
-    (1, 1, "The Endless Predation Must End.md"),
     (1, 1, "Sacred Responsibilities.md"),
     (1, 1, "Integrity and Bravery.md"),
     (1, 1, "The Deepest Revolution.md"),
   ],
   "Part 4 - Closing Notes": [
-    (1, 1, "Bibliography and Copyright.md"),
     (1, 1, "To Learn More.md"),
+    (1, 1, "Bibliography.md"),
+    (1, 1, "Copyright.md"),
   ],
 }

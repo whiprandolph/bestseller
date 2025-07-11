@@ -12,7 +12,7 @@ I'm not talking about a weird cult or tiny communities of saints. I'm talking ab
 
 Does this sound like a fantasy? I thought so too, until I was blessed to live briefly in such a place, a nation of thousands of people living across many villages deep in the Amazon forests. 
 
-My short time with the Ashaninka in 2015 was utterly magical and changed my life. As the Englishman named Mike who invited me said, "you will spend the rest of your life figuring out lessons to learn from these people."
+My short time with the Ashaninka in 2015 was utterly magical and changed my life. An Englishman named Mike had been visiting the Ashaninka yearly for 35 years and respected them deeply, and when he saw that I would respect them too, he invited me to join him. He told me, "you will spend the rest of your life figuring out lessons to learn from these people."**
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 

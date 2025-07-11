@@ -74,38 +74,36 @@ Whether attacking activists, undermining social movements, or sponsoring astrotu
 
 Many people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it would take to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 
-Fortunately, I have found two helpful case studies from people who have successfully created healthy cultures. This chapter briefly describes the Haudenosaunee, and the book _One Disease One Cure_ covers the Haudenosaunee and Zapatistas in detail.
+Fortunately, I have found two helpful case studies from people who have successfully created healthy cultures. This chapter briefly describes the Haudenosaunee. For more insights, the book _One Disease One Cure_ covers the Haudenosaunee and Zapatistas in greater detail.
 
-Long ago, several nations in eastern North America were at war and suffering from seemingly endless violence. Finally they came together and decided to create a confederacy that would ensure a lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroqouis, which has survived as a healthy culture for over 900 years.
+Long ago, several nations in eastern North America were sufferinging in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy culture for over 900 years.
 
 In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe six elements have many lessons to teach. 
 
-1. _Solidarity_: Solidarity was a founding principle, as the writers note: "In terms of the internal affairs of the [Haudenosaunee], the first and most important principle was that under the law the people of the nations were one people." As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.
+1. _Solidarity_: As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.
 
-    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society full of individuals who accepted responsibility for upholding their culture's rules, knowing those rules worked for everybody. The writers said that "universal justice is the product of a spiritually strong society, and many of the rules... are designed to create a strong society rather than a strong government."
+    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society full of individuals who accepted responsibility for upholding rules that worked for everybody.
 
-2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and made arrangements to avoid them. They included agreements to share hunting territories, outlaw theft and forbid hoarding wealth. They created a Grand Council that helped resolve disputes among other things, and ensured anyone within the Confederacy could occupy their land peacefully.
+2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and created a Grand Council that helped resolve disputes, among other functions.
 
-    Instead of seeking peace at all costs, the founders sought to create a just society. The Confederacy's founders believed "if absolute justice was established in the world, peace would naturally follow."
+    Instead of seeking peace at all costs, the founders sought to create a just society, from which peace would naturally follow.
 
-3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account as a normal way of life. They embraced strict laws around conservation, hunting the minimal amount needed, and managing their population size to avoid degrading the land. 
+3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account, embracing strict laws of conservation and carefully avoiding degrading the land. 
 
-    As a result, the Haudenosaunee writers said they lived with "almost unimaginable abundance and variety of nuts, berries, roots, and herbs. In addition to these, the rivers teemed with fish and the forest and its meadows abounded with game..."
+    As a result, the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."**
 
-4. _Rejecting Private Property_: The traditional Haudenosaunee rejected private property and emphasized sharing. The Haudenosaunee writers noted, "Property is an idea by which people can be excluded from having access to lands or other means of producing a livelihood. That idea would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People. That idea (property) would produce slavery."
+4. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."**
 
 5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
 
-6. _Leaders Serve the People_: They specifically avoided factions, and no government imposes law on anybody: "The national Councils of Chiefs do not govern the people; instead they act as representatives of their clans in a process that coordinates the wishes of the people."
-
-    The traditional Haudenosaunee's political leaders are also their spiritual leaders. These leaders do not just say pleasant words. The Haudenosaunee writers said that their leaders conduct many ceremonies that "require the distribution of great wealth. As spiritual and political leaders, they provide a kind of economic conduit. To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."
+6. _Leaders Serve the People_: They specifically avoided factions, and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.
 
 The Haudenosaunee recognized that a culture that accepted private property ownership would eventually have leaders that exclude people from accessing others' property. These leaders would no longer perform their duties of serving everyone and helping to redistribute goods. This shows how a gift economy, servant-leadership, and a culture of respect all fit together.
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
 
-So is violence good or bad? Or is there a deeper way to think about violence, and how it could be used responsibly? To explore, join me in _Chapter 10: Selfish Violence vs Violence-In-Service_.
+In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 10: Selfish Violence vs Violence-In-Service_.
 
 <div style="break-after:page"></div>

@@ -8,7 +8,9 @@ Below is an incomplete list of topics covered in _One Disease One Cure_ not cove
 
 _Profit & Gift Economies_: Reviews in more detail how profit economies are manipulated, including how entire economies can be shaped to minimize workers' bargaining power. Also includes many other things, such as a comparison of debt in gift economies and profit economies.
 
-_Childhood training_: Covers many themes: the impact of depriving babies of loving touch and coercive schooling. Also briefly explores child-rearing practices in healthy cultures, including physical training, coming-of-age ceremonies, training young women to understand their menstrual cycle and value it as a gift, and more.
+_Evidence that voting cannot achieve deep change_: When people elect candidates not supported by the ruling class, those leaders will commonly be corrupted, removed or killed, and _One Disease One Cure_ covers multiple examples. 
+
+_Childhood training_: Covers many themes: the impact of obedience-oriented schooling and of depriving babies of loving touch. Also briefly explores child-rearing practices in healthy cultures, including physical training, coming-of-age ceremonies, training young women to understand their menstrual cycle and value it as a gift, and more.
 
 * _In-depth coverage of racism, hatred, and sexism_: Detailed review of how authorities have imposed and maintained sexism, racism, and hatred in a variety of ways, for many reasons.
 
@@ -34,11 +36,11 @@ _Childhood training_: Covers many themes: the impact of depriving babies of lovi
 
 * _Cultivating bravery_: An in-depth guide and inspiring stories
 
-* _Three forms of integrity_: A deeper dive into integrity, including how to return to integrity after a person violates someone's trust
+* _Three forms of integrity_: A deeper dive into integrity, including how to return to integrity after violating someone's trust
 
 * _What can I do?_: Offers further perspectives for steps people can take towards generating healthy cultures
 
-* _Contradictions_: Explores contradictions to the book's core messages that I found during my research (that healthy and unhealthy cultures are very different, and healthy cultures are worth learning from). Explores how I interpet these actual or apparent contradictions.
+* _Contradictions_: Explores contradictions to the book's core messages that I found during my research. Explores how I interpet these actual or apparent contradictions.
 
 * _Healthy subcultures_: Some people form subcultures where they embrace many healthy-culture practices. The book surveys several, including
 
@@ -46,4 +48,8 @@ _Childhood training_: Covers many themes: the impact of depriving babies of lovi
 
     * _Rainbow gatherings_: people coming together for just a few weeks and make the healthiest subculture they can in that time
 
-    * _Hero stories from unhealthy cultures_: includes in-depth profiles of Martin Luther King Jr, Jesus Christ, and Harriet Tubman.
+    * _Unions and mutual aid societies_
+
+* _Hero stories from unhealthy cultures_: includes in-depth profiles of Martin Luther King Jr, Jesus Christ, and Harriet Tubman.
+
+<div style="break-after:page"></div>

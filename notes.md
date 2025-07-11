@@ -10,6 +10,7 @@
 * play with font size slightly - small changes can have big efffect on page count due to whole paragraphs getting shifted around
 * verify part/chapter formatting is correct in epub, esp preface material and post-material
 * vertical center the part names
+* Chapter number fixup: Scan for "Chapter" and verify all references are correct, including within a couple chapters
 
 ### Early Reader Feedback
 

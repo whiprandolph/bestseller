@@ -14,23 +14,27 @@ Countless groups of people have tried countless times over centuries to come tog
 
 Regardless of the particular country, or the type of government or economy, when people seek justice in unhealthy cultures, they see a similar response.
 
-In Venezuela, people standing up for themselves and seeking justice see this:
+<div style="break-after:page"></div>
+
+In socialist Venezuela, people standing up for themselves and seeking justice see this:
 
 <center>
-<img src="./images/venezuelan_riot_police.jpg" width=4.43in alt="Riot Police in Venezuela"/><br/>
+<img src="./images/venezuelan_riot_police.jpg" width="390px" alt="Riot Police in Venezuela"/><br/>
 _Riot Police in Venezuela_</center>
-<br/><div style="break-after:page"></div>
+
 In communist China, they see this:
 
 <center>
-<img src="./images/chinese_riot_police.jpg" width=4.43in alt="Riot Police in China"/><br/>
+<img src="./images/chinese_riot_police.jpg" width="390px" alt="Riot Police in China"/><br/>
 _Riot Police in China_
 </center>
-<br/>
-And in the capitalist United States, they see this:
+
+<div style="break-after:page"></div>
+
+And in the capitalist United States, people standing up for themselves see this:
 
 <center>
-<img src="./images/american_riot_police.jpg" width=4.43in alt="Riot Police in the United States"/><br/>
+<img src="./images/american_riot_police.jpg" width="390px" alt="Riot Police in the United States"/><br/>
 _Riot Police in the United States_
 </center>
 <br/>
@@ -38,7 +42,7 @@ I was taught growing up that the police's job is to keep people safe and enforce
 
 And who are the police protecting the rich and powerful from? Of course, they are protecting the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy cultures. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
 
-In unhealthy cultures, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption, crime, and domination?
+In unhealthy cultures, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption and crime?
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
@@ -88,6 +92,6 @@ This solidarity can only exist if neighbors act generously with each other. If s
 
 A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
 
-Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 6: Why Are People So Selfish?_.
+Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 6: Why Are People So Selfish?_
 
 <div style="break-after:page"></div>

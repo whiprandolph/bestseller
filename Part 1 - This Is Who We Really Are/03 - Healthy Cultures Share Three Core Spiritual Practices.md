@@ -52,7 +52,7 @@ In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitud
 
 ### Carry Your Gifts with Conviction
 
-A person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.
+A person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.**
 
 These three core spiritual practices are core to who we are as humans. You are the giving of your deepest love, just like I'm the giving of my love. Giving to others in gratitude for what we receive is who we are as humans.
 

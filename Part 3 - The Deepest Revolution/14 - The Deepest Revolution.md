@@ -5,9 +5,17 @@
 * [Instead of Fighting Symptoms Separately, What if Activists Addressed the Root Disease Together?](#instead-of-fighting-symptoms-separately-what-if-activists-addressed-the-root-disease-together?)
 * [Talking About Revolution](#talking-about-revolution)
 * [Acknowledging Unproductive Conversations](#acknowledging-unproductive-conversations)
+* [Non-Predatory Leadership is Unstable in Unhealthy Cultures](#non-predatory-leadership-is-unstable-in-unhealthy-cultures)
 * [The Deepest Revolution](#the-deepest-revolution)
 * [References](#references)
 <toc/>
+
+Dorothy Parker once described, "The only dependable law of life -- everything is always worse than you thought it was going to be." I agree, except this isn't a law of life -- it's a law of unhealthy cultures. 
+
+Selfishness and corruption are the same thing. So of course, in societies that systematically reward selfishness, there will be pervasive corruption, and no matter how much anybody investigates, there will always be more corruption to find. Unhealthy cultures are rotten to the core, because all of them involve a few rulers exploiting many others and training them to tolerate it.
+
+
+
 
 For thousands of years, unhealthy cultures have spread around the world. Every unhealthy culture is a dictatorship, where a few people dictate the law and expect obedience from everyone else. Countless people have discussed and sought freedom -- but often without knowing what freedom is even like!
 
@@ -98,6 +106,21 @@ So long as unaccountable leaders impose law and punish people for standing for w
 
 To have a way of life where respect is normalized instead of abuse, with true freedom, and with leaders who actually serve the people, only one path will accomplish these goals: _The Deepest Revolution_.
 
+### Non-Predatory Leadership is Unstable in Unhealthy Cultures
+
+[xxx-add: condense this section into a paragraph, and integrate it somewhere]
+
+Of course, not all authority figures engage in predatory behavior or serve the rich. Some leaders, such as Jacobo Árbenz in Guatemala or Salvador Allende in Chile implemented policies that benefited the poor at the expense of the rich. And both were killed in coups by high-ranking military and business officials.
+
+Why is it so hard in unhealthy cultures to elect leaders who actually serve all the people, including the poor? And why are they so quickly killed, corrupted, or replaced when they do get to power?
+
+In healthy cultures, when everyone stands for what's right and generosity is the norm, the people wouldn't tolerate a selfish leader, and selfish leaders are quickly replaced.
+
+When people become obedient and do not stand for what's right in unhealthy cultures, the economy rewards selfishness so that there are a few rich and many poor. In unhealthy cultures, the rich never tolerate generous leaders who might threaten their wealth and privilege, and so the rich overthrow generous leaders.
+
+This shows that _healthy and unhealthy cultures are both stable_, meaning they can maintain their way of life indefinitely. Each type of society will choose leaders that maintain their way of life. Only by creating a healthy culture where everyone stands for what's right can a nation have servant-leaders who actually serve the people.
+
+
 ### The Deepest Revolution
 
 In shallow revolutions, people overthrow their ruling class only to install new rulers. The ideologies might change, but the exploitation remains, and the lives of most people don't change much. 
@@ -120,8 +143,12 @@ My suggestion is: find a person to have this sort of deep connection with. Then 
 
 (outro?)
 
+It's possible to live without corruption and crime and greed, without child abuse and pollution. It's a matter of remembering how, and cultivating the courage and relationships and vision to create something that's both new and ancient at the same time -- new healthy cultures to take the place of the crime-ridden unhealthy cultures many of us live in today.
+
 <div style="break-after:page"></div>
 
 ### References
 
 [xxx-ADD: The truth is we only have one political problem. Greed, poverty, corruption, discrimination, injustice, pollution are only different aspects of a single root political problem, or different symptoms of a single cultural disease -- where a few people impose law on the rest, and everyone else submissively obeys.]
+
+[xxx-add: condense this section into a paragraph, and integrate it somewhere]

@@ -101,3 +101,6 @@ When a group has widespread, pervasive integrity and bravery, then I believe wid
 ### References
 
 [xxx-needs work]
+
+
+[xxx-add: Prepare to die. We're all going to die someday, so it is wise to prepare for it. Are you going to die giving your deepest love? Or are you doing to die holding back, clinging to safety and comfort a little while longer? Consider what is worth dying for, and what isn't so that when the time comes to take big risks you'll show up in a good way.]

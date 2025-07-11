@@ -1,10 +1,10 @@
 ## Chapter 8: Why Are People So Racist And Hateful?
 
-Many people born and raised in unhealthy cultures seem to think that humans are naturally racist, sexist, and prone to hate. Or at least some are.
+Many people born and raised in unhealthy cultures seem to think that humans are naturally prone to be racist, sexist, and even hateful. Or at least some are.
 
-This is not true. No one is born racist, sexist, or hateful. Every child, regardless of their culture, is born with an open heart, capable of empathizing with others and full of curiosity.
+This is not true. No one is born racist, sexist, or hateful. Every child, regardless of their culture, is born with an open heart, full of curiosity and empathy for others.
 
-However, immersed from birth in unhealthy cultures, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are programmed to discriminate against others, but that programming is not inherent in our DNA. It has to be taught.
+However, immersed in unhealthy cultures from birth, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are culturally programmed to discriminate against others. That programming is not inherent in our DNA. It has to be taught.
 
 How are racism and other kinds of discrimination taught? I believe this relentless training arises from three underlying cultural drivers:
 
@@ -12,15 +12,15 @@ How are racism and other kinds of discrimination taught? I believe this relentle
 
     For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.
 
-2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing with the example above, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.
+2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing the above example, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.
 
 3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.
 
 How does this work in practice?
 
-A simple children's story illustrates how authorities impose and maintain racism and hatred, similar to major events currently happening in the news.
+A well-known children's story illustrates how authorities impose and maintain racism and hatred, not just in the past, but similar to major events happening in the news today.
 
-### Authorities Impose and Maintain Racism and Hatred
+### Authorities Impose and Maintain Racism and Hatred by Insisting We All Go Along With It
 
 Remember that old story "The Emperor's New Clothes"?
 
@@ -30,9 +30,13 @@ When I first found this story as a child, it seemed silly! Why would all the adu
 
 So what does this old children's story have to teach about ignorance, racism, and hatred happening right now?
 
-In this story, the emperor is the ruler, meaning he decides on the laws and how they're enforced, and he can punish people who express beliefs that he doesn't like. The people in this story know that, and know that it is safer to believe that he is beautifully dressed, or at least pretend. After all, acknowledging the truth could lead to imprisonment or worse.
+In this story, the emperor is the ruler, meaning he decides on the laws and how they're enforced, and he can punish people who express beliefs that he doesn't like. The people in this story know that, and they know, consciously or not, that it is safer to go along and believe that he is beautifully dressed, or at least pretend to believe, rather than face the truth. After all, acknowledging the truth could lead to imprisonment or worse.
 
-In unhealthy cultures, it's simply a common pattern for unaccountable authorities to punish people for saying uncomfortable truths. Let's look at some historical examples to see how this works.
+And over time, this becomes a habit that feels more or less normal for many people living since birth in unhealthy cultures.
+
+### In Unhealthy Cultures, Unaccountable Authorities Punish Those Who Speak Up
+
+Let's look at some historical examples to see how this works.
 
 In the US pre-Civil War south, chattel slavery was assumed to be good for the slaves by all right-thinking people. Doctors even had a diagnosis called "Draepetomania" where any slave who tried to escape was believed to have a mental illness! Why would they believe such nonsense, even highly trained doctors, instead of simply recognizing the evils of slavery and acknowledging people's healthy desire to escape?
 
@@ -54,41 +58,45 @@ The political, military and business leaders wanted to avoid accountability for 
 
 A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was just a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.
 
-Racism, hatred, and ignorance can thus be widely propagated by authorities to avoid accountability, sabotage solidarity, promote imperial wars, and other reasons. It can be confusing to discuss because authorities will punish someone for one secret reason, but publicly accuse them of something different. For example, present-day Germans who oppose war with Russia have been called "Putin-trolls", a reference to Russian president Putin, essentially calling them traitors instead of brave activists trying to stop an unnecessary war.
+### And It Continues Today
 
-I kept finding examples like this, where people are punished for speaking the truth, or punished for not being racist or hateful as authorities expect. And the more I encountered this pattern, the more I saw it play out right in front of me in the news.
+Racism, hatred, and ignorance can be widely propagated by authorities to avoid accountability, sabotage solidarity, promote imperial wars, and other reasons. It can be challenging to recognize because authorities will often punish someone for one secret reason, but publicly accuse them of something different. For example, present-day Germans who oppose war with Russia have been called "Putin-trolls", a reference to Russian president Putin, essentially calling them traitors instead of brave activists trying to stop an unnecessary war.
 
-For example, as I write in 2025, the United States is supporting Israel in its genocide of the Palestinians. Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were literally counting the calories of food being allowed in to keep the Palestinians at starvation levels.
+In another present-day example, the United States continues to support Israel's genocide of the Palestinians. Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were literally counting the calories of food being allowed in to keep the Palestinians at starvation levels.
 
-The Israelis began the genocide in October 2023, with tremendous US support in the form of weapons, surveillance, fuel, political cover at the United Nations, and more. But just how bad has the violence been? Many news stories say that only 40-50,000 Palestinians have died -- surely a tragedy, but not a genocide.
+The Israelis began their all-out genocide in October 2023, with tremendous US support in the form of weapons, surveillance, fuel, political cover at the United Nations, and more. But just how bad has the violence been? Many news stories say that only 40-50,000 Palestinians have died -- surely a tragedy, but not genocide.
 
-Before the present conflict started in October 2023, the Palestinian population was estimated at 2.2 million. When US president Trump took office in February 2025, he stated the Palestinian population was around 1.7-1.8 million. Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war. So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, disease, and so on while extremely few Israelis have died in comparison.
+Before the present conflict started in October 2023, the Palestinian population in Gaza was estimated at 2.2 million. When US president Trump took office in February 2025, he stated the Palestinian population was around 1.7-1.8 million. Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war. So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, disease, and so on while extremely few Israelis have died in comparison.
 
-How have the Israeli and American governments trained their populations to tolerate and even support this genocide? You guessed it: spreading racist and hateful propaganda towards Palestinians, and punishing anyone who tried to speak the truth and stand up for what's right.
+How have the Israeli and American governments trained their populations to tolerate and even support this genocide? You guessed it: spreading racist and hateful propaganda about Palestinians, and punishing anyone who tried to speak the truth and stand up for what's right.
 
 Many government statements have called the Palestinians subhumans who deserve immense cruelty. For example, Israel's defense minister Yoav Gallant said, "We are fighting human animals and we are acting accordingly." Israelis have been trained to see Palestinians as a threat on par with Nazi Germany, rather than victims of a cruel occupation.
 
 In Israel, one school girl expressed sympathy with the Palestinians, saying she hoped they could return to their homes soon. She was suspended from school as other students threatened to burn her house down and the Ministry of Education accused her of "incitement against IDF [Israeli] soldiers."
 
-In America, we see similar disturbances. Anyone who tries to acknowledge the truth about Israeli aggression towards Palestinians is accused of antisemitism. President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide. This is only an expansion of the policy that his predecessor president Biden started, as the genocide clearly has support from both major political parties. Similar manipulative behavior is happening in many other countries, including Germany, Australia, and the United Kingdom.
+In America, we see similar disturbances. Anyone who tries to acknowledge the truth about Israeli aggression towards Palestinians is accused of antisemitism -- as if opposing Israeli genocide and being racist towards Jews were the same thing, which obviously they are not.**
 
-And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said all activists were being monitored with AI-enabled cameras, and their protesting would be recorded and show up in background checks, and they would never be hired again! In fact, North Carolina outlawed wearing face masks outside just to make this surveillance easier.
+President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide. This is only an expansion of the policy that his predecessor president Biden started, as the genocide clearly has support from both major political parties.
+
+Similar manipulative behavior is happening in many other countries, including Germany, Australia, and the United Kingdom.
+
+And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said that all activists were being monitored with AI-enabled cameras, their protesting would be recorded and show up in background checks, and they would never be hired again! In fact, North Carolina outlawed wearing face masks outside to make this surveillance even easier.
 
 Just like American slave owners scared poor and middle class white people into hating black people or remaining silent so they wouldn't oppose slavery, modern day authorities are trying to scare us into submission so we won't oppose their genocide.
 
-Why are so many governments and corporate leaders supporting this genocide? People can only speculate: is it part of a plan for creating a major new west-Asian trade route through Israel? Accessing gas deposits off the Gaza coast? Developing beachfront real estate? All the above, or something else? When leaders are unaccountable, it can be difficult to know why they behave as they do.
+Why are so many governments and corporate leaders supporting this genocide? People can only speculate: is it part of a plan for creating a major new west-Asian trade route through Israel? Accessing gas deposits off the Gaza coast? Developing beachfront real estate? All the above, or something else? When leaders are unaccountable, it can be difficult to know their true motivations.
 
 So let's take stock: the protests are appropriate, the Israeli genocide against Palestine is real, and it's not antisemitic to point these things out. But a strong coalition of American and Israeli business and political leaders have decided to support this genocide, and they're punishing people for standing for what's right by accusing them of antisemitism and using this as a cover story to justify punishing them.
 
-This shows how ancient patterns of nations with rulers (or ruling classes) are playing out right now. These countries may not have kings, but anytime one person or a group can impose law on the rest, and choose how that law is enforced, you wind up with the same kind of tyranny. This is predictable in any society where people are punished for upholding their own law (because that's supposedly the police's job, but of course they have to follow orders).
+This shows how ancient patterns of nations with rulers (or ruling classes) are playing out right now. These countries may not have kings, but anytime one person or a group can impose law on the rest, and choose how that law is enforced, we end up with the same kind of tyranny. This is predictable in any society where people are punished for upholding their own law (because that's supposedly the police's job, but of course they have to follow orders).
 
-Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, the capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. All these countries are actually dictatorships: cultures where some people dictate the law, and everyone else is expected to obey it.
+Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. All these countries are actually dictatorships: cultures where some people dictate the law, and everyone else is expected to obey it.
 
 This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways, even when they pretend not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are just more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.
 
 When people are trapped with selfish and unaccountable leaders, the results are always tragic. What would it take for a group of people to select the most selfless and honest leaders instead?
 
-### Ending 1: Gracious Receiving: Choose Leaders that Actually Serve the People
+### Healthy Cultures Choose Leaders Who Serve the People
 
 Selfish rulers who encourage divisive racism and hate contrast vividly with generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
 
@@ -96,7 +104,9 @@ Do they just vote every few years and complain about politicians between electio
 
 It turns out that it is everyone's responsibility to ensure that only the most selfless people become leaders. Can you imagine having leaders who are so humble that they would never campaign for office? How would they even become leaders then?
 
-Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_. Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
+Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_.
+
+Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
 
 It's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging.
 
@@ -106,7 +116,7 @@ When you notice someone who consistently tells the truth even when they could ge
 
 This is how a group can select the most humble, generous, honest, and capable leaders, including people who would never campaign for a leadership role. When everyone in a culture practices noticing good deeds and retelling the stories, the reputations of the best leaders grow naturally. When it's time to pick a leader, the people will know who it should be.
 
-Given that some healthy cultures have had many tens of thousands of people, and spanned up to 40,000 sq. miles or more, this practice doesn't just work at the village level, but can help nations of any size choose the best people at each level of leadership.
+Given that some healthy cultures have had many tens of thousands of people, and spanned up to 40,000 square miles or more, this practice doesn't just work at the village level, but can help nations of any size choose the best leaders at every level.
 
 I love telling stories of others' good deeds -- it's fun! Who doesn't like telling and hearing good news? Who doesn't like encouraging and rewarding good behavior? Every retelling is a little celebration.
 
@@ -117,10 +127,4 @@ This is the power of that practical, aware gratitude to encourage more good beha
 What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
 <div style="break-after:page"></div>
-
-
-[XXX-add - so many nuances, but if we solve the root problemm, we don't need to think about all the superficial differences in racism here vs there]
-
-### References
-
 

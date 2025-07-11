@@ -14,6 +14,8 @@ Many observers have noticed that women in healthy cultures commonly have relativ
 
 Why might childbirth be easier for women in healthy cultures? Research shows that women struggle to eat high-nutrition diets in unhealthy cultures where ruling classes force so many people into poverty. The Bible and Torah claim that God says that women deserve difficult childbirths, when the reality is that unnecessarily difficult childbirths in unhealthy cultures clearly stem from widespread nutritional deficiencies which are common when so many people live in poverty. In other words, difficult childbirths stem from oppression imposed by rulers, not due to "God's" wrath towards women due to the first woman's disobedience. But you wouldn't learn that from the Bible or Torah would you?
 
+[XXX-add - so many nuances, but if we solve the root problemm, we don't need to think about all the superficial differences in racism here vs there]
+
 ### Living in Reciprocity with Humans and Nonhumans
 
 * gift economy based on sharing

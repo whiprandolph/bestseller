@@ -99,7 +99,7 @@ Potawatomi woman Robin Kimmerer noted the consequences when she wrote, "If all t
 
 This healthy-culture attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
 
-Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might suffer poverty together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever the group faces a big challenge.
+Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever the group faces a big challenge.
 
 In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"
 
@@ -109,6 +109,6 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
 
-To explore deep spiritual training, join me in _Chapter 7: Why Is Shame So Common?_.
+To explore deep spiritual training, join me in _Chapter 7: Why Is Shame So Common?_
 
 <div style="break-after:page"></div>
