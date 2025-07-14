@@ -1,12 +1,5 @@
 # Outline of Part 3
 
-## Chapter 11: It is Time for the Endless Predation to End
-
-* widespread child rape
-* stories of unaccountable leaders attacking their own people
-* child rape not a problem in healthy cultures
-* leadership stability in healthy/unhealthy cultures
-* training all the worst qualities / when people learn to hold back/shut down parts of themselves
 
 ## Chapter 12: Sacred Responsibilities
 
@@ -38,3 +31,13 @@
 * The deepest revolution / people will figure it out
 
 --> could be made much tighter
+
+* You may feel scared of modern weapons and surveillance, and dealing with these requires special care.
+
+European colonialism kicked off in earnest over 500 years ago, and for 400 years they didn't have electricity, vehicles, airplanes, computers, missiles, or satellites. In most cases, I believe many healthy cultures simply didn't know what they were up against -- huge number of people with a variety of emotional troubles, whose leaders had filled them with shame, greed, lazy thinking, and entitlement for centuries. People who tolerate abuse and exploitation as a normal way of life, falling for the same manipulative tricks generation after generation.
+
+The security situation is definitely the most challenging. In the 1700s, the Haudenosaunee 
+
+## cut 
+
+* leadership stability in healthy/unhealthy cultures

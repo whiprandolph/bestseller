@@ -6,7 +6,7 @@ If you're like most people (and like me until recently), you probably think that
 
 The good news is this: it is possible to live without these troubles.
 
-In fact, it's not just possible to live in a society without discrimination, selfishness, child abuse, and pollution; for thousands of years this was the normal way for humans to live -- and in some places, it still is.
+In fact, it's not just possible to live in a society without discrimination, selfishness, child abuse, and pollution; for millions of years this was the normal way for humans to live -- and in some places, it still is.
 
 I'm not talking about a weird cult or tiny communities of saints. I'm talking about hundreds of millions of people living in a beautiful way over millennia, all around the world, with no police, prisons, poverty, abuse, or hatred. Nations where sharing is a normal way of life, neighbors deeply trust each other, leaders serve the people, and visitors are treated like family.
 
@@ -16,7 +16,7 @@ My short time with the Ashaninka in 2015 was utterly magical and changed my life
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 
-Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, solidarity, and bravery to do it.
+Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.
 
 ### Meet the Ashaninka
 
@@ -40,7 +40,7 @@ Given their integrity and generosity, I wasn't surprised that no one seemed conc
 
 On Mike's suggestion, I made sure to bring a large sack of goods with me as gifts, including material for fishing, sewing, cooking, and anything else Mike had said they would find useful. I spent hundreds of dollars on it, and when they told me I could leave it in a home far from the village where I would be staying, I hesitated at first. Yet when I returned 2 weeks later with many Ashaninka to give out the gifts, I found the sack untouched, just as I had left it. This kind of widespread integrity was normal and unremarkable.
 
-As I handed out the gifts, they seemed genuinely grateful, and no one asked for more. I felt happy to share but sad too that I didn't have more to give. 
+As I handed out the gifts, they seemed genuinely grateful, and no one asked for more. I felt happy to share but also sad that I didn't have more to give. 
 
 When it was time for me to go a week later, I did not want to say good-bye. All the Ashaninka I met seemed trustworthy, generous, capable, responsible, relaxed, joyful, and healthy -- not just one or two individuals, but everyone I found. They had no courts, no police, no prisons, and no government, though I did see people gathering in council on my last day as they discussed how to respond to Peruvians who were overfishing the nearby river.
 

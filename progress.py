@@ -22,8 +22,6 @@ chapters = {
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
-    (1, 1, "Sacred Responsibilities.md"),
-    (1, 1, "Integrity and Bravery.md"),
     (1, 1, "The Deepest Revolution.md"),
   ],
   "Part 4 - Closing Notes": [

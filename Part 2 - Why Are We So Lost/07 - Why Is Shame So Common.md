@@ -72,7 +72,7 @@ Martin Luther King Jr worked to end racial oppression and imperialism in the Uni
 
 In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
-Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order.
+Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo mentioned Martin Luther King Jr as a possible messiah.
 
 Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually kill or imprison the wisest and bravest leaders among us.
 
@@ -86,19 +86,19 @@ The second spiritual practice of *giving our gifts* reminds us that everyone has
 
 And the third core spiritual practice of *living in reciprocity* encourages deep and secure solidarity rather than the isolation, despair, and division that many of us in unhealthy cultures feel daily.
 
-The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace these practices? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?
+The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace them? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?
 
 So which is it? Are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine force in each person's heart will help them find their gifts if they will only listen. 
 
 When people act on that divine voice -- when a person offers their sacred gifts, acting with integrity, generosity, courage, awareness, authenticity, joy, and other beautiful qualities -- then the person is _acting with an open heart_, offering their deepest love. The more a person learns to "hold back" or "shut down" parts of themselves, the more they're _closing their heart to that divine voice_. The ones who hold back the most are often called "cold-hearted" or said to have "hearts of stone." In other words, they don't listen to that divine voice inside them that all people have, and so they act selfishly instead, withholding their gifts.
 
-Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who made mistakes or stumbled along the path of righteousness. That naïve simplicity touched me to the marrow..."
+Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who _made mistakes or stumbled_ along the path of righteousness. That naïve simplicity touched me to the marrow..."
 
-Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would soon be killed. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our sick white brothers? Well, I don't know what will happen now... I just want to do God's will..."
+Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would soon be killed. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our _sick_ white brothers? Well, I don't know what will happen now... I just want to do God's will..."
 
 I believe that no one is inherently bad, but some people do have a sickness, or stumble on a good path. And some people get really sick and cause huge amounts of unnecessary suffering. This is what happens when people of unhealthy cultures grow up learning to "hold back" or "shut down" sacred parts of themselves, learning to ignore abuse, ignore uncomfortable feelings or truths, or believe that people are untrustworthy, selfish, or bad, with almost everybody holding back in their own way.
 
-Many religions and ideologies of unhealthy cultures encourage that sickness, that heart-closure, or that stumbling. They train people to think selfishness is good, or humans are born disconnected from god, or we're inclined to sin and inherently bad, or we can't trust our instincts and feelings and neighbors. When children's love and dignity isn't welcome, many people learn to "hold back" or "shut down" parts of themselves or ignore some parts of reality to get along in their unhealthy culture, which only reinforces these early childhood patterns as people grow into adulthood with deceitful politicians, propaganda-filled media, and authoritarian schools, churches, and jobs.
+Many religions and ideologies of unhealthy cultures encourage that sickness, that heart-closure, or that stumbling. They train people to think selfishness is good, or humans are born disconnected from god, or we're inclined to sin and inherently bad, or we can't trust our instincts and feelings and neighbors. When children's love and dignity isn't welcome, many people learn to "hold back" or "shut down" parts of themselves or ignore some parts of reality to get along in their unhealthy culture, which only reinforces these early childhood patterns in adulthood with deceitful politicians, propaganda-filled media, and authoritarian schools, churches, and jobs.
 
 No one is inherently bad or selfish. Everyone has love to give. And no matter what's happened in the past, every moment is a fresh new chance to show up in the world in a good way.
 

@@ -24,6 +24,8 @@ In the 1930s, when American dentist Weston Price visited many healthy cultures a
 
 Benjamin Franklin seemed equally surprised by healthy cultures he visited in eastern North America in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
 
+Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."**
+
 In sharp contrast, the United States, France, and every other unhealthy culture around the world spend huge amounts of time, energy, and money trying to control crime with prisons and police -- and yet so much crime and political corruption continues.
 
 How can some nations live without police and prisons, and also no widespread crime, while other nations, chock full of police and prisons, have so much crime?

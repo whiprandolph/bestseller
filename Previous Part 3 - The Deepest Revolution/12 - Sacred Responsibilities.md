@@ -2,13 +2,68 @@
 
 <toc/>
 
+* [Why Bother](#why-bother)
 * [Children](#children)
 * [Commit to Personal Growth for Yourself and Others](#commit-to-personal-growth-for-yourself-and-others)
 * [Cultivate Deep Awareness](#cultivate-deep-awareness)
+* [Create a Healthy Subculture](#create-a-healthy-subculture)
+* [Generate Abundance and Share It](#generate-abundance-and-share-it)
 * [Live in Reciprocity as a Normal Way of Life](#live-in-reciprocity-as-a-normal-way-of-life)
 * [Sacred Responsibilities](#sacred-responsibilities)
 * [References](#references)
 <toc/>
+
+Imagine a life where every moment felt alive, you were surrounded by people you trusted and liked, and free to contribute to your community in the most meaningful way possible.
+
+Imagine raising children so that every day was meaningful for them, training them for qualities like deep generosity, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your culture. Imagine teenagers who don't rebel because there's no disrespect to rebel against, and adults have the time and energy to make kids' education as meaningful as possible every day.
+
+Imagine...
+
+Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence, people merely forget it when they embrace shame, low self-worth, selfishness, distrust, superficiality, distraction, or other hurtful attitudes. And anything that's been forgotten can be remembered again...
+Not placating or belittling you, but welcoming your deepest love and not settling for less.
+
+Imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live and no authorities would stand in the way.
+
+Imagine every day being an adventure... no rat race...
+
+Imagine feeling the Earth's love around you constantly, as you see the Earth's gifts all around you and feel gratitude for them.
+
+Imagine feeling indebted because your neighbors just give you so much that you constantly feel the urge to give back, with the endless sharing just increasing the joyful indebtedness. Who would want to wipe clean such happy debts? 
+
+so that a life of reciprocity feels abundant and joyful.
+
+No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
+
+### Hopelessness - Why Bother?
+
+"Why bother" -- biggest problem.
+
+Study oppressed people for lessons in resilience.
+
+
+
+And that's good, because you already know everything needed to help create a healthy culture. But depending on your life path, some of it may have been forgotten. 
+
+
+
+You are the giving of your sacred gifts. Giving your deepest love is what you're here to do, it's who you're here to be. And not alone either, but with others giving their love too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The truth is that the Earth loves us -- you, me, everyone. But many people have learned not to notice, and not feel very grateful. 
+
+
 
 The sun was setting one evening in 2015 as I sat with about 8-10 of my Ashaninkan hosts. Some of them had gone fishing in the nearby river earlier that day, and we were all passing around pieces of fish they'd caught. I had brought food with me when I first arrived a week earlier, but we had traveled away from my sleeping area, and I didn't have my food with me to share.
 
@@ -90,6 +145,30 @@ Notice where you put your attention, and where you don't. Your attention is alwa
 
 How can you feel grateful if you don't notice all the gifts you receive?
 
+
+
+Of course deep awareness isn't cultivated in unhealthy cultures; people lulled into lazy thinking and foolish assumptions are easy to manipulate.
+
+### Create a Healthy Subculture
+
+* People you can speak your heart to. Might disagree on some things, but committed to each other's wellbeing and personal growth.
+
+* Embrace healthy culture practices -- share generously, stand up for each other if anyone's attacked or hurt or lost their job, mentor each other's children, be honest in your words and authentic with your feelings, etc.
+
+
+
+Everyone knows that a
+
+### Generate Abundance and Share It
+
+* I wish guns and drones didn't exist, but since they do, I will use them in service. 
+
+* The problem isn't making money -- the problem is selfishly hoarding it. Visitors to the Tzutujil Mayans and Huron noticed they loved accumulating food so they could throw huge feasts and give it all away. There is no virtue in poverty. As Don Cox said, "Use what you got to get what you need." Generate abundance however you can, and do excellent things with it. 
+
+
+In economies based on exploitation, it is sadly difficult to make money without participating in exploitation somehow, just as it's difficult to find transportation that does not pollute, or houses made without toxins.
+
+Once again, I look to the Zapatistas and Black Panthers for inspiration. They didn't necessarily stop working normal jobs while they sought deep change; they just knew that each person individually "getting a better job" in an exploitative economy was not the path to collective freedom.
 
 
 ### Live in Reciprocity as a Normal Way of Life

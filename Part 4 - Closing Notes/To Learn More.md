@@ -16,7 +16,7 @@ _Childhood training_: Covers many themes: the impact of obedience-oriented schoo
 
 * _Why people adopt authoritarian ideologies_: A deep exploration of why this happens
 
-* _How authorities shape people's world_: Explores how authorities shape people's world, and the tragic consequences
+* _How authorities shape people's world_: Explores how authorities shape people's world and the tragic consequences
 
 * _Privilege & entitlement_: In-depth exploration of how different privilege levels are imposed and maintained, and where entitlement comes from
 

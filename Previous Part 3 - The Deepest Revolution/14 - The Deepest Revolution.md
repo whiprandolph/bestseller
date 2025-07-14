@@ -14,17 +14,36 @@ Dorothy Parker once described, "The only dependable law of life -- everything is
 
 Selfishness and corruption are the same thing. So of course, in societies that systematically reward selfishness, there will be pervasive corruption, and no matter how much anybody investigates, there will always be more corruption to find. Unhealthy cultures are rotten to the core, because all of them involve a few rulers exploiting many others and training them to tolerate it.
 
+### Wake Up
+
+When people submissively obey, profound confusion becomes normal.
+
+In the 1770s, American revolutionaries cried "Give me liberty or give me death!" while fighting to preserve a chattel slave society. In the 1910s, Russian rebels worked to create a revolutionary workers' paradise to replace the monarchy, but the resulting Soviet government was so oppressive that people were sent to jail for decades merely for reading the wrong book. 
+
+Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but they commonly have spread shame and sexism and equated pleasure and sin -- unlike Jesus Christ. For centuries, missionaries have urged people to hoard wealth -- unlike Jesus Christ, who urged his followers to give away their wealth. Wherever obedient Christians have gone, they've spread dictatorships where a few people dictate the laws and the rest submissively obey -- unlike their revolutionary spiritual leader Jesus Christ, who opposed the Roman dictatorship he lived in.
+
+As long as people embrace submissive obedience, crushing their own dignity, this sort of deep confusion will remain. Once people embrace submissive obedience, there is no room for deep wisdom. People will seek freedom not knowing what it's like, and discover new forms of tyranny instead. Religious followers will completely misunderstand their own spiritual leaders.
+
+This deep confusion is both ancient and modern. 
+
+History is full of ineffective or barely-effective social movements. Countless people have joined labor unions but no labor movement has ever ended the exploitation of workers. Likewise, no feminist movement has ever ended sexism in their society, no anti-racist movement has ever ended racism, and no environmental movement has ever ended pollution in their culture. Activists keep pushing to avoid unnecessary wars, and authorities keep selfishly pushing for wars based on lies, and the authorities commonly get their way.
+
+People keep voting in elections knowing that the outcome won't fundamentally change anything. In the rare instances where true servant-leaders are elected, the rich and powerful commonly either corrupt the new leader or kill them. Either way the ruling class gets a leader who serves them.
+
+"Waking up" isn't just a process of learning about oppression. It's about finding your sense of dignity and deep self-respect, and helping others find theirs. It's about finding out what is the most meaningful path _for you_, and then walking it. It's about connecting with the Earth with like-minded people, remembering how to generously share and receive, and cultivating the internal strength to come to others' aid when they need you. It's about putting away your screens and books and feeling joy at experiencing life directly with all your senses wide awake.
+
+People who embrace submissive obedience do not stand for what's right, so they must have dominating authorities enforce the law for them. Submission and dominance go together. The first step to ending dominance is to stop submitting.
+
+Of course, anyone who lives in an abusive culture may need to show some submissiveness just to survive. And for as long as we're in this trap, each of us can have that courage and integrity to choose when and how to submit, and where to take a stand to do the most good in the world. This is the same attitude that Martin Luther King Jr showed when he paid his taxes, and which Jesus Christ showed when he said, "render to Caesar the things that are Caesar's" while he continued to work to free his people from the predatory priests, moneylenders, and Roman authorities.
+
+### Next Section
 
 
 
-For thousands of years, unhealthy cultures have spread around the world. Every unhealthy culture is a dictatorship, where a few people dictate the law and expect obedience from everyone else. Countless people have discussed and sought freedom -- but often without knowing what freedom is even like!
 
-In the 1770s, American revolutionaries cried "Give me Liberty or give me Death!" while fighting to preserve a chattel slave society. In the 1910s, rebels worked to create a revolutionary workers' paradise to replace the Russian monarchy, but the resulting Soviet government was so oppressive that people were sent to jail for decades merely for reading the wrong book. 
 
-Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but obedient Christian missionaries and soldiers consistently spread dictatorships rather than oppose them like Jesus Christ did.
 
-Countless people have joined labor unions but no labor movement has ever ended the exploitation of workers. Likewise, no feminist movement has ever ended sexism in their society, no racist movement has ever ended racism, no environmental movement has ever ended pollution in their culture. Authorities keep pushing for wars based on lies, making the poor die so the rich can profit.
-
+As the Haudenosaunee writers noted, "We need to identify the process that so often leads people who are honestly seeking to resist and destroy colonization to unconsciously recreate the elements of their own oppression."
 
 their attitudes of body-shaming, women-shaming, sex-shaming, equating pleasure and sin, belief in people's inclination to evil or disconnection from god, and other profoundly hurtful attitudes have actually trained people not to have the personal strength to stand for what's right, as Jesus Christ did. For centuries, anyone who didn't adopt this deeply hurtful Christian interpretation of Jesus Christ's teachings was labeled a heretic and tortured to death. The history of Islam, Buddhism, and other authoritarian religions have similar stories.
 
