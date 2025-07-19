@@ -1,8 +1,10 @@
 ## Chapter 3: Healthy Cultures Share Three Core Spiritual Practices
 
-Every healthy culture I've studied has been unique in its language, art, music, and day-to-day customs. Yet, without exception, every healthy culture shares something so basic that it transcends these local differences: they all follow the same three core spiritual practices.
+I kept finding more stories of cultures that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, Lakota, and others. These cultures had their differences, but people in these cultures all live or lived in a beautiful way with each other and the Earth.**
 
-I believe that many of the other shared characteristics of healthy cultures, past and present, flow from this spiritual foundation.
+Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the cultures I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawks within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man. The Kamana program seemed like a synthesis of what Jon Young had learned from people of all these cultures with the goal for the student to develop a deep, personal connection with the Earth.**
+
+Little did I know that Kamana would introduce me to spiritual practices which are common in all healthy cultures. I believe that many of the other shared characteristics of healthy cultures, past and present, flow from this spiritual foundation.**
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
@@ -18,9 +20,16 @@ The first core spiritual practice is to notice all the gifts we receive and feel
 
 The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one. Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters. Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.
 
-I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks like to hunt small animals like mice and shrews, so I knew they all would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?
+I grew up learning to give thanks to God by closing my eyes and trying to ignore my surroundings so I could focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea or feeling of God. And I thanked my mental idea of God for all the good things in my life.**
+
+Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around -- by teaching me something, feeding me, shading the soil so it would stay moist, and more. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.**
+
+Once I started seeing nonhumans as teachers and feeling grateful for them, I started learning lessons too. I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks like to hunt small animals like mice and shrews, so I knew they all would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?**
 
 I looked up through the forest canopy just in time to notice a second, silent hawk flying to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1</div>
+<div class="rev-act-body">Go outside and find a nonhuman to observe closely. Taking a tree for example: What are the tree's gifts? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Consider all the gifts you can observe, and practice feeling grateful for them.</div></div>
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts
 
@@ -33,6 +42,10 @@ Each person has sacred gifts, a life purpose, a way they make the world a better
 I believe that cultivating and giving one's sacred gifts fully is how a person gives their deepest love. Thus, training a person to give their sacred gifts trains them to give their deepest love in life, and to be their best self.
 
 Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. Ten Fingers also noted that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.
+
+Like the Thanksgiving Address and cultivating a practical, aware gratitude, I had a hard time with this practice too. I had never thought about my life purpose or what I deeply loved to do. Mostly I'd focused on building a safe and comfortable life, and I'd never thought about what I would do or give if I didn't feel constrained by needing a job. When I thought about it, I mostly felt stressed or anxious.**
+
+I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in many years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.**
 
 These two spiritual practices of gratitude and gift-giving are both so beautiful. The third core spiritual practice ties them all together.
 
@@ -48,7 +61,9 @@ In South America, the Yuracares, Tchimanes and other cultures work to prevent th
 
 Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their neighbors, both human and nonhuman.
 
-In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-duplicate with sacred responsibility chapter]
+In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."
+
+In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities they live.**
 
 ### Carry Your Gifts with Conviction
 

@@ -1,4 +1,4 @@
-## Chapter 6: Why Are People So Selfish?
+## Chapter 7: Why Are People So Selfish?
 
 In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
 
@@ -109,6 +109,6 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
 
-To explore deep spiritual training, join me in _Chapter 7: Why Is Shame So Common?_
+To explore deep spiritual training, join me in _Chapter 8: Why Is Shame So Common?_
 
 <div style="break-after:page"></div>

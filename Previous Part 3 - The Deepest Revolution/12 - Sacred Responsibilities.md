@@ -13,26 +13,6 @@
 * [References](#references)
 <toc/>
 
-Imagine a life where every moment felt alive, you were surrounded by people you trusted and liked, and free to contribute to your community in the most meaningful way possible.
-
-Imagine raising children so that every day was meaningful for them, training them for qualities like deep generosity, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your culture. Imagine teenagers who don't rebel because there's no disrespect to rebel against, and adults have the time and energy to make kids' education as meaningful as possible every day.
-
-Imagine...
-
-Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence, people merely forget it when they embrace shame, low self-worth, selfishness, distrust, superficiality, distraction, or other hurtful attitudes. And anything that's been forgotten can be remembered again...
-Not placating or belittling you, but welcoming your deepest love and not settling for less.
-
-Imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live and no authorities would stand in the way.
-
-Imagine every day being an adventure... no rat race...
-
-Imagine feeling the Earth's love around you constantly, as you see the Earth's gifts all around you and feel gratitude for them.
-
-Imagine feeling indebted because your neighbors just give you so much that you constantly feel the urge to give back, with the endless sharing just increasing the joyful indebtedness. Who would want to wipe clean such happy debts? 
-
-so that a life of reciprocity feels abundant and joyful.
-
-No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
 
 ### Hopelessness - Why Bother?
 
@@ -40,7 +20,7 @@ No one can predict or control the future. Times of sickness or hunger might come
 
 Study oppressed people for lessons in resilience.
 
-
+When you feel alone, just finding one other person to speak your deepest feelings with might seem impossible. If you have 10, 100 might seem impossible. If you have 100, 10,000 might seem impossible. 
 
 And that's good, because you already know everything needed to help create a healthy culture. But depending on your life path, some of it may have been forgotten. 
 

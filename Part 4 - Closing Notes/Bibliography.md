@@ -39,3 +39,7 @@ May the wisdom of healthy cultures keep spreading and lead to many Deep Revoluti
 [xxx-if changing this chap name, look for "Bibliography" in the text]
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-if changing this chap name, look for "Bibliography" in the text]

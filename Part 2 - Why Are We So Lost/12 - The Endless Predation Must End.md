@@ -1,6 +1,6 @@
-## Chapter 11: The Endless Predation Must End
+## Chapter 12: The Endless Predation Must End
 
-Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought at first that he must be exaggerating.
+Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.
 
 How can well-off, even middle-class people be prisoners?
 
@@ -132,6 +132,6 @@ And what is the result? Endless predation!
 
 To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are imprisoned or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions encourage all the worst qualities. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
 
-It is time to end the endless predation. This will require creating new healthy cultures. That is, we must create new nations. You and the people around you can do this. What perspectives could help you succeed? Let us explore in _Part 3 - The Deepest Revolution_.
+It is time to end the endless predation. This will require creating new healthy cultures. That is, we must create new nations where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_. You and the people around you can do this. What perspectives could help you succeed? Let us explore in _Part 3 - The Deepest Revolution_.
 
 <div style="break-after:page"></div>

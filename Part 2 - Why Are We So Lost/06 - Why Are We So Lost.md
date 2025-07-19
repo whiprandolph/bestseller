@@ -1,10 +1,10 @@
-## Chapter 5: Why Are We So Lost?
+## Chapter 6: Why Are We So Lost?
 
 Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society.
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
-People born and raised in healthy cultures would be shocked if their leaders started giving money or special treatment to the rich while many people went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
+People born and raised in healthy cultures would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while many people went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
 
 And they would be shocked if they were threatened with severe violence for trying to end these injustices.
 
@@ -54,6 +54,8 @@ In healthy cultures, standing for what's right in solidarity with neighbors is n
 
 This shows why so many people of unhealthy cultures are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to stand for what's right -- injustice and ineffective political movements become normalized.
 
+So long as people accept their own submissive obedience as legitimate, they will have endless political debates that ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrranical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.**
+
 Can you imagine living in a culture where everyone accepts responsibility for standing up for what's right and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
 
 ### The Nootka Stand in Solidarity
@@ -92,6 +94,6 @@ This solidarity can only exist if neighbors act generously with each other. If s
 
 A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
 
-Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 6: Why Are People So Selfish?_
+Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 7: Why Are People So Selfish?_
 
 <div style="break-after:page"></div>

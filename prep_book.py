@@ -37,6 +37,14 @@ BOOK_ADDED_STYLE = """
   blockquote {
     color: black;
   }
+  .rev-act {
+    background-color: #F3F3F3;
+    padding: 1em;
+  }
+  .rev-act-header {
+    text-align: center;
+    font-weight: bold;
+  }
   body {
     padding-left: 0px;
     padding-right: 0px;
@@ -121,7 +129,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 20, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 23, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file in full_list:
       body = process_chapter(file)
@@ -132,12 +140,8 @@ def main():
   
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
-  book_html = open(online_book_html_path, 'r', encoding='utf-8').read()
-  book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
-  book_html = book_html.replace("**", "")
-  open(online_book_html_path, 'w', encoding='utf-8').write(book_html)
- 
-  input("About to start PDF, waiting...")
+  fixup_html(online_book_html_path) 
+  print("About to start PDF... (waiting?)")
   # phys book has bw images
   # online book has color images and for epub, front cover only
 
@@ -146,7 +150,7 @@ def main():
   make_phys_book()
   make_epub()
   os.startfile(book_final)
-  cleanup()
+  #cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
   time_diff = round(end_time-start_time)
@@ -165,12 +169,20 @@ def make_online_pdf():
     server.terminate()
 
 
+def fixup_html(html_path):
+  book_html = open(html_path, 'r', encoding='utf-8').read()
+  book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
+  book_html = book_html.replace("**", "")
+  open(html_path, 'w', encoding='utf-8').write(book_html)
+  
+
 def make_epub():
-  print(" == Creating book.html, starting epub at %s" % time.ctime())
+  print(" == Starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path,
                             '--metadata', 'title=The Deepest Revolution',
-                            '--metadata', 'author=Whip Randolph'])
+                            '--metadata', 'author=William Randolph'])
+  fixup_html(online_book_html_path)
   subprocess.run(['ebook-convert', online_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
                                    '--level1-toc', '//h:h1',
@@ -209,9 +221,7 @@ def make_phys_book():
     update_images_bw()
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
-    book_html = open(phys_book_html_path, 'r', encoding='utf-8').read()
-    book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
-    open(phys_book_html_path, 'w', encoding='utf-8').write(book_html)
+    fixup_html(phys_book_html_path)
     subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     print("Reusing table of contents...")
     pdf_toc.merge_pdfs(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path)
@@ -236,3 +246,4 @@ if __name__ == "__main__":
     print("Error!")
     print(exc)
     breakpoint()
+    pass

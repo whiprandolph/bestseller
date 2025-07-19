@@ -14,10 +14,6 @@ Does this sound like a fantasy? I thought so too, until I was blessed to live br
 
 My short time with the Ashaninka in 2015 was utterly magical and changed my life. An Englishman named Mike had been visiting the Ashaninka yearly for 35 years and respected them deeply, and when he saw that I would respect them too, he invited me to join him. He told me, "you will spend the rest of your life figuring out lessons to learn from these people."**
 
-What I've learned is nothing short of revolutionary for those of us not living this way now.
-
-Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.
-
 ### Meet the Ashaninka
 
 Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, and a chance to join their feasts and entertainment, and generally invited into their culture as if I weren't a strange white American man who didn't even speak their language. They just welcomed me without asking anything in return.
@@ -81,6 +77,10 @@ What am I supposed to learn from the Ashaninka? How can they be humans like me a
 Are the Ashaninka unique? Did they just get lucky, and Americans didn't? Are there societies like the Ashaninka, either now or in the recent past, where people treat each other and the Earth with respect, without discrimination, greed, and dishonest leaders? If so, could they help clarify the lessons that the Ashaninka have to offer?
 
 It turns out, yes, there are more societies like the Ashaninka. Countless more!
+
+What I've learned is nothing short of revolutionary for those of us not living this way now.**
+
+Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.**
 
 The next chapter explores how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
 

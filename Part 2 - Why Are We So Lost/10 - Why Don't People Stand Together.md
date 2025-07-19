@@ -1,4 +1,4 @@
-## Chapter 9: Why Don't People Stand Together?
+## Chapter 10: Why Don't People Stand Together?
 
 A human culture is a living organism. And just like a tree or lion or ant colony, a human culture can become injured.
 
@@ -14,7 +14,7 @@ What are common ways that rulers and lower authorities prevent cultural healing,
 
 ### Sabotaging Solidarity in Unhealthy Cultures
 
-Authorities and wealthy people sabotage solidarity in countless ways. Attacking individual activists is the easiest to see.
+Authorities and wealthy people sabotage solidarity in countless ways.
 
 ### Attacking Individuals
 
@@ -104,6 +104,6 @@ The Haudenosaunee recognized that a culture that accepted private property owner
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
 
-In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 10: Selfish Violence vs Violence-In-Service_.
+In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 11: Selfish Violence vs Violence-In-Service_.
 
 <div style="break-after:page"></div>

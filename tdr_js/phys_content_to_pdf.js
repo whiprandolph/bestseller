@@ -9,6 +9,7 @@ const puppeteer = require('puppeteer');
     displayHeaderFooter: true,
     paperWidth: 6,
     paperHeight: 9,
+    printBackground: true,
     headerTemplate: '<div id="header-template"></div>',
     footerTemplate: '<div id="footer-template" style="font-size:11px !important; color:#000000; position:absolute; left:1.2in; top:9.1in;"> <span class="pageNumber"></span> </div>',
     path:'C:\\Users\\whip\\tdr_published_files\\content_phys.pdf',

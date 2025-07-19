@@ -1,4 +1,4 @@
-## Chapter 8: Why Are People So Racist And Hateful?
+## Chapter 9: Why Are People So Racist And Hateful?
 
 Many people born and raised in unhealthy cultures seem to think that humans are naturally prone to be racist, sexist, and even hateful. Or at least some are.
 
@@ -46,9 +46,9 @@ Likewise in the Soviet Union and China in the mid 20th century, the government a
 
 In this social pattern, authorities punish people for speaking the truth, making it safe and socially acceptable to believe falsehoods. Unfortunately, this can also cause huge amounts of racism and hatred in a society, as authorities encourage people to adopt racist or hateful attitudes, and punish those who don't.
 
-The Ku Klux Klan was a campaign of paramilitary violence operated by wealthy ex-slaveowners in the US South after the US Civil War. Most Americans know that this violence was directed at black people to scare them into remaining second class citizens. But few know that this campaign also attacked any white people who sympathized with those black people!
+The Ku Klux Klan was a campaign of paramilitary violence operated by wealthy ex-slaveowners in the US South after the US Civil War. Most Americans know that terrible violence was directed at black people to scare them into remaining second class citizens. But few know that this campaign also attacked any white people who sympathized with oppressed black people!
 
-In other words, whites who were racist were left alone or even rewarded. Any anti-racist white people risked rape, murder, having their house burned, or other atrocities. I believe this is has been a major driver of anti-black racism in the US South: authorities wanted that racism to avoid solidarity among poor white and black people, and for centuries they brutally punished any white people who tried to stand for what's right. Many KKK members were sheriffs and politicians, so the law was part of the problem!
+In other words, whites who were racist were left alone or even rewarded. Any anti-racist white people risked rape, murder, having their house burned, or other atrocities. This has been a major driver of anti-black racism in the US South: authorities wanted that racism to avoid solidarity among poor white and black people, and for centuries they brutally punished any white people who stood up to confront racial injustices. Many KKK members were sheriffs and politicians, so the law was part of the problem!
 
 Similar stories abound from unhealthy cultures around the world. Nazi Germans and Soviet citizens were each trained by their governments to hate the other side during World War II. Anyone who didn't hate enough risked being called a sympathizer and traitor and going to jail. When these authorities wanted war, they propagated hatred among the populace and punished anyone who spoke the truth and refused to hate.
 
@@ -122,7 +122,7 @@ I love telling stories of others' good deeds -- it's fun! Who doesn't like telli
 
 One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
 
-This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is how you can help choose leaders who actually serve the people instead of selfishly serving themselves.
+This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
 What good deeds have you witnessed recently? And to whom could you share these happy stories?
 

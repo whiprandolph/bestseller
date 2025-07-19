@@ -1,4 +1,4 @@
-## Chapter 10: Selfish Violence vs Violence-In-Service
+## Chapter 11: Selfish Violence vs Violence-In-Service
 
 Growing up in the United States, I heard a lot of people say that peace is good, and violence is bad. And sure, peace may be preferable, but when another group attacks, and escape is impossible, a group of people may face a choice: use violence in self-defense, or submit to the attackers.
 
@@ -76,6 +76,6 @@ The Black Panthers, Apaches, and Zapatistas showed what it's like to use violenc
 
 I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose violence in service of the people they loved and in service of the Earth.
 
-What happens when people choose submission instead? Find out in _Chapter 11: The Endless Predation Must End_.
+What happens when people choose submission instead? Find out in _Chapter 12: The Endless Predation Must End_.
 
 <div style="break-after:page"></div>

@@ -38,8 +38,7 @@ def get_name(grouping, chapter_name, chapter_number, idx):
 
 
 def get_page_number(pdf, name, start_page):
-  if "Appendix 1" in name: return start_page
-
+  
   print("Name: %s, start page: %s" % (name, start_page))
   for index, page in enumerate(pdf.pages[start_page:]):
     if index+start_page+1 > 1654:
@@ -52,7 +51,9 @@ def get_page_number(pdf, name, start_page):
     if name == "Image Credits" and name[:8] == line[:8]:
       return index+1+start_page
   print("ALERT %s not found" % name)
+  print("  ==  Is the chapter before '%s' missing a page break?  ==  " % name)
   import pdb;pdb.set_trace()
+  a = 5
 
 
 def prep_pdf_toc(content_path, dimensions={}):
@@ -112,7 +113,7 @@ def output_table(toc_data, dimensions={}):
   md.write("<body>\n\n")
   md.write("<center><h2>The<br/>Deepest Revolution</h2><br/>\n\n")
   md.write("<h2>DRAFT</h2><br/>\n\n")
-  md.write("<h4>Whip Randolph</h4><br/></center>\n\n")
+  md.write("<h4>William Randolph</h4><br/></center>\n\n")
 
   md.write("<div style=\"break-after:always\"></div><div style=\"break-after:page\"></div>\n")
   md.write("<center><b>Table of Contents</b></center>\n")

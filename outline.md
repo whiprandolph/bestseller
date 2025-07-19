@@ -1,5 +1,32 @@
 # Outline of Part 3
 
+### Chapter X: Train Awareness, Integrity, and Bravery
+
+* Integrity is structure of healthy culture
+
+* Bravery can be trained; surround yourself with bravery
+
+* Awareness
+
+* Cultivate these with other people
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# OLD SKOOL
 
 ## Chapter 12: Sacred Responsibilities
 

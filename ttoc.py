@@ -13,8 +13,8 @@ md_images_dir = os.path.join(source_dir, 'images')
 top_images_dir = os.path.join(html_dir, 'images')
 pdf_dir = r"C:\Users\whip\tdr-book-pdf"
 md_publish_dir = r"C:\Users\whip\tdr-md-publish"
-why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\05 - Why Are We So Lost.html"
-why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\05 - Why Are We So Lost.docx"
+why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
+why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
 
 PUBLISH = True
 
@@ -125,8 +125,8 @@ def main():
             toc.insert_and_return_toc(file_path)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
-    subprocess.run(['pandoc', '-s', why_so_lost_html,
-                              '-o', why_so_lost_docx])
+    #subprocess.run(['pandoc', '-s', why_so_lost_html,
+    #                          '-o', why_so_lost_docx])
 
 
 if __name__ == '__main__':

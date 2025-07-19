@@ -1,14 +1,14 @@
 chapters = {
   "Part 0 - Introduction": [
     (1, 1, "Words of Gratitude.md"),
-    (1, 1, "Introduction.md"),
   ],
   "Part 1 - This Is Who We Really Are": [
     (1, 1, "Part Introduction.md"),
     (1, 1, "This is Who We Really Are.md"),
     (1, 1, "Healthy Cultures Have Existed for Millions of Years.md"),
     (1, 1, "Healthy Cultures Share Three Core Spiritual Practices.md"),
-    (1, 1, "What If Pervasive Generosity Was Normal.md"),
+    (1, 1, "Imagine If Pervasive Generosity Was Normal.md"),
+    (1, 1, "Why Doesn't Everybody Live in a Beautiful Way.md"),
   ],
   "Part 2 - Why Are We So Lost": [
     (1, 1, "Part Introduction.md"),
@@ -22,7 +22,11 @@ chapters = {
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
+    (1, 1, "The Moment Everything Changes.md"),
+    (1, 1, "Embrace the 3 Core Spiritual Practices.md"),
+    (1, 1, "Cultivate Integrity and Bravery.md"),
     (1, 1, "The Deepest Revolution.md"),
+    # (1, 1, "part-3-outline.md"),
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "To Learn More.md"),
