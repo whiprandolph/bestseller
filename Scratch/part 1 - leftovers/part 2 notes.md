@@ -8,7 +8,7 @@
 * gift economy vs market/command economy
 
 Present-day example?
-More you give, the less you have, the less security you have - health issues can’t be paid, losing a job risks losing the house (mortgage)
+More you give, the less you have, the less security you have - health issues can't be paid, losing a job risks losing the house (mortgage)
 
 ## Sabotaging vs Encouraging Solidarity
 
@@ -21,7 +21,7 @@ vs solidarity: Cherokee town story
 
 ## Chapter 9: Selfish Violence vs Violence-In-Service (rename)
 * Rulers spreading hate towards peace activists
-* Present-day example: calling peace activists “putin lovers” 
+* Present-day example: calling peace activists "putin lovers" 
 * Wars based on lies / false flag attacks (ie 9/11, Nazi attack on Reichstag, etc)
 * vs sacred circles: Apache collective self defense, CONAIE, black activists
 * Zapatistas	

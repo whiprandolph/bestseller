@@ -34,7 +34,7 @@ It's not as if healthy cultures don't have some troubles -- in any society, peop
 
 Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.
 
-The Ju/'hoan San (these punctuation symbols refer to sounds that don’t exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."
+The Ju/'hoan San (these punctuation symbols refer to sounds that don't exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."
 
 Some people think these beautiful practices can only work in small groups, but these kinds of effective approaches have worked in both small and very large nations.
 

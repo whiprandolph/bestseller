@@ -87,6 +87,8 @@ MY TAKEAWAYS:
 
 * 16.26 - 2x part 1 printouts (Naj, Chris) on 7.5.25
 
+* 15.xx - 1x part 2 printout for Naj on xx.xx.25
+
 ### Old Notes
 * open with Ashaninka piece?
   * still immersive, first-hand, no/minimal theorizing

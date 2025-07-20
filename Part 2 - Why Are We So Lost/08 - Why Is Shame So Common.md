@@ -38,13 +38,13 @@ Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploi
 
 Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the personal strength and collective solidarity that might allow people to free themselves by uniting, making their own respectful laws, and upholding those laws together?
 
-Do you think it's a coincidence that dominant religions discourage the spiritual strength needed for people to free themselves from their rulers and the deep selfishness of their unhealthy culture? This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
+This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
 Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.
 
 Religion is a major way rulers have imposed sexism. Authoritarian religions commonly teach divisive sexism, discouraging solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..." The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man." Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."
 
-If these holy books really are the word of God or Allah, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
+If these holy books really are the word of an all-powerful god, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
 
 It doesn't look good, does it?
 
@@ -58,7 +58,7 @@ Of course, once people have decided to submit, and forgotten what real freedom i
 
 And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "normal" and "just how life is" to countless inhabitants, including Americans, Chinese, Iraqis, Koreans, and more. Most citizens may think they are "good," or trying to "do their part." They may take all sorts of unproductive actions, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, "praying" intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.
 
-I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every culture. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammed, and I am free to leave the hurtful or unhelpful aspects of these religions behind.
+I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every culture. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammad, and I am free to leave the hurtful or unhelpful aspects of these religions behind.
 
 ### Authorities Kill or Imprison Our Spiritual Leaders
 
@@ -72,7 +72,7 @@ Martin Luther King Jr worked to end racial oppression and imperialism in the Uni
 
 In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
-Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo mentioned Martin Luther King Jr as a possible messiah.
+Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo mentioned Martin Luther King Jr as a possible messiah.**
 
 Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually kill or imprison the wisest and bravest leaders among us.
 
@@ -88,13 +88,13 @@ And the third core spiritual practice of *living in reciprocity* encourages deep
 
 The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace them? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?
 
-So are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine force in each person's heart will help them find their gifts if they will only listen. 
+So are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine voice in each person's heart will help them find their gifts if they will only listen. 
 
 When people act on that divine voice -- when a person offers their sacred gifts, acting with integrity, generosity, courage, awareness, authenticity, joy, and other beautiful qualities -- then the person is _acting with an open heart_, offering their deepest love. The more a person learns to "hold back" or "shut down" parts of themselves, the more they _close their heart to that divine voice_. The ones who hold back the most are often called "cold-hearted" or said to have "hearts of stone." In other words, they don't listen to that divine voice inside them that all people have, and so they act selfishly instead, withholding their gifts.
 
 Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who made mistakes or stumbled along the path of righteousness. That naïve simplicity touched me to the marrow..."
 
-Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would soon be killed. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our sick white brothers? Well, I don't know what will happen now... I just want to do God's will..."
+Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would be killed for it. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our sick white brothers? Well, I don't know what will happen now... I just want to do God's will..."
 
 I believe that no one is inherently bad, but some people do have a sickness, or stumble on a good path. And some people get really sick and cause huge amounts of unnecessary suffering. This is what happens when people of unhealthy cultures grow up learning to "hold back" or "shut down" sacred parts of themselves, learning to ignore abuse, ignore uncomfortable feelings or truths, or believe that people are untrustworthy, selfish, or bad, with almost everybody holding back in their own way.
 

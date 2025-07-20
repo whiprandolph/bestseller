@@ -36,7 +36,7 @@ Growing up in a Christian family, I learned about Jesus Christ's extreme generos
 
 Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.
 
-Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the woman commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.
+Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.
 
 I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 

@@ -10,7 +10,7 @@ import subprocess
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
-
+from ttoc import is_main_part_intro
 from progress import chapters 
 
 assert publish.CUT_OUT_REFS_AND_TOCS == True, "Set publish.CUT_OUT_REFS_AND_TOCS to True"
@@ -30,9 +30,6 @@ BOOK_ADDED_STYLE = """
   }\n
   @page {
     size: %sin %sin;
-  }
-  h1 {
-    display: none;
   }
   blockquote {
     color: black;
@@ -98,7 +95,8 @@ def process_chapter(full_path):
   blob = open(full_path, 'r', encoding='utf-8').read()
   chap_id = blob.split("\n")[0].split(":")[0].strip("#").strip(" ")
   chap_id = chap_id.replace(" ", "_")
-  assert chap_id not in chap_ids, chap_id
+  if not is_main_part_intro(os.path.basename(full_path), os.path.dirname(full_path)):
+    assert chap_id not in chap_ids, chap_id
   chap_ids.add(chap_id)
   references = "### References"
   try:
@@ -131,13 +129,13 @@ def main():
   full_list = ttoc.get_file_list(ignore_images=True)
   assert len(full_list) == 23, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
-    for file in full_list:
-      body = process_chapter(file)
+    for file_name in full_list:
+      body = process_chapter(file_name)
       book_md.write("%s\n" % body)
-      chap_line = body.split("\n", 1)[0]
-      assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
-      chapter_name = chap_line.strip("## ").strip()
-  
+      if 'Part ' not in file_name:
+        chap_line = body.split("\n", 1)[0]
+        assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
+      
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
   fixup_html(online_book_html_path) 
@@ -150,7 +148,7 @@ def main():
   make_phys_book()
   make_epub()
   os.startfile(book_final)
-  #cleanup()
+  cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
   time_diff = round(end_time-start_time)
@@ -243,6 +241,8 @@ if __name__ == "__main__":
   try:
     main()
   except Exception as exc:
+    import traceback
+    traceback.print_exc()
     print("Error!")
     print(exc)
     breakpoint()

@@ -1,4 +1,4 @@
-## Bibliography
+# Bibliography
 
 _The Deepest Revolution_ is based off the research used to create my first book _One Disease One Cure_. Almost all stories and quotes in _The Deepest Revolution_ are included there, which contains an extensive bibliography with over 720 entries and over 1,200 citations.
 

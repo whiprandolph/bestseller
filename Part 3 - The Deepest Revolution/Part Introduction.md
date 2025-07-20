@@ -1,4 +1,4 @@
-# Part 3 - The Deepest Revolution
+<h1 style="display:none">Part 3 - The Deepest Revolution</h1>
 
 <br/><br/><br/><br/><br/><br/>
 

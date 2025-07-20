@@ -4,7 +4,7 @@ For most of my life, I never thought there could be a human culture without raci
 
 A place where sharing is a normal way of life. A place where neighbors deeply trust each other and visitors are treated like family -- not the dysfunctional families that many deal with here, but the loving family we all long for, with mutual understanding and respect.
 
-I was blessed to live briefly in such a place. And no, it’s not some cult or small commune, but a nation of thousands of people living in dozens of villages. My short time there in 2015 was utterly magical and changed my life. As the man who brought me there said, "you will spend the rest of your life figuring out lessons to learn from these people."
+I was blessed to live briefly in such a place. And no, it's not some cult or small commune, but a nation of thousands of people living in dozens of villages. My short time there in 2015 was utterly magical and changed my life. As the man who brought me there said, "you will spend the rest of your life figuring out lessons to learn from these people."
 
 
 

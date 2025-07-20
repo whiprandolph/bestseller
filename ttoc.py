@@ -27,11 +27,12 @@ def get_file_list(ignore_images = False):
     for part_name, chapter_names in chapters.items():
         part_path = os.path.join(source_dir, part_name)
         for a, b, chapter_name in chapter_names:
-            if not is_chapter_name(chapter_name, part_path):
-                chapter_path = os.path.join(part_path, chapter_name)
+            if is_chapter_name(chapter_name, part_path):
+              chapter_path = os.path.join(part_path, "%02d - %s" % (chapter_number, chapter_name))
+              chapter_number += 1
             else:
-                chapter_path = os.path.join(part_path, "%02d - %s" % (chapter_number, chapter_name))
-                chapter_number += 1
+              chapter_path = os.path.join(part_path, chapter_name)
+
             if not os.path.exists(chapter_path):
                 print("Chapter path does not exist: %s" % chapter_path)
                 breakpoint()
@@ -113,9 +114,20 @@ def transform(file_list):
         
 def is_chapter_name(chapter_name, directory):
   return ("Part Introduction" not in chapter_name and
-          "preface material" not in directory.lower() and 
-          "part 0" not in directory.lower() and
-          "part 4" not in directory.lower())
+         is_main_body(chapter_name, directory))
+    
+def is_pre_or_post_material(chapter_name, directory):
+  return ("part 0" in directory.lower() or
+          "part 4" in directory.lower())
+
+def is_main_part_intro(chapter_name, directory):
+  return ("Part Introduction" in chapter_name and
+         is_main_body(chapter_name, directory))
+
+def is_main_body(chapter_name, directory):
+  return ("part 1" in directory.lower() or
+          "part 2" in directory.lower() or
+          "part 3" in directory.lower())
 
 
 def main():

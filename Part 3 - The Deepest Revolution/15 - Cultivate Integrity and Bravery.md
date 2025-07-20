@@ -28,6 +28,14 @@ But the truth is that many people have struggled with despair and depression for
 
 * If you do not have such friends, go make new friends. They will be glad to know you. 
 
+* hold each other to high standards -- 
+
+  * high standard of integrity
+
+  * health
+
+  * cooperation
+
 ### Your Integrity is the Structure of your Culture
 
 * Anyone can make agreements. What brings those agreements to life is upholding them. Having agreements and upholding them is what turns a collection of people into a community or a nation.

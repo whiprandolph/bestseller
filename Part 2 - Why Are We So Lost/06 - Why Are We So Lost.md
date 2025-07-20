@@ -90,6 +90,9 @@ And this solidarity was not a one-off event. It was a way of life. The clown wal
 
 This solidarity can only exist if neighbors act generously with each other. If selfishness is widespread, it is naturally hard for people to trust each other to stand for what's right, even at great personal risk.
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #X<br/>Support Someone Who Shows Integrity in a Difficult Moment</div>
+<div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her culture. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her if she were attacked? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity this week to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
+
 ### Solidarity and Generosity Used to be Universal
 
 A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.

@@ -1,4 +1,4 @@
-### Healing Practices
+# Healing Practices
 
 Below are practices that I associate with healthy cultures, as well as the chapters where they are discussed in this book.
 

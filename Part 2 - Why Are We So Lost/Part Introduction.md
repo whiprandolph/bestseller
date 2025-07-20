@@ -1,4 +1,4 @@
-# Part 2 - Why are We So Lost?
+<h1 style="display:none">Part 2 - Why Are We So Lost</h1>
 
 <br/><br/><br/><br/><br/><br/>
 

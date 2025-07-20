@@ -86,15 +86,15 @@ In contrast, the war-resisters valued sexual relationships based on sharing, sen
 
 Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden."
 
-Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure and connection and having a meaningful life, and others consistently embrace superficiality and being a cog in a machine? And of course, child abuse or deprivation isn't all-or-nothing, with nearly everybody carrying at least some troubles from their childhood.
+Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others consistently embrace superficiality and being a cog in a machine? And of course, child abuse or deprivation isn't all-or-nothing, with nearly everybody carrying at least some troubles from their childhood.
 
 The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep personal strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
 
-This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself if needed. The question is whether or not people develop the integrity and deep relationships needed to stand for what's right. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
+This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself when needed. The question is whether or not people develop the integrity and deep relationships needed to stand for what's right. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
-Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are countless hurtful attitudes people can develop from disrespectful childhoods.
+Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are countless hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
 
-Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. This is only compounded by the stresses parents often feel due to financial insecurity, relationship troubles, and other challenges. This way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful culture.
+Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful culture.
 
 This shows how conquering is not a single event, but a continual process, and it involves lots of child abuse. Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate predatory behavior all around them?
 
@@ -102,11 +102,11 @@ This shows how conquering is not a single event, but a continual process, and it
 
 Julian Assange described how people learn to tolerate exploitation: "Every time we witness an injustice and do not act, we train our character to be passive in its presence and thereby eventually lose all ability to defend ourselves and those we love."
 
-How are adults trained to tolerate living in an unhealthy culture with endless predation and abuse? And what qualities would they need to cultivate to have the strength to live in a healthy culture instead?
+What qualities would people need to cultivate to have the strength to live in a healthy culture? And how are adults trained to tolerate living in an unhealthy culture with endless exploitation?
 
 * _Integrity_: Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy cultures where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
 
-* _Bravery_: When the police punish anyone who tries to take a stand against abusive authorities, they arrest the bravest people, scaring the rest into holding back, tolerating abusive behavior, and focusing on their own comfort and safety instead. When bravery is punished, cowardice becomes common.
+* _Bravery_: When the police punish anyone who tries to take a stand against abusive authorities, they arrest the bravest people and scare the rest into holding back, tolerating abusive behavior, and focusing on their own comfort and safety instead. When bravery is punished, cowardice becomes common.
 
 * _Generosity_: Profit economies reward selfish, profit-seeking behavior rather than generosity.
 

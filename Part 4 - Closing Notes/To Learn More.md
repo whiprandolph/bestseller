@@ -1,4 +1,4 @@
-## To Learn More
+# To Learn More
 
 _The Deepest Revolution_ is the sister book to _One Disease One Cure_, published under the pen name Whip Randolph. Both books are free-to-download and have physical versions available.
 

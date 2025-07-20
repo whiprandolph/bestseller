@@ -1,7 +1,7 @@
 import os
 import subprocess
 from pprint import pprint as pp
-from ttoc import is_chapter_name
+from ttoc import is_chapter_name, is_main_part_intro, is_pre_or_post_material
 from pprint import pprint as pprint
 from progress import chapters
 from pypdf import PdfReader, PdfWriter
@@ -29,11 +29,15 @@ def get_name(grouping, chapter_name, chapter_number, idx):
   chapter_path = os.path.join(grouping_path, "%02d - %s" % (chapter_number, chapter_name))
   document_path = non_chapter_path
   if is_chapter_name(chapter_name, grouping_path):
-    document_path = chapter_path
     add_to_chapter_counter = 1
+    name = open(chapter_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
 
-  name = open(document_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
+  elif is_pre_or_post_material(chapter_name, grouping_path):
+    name = open(non_chapter_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
 
+  elif is_main_part_intro(chapter_name, grouping):
+    name = grouping  
+  
   return name, chapter_number+add_to_chapter_counter
 
 
@@ -41,7 +45,7 @@ def get_page_number(pdf, name, start_page):
   
   print("Name: %s, start page: %s" % (name, start_page))
   for index, page in enumerate(pdf.pages[start_page:]):
-    if index+start_page+1 > 1654:
+    if index+start_page+1 > 177:
       import pdb;pdb.set_trace()
     page_text = page.extract_text().strip()
     first_line = page_text.split("\n")[0]
@@ -72,7 +76,7 @@ def prep_pdf_toc(content_path, dimensions={}):
         add_part_name = True
         continue  
       page_number = get_page_number(pdf, name, page_number)
-      if add_part_name and not "Part 0" in part :
+      if add_part_name and not "Part 0" in part:
         toc_data[part].append((part, page_number-1))
         add_part_name = False
       toc_data[part].append((name, page_number))
