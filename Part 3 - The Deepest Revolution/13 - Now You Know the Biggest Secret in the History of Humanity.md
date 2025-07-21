@@ -61,6 +61,8 @@ so that a life of reciprocity feels abundant and joyful.
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
 
+I didn't make these up. Every imagined scene here came from a story or observation from an actual healthy culture. These don't need to be fantasies. You and other people could bring them to life.
+
 ### Bring Your Vision to Life
 
 Your vision is possible. What kind of person would you need to be in order to bring such a beautiful and powerful vision to life? And what kind of relationships could you cultivate 

@@ -60,7 +60,9 @@ Can you imagine living in a culture where everyone accepts responsibility for st
 
 ### The Nootka Stand in Solidarity
 
-In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping people see their own silly or foolish behavior by imitating it.
+In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands for what's right together.**
+
+In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.
 
 These "mirror" people were like magazine opinion writers who commented on all sorts of things. If a mirror thought that the council was about to do something foolish, they might show up at council and imitate one of the leader's every moves so that "every little wart on that person would show, every hole in their idea would suddenly look real big."
 

@@ -89,7 +89,7 @@ def verify_epub():
   assert img_count == 4, "Invalid image count, %s" % img_count
   shutil.rmtree(book_zip_dir)
   os.remove(book_zip_path)
-
+  
 
 def process_chapter(full_path):
   blob = open(full_path, 'r', encoding='utf-8').read()

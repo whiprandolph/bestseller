@@ -127,4 +127,3 @@ This is the power of that practical, aware gratitude to encourage more good beha
 What good deeds have you witnessed recently? And to whom could you share these happy stories?
 
 <div style="break-after:page"></div>
-

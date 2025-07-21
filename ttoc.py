@@ -20,6 +20,29 @@ PUBLISH = True
 
 full_html = ""
 full_html_path = os.path.join(html_dir, 'full_book.html')
+REV_ACT_COUNTER = 1 # start at 1
+
+
+def rev_act_count_fixup(md_path):
+    global REV_ACT_COUNTER
+    assert md_path.endswith(".md"), md_path
+    rev_act_html = '<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #'
+    line_list = []
+    with open(md_path, 'r', encoding='utf-8') as file_handle:
+        for line in file_handle:            
+            if rev_act_html in line:
+                assert "<br/>" in line, line
+                assert "</div>" in line, line
+                act_count, rest_of_line = line.split(rev_act_html)[1].split("<br/>", 1)
+                assert len(act_count) == 1 or len(act_count) == 2, act_count
+                reassembled_line = f"{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
+                line_list.append(reassembled_line)
+                REV_ACT_COUNTER += 1
+            else:
+                line_list.append(line)
+    with open(md_path, 'w', encoding='utf-8') as file_handle:
+        file_handle.write("\n".join(line_list))
+
 
 def get_file_list(ignore_images = False):
     path_list = []
@@ -135,11 +158,10 @@ def main():
     for file_path in file_list:
         if '.md' in file_path:
             toc.insert_and_return_toc(file_path)
+            rev_act_count_fixup(file_path)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
-    #subprocess.run(['pandoc', '-s', why_so_lost_html,
-    #                          '-o', why_so_lost_docx])
-
+    
 
 if __name__ == '__main__':
     start_time = time.time()

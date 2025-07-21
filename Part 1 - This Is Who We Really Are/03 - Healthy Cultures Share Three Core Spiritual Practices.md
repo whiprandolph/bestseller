@@ -8,7 +8,7 @@ Little did I know that Kamana would introduce me to spiritual practices which ar
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
-I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude for the gifts of life_ by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and focused my attention on observing the nonhumans all around me. At first, I felt a bit bored. But the more I observed the world around me, the more I began to see.
+I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude_ for the gifts of life by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and focused my attention on observing the nonhumans all around me. At first, I felt a bit bored. But the more I observed the world around me, the more I began to see.
 
 Over time, I learned to notice which plants are edible, and which trees offer good wood for burning. I studied the language of birds, and what they could tell me about the rest of the forest.
 
@@ -28,7 +28,7 @@ Once I started seeing nonhumans as teachers and feeling grateful for them, I sta
 
 I looked up through the forest canopy just in time to notice a second, silent hawk flying to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #X<br/>Gratitude for the Nonhumans' Gifts</div>
 <div class="rev-act-body">Go outside and find a nonhuman to observe closely. Taking a tree for example: What are the tree's gifts? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Consider all the gifts you can observe, and practice feeling grateful for them.</div></div>
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts

@@ -14,13 +14,9 @@ The trouble runs deeper though. In abusive relationships, the abuser will often 
 
 Unhealthy cultures all have a ruling class that exploits the rest, so all unhealthy cultures create and maintain massive, multi-generational abusive relationships. The rulers are the ultimate abusers, with many lower authorities in religion, business, politics, and other areas also abusing or exploiting others. 
 
-Self-respecting people generally do not passively submit to abusive authorities. In healthy cultures where people are raised to respect themselves and others, including nonhumans, everyone expects to give and receive mutual kindness. And they typically reject behavior or practices that create or reinforce disrespectful treatment.  
+In unhealthy cultures -- just like in abusive domestic relationships between two people -- abusive authorities commonly impose ideologies that encourage things like shame, low self-worth, disconnection from divinity, fear of one's core instincts, rejection of pleasure, beliefs that humans are inherently selfish and untrustworthy, beliefs that people deserve to suffer, and more.
 
-When anyone is disrespected, it's normal for people to respond to protect the victim, just like the Nootka protected the mirror-person discussed in the previous chapter.
-
-Haudenosaunee writers noted how they traditionally maintained "the ideology that, if an injustice occurs, it is their moral duty to defend the oppressed against their oppressor" based on the belief that "if absolute justice was established in the world, peace would naturally follow... [and] universal justice is the product of a spiritually strong society." In order to do this, "many of the rules... are designed to create a strong society rather than a strong government."
-
-However, in unhealthy cultures -- just like in abusive domestic relationships between two people -- abusive authorities consistently treat their subjects poorly in countless ways, encouraging shame, low self-worth, disconnection from divinity, fear of one's core instincts, rejection of pleasure, beliefs that humans are inherently selfish and untrustworthy, beliefs that people deserve to suffer, and more.
+Self-respecting people do not passively submit to abusive authorities, but when people deeply embrace these hurtful attitudes or beliefs, they can become more willing to accept abuse, isolation, dissatisfaction, meaninglessness, superficiality, or despair.**
 
 For example, the Catholic Church's official dogma states that humans are "inclined to sin" and have "an inclination to evil." Still one of the most followed religions in the world, Catholicism states that the first human (Adam) "lost the original holiness and justice he had received from God, not only for himself but for all human beings."
 
@@ -92,9 +88,9 @@ So are humans inherently selfish or inherently generous? Or does it depend on th
 
 When people act on that divine voice -- when a person offers their sacred gifts, acting with integrity, generosity, courage, awareness, authenticity, joy, and other beautiful qualities -- then the person is _acting with an open heart_, offering their deepest love. The more a person learns to "hold back" or "shut down" parts of themselves, the more they _close their heart to that divine voice_. The ones who hold back the most are often called "cold-hearted" or said to have "hearts of stone." In other words, they don't listen to that divine voice inside them that all people have, and so they act selfishly instead, withholding their gifts.
 
-Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who made mistakes or stumbled along the path of righteousness. That naïve simplicity touched me to the marrow..."
+Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who _made mistakes or stumbled_ along the path of righteousness. That naïve simplicity touched me to the marrow..."
 
-Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would be killed for it. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our sick white brothers? Well, I don't know what will happen now... I just want to do God's will..."
+Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would be killed for it. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our _sick_ white brothers? Well, I don't know what will happen now... I just want to do God's will..."
 
 I believe that no one is inherently bad, but some people do have a sickness, or stumble on a good path. And some people get really sick and cause huge amounts of unnecessary suffering. This is what happens when people of unhealthy cultures grow up learning to "hold back" or "shut down" sacred parts of themselves, learning to ignore abuse, ignore uncomfortable feelings or truths, or believe that people are untrustworthy, selfish, or bad, with almost everybody holding back in their own way.
 
