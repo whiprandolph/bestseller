@@ -127,7 +127,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 23, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 24, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
       body = process_chapter(file_name)
@@ -144,10 +144,11 @@ def main():
   # online book has color images and for epub, front cover only
 
   shutil.copyfile(cover_src_path, cover_dest_path)
+  print("Finished producing html")
   make_online_pdf()
+  os.startfile(book_final)
   make_phys_book()
   make_epub()
-  os.startfile(book_final)
   cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)

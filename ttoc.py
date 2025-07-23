@@ -29,7 +29,7 @@ def rev_act_count_fixup(md_path):
     rev_act_html = '<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #'
     line_list = []
     with open(md_path, 'r', encoding='utf-8') as file_handle:
-        for line in file_handle:            
+        for line in file_handle:     
             if rev_act_html in line:
                 assert "<br/>" in line, line
                 assert "</div>" in line, line
@@ -38,10 +38,15 @@ def rev_act_count_fixup(md_path):
                 reassembled_line = f"{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
                 line_list.append(reassembled_line)
                 REV_ACT_COUNTER += 1
+            elif 'rev-act\"' in line:
+                print("Potential rev-act formatting issue with line:")
+                print(line)
+                breakpoint()
+                a = 0
             else:
                 line_list.append(line)
     with open(md_path, 'w', encoding='utf-8') as file_handle:
-        file_handle.write("\n".join(line_list))
+        file_handle.write("".join(line_list))
 
 
 def get_file_list(ignore_images = False):

@@ -35,7 +35,6 @@ Imagine being a teenager and being treated so respectfully that there was nothin
 
 Imagine no boring classes, no unaccountable school authorities, and no meaningless work and tests. Imagine instead 
 
-
 raising children so that every day was meaningful for them, training them for qualities like deep generosity, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your culture. Imagine teenagers who don't rebel because there's no disrespect to rebel against, and adults have the time and energy to make kids' education as meaningful as possible every day.
 
 Imagine the relief you'd feel knowing that corrupt politicians and businessmen won't spread misunderstandings and block 
@@ -61,11 +60,13 @@ so that a life of reciprocity feels abundant and joyful.
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
 
-I didn't make these up. Every imagined scene here came from a story or observation from an actual healthy culture. These don't need to be fantasies. You and other people could bring them to life.
+_I didn't make these up. Every imagined scene here came from a story or observation from an actual healthy culture. These don't need to be fantasies. You and other people could bring them to life._
 
 ### Bring Your Vision to Life
 
-Your vision is possible. What kind of person would you need to be in order to bring such a beautiful and powerful vision to life? And what kind of relationships could you cultivate 
+Your vision is possible. What kind of person would you need to be in order to bring such a beautiful and powerful vision to life? And what kind of relationships could you cultivate to help?
+
+
 
 
 

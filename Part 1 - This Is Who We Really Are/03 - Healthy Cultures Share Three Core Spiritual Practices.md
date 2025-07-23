@@ -28,8 +28,8 @@ Once I started seeing nonhumans as teachers and feeling grateful for them, I sta
 
 I looked up through the forest canopy just in time to notice a second, silent hawk flying to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #X<br/>Gratitude for the Nonhumans' Gifts</div>
-<div class="rev-act-body">Go outside and find a nonhuman to observe closely. Taking a tree for example: What are the tree's gifts? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Consider all the gifts you can observe, and practice feeling grateful for them.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #3<br/>Gratitude for the Nonhumans' Gifts</div>
+<div class="rev-act-body">Cultivating a practical, aware gratitude begins with noticing the gifts you receive. To start, go outside and find a nonhuman to observe closely, and ask what its gifts are.<br/><br/>For example, if you observed a tree, you would ask: how does the tree benefit all the life around it, including you? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Notice every gift that you can, and practice feeling grateful for them.</div></div>
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts
 
@@ -65,6 +65,9 @@ In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitud
 
 In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities they live.**
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Practice the Joy of Reciprocity</div>
+<div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, babysitting someone's kid, helping them find a job, or cooking a meal for a sick person. Practice feeling gratitude for what they've given you. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving to someone just for the joy of giving.</div></div>
+
 ### Carry Your Gifts with Conviction
 
 A person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.**
@@ -79,8 +82,7 @@ These practices aren't just for some people. Anybody could embrace them right no
 
 What are your gifts? What can you give or do or be that would open your heart and let it sing?
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover Your Own Sacred Gifts</div>
+<div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and consider what most matters to you, and how you can act in service of it. 2) Consider what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and meaning already in life, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
+
 <div style="break-after:page"></div>
-
-### References
-
-[xxx-duplicate with sacred responsibility chapter]

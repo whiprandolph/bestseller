@@ -2,6 +2,7 @@
 
 
 
+* Until now, I have only included revolutionary activities that I have embraced in my life. But I have never worked with others to found a nation, so I do not know how everything that is required. But I know the work needs to be done even if I don't know all the steps. 
 
 * Study healthy cultures, become friends with people who carry their healthy-culture traditions. Healthy cultures have found a huge variety of ways of sharing food, choosing servant-leaders, having sexual relationships, eating nutritious diets, raising strong children, living in harmony with the Earth, addressing inappropriate behavior, responding to threats, and more. Consider which ways could work for you, and which wouldn't, and what lessons to learn.
 
@@ -24,7 +25,13 @@ The most important step to addressing any concerns or fears you have is this: fi
 * find people. Start with 1 if you need to, then find another after that.
 
 
+### Hold Each Other to a High Standard
 
+* You can't control what others do, but you can control yourself. And you can have high expectations for others.
+
+* People noticed big shift after being conquered/forced into unhealthy cultures (Pretty Shield, Rain-in-the-Face quotes, reference health issues from Price, or notice how shocked people like me or liedloff were at relaxed joyfulness)
+
+* 
 
 
 

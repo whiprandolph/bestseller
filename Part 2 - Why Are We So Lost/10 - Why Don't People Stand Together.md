@@ -16,7 +16,11 @@ What are common ways that rulers and lower authorities prevent cultural healing,
 
 Authorities and wealthy people sabotage solidarity in countless ways.
 
-### Attacking Individuals
+### Attacking our Spiritual Leaders**
+
+A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth, help them reconnect with the Earth, remind them that they have a proud ancestry, and coordinate efforts to stand in solidarity to confront injustices. The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.**
+
+Unfortunately, authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy culture.**
 
 In the mid-1900s, East German police developed a practice called _Zersetzung_, meaning disintegration or decomposition. This police practice drove activists to mentally, emotionally, and socially disintegrate without any explicit use of force. The police arranged for various government bureaucracies to lose citizens' forms, take longer than usual to respond to citizens' inquiries or requests, or otherwise seriously frustrate the lives of activists. East German police would sabotage people's reputation. They fabricated and circulated love letters or evidence of illegal behavior among an activist's friends and family in order to sabotage relationships, and they often succeeded.
 

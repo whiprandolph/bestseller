@@ -1,4 +1,4 @@
-## Chapter 5: Why Doesn't Everybody Live in a Beautiful Way?
+## Chapter 5: Why Doesn't Everybody Live in This Beautiful Way?
 
 For years, I studied beautiful traditional cultures like the Lakota and Potawatomi, and I wondered what they have or had in common. In traditional stories from all these healthy cultures, just like I had seen with the Ashaninka, they seem to avoid crime without having any police or prisons. Integrity and generosity are pervasive, and they have leaders that people actually want to follow. It's normal for people to accept deep responsibility to treat each other and the Earth in a good way. Why do some cultures have these beautiful qualities?
 
@@ -22,13 +22,13 @@ And they all share one core difference from all unhealthy human cultures:
 
 <center>__*In healthy cultures, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
-In healthy cultures, everyone is expected to _uphold_ their law. In unhealthy cultures, people are expected to _obey_ the laws they're given, but they're punished for upholding the law themselves -- after all, that is the police's job, though the police have to follow orders too.
+In healthy cultures, people expect each other to _uphold_ their law. In unhealthy cultures, people are expected to _obey_ the laws they're given, but they're punished for upholding the law themselves -- after all, that is the police's job, though the police have to follow orders too.
 
 In healthy cultures, everyone stands for a culture of mutual respect, so they have strong leaders and nobody imposes law on anybody else. Everyone agrees on their rules for appropriate behavior, so they can live in a respectful way with each other and the Earth. And when someone behaves inappropriately, anyone may take initiative to hold that person accountable. Such healthy cultures may fight with each other, but within the culture, they maintain a baseline of mutual respect.
 
 In unhealthy human cultures, one person or a few people rule over everyone else. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid everybody else from taking initiative to hold misbehaving people accountable.
 
-Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease where some people rule over everyone else, and obedient people do not uphold their own laws_.**
+Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal_.**
 
 Every single culture where a person or group imposes law on the rest has these terrible troubles. But these troubles don't exists in societies where everyone stands for what's right, and everyone agrees on the rules they will live by.
 
@@ -40,7 +40,7 @@ But to understand why it's worth the risk, we must confront the tragic truth of 
 
 Many people avoid watching the news or thinking too deeply because "why bother?" If you can't do anything about it, why worry? But the truth is that you can do something about it -- most people just haven't heard the perspectives and stories that offer a helpful path.**
 
-So let's be brave together, and face the truth of unhealthy cultures so we can see clearly how to create a beautiful way of life.**
+So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has.**
 
 To confront the deep sickness in every unhealthy culture, and find more beautiful stories too, join me in _Part 2 - Why Are We So Lost?_**
 

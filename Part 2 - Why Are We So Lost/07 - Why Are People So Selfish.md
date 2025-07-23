@@ -111,4 +111,7 @@ How have rulers trained conquered people not to have the personal strength to st
 
 To explore deep spiritual training, join me in _Chapter 8: Why Is Shame So Common?_
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice When You Hold Back out of Fear</div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, or getting punished at school or work. To cultivate your strength so you can stand for what's right, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, could you find the bravery in yourself to show up differently in the future?</div></div>
+
 <div style="break-after:page"></div>

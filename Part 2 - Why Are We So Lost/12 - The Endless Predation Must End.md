@@ -112,6 +112,8 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Gratitude_: When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to not feel deep gratitude for the gifts of life.
 
+* _Human connection_: When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have deep, trusting, meaningful connections with many other people.**
+
 * _Pleasure_: Many people who are deprived of abundant loving touch in childhood may feel displeasure, dissatisfaction or disconnection as a normal, baseline experience of life and struggle to feel deep pleasure. And many religions discourage deep pleasure.
 
 * _Nature Connection_: Profit economies force people to seek money to survive, rather than build a mutually enriching relationship with the Earth.
@@ -120,9 +122,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Dignity_: Authoritarian religions train people to feel shame, disconnection from the divinity of life around and within us, belief in inherent badness or selfishness, displeasure, low self-worth, and other negative qualities.
 
-* _Deep Awareness_: Unhealthy cultures often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. People lulled into lazy or rigid thinking are easy to manipulate, so deep awareness is rare.
-
-* _Trust_: Since low-integrity and selfishness are so widespread in unhealthy cultures, many people can easily learn not to trust their neighbors.
+* _Deep Awareness_: Unhealthy cultures often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. People who get lulled into lazy or rigid thinking are easy to manipulate, so deep awareness is rare.
 
 This shows why no one is inherently bad, selfish or hateful. Deep childhood wounds, commonly reinforced in adulthood, can train people to cultivate very hurtful attitudes. But hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be taught.
 

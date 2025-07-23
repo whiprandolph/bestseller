@@ -56,7 +56,7 @@ And what are the results of these hurtful religions and ideologies? Unhealthy cu
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every culture. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammad, and I am free to leave the hurtful or unhelpful aspects of these religions behind.
 
-### Authorities Kill or Imprison Our Spiritual Leaders
+### Authorities Attack or Kill Our Spiritual Leaders**
 
 When authorities outlaw the path to freedom, and people forget what it's like to take deep responsibility for each other and the Earth, they can easily become isolated and spiritually lost, focusing on making money or clinging to whatever comfort and safety they can find.
 
@@ -66,7 +66,7 @@ Jesus Christ was called a "messiah" (which simply means "savior" or "liberator")
 
 Martin Luther King Jr worked to end racial oppression and imperialism in the United States in the 1950s and 1960s, and like Jesus Christ, he carried on his work fully aware that he would be killed for it. And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.
 
-In unhealthy cultures, _authorities consistently kill or imprison our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
+In unhealthy cultures, _authorities consistently attack or kill our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
 Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo mentioned Martin Luther King Jr as a possible messiah.**
 

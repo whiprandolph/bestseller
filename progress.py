@@ -1,6 +1,7 @@
 chapters = {
   "Part 0 - Introduction": [
     (1, 1, "Words of Gratitude.md"),
+    (1, 1, "Revolutionary Activities - Because This is Not a Theoretical Book.md"),
   ],
   "Part 1 - This Is Who We Really Are": [
     (1, 1, "Part Introduction.md"),
@@ -8,7 +9,7 @@ chapters = {
     (1, 1, "Healthy Cultures Have Existed for Millions of Years.md"),
     (1, 1, "Healthy Cultures Share Three Core Spiritual Practices.md"),
     (1, 1, "Imagine If Pervasive Generosity Was Normal.md"),
-    (1, 1, "Why Doesn't Everybody Live in a Beautiful Way.md"),
+    (1, 1, "Why Doesn't Everybody Live in This Beautiful Way.md"),
   ],
   "Part 2 - Why Are We So Lost": [
     (1, 1, "Part Introduction.md"),

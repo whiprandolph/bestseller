@@ -62,7 +62,7 @@ Jeannette Armstrong's description of Okanagan decision-making shows how beautifu
 
 I started life bright and hopeful, thinking that things in the United States weren't so bad, and troubles with corruption, crime and pollution could be fixed. But then I kept reading about endless corruption, and I didn't see a way out. Every political party seemed to be more part of the problem than part of a solution. Politicians kept getting corrupted after they were elected, and incorruptible politicians were killed. And the more I studied, the more I realized it had always been this way throughout America's history. 
 
-I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy culture, from Peru to North Korea to Russia to the USA.
+I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy culture, from Peru to North Korea to Russia, similar to the USA.
 
 Over time I got jaded -- it seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories showed me that these hurtful troubles aren't inevitable. They showed me that it really is possible to live in a beautiful way with other people -- not just within a nuclear family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
 
@@ -79,5 +79,8 @@ But we don't need to speculate about how to deal with our biggest political prob
 Stories of healthy cultures gave me a _standard of comparison:_ once I studied common ways of life of healthy cultures, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy culture more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
 
 But first, I had to answer a big question: why doesn't everybody live in healthy cultures now? To find out, join me in _Chapter 5: Why Doesn't Everybody Live in a Beautiful Way?_
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or Create a Sharing Group</div>
+<div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>
 
 <div style="break-after:page"></div>
