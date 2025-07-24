@@ -4,7 +4,6 @@ import pdb
 import time
 import beepy
 import shutil
-import progress
 import markdown2
 import subprocess
 

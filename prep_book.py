@@ -127,7 +127,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 24, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 25, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
       body = process_chapter(file_name)

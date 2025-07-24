@@ -86,7 +86,7 @@ The next chapter explores how the Ashaninka are not the exception. _They are the
 
 Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy cultures show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a Whole Nation where People Cared about Each Other</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other**</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
 <div style="break-after:page"></div>

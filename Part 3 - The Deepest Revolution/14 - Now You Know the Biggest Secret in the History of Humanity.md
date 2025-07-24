@@ -1,4 +1,4 @@
-## Chapter 13: Now You Know the Biggest Secret in the History of Humanity
+## Chapter 14: Now You Know the Biggest Secret in the History of Humanity
 
 Ruling classes consistently train people not to know that healthy cultures exist. In other words, for thousands of years, wage slaves, chattel slaves, and other slaves have been kept ignorant of the existence of free nations, or they've been trained to misunderstand them. That makes the existance of healthy cultures the biggest secret in the history of humanity, kept by ruling classes for millennia all around the world.
 
@@ -94,6 +94,5 @@ She was unable to find other people to share her concerns with, and speak her he
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take anti-depressants, which allowed her to numb the feeling of dissatisfaction without responding to it. And she stopped asking such deep questions about politics.
 
 Plenty of people who feel trapped and unable to respond to their fears cope by numbing their feelings with endless distractions, whether through screen addiction, drugs, overworking, or other ways. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction.
-
 
 <div style="break-after:page"></div>

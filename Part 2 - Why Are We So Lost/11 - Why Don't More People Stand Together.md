@@ -1,4 +1,4 @@
-## Chapter 10: Why Don't People Stand Together?
+## Chapter 11: Why Don't More People Stand Together?
 
 A human culture is a living organism. And just like a tree or lion or ant colony, a human culture can become injured.
 
@@ -8,7 +8,7 @@ Like all living organisms, injured human cultures try to heal themselves. Health
 
 Human cultures become unhealthy when they are blocked from healing by rich and powerful people who benefit from disrespecting their neighbors. These people selfishly resist returning to that respectful baseline that humans find so fundamentally satisfying.**
 
-Rulers and other authorities in positions of power would clearly lose their current ability to dominate and exploit everyone else if their unhealthy culture were to change. Thus they use their wealth and power to to make sure the unhealthy culture and all its deep disrespect continue.**
+Rulers and other authorities in positions of power would clearly lose their current ability to dominate and exploit everyone else if their unhealthy culture were to change. Thus they use their wealth and power to make sure the unhealthy culture and all its deep disrespect continue.**
 
 What are common ways that rulers and lower authorities prevent cultural healing, blocking people from standing together in solidarity to collectively stop injustices? And what can people do to intentionally generate a culture that maximizes solidarity and encourages deep respect for all?**
 
@@ -18,7 +18,7 @@ Authorities and wealthy people sabotage solidarity in countless ways.
 
 ### Attacking our Spiritual Leaders**
 
-A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth, help them reconnect with the Earth, remind them that they have a proud ancestry, and coordinate efforts to stand in solidarity to confront injustices. The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.**
+A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, remind them that they have a proud ancestry, and coordinate efforts to stand in solidarity to confront injustices. The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.**
 
 Unfortunately, authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy culture.**
 
@@ -74,6 +74,9 @@ Creating and controlling astroturf social movements is common in unhealthy cultu
 
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>What founding principles would maintain a healthy culture?**</div>
+<div class="rev-act-body">What principles or rules could people embrace to create a healthy culture? Create a list of founding principles or rules that, if everyone upheld them, you believe would maintain a healthy culture without corruption or selfishness. After finishing your list, compare it with the Haudenosaunee's list later in this chapter.</div></div>
+
 ### A Case Study in Founding a Healthy Culture: The Haudenosaunee
 
 Many people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it would take to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
@@ -84,30 +87,28 @@ Long ago, several nations in eastern North America were sufferinging in seemingl
 
 In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
 
-It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe six elements have many lessons to teach. 
+It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe these elements have many lessons to teach: 
 
 1. _Solidarity_: As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.
 
-    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society full of individuals who accepted responsibility for upholding rules that worked for everybody.
+    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society of individuals who accepted responsibility for upholding rules that worked for everybody.
 
-2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts, and created a Grand Council that helped resolve disputes, among other functions.
-
-    Instead of seeking peace at all costs, the founders sought to create a just society, from which peace would naturally follow.
+2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.
 
 3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account, embracing strict laws of conservation and carefully avoiding degrading the land. 
 
     As a result, the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."**
 
-4. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."**
+4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."**
 
-5. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
+5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."**
 
-6. _Leaders Serve the People_: They specifically avoided factions, and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.
+6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
 
-The Haudenosaunee recognized that a culture that accepted private property ownership would eventually have leaders that exclude people from accessing others' property. These leaders would no longer perform their duties of serving everyone and helping to redistribute goods. This shows how a gift economy, servant-leadership, and a culture of respect all fit together.
+7. _Leaders Serve the People_: They specifically avoided factions, and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
 
-In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 11: Selfish Violence vs Violence-In-Service_.
+In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 12: Selfish Violence vs Violence-In-Service_.
 
 <div style="break-after:page"></div>

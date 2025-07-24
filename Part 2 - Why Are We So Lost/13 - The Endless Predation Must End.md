@@ -1,4 +1,4 @@
-## Chapter 12: The Endless Predation Must End
+## Chapter 13: The Endless Predation Must End
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.
 

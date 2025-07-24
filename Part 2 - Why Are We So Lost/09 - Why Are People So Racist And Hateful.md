@@ -96,6 +96,9 @@ This isn't the only dynamic that leads to racism and hate in unhealthy cultures,
 
 When people are trapped with selfish and unaccountable leaders, the results are always tragic. What would it take for a group of people to select the most selfless and honest leaders instead?
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Protect yourself from adopting racist or hateful beliefs**</div>
+<div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you knew someone from that country or ethnicity that you admired, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from that country or group that you can admire or learn from. If you live in the United States, I suggest finding someone from Russia, Iran or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer in a Soviet submarine. During a tense standoff with the US in 1962, two other senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out. All 3 top senior officers had to agree in order to fire the weapons, but Arkhipov did not bow to pressure and refused to agree to launch nuclear weapons. His integrity under pressure prevented global nuclear war and saved the lives of countless people.<br/><br/>Finding a person to learn from does not mean you need to support any of these countries' governments. But if you're ever tempted to feel racism or hatred towards a whole country or group, the story you find will remind you that they're just people too, stuck in an unhealthy culture like you.</div></div>
+
 ### Healthy Cultures Choose Leaders Who Serve the People
 
 Selfish rulers who encourage divisive racism and hate contrast vividly with generous servant-leaders of healthy cultures. What is it about healthy cultures that allows them to have selfless, generous servant-leaders? 
@@ -124,6 +127,7 @@ One Nootka storyteller described the importance of "the mirror in the eyes of th
 
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
-What good deeds have you witnessed recently? And to whom could you share these happy stories?
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Spread good news to encourage good deeds**</div>
+<div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
 
 <div style="break-after:page"></div>

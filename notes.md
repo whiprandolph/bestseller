@@ -11,6 +11,10 @@
 * verify part/chapter formatting is correct in epub, esp preface material and post-material
 * vertical center the part names
 * Chapter number fixup: Scan for "Chapter" and verify all references are correct, including within a couple chapters
+* make sure there aren't any pages with just 2-5 lines. Word-craft as needed.
+
+"Many healthy cultures referenced in this book have not been able to maintain a traditional way of life since being conquered by unhealthy cultures in recent centuries. However, unlike people who've forgotten their healthy-culture ancestors, they still remember..."
+
 
 ### Early Reader Feedback
 

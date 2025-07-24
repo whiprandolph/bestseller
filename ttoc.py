@@ -4,6 +4,7 @@ import time
 import shutil
 import markdown2
 import subprocess
+import traceback
 from progress import chapters
 
 source_dir = r"C:\Users\whip\tdr"
@@ -34,7 +35,7 @@ def rev_act_count_fixup(md_path):
                 assert "<br/>" in line, line
                 assert "</div>" in line, line
                 act_count, rest_of_line = line.split(rev_act_html)[1].split("<br/>", 1)
-                assert len(act_count) == 1 or len(act_count) == 2, act_count
+                assert (len(act_count) == 1 or len(act_count) == 2) and act_count.isdigit(), "Bad rev-act count: %s in %s" % (act_count, os.path.basename(md_path))
                 reassembled_line = f"{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
                 line_list.append(reassembled_line)
                 REV_ACT_COUNTER += 1
@@ -174,5 +175,7 @@ if __name__ == '__main__':
         main()
     except Exception as exc:
         print("Error: %s" % exc)
+        traceback.print_exc()
         breakpoint()
+        a = 0
     print("%ss" % round(time.time()-start_time, 2))

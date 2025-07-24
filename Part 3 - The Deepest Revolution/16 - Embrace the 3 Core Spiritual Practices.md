@@ -1,4 +1,4 @@
-## Chapter 14: Embrace the 3 Core Spiritual Practices
+## Chapter 16: Embrace the 3 Core Spiritual Practices
 
 ### 1st
 

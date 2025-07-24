@@ -124,7 +124,7 @@ All these stories showed me that the beauty of the Ashaninka isn't unique. Every
 
 Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did You Know?</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?**</div>
 <div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living were unrealistice? If so, what were some of your assumptions about people that you may now question?</div></div>
 
 <div style="break-after:page"></div>
