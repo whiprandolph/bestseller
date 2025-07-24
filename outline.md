@@ -46,14 +46,14 @@
 ## Chapter 14: The Deepest Revolution
 
 * pointing out deep confusion
-  * people fighting for freedom who end up with tyrrany instead
-  * christians who spread the word of "Jesus's" love and spread misery and tyrrany instead
+  * people fighting for freedom who end up with tyranny instead
+  * christians who spread the word of "Jesus's" love and spread misery and tyranny instead
 * Instead of fighting symptoms separately, work together
 * It's always been a hard time for revolution (ie poverty)
 * Ack unproductive conversations
   * If you're already not free, you can't get "less free"
   * Decolonizing is not enough
-  * Other flavors of tyrrany don't taste better
+  * Other flavors of tyranny don't taste better
   * Magical thinking doesn't work
 * The deepest revolution / people will figure it out
 

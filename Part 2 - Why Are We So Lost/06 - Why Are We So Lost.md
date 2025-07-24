@@ -1,6 +1,6 @@
 ## Chapter 6: Why Are We So Lost?
 
-Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society.
+Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society and seek justice.
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
@@ -46,7 +46,7 @@ In unhealthy cultures, where people are forbidden from holding their leaders acc
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right. _Your urge to "stand for what's right" is your natural urge to uphold the laws of your own culture_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support.
+Every single human feels a deep urge to stand up for what's right. _Your urge to "stand for what's right" is your natural urge to uphold the laws of your own culture and seek justice_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support.
 
 Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against abusive authorities.
 
@@ -54,7 +54,7 @@ In healthy cultures, standing for what's right in solidarity with neighbors is n
 
 This shows why so many people of unhealthy cultures are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to stand for what's right -- injustice and ineffective political movements become normalized.
 
-So long as people accept their own submissive obedience as legitimate, they will have endless political debates that ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrranical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.**
+So long as people accept their own submissive obedience as legitimate, they will have endless political debates that ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.**
 
 Can you imagine living in a culture where everyone accepts responsibility for standing up for what's right and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
 

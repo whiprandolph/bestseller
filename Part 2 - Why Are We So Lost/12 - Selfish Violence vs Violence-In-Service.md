@@ -52,7 +52,7 @@ The Zapatistas are a healthy culture in southern North America, many of whose me
 
 The Mexican military and the Zapatista military, known as the EZLN, clashed almost immediately in the Zapatistas' home region of Chiapas, Mexico in the south east. Official fighting continued until a ceasefire was called.
 
-However, this official ceasefire was not the end of the violence. The Mexican Ministry of Defense illegally organized paramilitary forces to attack the Zapatistas. People fired machine guns into Zapatista villages, cut off people's limbs, and many others were disappeared, executed, or displaced from their homes. Police and military attacked them with dozens of helicoptors and many thousands of soldiers.
+However, this official ceasefire was not the end of the violence. The Mexican Ministry of Defense illegally organized paramilitary forces to attack the Zapatistas. People fired machine guns into Zapatista villages, cut off people's limbs, and many others were disappeared, executed, or displaced from their homes. Police and military attacked them with dozens of helicopters and many thousands of soldiers.
 
 However, major Ana María said, "the Zapatista Army is very large and is everywhere." They persevered in solidarity with each other and the Earth.
 
