@@ -2,7 +2,7 @@
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.
 
-How can well-off, even middle-class people be prisoners?
+How can well-off, even middle- or upper-class people be prisoners?
 
 Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy cultures have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of standing up together for what's right, abuse and exploitation become the norm.
 
@@ -14,7 +14,7 @@ Many secular authority figures have also raped children, and few have faced any 
 
 An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.
 
-In the late 1980s in Omaha, Nebraska in the United States, a child sexual abuse operation was discovered based in the child foster care system. Investigators found child sexual abuse victims who named many powerful politicians as abusers, including regional judges, politicians, and business executives. Possibly the most powerful person named as an abuser was president George HW Bush, who also had been vice president and director of the CIA, making him one of the most powerful people in the world. Fifteen knowledgeable people died violent deaths during the investigation, and none of the many perpetrators faced justice.
+In the late 1980s in Omaha, Nebraska in the United States, a child sexual abuse operation was discovered based in the child foster care system. Investigators found child sexual abuse victims who named many powerful politicians as abusers, including regional judges, politicians, and business executives. National figures were involved too, including multiple American billionaires and a US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the many perpetrators faced justice.
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy cultures go on about their lives as if this rampant child abuse isn't still happening all around them.
 
@@ -46,7 +46,7 @@ The Nootka soon allied with neighboring groups and successfully killed all of th
 
 This taught me the importance of maintaining that internal baseline of mutual respect. Once a culture allows disrespect and tolerates selfish predators, there is no end to the trouble.
 
-### We Are Continually Being Reconquered
+### What Is It Like to be Conquered?
 
 Living in an unhealthy culture means being trapped with predators. The vast majority of people accept this as normal and inevitable, even if tragic. Living with predators is "just the way life is."
 
@@ -126,11 +126,13 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 This shows why no one is inherently bad, selfish or hateful. Deep childhood wounds, commonly reinforced in adulthood, can train people to cultivate very hurtful attitudes. But hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be taught.
 
+### We Are Continually Being Reconquered
+
 For millions of years, every child was trained for beautiful qualities, in part so they would have the strength to stand for what's right in solidarity with others. Only in recent times have people been trained otherwise.
 
 And what is the result? Endless predation!
 
-To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are imprisoned or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions encourage all the worst qualities. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
+To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions encourage all the worst qualities. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
 
 It is time to end the endless predation. This will require creating new healthy cultures. That is, we must create new nations where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_. You and the people around you can do this. What perspectives could help you succeed? Let us explore in _Part 3 - The Deepest Revolution_.
 

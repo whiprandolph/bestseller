@@ -16,7 +16,7 @@ What are common ways that rulers and lower authorities prevent cultural healing,
 
 Authorities and wealthy people sabotage solidarity in countless ways.
 
-### Attacking our Spiritual Leaders**
+#### Attacking our Spiritual Leaders**
 
 A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, remind them that they have a proud ancestry, and coordinate efforts to stand in solidarity to confront injustices. The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.**
 
@@ -46,7 +46,7 @@ The civil trial court ruled in favor of the Kings, agreeing that the evidence in
 
 Attacking and undermining individuals makes solidarity difficult, but authorities can also target activist groups and movements.
 
-### Attacking Groups
+#### Attacking Groups
 
 The Nazis worked diligently to scare Germans into submission in the 1930s. Bruce Bettelheim described how a group of activist lawyers objected to various Nazi policies, and so the German police arrested all their leaders.
 
@@ -58,7 +58,7 @@ The Tsarist Russian secret police provide more examples of police infiltration. 
 
 These techniques are all devious, but they're still far from ideal for authorities. Ideally activists would never start their own activist groups, but join government-sponsored organizations where they can be most easily surveilled and controlled.
 
-### Astroturf Social Movements
+#### Astroturf Social Movements
 
 Authorities may also start their own _astroturf social movements_. In this pattern, activists think that they are joining a real political movement, but the organization is secretly controlled by authorities from its start. Activists can invest huge amounts of time and energy into a movement which is being continuously undermined by its own leaders -- effectively ensuring that deep social change never occurs.
 
@@ -66,7 +66,7 @@ Secret police in Tsarist Russia secretly started trade unions that acted as if t
 
 A similar pattern is playing out in the United States with the Black Lives Matter movement. In 2024, the "impact" page on blacklivesmatter.com proclaimed "We are building an institution to fight white supremacy." The "about us" page on m4bl.org (Movement for Black Lives) stated "We are anti-capitalist." Yet the movement is heavily funded by some of the wealthiest white capitalists on the planet, including the people behind the Ford Foundation who have donated more than $840,000,000 to Black Lives Matter-related organizations since 2011.
 
-The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency, which requested its help doing psychological warfare operations in Asia. Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich white donors to Black Lives Matter-related groups include Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).
+The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency, which requested its help doing psychological warfare operations in Asia. Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).
 
 Black Lives Matter organizers proclaim they are anti-white supremacy and anti-capitalist. But do you think that a movement so heavily funded by rich white capitalists will threaten the power of rich white capitalists?
 
@@ -85,7 +85,7 @@ Fortunately, I have found two helpful case studies from people who have successf
 
 Long ago, several nations in eastern North America were sufferinging in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy culture for over 900 years.
 
-In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth.
+In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth for over nine centuries.
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe these elements have many lessons to teach: 
 

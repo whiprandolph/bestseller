@@ -14,7 +14,7 @@ Sitting there each day, I wondered, for example, why a bird would constantly loo
 
 I continually practiced feeling into the experiences of other living beings. I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me up in an instant. If I were a songbird, I would probably eat carefully too!**
 
-Eventually, I learned that plants and animals could help me notice parts of the landscape I couldn't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not be able to see rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
+Eventually I learned something really cool: plants and animals can help me notice parts of the landscape I can't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not notice rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
 
 The first of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
 
@@ -30,7 +30,7 @@ The more I cultivated careful awareness, the more deeply I could see. For exampl
 
 When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it.
 
-As I became more empathetic and observant, I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust everyone, but I take care to notice what lessons I can learn from others.
+As I became more empathetic and observant, I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. Their awareness became an extension of my awareness. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust everyone, but I take care to notice what lessons I can learn from others.
 
 Ultimately, I can only know my own experience, but this doesn't have to limit me when I cultivate deep awareness. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's point of view, but I can at least understand their perspective which helps me understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 

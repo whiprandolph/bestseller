@@ -24,7 +24,7 @@ chapters = {
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
-    (1, 1, "Now You Know the Biggest Secret in the History of Humanity.md"),
+    (1, 1, "The Biggest Secret in Human History.md"),
     (1, 1, "Cultivate Integrity and Bravery.md"),
     (1, 1, "Embrace the 3 Core Spiritual Practices.md"),
     (1, 1, "The Deepest Revolution.md"),

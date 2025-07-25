@@ -69,9 +69,11 @@ In other words, a brave person "does what's right" or "does the right thing" no 
 
 * Standing up for one's self and others is the ultimate act of self-respect. The fact that so many people tolerate so much abuse indicates how little self-respect there is in unhealthy cultures. 
 
+Awareness, integrity, bravery -- these are skills that can be practiced.
+
+
 #### Decide What's Worth Dying For
 
 You're going to die. The question is what's worth dying for, what's worth risking your life for, and what's not? 
-
 
 <div style="break-after:page"></div>
