@@ -1,3 +1,20 @@
+### Notes - Cindy call 7.26.25
+
+* internal vs external freedom
+* we don't have that external freedom. People who do call us all slaves.
+* you may have internal freedom, where you give your deepest love in each moment. But most also don't have internal freedom, where we learn to hold ourselves back, or just focus on ourselves and not think about others, or ignore injustice. 
+* have choices, but not choices that matter
+* repeat definition of freedom throughout part 1 and part 2
+* despite external troubles, we can have internal freedom and courage to do what's right, and work with others to eventually build a society with that external freedom
+* becomes strand throughout - 
+
+
+* even if you're wealthy you're insecure - you know if you lose your wealth, no one will give a shit about you. 
+* everyone is insecure - even rich. Because if you lose it, you're f'd.
+* not just insecure about people not having your back, you're insecure about all the ways you could lose it.
+
+* internal freedom to give our deepest love, and external freedom to do it in a society that welcomes it
+
 ### Final Formatting Reminders
 * make sure chap 4 images, captions, and lead-ins are all on the same page
 * make sure all _ and * and ** become bold/underlined

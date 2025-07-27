@@ -52,6 +52,8 @@ The financial desperation that powers most market economies also compels poor pe
 
 Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
 
+Widespread financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job just to survive.**
+
 Of course, rulers may not need to force bankers, politicians, and individual bosses to all play their part. All they need to do is create an economy that systematically rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, playing their part in maintaining their profit economy.
 
 ### Command Economies: When Your Master Chooses You
@@ -107,9 +109,7 @@ In cultures that forbid people from standing for what's right and upholding thei
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for what's right, and nobody rules over anybody else.
 
-How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
-
-To explore deep spiritual training, join me in _Chapter 8: Why Is Shame So Common?_
+Selfishness and corruption are the same thing, and corruption is pervasive in every unhealthy culture. How come so few people stand in solidarity to confront the corruption and injustice in their unhealthy culture? To find out join me in _Chapter 8: Why Don't More People Stand Together?_ 
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear**</div>
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your strength so you can stand for what's right, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>

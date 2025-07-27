@@ -18,6 +18,19 @@ In the late 1980s in Omaha, Nebraska in the United States, a child sexual abuse 
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy cultures go on about their lives as if this rampant child abuse isn't still happening all around them.
 
+
+
+
+How much child abuse is happening in your region right now? Do you even know? If you found out, and decided to personally intervene to stop the abuse, what would happen? That's right -- you would be punished, because only the police are allowed to enforce the law, and you're punished for standing for what's right and upholding the law you live by.
+
+You would be punished if you intervened to stop this child abuse, just like you'd be punished for intervening to stop factory pollution, or prevent an unjust war, or confront a corrupt judge and free unjustly imprisoned people.
+
+Just like all of your neighbors, you are punished for standing for what's right and upholding your own laws, and this is the result: endless predation, with the worst predators having the most wealth and power.
+
+
+
+
+
 Other kinds of predation are common, with different kinds more or less common in different unhealthy cultures. 
 
 Even soldiers are not safe from predatory behavior. Decades after scientists had established the harmful effects of nuclear radiation, the Soviet Union, United States, France, and Great Britain all knowingly exposed their soldiers to radiation without their consent. Reports from all these countries show that soldiers were expected to remain silent, even as they were left to face terrible injuries, and even as their children were born with deformities that were clearly traceable to radiation poisoning. Soldiers widely understood the risks as well. One French soldier said, "we knew these things," but authorities demanded that soldiers "obey and shut up."
@@ -74,7 +87,7 @@ Mistreatment of children has a profound effect on our politics, because people's
 
 The _True Americanism_ study interviewed 50 men, 25 who volunteered to fight in the Vietnam war and 25 who took a stand to end that war, even at great personal risk. In the large majority of war volunteers, the men had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."
 
-The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..." In other words, these men clearly had learned to ignore their own dignity and sense of right and wrong. They were not offering their sacred gifts. Instead of walking the most meaningful life imaginable, they were willing to be cogs in a machine they knew was corrupt. 
+The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..." In other words, these men clearly had learned to ignore their own dignity and sense of right and wrong. They were not offering their sacred gifts. Instead of walking the most meaningful life imaginable, they were willing to be cogs in a machine they knew was corrupt.
 
 In contrast, the war-resisters had the internal clarity and strength to oppose an unjust war even at great personal risk, with some going to prison for years. Growing up in respectful settings, they cultivated the self-respect to stand for what's right in adulthood. But the differences in these two groups of men go deeper still.
 

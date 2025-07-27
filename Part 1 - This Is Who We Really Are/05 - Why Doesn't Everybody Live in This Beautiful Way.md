@@ -30,17 +30,19 @@ In unhealthy human cultures, one person or a few people rule over everyone else.
 
 Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal_.**
 
-Every single culture where a person or group imposes law on the rest has these terrible troubles. But these troubles don't exists in societies where everyone stands for what's right, and everyone agrees on the rules they will live by.
+Every single culture where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" different in one unhealthy culture compared to another because they have different ethnicities. But they all have some kind of racism, where some groups are higher-privilege, and some are lower-privilege. And these troubles don't exists in societies where everyone stands for what's right, and everyone agrees on the rules they will live by.**
 
 That is very good news! It means there is a way to end all the most terrible troubles we face. There is a way to end discrimination, greed, pollution, and so many other problems. While not easy, our pathway to freedom is simple: work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.**
 
 Part 3 of this book will explore how you can work with others to create that beautiful way of life. It will require tremendous hard work, bravery and risk, and _it's worth it_.**
 
-But to understand why it's worth the risk, we must confront the tragic truth of how deeply sick all unhealthy cultures are. The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. We have to understand the trap we're in or else we'll never be able to free ourselves and build truly healthy cultures. And that means confronting the deepest patterns of manipulation that have kept people trapped for centuries or even millennia -- even in so-called "democracies."**
+But to understand why it's worth the risk, we must confront the tragic truth of how deeply sick all unhealthy cultures are. Anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption is also normalized in any unhealthy culture.**
+
+The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. We have to understand the trap we're in or else we'll never be able to free ourselves and build truly healthy cultures. And that means confronting the deepest patterns of manipulation that have kept people trapped for centuries or even millennia -- even in so-called "democracies."**
 
 Many people avoid watching the news or thinking too deeply because "why bother?" If you can't do anything about it, why worry? But the truth is that you can do something about it -- most people just haven't heard the perspectives and stories that offer a helpful path.**
 
-So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has.**
+The perspectives in part 2 may also seem very scary, and it is hard to face scary things alone. So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has.**
 
 To confront the deep sickness in every unhealthy culture, and find more beautiful stories too, join me in _Part 2 - Why Are We So Lost?_**
 

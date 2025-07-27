@@ -1,6 +1,4 @@
-## Chapter 17: The Deepest Revolution
-
-
+## Chapter 18: The Deepest Revolution
 
 * Until now, I have only included revolutionary activities that I have embraced in my life. But I have never worked with others to found a nation, so I do not know how everything that is required. But I know the work needs to be done even if I don't know all the steps. 
 
@@ -36,9 +34,12 @@ The most important step to addressing any concerns or fears you have is this: fi
 
 
 
+
 ### Accept Deep Responsibility -- Don't Fear It
 
 * Life and death decisions
+
+* Or perhaps you like your little role studying corruption in your area of interest, like toxins in food, politicians being bribed, revolving doors between government and business, or unfair criminal "justice" systems. 
 
 ### Dream Big and Take Risks
 

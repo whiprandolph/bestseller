@@ -1,4 +1,4 @@
-## Chapter 11: Why Don't More People Stand Together?
+## Chapter 8: Why Don't More People Stand Together?
 
 A human culture is a living organism. And just like a tree or lion or ant colony, a human culture can become injured.
 
@@ -18,9 +18,11 @@ Authorities and wealthy people sabotage solidarity in countless ways.
 
 #### Attacking our Spiritual Leaders**
 
-A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, remind them that they have a proud ancestry, and coordinate efforts to stand in solidarity to confront injustices. The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.**
+A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, remind them that they have a proud ancestry, and bring people together to confront injustices.
 
-Unfortunately, authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy culture.**
+The modern-day term for spiritual leader is "social activist." In other words, "social activists" or "spiritual leaders" are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.
+
+Authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy culture.**
 
 In the mid-1900s, East German police developed a practice called _Zersetzung_, meaning disintegration or decomposition. This police practice drove activists to mentally, emotionally, and socially disintegrate without any explicit use of force. The police arranged for various government bureaucracies to lose citizens' forms, take longer than usual to respond to citizens' inquiries or requests, or otherwise seriously frustrate the lives of activists. East German police would sabotage people's reputation. They fabricated and circulated love letters or evidence of illegal behavior among an activist's friends and family in order to sabotage relationships, and they often succeeded.
 
@@ -32,9 +34,9 @@ There are many other examples of this kind of bureaucratic assault, including re
 
 Authorities may also audit the taxes of activists to force them to waste huge amounts of time. In 2022, American Matt Taibbi was busily exposing documents showing how the US government pressured a social media company to censor content. Three weeks later, the US federal tax authority (IRS) opened an investigation of Taibbi. Fortunately, powerful politicians contacted the IRS on Taibbi's behalf, and the IRS agents decided Taibbi didn't owe any taxes after all.
 
-Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous examples include Jesus Christ and Martin Luther King Jr. Jesus Christ had consistently advocated breaking the law to feed and heal people who needed it, and he even attacked moneylenders for profiting in the Temple. He associated with many Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples. Finally he was arrested and nailed to a cross and left to die in public. It was normal for Roman authorities to publicly torture revolutionaries to death in order to scare everyone else into submission.
+Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous social activists include Jesus Christ and Martin Luther King Jr. Jesus Christ had consistently broke the law to feed and heal people who needed it, and he even attacked moneylenders for profiting in the Temple. He associated with many Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples. He kept serving his people in the deepest ways he could, knowing he would be killed for it. Finally the authorities arrested and nailed him to a cross and left him to die in public. It was normal for Roman authorities to publicly torture revolutionaries to death with crucifiction in order to scare everyone else into submission.
 
-The US government's killing of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States in the 1950s and 1960s to improve the treatment of black people. Over time, he also took a stand against imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy. 
+The death of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States to improve the treatment of black people in the 1950s and 1960s. Over time, he also took a stand against imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy. 
 
 On April 4, 1968, a sniper murdered Martin Luther King Jr. The government arrested and convicted James Earl Ray for this act, but a great deal of evidence indicated that someone else had actually killed Martin Luther King Jr.
 
@@ -66,7 +68,7 @@ Secret police in Tsarist Russia secretly started trade unions that acted as if t
 
 A similar pattern is playing out in the United States with the Black Lives Matter movement. In 2024, the "impact" page on blacklivesmatter.com proclaimed "We are building an institution to fight white supremacy." The "about us" page on m4bl.org (Movement for Black Lives) stated "We are anti-capitalist." Yet the movement is heavily funded by some of the wealthiest white capitalists on the planet, including the people behind the Ford Foundation who have donated more than $840,000,000 to Black Lives Matter-related organizations since 2011.
 
-The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency, which requested its help doing psychological warfare operations in Asia. Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).
+The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency (CIA), which requested its help doing psychological warfare operations in Asia. Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).
 
 Black Lives Matter organizers proclaim they are anti-white supremacy and anti-capitalist. But do you think that a movement so heavily funded by rich white capitalists will threaten the power of rich white capitalists?
 
@@ -74,16 +76,18 @@ Creating and controlling astroturf social movements is common in unhealthy cultu
 
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>What founding principles would maintain a healthy culture?**</div>
-<div class="rev-act-body">What principles or rules could people embrace to create a healthy culture? Create a list of founding principles or rules that, if everyone upheld them, you believe would maintain a healthy culture without corruption or selfishness. After finishing your list, compare it with the Haudenosaunee's list later in this chapter.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>What founding principles would maintain a healthy culture?**</div>
+<div class="rev-act-body">If you could work with other people to create a nation that chose true servant-leaders who actually serve the people, what principles or rules would you establish? Create a list of founding principles or rules that, if everyone upheld them, you believe would maintain a healthy culture that would choose leaders who encourage solidarity instead of sabotaging it. After finishing your list, compare it with the Haudenosaunee's list later in this chapter.</div></div>
 
-### A Case Study in Founding a Healthy Culture: The Haudenosaunee
+### A Case Study in Creating a Society that Chooses Generous Servant-Leaders: The Haudenosaunee
 
-Many people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it would take to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
+Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of being punished.
 
-Fortunately, I have found two helpful case studies from people who have successfully created healthy cultures. This chapter briefly describes the Haudenosaunee. For more insights, the book _One Disease One Cure_ covers the Haudenosaunee and Zapatistas in greater detail.
+This is not a fantasy, but the normal way people live in healthy cultures. The Haudenosaunee offer an example, where their traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people," and "when they don't perform, the will of the people will remove them." 
 
-Long ago, several nations in eastern North America were sufferinging in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy culture for over 900 years.
+What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? Fortunately, the Haudenosaunee offer an example.
+
+Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy culture for over 900 years.
 
 In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth for over nine centuries.
 
@@ -99,9 +103,11 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
     As a result, the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."**
 
-4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."**
+4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow." They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."**
 
-5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."**
+5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People." They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."**
+
+    Since the Haudenosaunee also avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.**
 
 6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers!
 
@@ -109,6 +115,10 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic", the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."
 
-In light of all this, is violence always bad? Or is there a deeper way to think about violence, and how it could be used responsibly for good? To explore, join me in _Chapter 12: Selfish Violence vs Violence-In-Service_.
+Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
+
+Unfortunately, many people do not even try to confront injustices in their unhealthy culture. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
+
+To explore deep spiritual training, join me in _Chapter 9: Why Is Shame So Common?_
 
 <div style="break-after:page"></div>

@@ -1,6 +1,6 @@
 ## Chapter 14: The Biggest Secret in Human History
 
-What do you think is the biggest secret in the history of humanity?
+What do you think is the biggest secret in human history?
 
 What secret has been kept from billions of people across every continent going back centuries or even millennia?
 
@@ -52,9 +52,9 @@ And anything that's been forgotten can be remembered again...
 
 Can you imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live?
 
-Can you imagine knowing that you can work with the people around you to take care of everybody's needs together, so you need not worry about health care, retirement, having enough to eat or having shelter?
+Imagine working with your neighbors to take care of everybody's needs together, so you need not worry about health care, retirement, having enough to eat or having shelter?
 
-And you wouldn't need to work an unsatisfying job to maybe have enough money to pay for these things!
+And you wouldn't need to work an unsatisfying job to maybe have enough money to pay for it all!
 
 Imagine seeing the Earth's gifts and people's gifts everywhere you look, and feeling a continuous state of joyful gratitude for all of life's blessings.
 
@@ -64,7 +64,7 @@ Imagine befriending animals like the deer and bear, trees like the chestnuts and
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
 
-_I didn't make these up. Every scene here came from a story or observation from an actual healthy culture. These don't need to be fantasies. You and other people could bring this vision to life._
+_I didn't make these up. Every scene here came from a story or observation from real people like you and me in an actual healthy culture. These don't need to be fantasies. You and other people could bring this vision to life._
 
 ### Will You Forget Your Vision?
 
@@ -82,12 +82,12 @@ Over time, she became more stressed, and she and her husband began speaking of d
 
 It can be easy to feel trapped and unable to respond to one's frustrations and fears, and many people cope by numbing their feelings with endless distractions, whether through screen addiction, focusing on superficial things, antidepressants, drug and alcohol abuse, studying religious dogma, overworking, and so on. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
 
-This showed me how easy it can be to forget, stop asking deep questions and stop believing deep change is possible. It also taught me the path to continually remembering and keeping a vision alive: _share your vision with other people_.
+This showed me how easy it can be to forget, to stop asking deep questions and stop believing deep change is possible. It also taught me the path to continually remembering and keeping a vision alive: _share your vision with other people_.
 
 So find people that you trust to speak your heart to, and whom you likewise listen to. When you can speak clearly with thoughtful, friendly people in private, they will help you remember that you are sane, and it's your unhealthy culture that is crazy!
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #16<br/>Find people with whom you can speak your heart**</div>
-<div class="rev-act-body">Even if you don't know how to respond to your feelings, having thoughtful, trustworthy people to speak your heart to can be extremely helpful. If you don't know anybody you trust this much, look for new friends. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
+<div class="rev-act-body">Even if you don't know how to respond to your feelings, it can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
 
 [Ending]
 

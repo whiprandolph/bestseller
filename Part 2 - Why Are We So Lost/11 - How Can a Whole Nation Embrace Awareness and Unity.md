@@ -1,4 +1,4 @@
-## Chapter 10: How Can a Whole Nation Embrace Awareness and Unity?
+## Chapter 11: How Can a Whole Nation Embrace Awareness and Unity?
 
 Imagine if you were an elder in a healthy culture. You're seated around a fire with some other wise old people, considering what you could do to generate a society where everyone cultivated a deep awareness of other people and the Earth, and everyone felt a deep unity and connection with each other. In such a society, there would be no room for divisive racism or ignorance.
 
@@ -66,7 +66,7 @@ Being in solidarity with life means being in solidarity with God. Being One with
 
 Racism and other kinds of discrimination do not have to exist. Whole nations are capable of incredible unity when they base their way of life on the three core spiritual practices.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Cultivate awareness and connection with the living world**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Cultivate awareness and connection with the living world**</div>
 <div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day for at least 45 minutes, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach from how they live their lives. Look for a nature connection mentor or program to help you on your path.</div></div>
 
 <div style="break-after:page"></div>

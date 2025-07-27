@@ -1,4 +1,4 @@
-## Chapter 8: Why Is Shame So Common?
+## Chapter 9: Why Is Shame So Common?
 
 If you were a king, and you wanted to train your subjects to obey you, what would you do? For starters, you would want to train your subjects to not stand up for what's right, and instead to passively accept your laws and how you choose to enforce them (or not).
 
@@ -56,7 +56,7 @@ And what are the results of these hurtful religions and ideologies? Unhealthy cu
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every culture. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammad, and I am free to leave the hurtful or unhelpful aspects of these religions behind. Many authorities insist that their religion or ideology is "all or nothing" -- you either believe everything, or you're cast out as an unbeliever. But that is simply bullying, pressuring people to adopt hurtful beliefs or attitudes just to stay in good standing in their community. Each of us has the power and the responsibility to choose which perspectives we embrace, and which ones we will not.**
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Choose what lessons you learn**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Choose what lessons you learn**</div>
 <div class="rev-act-body">You have the power to choose what perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.</div></div>
 
 ### Authorities Attack or Kill Our Spiritual Leaders**
@@ -65,15 +65,15 @@ When authorities outlaw the path to freedom, and people forget what it's like to
 
 Still, that innate human desire to be who we really are runs deep. Spiritual leaders commonly arise in every unhealthy culture to help people walk a good path again. Spiritual leaders like Jesus Christ, Martin Luther King Jr, and countless others have helped people share resources, trust their neighbors, release their shame, increase their self-worth, recognize false propaganda, understand their true history, and more.
 
-Jesus Christ was called a "messiah" (which simply means "savior" or "liberator") because the Jews wanted someone to save them. But save them from what? They wanted someone to save them from oppressive Roman rule. They wanted a revolutionary, and Jesus stood up and did his revolutionary work even knowing authorities would surely kill him for it. And they did.
+Jesus Christ was called a "messiah" (which simply means "savior" or "liberator") because the Jews wanted someone to save them. But save them from what? They wanted someone to save them from oppressive Roman rule. They wanted a revolutionary, and Jesus stood up and did his revolutionary work even knowing that authorities would surely kill him for it. And they did.
 
 Martin Luther King Jr worked to end racial oppression and imperialism in the United States in the 1950s and 1960s, and like Jesus Christ, he carried on his work fully aware that he would be killed for it. And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.
 
 In unhealthy cultures, _authorities consistently attack or kill our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
-Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo mentioned Martin Luther King Jr as a possible messiah.**
+Authorities and their police try to maintain order, and what could be more disruptive of the social order than someone who leads their people to freedom? Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s explicitly stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo even mentioned Martin Luther King Jr as a possible messiah.**
 
-Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually kill or imprison the wisest and bravest leaders among us.
+Countless people truly believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually attack or kill the wisest, bravest and most generous leaders among us.
 
 #### How Can Everyone Be Divine If Some People Act with Cruelty and Selfishness?
 
