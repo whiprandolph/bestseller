@@ -36,7 +36,7 @@ The following resources were either written by people of healthy cultures or wer
 
 * Akwesasne Notes, a Mohawk organization: _A Basic Call to Consciousness_, Haudenosaunee. In _The Deepest Revolution_, I refer to the authors as "Haudenosaunee writers" for simplicity because the Mohawk are a nation of the Haudensaunee Confederacy, and their book discusses the Haudenosaunee as a whole.
 
-For those who wish to pursue nature connection practices, I suggest Jon Young's audio guide _Advanced Bird Language_ and _Seeing Through Native Eyes_ as well as the nature connection program _Living Connection 1st_ at https://www.livingconnection1st.net/pages/nature-connection
+For those who wish to pursue nature connection practices, I suggest Jon Young's audio guides _Advanced Bird Language_ and _Seeing Through Native Eyes_ as well as the nature connection program _Living Connection 1st_ at https://www.livingconnection1st.net/pages/nature-connection
 
 May the wisdom of healthy cultures keep spreading and lead to many Deep Revolutions.
 

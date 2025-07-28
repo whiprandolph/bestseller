@@ -1,6 +1,7 @@
 chapters = {
   "Part 0 - Introduction": [
     (1, 1, "Words of Gratitude.md"),
+    (1, 1, "Important Notes on Sensitive Topics.md"),
     (1, 1, "Revolutionary Activities - Because This is Not a Theoretical Book.md"),
   ],
   "Part 1 - This Is Who We Really Are": [
@@ -29,11 +30,11 @@ chapters = {
     (1, 1, "Embrace the 3 Core Spiritual Practices.md"),
     (1, 1, "How Can a Whole Nation Embrace Freedom.md"),
     (1, 1, "The Deepest Revolution.md"),
-    # (1, 1, "part-3-outline.md"),
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "To Learn More.md"),
     (1, 1, "Bibliography.md"),
+    (1, 1, "Healing Practices.md"),
     (1, 1, "Copyright.md"),
   ],
 }

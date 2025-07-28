@@ -4,7 +4,7 @@ Sioux man Sitting Bull said, "The life of white men is slavery. They are prisone
 
 How can well-off, even middle- or upper-class people be prisoners?
 
-Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy cultures have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of standing up together for what's right, abuse and exploitation become the norm.
+Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy cultures have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of standing up together to seek justice, abuse and exploitation become the norm.
 
 Sadly, child sexual abuse runs rampant in these conditions, including by unaccountable religious, business and political authorities. For example, researchers in Germany, Ireland, the USA and Australia have found many thousands of child sexual abuse victims just from Catholic priests in each country. One investigation into Catholic abuses in France alone found over 216,000 child sexual assault victims between 1950-2020. Universally, higher Catholic Church authorities covered up or stalled investigations into the abusive priests.
 
@@ -14,32 +14,25 @@ Many secular authority figures have also raped children, and few have faced any 
 
 An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.
 
-In the late 1980s in Omaha, Nebraska in the United States, a child sexual abuse operation was discovered based in the child foster care system. Investigators found child sexual abuse victims who named many powerful politicians as abusers, including regional judges, politicians, and business executives. National figures were involved too, including multiple American billionaires and a US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the many perpetrators faced justice.
+How do you think the Portuguese people felt watching these legal proceedings carefully avoid the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
+
+Tragically, such disturbing troubles are simply common in unhealthy cultures that punish you for seeking justice. Thus similar stories can be found in the United States.
+
+In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found huge numbers of child sexual abuse victims who named many powerful people as abusers, including regional judges, politicians, and business executives. National figures were involved too, including multiple American billionaires and a US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the many perpetrators faced justice.
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy cultures go on about their lives as if this rampant child abuse isn't still happening all around them.
 
+How much child abuse is happening all around you right now, from authorities or just abusive parents? Do you even know? If you found out, and decided to personally intervene to stop the abuse, what would happen? That's right -- you would be punished, because only the police are allowed to enforce the law, and you're punished for standing for what's right and upholding the law you live by.**
 
+You would be punished if you intervened to stop this child abuse, just like you'd be punished for trying to free unjustly imprisoned people or stopping a genocide.**
 
+Just like all of your neighbors, you would be punished for standing for what's right, and since so many people accept this way of life as legitimate, this is the result: endless predation, with the worst predators having the most wealth and power.**
 
-How much child abuse is happening in your region right now? Do you even know? If you found out, and decided to personally intervene to stop the abuse, what would happen? That's right -- you would be punished, because only the police are allowed to enforce the law, and you're punished for standing for what's right and upholding the law you live by.
-
-You would be punished if you intervened to stop this child abuse, just like you'd be punished for intervening to stop factory pollution, or prevent an unjust war, or confront a corrupt judge and free unjustly imprisoned people.
-
-Just like all of your neighbors, you are punished for standing for what's right and upholding your own laws, and this is the result: endless predation, with the worst predators having the most wealth and power.
-
-
-
-
-
-Other kinds of predation are common, with different kinds more or less common in different unhealthy cultures. 
-
-Even soldiers are not safe from predatory behavior. Decades after scientists had established the harmful effects of nuclear radiation, the Soviet Union, United States, France, and Great Britain all knowingly exposed their soldiers to radiation without their consent. Reports from all these countries show that soldiers were expected to remain silent, even as they were left to face terrible injuries, and even as their children were born with deformities that were clearly traceable to radiation poisoning. Soldiers widely understood the risks as well. One French soldier said, "we knew these things," but authorities demanded that soldiers "obey and shut up."
-
-A staggering level of abusive and exploitative behavior always occurs when people allow themselves to be ruled and choose not to stand for what's right. All these disturbing troubles will continue till people can generate healthy cultures again, where everyone stands for what's right, and nobody rules over anybody else.
+A staggering level of abusive and exploitative behavior always occurs when people allow themselves to be ruled and choose not to stand for what's right. All these disturbing troubles will continue till you and the people around you can generate a healthy culture, where everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
 ### Healthy Cultures Don't Abuse Children
 
-Can you imagine a world without child sexual abuse? Not just a world with more women's self-defense classes (which I support), or stronger laws, or better ways of supporting victims. Can you imagine a world without _any_ child sexual abuse?
+Can you imagine a world without child sexual abuse? Not just a world with more women's self-defense classes, or stronger laws, or better ways of supporting victims. Can you imagine a world without _any_ child sexual abuse?
 
 This world is possible. Healthy cultures do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not." Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy cultures to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two Nootka girls of about 10 years old.
 
@@ -49,7 +42,7 @@ _"...The people had no way of understandin' what had happened. There'd never bee
 
 _The old woman examined both the babies, and it was as if the sure evidence of what she found shook the centrepost of all creation, and threatened the here and now as well as the past and future..."_
 
-This story was transformative for me. The Nootka lived without child sexual assault until they encountered an unhealthy culture. This taught me that it is possible to have zero child sexual assault when people can maintain a healthy culture.
+This story was transformative for me. The Nootka lived without child sexual assault until they encountered an unhealthy culture. This taught me that it is possible for a whole nation to have _zero_ child sexual assault.
 
 I knew child rape was bad, but why was it so bad that it would "[shake] the centrepost of all creation" and "[threaten] the here and now as well as the past and future?"
 
@@ -59,15 +52,15 @@ The Nootka soon allied with neighboring groups and successfully killed all of th
 
 This taught me the importance of maintaining that internal baseline of mutual respect. Once a culture allows disrespect and tolerates selfish predators, there is no end to the trouble.
 
-### What Is It Like to be Conquered?
+### What Is It Like to be Conquered? And What Does That Have to Do With Me?
 
 Living in an unhealthy culture means being trapped with predators. The vast majority of people accept this as normal and inevitable, even if tragic. Living with predators is "just the way life is."
 
 But all of us have ancestors who once lived in healthy cultures where everybody had dignity and stood for what's right as a normal way of life. This was the only way humans lived for millions of years. So what happened to cause so many people to tolerate abuse and predatory behavior? Why do so many people pretend things are fine when they're not, or blame poor people for problems caused by the rich, or accept living a meaningless life?
 
-Imagine, again, if you were a king and wanted to conquer free people and train them for submissive obedience. You could torture and kill disobedient adults to scare the rest into submission, but the adults all grew up with a basically respectful childhood so they carry a deep dignity and high self-worth. The adults know what it's like to have deep integrity and trust and to stand for what's right, even if it's not allowed. Even if you imposed a shaming, disconnecting, pro-obedience religion, few would accept it.
+Imagine, again, if you were a king and wanted to conquer free people and train them for submissive obedience. You could torture and kill disobedient adults to scare the rest into submission, but the adults all grew up with a basically respectful childhood so they carry a deep dignity and high self-worth. The adults know what it's like to have deep integrity and trust and to stand for a culture of mutual respect, even if it's not allowed. Even if you imposed a shaming, disconnecting, pro-obedience religion, few would accept it.
 
-But what if you could instill deep shame, low self-worth, and all manner of emotional dysfunction on people from a very young age so that they didn't have the emotional strength to stand for what's right in adulthood? And people who have been mistreated or deprived in childhood are likely to grow up and somehow mistreat their own children, knowingly or not. An endless cycle would begin where each generation trains the next to have strange emotional disturbances and feel shame, selfishness, low awareness, low self-worth, or other hurtful qualities.
+But what if you could instill deep shame, low self-worth, and all manner of emotional dysfunction on people from a very young age so that they didn't have the spiritual strength to stand for what's right in adulthood? And people who have been mistreated or deprived in childhood are likely to grow up and somehow mistreat their own children, knowingly or not. An endless cycle would begin where each generation trains the next to have strange emotional disturbances and feel shame, selfishness, low awareness, low self-worth, or other hurtful qualities.
 
 Unfortunately, many ruling classes have recognized this truth, and this explains why forcibly kidnapping and abusing children has often been a key element in conquering previously-free people. It also explains why ongoing, widespread child abuse and deprivation is essential to maintaining support for abusive rulers in unhealthy cultures across the centuries.
 
@@ -77,9 +70,11 @@ Lakota children experienced many years of abuse at the Carlisle Indian Industria
 
 At Catholic boarding schools, Nootka girls likewise learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."
 
-Countless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people are unable to stand in solidarity to stop their abuse.
+Countless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
 
 Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for drunkenness, shame, domestic violence, and other terrible troubles to take hold, proving again that humans didn't "evolve" to live in unhealthy cultures; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
+
+While every instance of conquering is unique, they are all similarly traumatic. That means, if you're like most people, your ancestors went through something just as traumatic as the Nootka and Lakota. The only difference is that your ancestors went through it centuries ago, or maybe millennia, and those stories stopped being passed down so that now you don't know them. Thus drunkenness, despair, domestic violence, and other widespread troubles can seem normal or "just how life is." But those ancient traumas that your ancestors experienced were never fully healed, and they still affect us today.**
 
 ### Child Abuse Profoundly Affects Our Politics Today
 
@@ -97,13 +92,13 @@ Interviewers found that most war-volunteers were unable to feel deeply, describi
 
 In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned deep lessons from women sexual partners, including how to relate to people, share, and enjoy life.
 
-Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden."
+Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel deeply -- they lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have deep insecurity and little or no empathy. Objectifying and putting down others is simply common behavior for deeply insecure, unfeeling people.**
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others consistently embrace superficiality and being a cog in a machine? And of course, child abuse or deprivation isn't all-or-nothing, with nearly everybody carrying at least some troubles from their childhood.
 
-The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep personal strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
+The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep spiritual strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
 
-This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself when needed. The question is whether or not people develop the integrity and deep relationships needed to stand for what's right. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
+This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself when needed. The question is whether or not people have the emotional capacity to have the integrity and deep relationships needed to stand for what's right. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
 Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are countless hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
 
@@ -141,7 +136,7 @@ This shows why no one is inherently bad, selfish or hateful. Deep childhood woun
 
 ### We Are Continually Being Reconquered
 
-For millions of years, every child was trained for beautiful qualities, in part so they would have the strength to stand for what's right in solidarity with others. Only in recent times have people been trained otherwise.
+For millions of years, every child was trained for beautiful qualities, in part so they would have the strength to stand for a culture of mutual respect in solidarity with others. Only in recent times have people been trained otherwise.
 
 And what is the result? Endless predation!
 

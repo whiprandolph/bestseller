@@ -12,7 +12,7 @@ I'm not talking about a weird cult or tiny communities of saints. I'm talking ab
 
 Does this sound like a fantasy? I thought so too, until I was blessed to live briefly in such a place, a nation of thousands of people living across many villages deep in the Amazon forests. 
 
-My short time with the Ashaninka in 2015 was utterly magical and changed my life. An Englishman named Mike had been visiting the Ashaninka yearly for 35 years and respected them deeply, and when he saw that I would respect them too, he invited me to join him. He told me, "you will spend the rest of your life figuring out lessons to learn from these people."**
+My short time with the Ashaninka in 2015 was utterly magical and changed my life. An Englishman named Mike had been visiting the Ashaninka yearly for 35 years and respected them deeply, and when he saw that I would respect them too, he invited me to join him. He told me, "you will spend the rest of your life figuring out lessons to learn from these people."
 
 ### Meet the Ashaninka
 
@@ -28,7 +28,7 @@ No boss was pushing her to do unsatisfying work just to eat and pay the bills. S
 
 Everywhere I looked, it was like a story too good to be true. Their kids were friendly and very capable. A little girl of 5 or 6 showed me how to spin cotton into yarn. She seemed like quite the expert. A boy of about 10 finished making an arrow as I watched, then invited me to target practice with his hand-made bow.
 
-These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. 
+These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. Everyone was free to protect themselves and each other from attack.
 
 Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader -- not because he had any special authority or power, or was richer than anyone else, was intimidating, or had powerful parents. He was a leader because that was how he served his neighbors.
 
@@ -58,7 +58,7 @@ I went grocery shopping, and found that almost everything for sale causes cancer
 
 Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of fraud, bribing government officials, manipulating research trials, misleading advertising, and more.
 
-The Ashaninka don't have corruption like this. What lessons could I possibly learn from them to make this nightmare end?
+The Ashaninka don't have corruption like this. What lessons could I possibly learn from them to help make this nightmare end?
 
 I drive past all the major banks every day -- the same banks that keep getting "caught" every few years laundering money for drug cartels and human trafficking organizations, or forging legal paperwork to defraud homeowners, cheating their own customers, or whatever the next scam-of-the-day is.
 
@@ -68,9 +68,11 @@ Almost all of America's drinking water is now toxic, with different regions havi
 
 Forests keep getting cleared to make way for strip malls and suburban lots, while scientists sound the alarm that loss of forests is a major driver of climate change and the mass extinction happening right now.
 
+Anyone who confronts injustices and tries to uphold the law is punished, because only the police are supposed to enforce the law. Unfortunately, the police have to follow orders and clearly they don't enforce the law consistently. As a result, no one is free to confront these terrible troubles.
+
 I find disturbing stories at home too. My black roommate recently said that some white men had yelled at her to go back to her own country, wherever that was supposed to be. Another friend tells me stories of sexism anytime she describes her job.
 
-These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, dishonest politicians, and more... well, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
+These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, and dishonest politicians... well, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
 
 What am I supposed to learn from the Ashaninka? How can they be humans like me and other Americans, and they live in such a beautiful way, while we don't?
 
@@ -78,19 +80,23 @@ Are the Ashaninka unique? Did they just get lucky, and Americans didn't? Are the
 
 It turns out, yes, there are more societies like the Ashaninka. Countless more!
 
-What I've learned is nothing short of revolutionary for those of us not living this way now.**
+What I've learned is nothing short of revolutionary for those of us not living this way now.
 
-Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation. Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.**
+Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them.
 
-In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy cultures themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy cultures, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. Many of these books reference more than one healthy culture.**
+Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation.
 
-While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observors. A full list of this book's major sources can be found in the _Bibliography_ section.**
+Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.
+
+In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy cultures themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy cultures, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. Many of these books reference more than one healthy culture.
+
+While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observers. A full list of this book's major sources can be found in the _Bibliography_ section.
 
 The next chapter explores how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
 
 Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy cultures show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
 <div style="break-after:page"></div>

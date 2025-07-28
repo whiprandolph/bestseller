@@ -127,7 +127,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 26, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
       body = process_chapter(file_name)
@@ -138,8 +138,8 @@ def main():
       
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
-  fixup_html(online_book_html_path) 
-  print("About to start PDF... (waiting?)")
+  fixup_html(online_book_html_path)
+  print("About to start PDF...")
   # phys book has bw images
   # online book has color images and for epub, front cover only
 
@@ -232,7 +232,7 @@ def cleanup():
   print("Cleaning up... (%s)" % time.ctime())
   for filename in os.listdir(book_final):
     path = os.path.join(book_final, filename)
-    if online_book_pdf_path != path and phys_book_pdf_path != path and book_epub_path != path:
+    if not (online_book_pdf_path in path) and online_book_pdf_path != path and phys_book_pdf_path != path and book_epub_path != path:
       if os.path.isdir(path):
         shutil.rmtree(path)
       else:

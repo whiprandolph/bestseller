@@ -193,7 +193,7 @@ For millennia, unhealthy cultures have been spreading, and they encourage and re
 
 But the truth remains: living in reciprocity with other people and the Earth is a sacred responsibility. Other sacred responsibilities enable that reciprocity: Cultivating deep awareness and gratitude for the gifts of life, each person cultivating their own sacred gifts and learning how to give their deepest love, learning the practical skills to meaningfully serve other people and the Earth, and more. I believe that embracing these responsibilities is essential for any group that wanted to create a new healthy culture.
 
-There is another sacred responsibility: cultivating the personal strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in _Chapter 13: Integrity and Bravery_.
+There is another sacred responsibility: cultivating the spiritual strength to stand for what's right, without any compensation, even at great personal risk. To explore how to cultivate this strength, join me in _Chapter 13: Integrity and Bravery_.
 
 <div style="break-after:page"></div>
 

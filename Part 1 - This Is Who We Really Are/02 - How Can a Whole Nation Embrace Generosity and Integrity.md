@@ -24,7 +24,7 @@ In the 1930s, when American dentist Weston Price visited many healthy cultures a
 
 Benjamin Franklin seemed equally surprised by healthy cultures he visited in eastern North America in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
 
-Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."**
+Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."
 
 In sharp contrast, the United States, France, and every other unhealthy culture around the world spend huge amounts of time, energy, and money trying to control crime with prisons and police -- and yet so much crime and political corruption continues.
 
@@ -78,7 +78,7 @@ American S.M. Barrett described having complete trust in Apache leader Geronimo,
 
 Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.
 
-I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- but also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, Canada, and more. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful cultures.
+I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- but also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, and Canada. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful cultures.
 
 And it's not just trustworthiness. I kept finding stories of incredible generosity -- not just occasionally, but as a normal way of life for whole nations.
 
@@ -124,7 +124,7 @@ All these stories showed me that the beauty of the Ashaninka isn't unique. Every
 
 Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?**</div>
-<div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living were unrealistice? If so, what were some of your assumptions about people that you may now question?</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
+<div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic If so, what were some of your assumptions about people that you may now question?</div></div>
 
 <div style="break-after:page"></div>

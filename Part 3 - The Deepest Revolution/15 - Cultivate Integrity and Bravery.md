@@ -5,6 +5,7 @@ Countless people have been trapped in unhealthy cultures for centuries or even m
 What do you think is the biggest trouble that keeps people trapped, generation after generation?
 
 
+Sioux man Ohiyesa said, "while Indians unqualifiedly say what they mean, the whites have a hundred ways of saying what they do not mean."
 
 
 
@@ -61,6 +62,9 @@ But the truth is that many people have struggled with despair and depression for
 4. *Decide:* Decide what lessons to learn from your mistakes. Why did you not show up with integrity? What could help you show up better next time?
 
 5. *Recommit:* Commit to living fully in integrity again.
+
+### Cultivate Integrity
+
 
 ### Cultivate Bravery
 
@@ -122,6 +126,8 @@ Awareness, integrity, bravery -- these are skills that can be practiced.
 #### Transitions Show that High Standards are Reasonable
 
 Prechtel in _Secrets of the Talking Jaguar_: "thugs, gangs, rape, murder, guns, drug addiction, and overpopulation" all set in within 5 years of being conquered by soldiers and "deculturated" by Christian missionaries. 
+
+
 
 #### Decide What's Worth Dying For
 

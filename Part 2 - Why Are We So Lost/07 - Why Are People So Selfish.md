@@ -50,9 +50,11 @@ Authorities may allow crime and drugs in the poor parts of town, have the police
 
 The financial desperation that powers most market economies also compels poor people to fight the wars of the rich. In unhealthy cultures around the world, plenty of people join the police or military as a way to escape poverty or dangerous neighborhoods.
 
-Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
+Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour, or for nothing at all. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
 
 Widespread financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job just to survive.**
+
+Insecurity is common at all levels of wealth. The poor have little money, and they may not know month to month how they will make ends meet. Even the rich feel insecure, knowing that their wealth is the only thing allowing them to live comfortably. With insecurity so widespread, is it any wonder so many people cling to whatever money they can get?**
 
 Of course, rulers may not need to force bankers, politicians, and individual bosses to all play their part. All they need to do is create an economy that systematically rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, playing their part in maintaining their profit economy.
 
@@ -75,23 +77,23 @@ I experienced a gift economy among the Ashaninka where sharing was clearly the n
 
 Nancy Basket, a woman of Cherokee descent, summarized the traditional Cherokee culture of sharing this way: "If we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot."
 
-Sioux man Ohiyesa described the Sioux culture of sharing when he wrote, "During the summer, when Nature is at her best, and provides abundantly for the [indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."
+Sioux man Ohiyesa described the Sioux culture of sharing when he wrote, "During the summer, when Nature is at her best, and provides abundantly for the [Indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."
 
-Amazingly, when people born into profit economies encounter people born into gift economies, they can each feel offended by the other! How is that possible?
+Amazingly, when people born into profit economies encounter people born into gift economies, they can each feel offended by the other. How is that possible?
 
 #### Gift Economies and Indian Givers
 
-One of my earliest childhood memories involves giving somebody a gift and noticing that they didn't use it. When I tried to take it back, I was called an "indian giver." I was told that to be a generous gift-giver, I was supposed to release all interest in what happens to my gift after I give it. I was told that the gift becomes someone else's property and therefore is no longer any of my business.
+One of my earliest childhood memories involves giving somebody a gift and noticing that they didn't use it. When I tried to take it back, I was called an "Indian giver." I was told that to be a generous gift-giver, I was supposed to release all interest in what happens to my gift after I give it. I was told that the gift becomes someone else's property and therefore is no longer any of my business.
 
-Not wanting the scorn I associated with being called an indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian cultures. I was amazed to learn that my early childhood self had the healthier attitude to gift-giving!
+Not wanting the scorn I associated with being called an Indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian cultures. I was amazed to learn that my early childhood self had the healthier attitude to gift-giving.
 
 All of life is simply divine beings giving their gifts. This is the recognition behind the first core spiritual practice of cultivating the practical, aware gratitude for the gifts of life. Chestnut trees give tasty chestnuts, stinging nettle plants heal joint pain, stars provide guidance, and the soil accepts us back and recycles us after we die. All these beings give divine gifts that make life possible and beautiful. No one makes them do this. Humans play their role by giving their own sacred gifts too -- the second core spiritual practice.
 
-In gift economies, people simply figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "indian giver" comes from: people of North American healthy cultures (known as indians) often gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "indian giving" as a violation of their private property rights.
+In gift economies, people simply figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy cultures (known as Indians) often gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
 
-Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us indian givers for that."
+Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."
 
-"Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an indian giver is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called indian giver exerts extra effort to retrieve the unused item and pass it along to someone else who needs it more.
+"Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an Indian giver is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and pass it along to someone else who needs it more.
 
 Due to this fundamental difference between caring for others and caring primarily for oneself, the contrast between these two economies is striking. Gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies!
 
@@ -105,13 +107,13 @@ Gift economies also have many practical benefits. They move resources from the h
 
 In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"
 
-In cultures that forbid people from standing for what's right and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy culture. Widespread selfishness is the result.
+In cultures that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy culture. Widespread selfishness is the result.
 
-But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for what's right, and nobody rules over anybody else.
+But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
 Selfishness and corruption are the same thing, and corruption is pervasive in every unhealthy culture. How come so few people stand in solidarity to confront the corruption and injustice in their unhealthy culture? To find out join me in _Chapter 8: Why Don't More People Stand Together?_ 
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear**</div>
-<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your strength so you can stand for what's right, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 
 <div style="break-after:page"></div>

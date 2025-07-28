@@ -16,9 +16,9 @@ Every healthy culture I've studied strongly promotes generosity (giving) and rec
 
 ### Generosity from Birth
 
-Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and so on, and at each feast the parents gave away as much as they could for the benefit of those who had little.
+Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and other accomplishments, and at each feast the parents gave away as much as they could for the benefit of those who had little.
 
-Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to be brave as he faced the consequences of his generosity. She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
+Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to _be brave as he faced the consequences of his generosity._ She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
 
 ### Generosity Towards All Life
 
@@ -48,7 +48,9 @@ How do healthy cultures maintain widespread generosity? Is it by chance? Are som
 
 Eventually I noticed that it's no accident: in every healthy culture I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-Robin Kimmerer described how the traditional Potawatomi noticed when people behaved selfishly and helped them feel comfortable sharing again. If someone refused to share, the Potawatomi first counseled them, and if they insisted on acting greedily, they then escalated to ostracizing and even banishing them.
+Even in healthy cultures, someone may occasionally not get along with others, or start to feel disconnected or untrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.**
+
+Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.
 
 Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to be in a culture with pervasive selfishness and greed? 
 
@@ -78,7 +80,7 @@ But we don't need to speculate about how to deal with our biggest political prob
 
 Stories of healthy cultures gave me a _standard of comparison:_ once I studied common ways of life of healthy cultures, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy culture more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
 
-But first, I had to answer a big question: why doesn't everybody live in healthy cultures now? To find out, join me in _Chapter 5: Why Doesn't Everybody Live in a Beautiful Way?_
+But first, I had to answer a big question: why doesn't everybody live in healthy cultures now? Find out in _Chapter 5: Why Doesn't Everybody Live in a Beautiful Way?_
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group**</div>
 <div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>

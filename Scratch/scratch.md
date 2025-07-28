@@ -20,7 +20,7 @@ Why might childbirth be easier for women in healthy cultures? Research shows tha
 
 * gift economy based on sharing
 
-* indian givers
+* Indian givers
 
 * Private Property Rights vs Sacred Responsibilities
 
@@ -62,17 +62,17 @@ What is it like when an entire society embraces a _gift economy_ where things ar
 
 ### Gift Economies and Indian Givers
 
-One of my earliest childhood memories involves giving somebody a gift and noticing that they didn't use it. When I tried to take it back, I was called an "indian giver." I was told that to be a generous gift-giver, I was supposed to release all interest in what happens to my gift after I give it. I was told that the gift becomes someone else's property and therefore is no longer any of my business.
+One of my earliest childhood memories involves giving somebody a gift and noticing that they didn't use it. When I tried to take it back, I was called an "Indian giver." I was told that to be a generous gift-giver, I was supposed to release all interest in what happens to my gift after I give it. I was told that the gift becomes someone else's property and therefore is no longer any of my business.
 
-Not wanting the scorn I associated with being called an indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian cultures. I was amazed to learn that my early childhood self had the healthier attitude to gift-giving!
+Not wanting the scorn I associated with being called an Indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian cultures. I was amazed to learn that my early childhood self had the healthier attitude to gift-giving!
 
 All of life is simply divine beings giving their gifts. This is the recognition behind the first core spiritual practice of cultivating the practical, aware gratitude for the gifts of life. Chestnut trees give tasty chestnuts, stinging nettle plants heal joint pain, stars provide guidance, and the soil accepts us back and recycles us after we die. All these beings give divine gifts that make life possible and beautiful. No one makes them do this. Humans play their role by giving their own sacred gifts too -- the second core spiritual practice.
 
-In gift economies, people simply figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "indian giver" comes from: people of North American healthy cultures (known as indians) often gave gifts to European colonists, noticed they weren't being used, and then asked for them back so the gifts could be given elsewhere. European colonists, who were used to private property ownership where giving a gift gave another person the right to do whatever they want with it, thus saw "indian giving" as a violation of their private property rights.[xxx-braiding sweetgrass|the gift of strawberries]
+In gift economies, people simply figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy cultures (known as indians) often gave gifts to European colonists, noticed they weren't being used, and then asked for them back so the gifts could be given elsewhere. European colonists, who were used to private property ownership where giving a gift gave another person the right to do whatever they want with it, thus saw "indian giving" as a violation of their private property rights.[xxx-braiding sweetgrass|the gift of strawberries]
 
 Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
 
-"Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an "indian giver" is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called indian giver exerts extra effort to retrieve the unused gift and pass it along to someone else who needs it more.
+"Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an "Indian giver" is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused gift and pass it along to someone else who needs it more.
 
 Due to this fundamental difference between caring for others and caring primarily for oneself, the contrast between these two economies is striking. Gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
 

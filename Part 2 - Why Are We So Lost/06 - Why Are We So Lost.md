@@ -1,6 +1,6 @@
 ## Chapter 6: Why Are We So Lost?
 
-Everybody is born with a sense of dignity, meaning that we each have a natural impulse to _stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society and seek justice.
+Everybody is born with a sense of dignity, meaning that we each have a _natural impulse to stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society and seek justice.
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
@@ -42,28 +42,30 @@ I was taught growing up that the police's job is to keep people safe and enforce
 
 And who are the police protecting the rich and powerful from? Of course, they are protecting the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy cultures. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
 
+This is what it means to live in an unfree, unhealthy culture: people are threatened and punished for seeking justice for themselves and their neighbors.**
+
 In unhealthy cultures, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption and crime?
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right. _Your urge to "stand for what's right" is your natural urge to uphold the laws of your own culture and seek justice_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support.
+Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own culture and seek justice_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.**
 
-Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to stand for what's right against abusive authorities.
+Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice.
 
-In healthy cultures, standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the courage to consistently uphold their laws with integrity.
+In healthy cultures, standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
 
-This shows why so many people of unhealthy cultures are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to stand for what's right -- injustice and ineffective political movements become normalized.
+This shows why so many people of unhealthy cultures are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- injustice and ineffective political movements become normalized.
 
 So long as people accept their own submissive obedience as legitimate, they will have endless political debates that ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.**
 
-Can you imagine living in a culture where everyone accepts responsibility for standing up for what's right and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
+Can you imagine living in a culture where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Practice standing for what's right**</div>
-<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and practice taking a stand to address the disrespect.</div></div>
+<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
 
 ### The Nootka Stand in Solidarity
 
-In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands for what's right together.**
+In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.**
 
 In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.
 
@@ -71,7 +73,7 @@ These "mirror" people were like magazine opinion writers who commented on all so
 
 If a person were vain about their clothes, a mirror might follow behind them wearing tattered rags and their hair would be like a bird's nest full of mud and sticks, all looking similar to the vain person. If a person had a bad temper, a mirror might follow and have fits, hitting the sand with a rock or insulting birds and generally looking foolish. If a person became self-important, the mirror might follow along babbling like a baby, "until you finally heard what an ass you were bein'." And if a mirror started being mean or pushy, a second mirror might follow along and let the first one see how they were showing up.
 
-The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how silly it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."
+The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how ridiculous it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."
 
 Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.
 
@@ -89,7 +91,7 @@ The mirror first encouraged empathy, asking people to imagine how a stranger mig
 
 I feel impressed that this woman calmly but clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story showed me that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
 
-This story showed me what it's like when everyone in a culture upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone upheld them.
+This story showed me what it's like when everyone in a culture upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone had the spiritual strength to uphold them.
 
 And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.
 
@@ -100,6 +102,6 @@ And this solidarity was not a one-off event. It was a way of life. The clown wal
 
 A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
 
-Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? To find out, join me in _Chapter 7: Why Are People So Selfish?_
+Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? Explore these different ways of life in _Chapter 7: Why Are People So Selfish?_
 
 <div style="break-after:page"></div>

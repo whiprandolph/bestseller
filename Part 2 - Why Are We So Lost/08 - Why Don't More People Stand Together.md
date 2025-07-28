@@ -64,20 +64,50 @@ These techniques are all devious, but they're still far from ideal for authoriti
 
 Authorities may also start their own _astroturf social movements_. In this pattern, activists think that they are joining a real political movement, but the organization is secretly controlled by authorities from its start. Activists can invest huge amounts of time and energy into a movement which is being continuously undermined by its own leaders -- effectively ensuring that deep social change never occurs.
 
-Secret police in Tsarist Russia secretly started trade unions that acted as if they were independent. Many thousands of workers joined, excited to be part of a movement for better wages, better working conditions, and more. S. V. Zubatov, one secret police chief, had the "movement leaders" host pro-monarchy classes. The union would pretend to negotiate with factory owners about wage increases, while the real wage negotiations were happening between the factory owners and the police chief. 
+Secret police in Tsarist Russia secretly started trade unions that acted as if they were independent. Many thousands of workers joined, excited to be part of a movement for better wages, better working conditions, and more. S. V. Zubatov, a secret police chief, had the "movement leaders" host pro-monarchy classes so that workers would think of the Russia monarch as supportive and wise rather than selfish. The union would pretend to negotiate with factory owners about wage increases, while the real wage negotiations were happening between the factory owners and the police chief.
+
+Tens of thousands of workers joined Russian labor unions secretly controlled by the police, thinkng they were all coming together to seek meaningful change. The workers legitimately wanted that change and worked hard for it, not knowing that the leadership was directing their energy in a way that prevented real transformative change.
+
+How would you feel if you spent hundreds of hours supporting such a labor movement, tired of the poor wages, long hours, and dangerous work environments, only to discover later that the "movement" was being manipulated by the most powerful people in your society to prevent meaninful change?
 
 A similar pattern is playing out in the United States with the Black Lives Matter movement. In 2024, the "impact" page on blacklivesmatter.com proclaimed "We are building an institution to fight white supremacy." The "about us" page on m4bl.org (Movement for Black Lives) stated "We are anti-capitalist." Yet the movement is heavily funded by some of the wealthiest white capitalists on the planet, including the people behind the Ford Foundation who have donated more than $840,000,000 to Black Lives Matter-related organizations since 2011.
 
-The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency (CIA), which requested its help doing psychological warfare operations in Asia. Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).
+The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency (CIA), which requested its help doing psychological warfare operations in Asia. This background in psychological warfare meant that the Ford Foundation already had experience deceiving and manipulating whole societies in Asia in service of US imperialism -- do you think it might use the same manipulative techniques in the US, further refined after decades of practice?**
 
-Black Lives Matter organizers proclaim they are anti-white supremacy and anti-capitalist. But do you think that a movement so heavily funded by rich white capitalists will threaten the power of rich white capitalists?
+Ford Foundation directors have included some of the most politically connected white Americans, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include multi-billionaires Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).**
+
+Just as the vast majority of activists in the astroturf Russian labor unions legitimately wanted change, countless honest, well-meaning activists have supported Black Lives Matter. But sadly, the most influential people -- the funders and their choice of organizations and leaders they fund -- have found ways to direct that activist energy to avert deep change.**
+
+After 10 years, what was there to show? The government announced a new federal holiday called Juneteenth in honor of the end of chattel slavery. Companies like Zoom and Google allow people to choose their skin color in their profiles. Some large news companies and publishers capitalize the letter "b" when writing about "black people."**
+
+Many companies include some variation of "diversity, equity, and inclusion" projects geared towards helping employees get along and work productively together. Corporate officers that claim to oppose racism commonly discuss microaggressions that hurt an individual's feelings but do not address the massive macroaggressions which generate systems of prison slavery.**
+
+What are those macroaggressions that an organic liberation movement might meaningfully address?**
+
+Consider the real mechanisms keeping black people oppressed in the United States. When spend extra time patrolling poor black neighborhoods and black people get longer prison sentences than whites for the same offense, black people end up spending much more time in prison than white people for the same crimes. Police commonly commit perjury in court when it suits them, as acknowledged in repeated academic studies spanning decades and by police, judges and lawyers themselves in interviews, meaning that the legal system knowingly tolerates false evidence. 98% of prisoners plea bargain, meaning they are threatened with such long prison sentences that they agree to plead guilty in exchange for a shorter sentence, going to prison whether they are actually guilty or not without presenting any evidence at trial.**
+
+Federal prisoner surveys in 2008 showed that prison sexual assault is so rampant that, overall, there are more male-victim sexual assaults than female-victim in the United States. Prisoners cannot legally choose not to work, and even if they could legally decline, prison administrators commonly violate the law with impunity, meaning they would force prisoners to work whether it was legal or not.**
+
+Indeed, a senior official in the administration of president Nixon publicly admitted that the whole "war on drugs," which has sent millions of black people to prison for drug use, was implemented specifically to target black and anti-war activists.
+
+This is what prison slavery looks like in the United States right now: vast numbers of black people (and people from other groups, mostly poor) are in prison without having a fair trial, are often persecuted by dishonest police and judges who knowingly tolerate perjury, are forced to work, are commonly threatened with sexual assault, and are sentenced to disproportionately long sentences for activities that, in many cases, shouldn't be considered crimes in the first place.
+
+How would you feel if you were unjustly trapped in such an abusive prison system? How would you feel if your parent or sibling or child were trapped, and you couldn't see them day after day for years or decades?**
+
+How do you feel knowing that if you gathered other people to collectively free unjustly imprisoned people, such as by confronting the responsible politicians, prison guards, judges, police, or prison wardens, you would be punished? Even prison reform-activists can only ask authorities for justice. They're not allowed to seek justice themselves, as any interference with the legal system is strictly forbidden and heavily punished. This is what it means to live in an unfree society – you would be punished for seeking justice and upholding the laws you live by.**
+
+This deep oppression profoundly benefits the rich in countless ways, as it discourages and disrupts the deep solidarity needed to end the injustices black people face in so many areas of life. Thus the rich keep getting richer while many black people and other disadvantaged groups remain in relative poverty.**
+
+Black Lives Matter organizers proclaim they are anti-white supremacy and anti-capitalist. But do you think that a movement so heavily funded by rich white capitalists will end the oppression that benefits them so much?**
+
+Black Lives Matter isn't even the only astroturf movement in the United States. As another example, the multibillionaire Koch brothers have spent over $160 million over 20 years to fund dozens of "independent" research and opinion organizations to trick people into thinking climate change is fake -- all to protect their investment in their oil and chemical company.**
 
 Creating and controlling astroturf social movements is common in unhealthy cultures where a few powerful people control vast wealth and work to keep it at any cost.
 
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>What founding principles would maintain a healthy culture?**</div>
-<div class="rev-act-body">If you could work with other people to create a nation that chose true servant-leaders who actually serve the people, what principles or rules would you establish? Create a list of founding principles or rules that, if everyone upheld them, you believe would maintain a healthy culture that would choose leaders who encourage solidarity instead of sabotaging it. After finishing your list, compare it with the Haudenosaunee's list later in this chapter.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Channel your anger**</div>
+<div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy culture, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy culture where people would never tolerate such abuses.</div></div>
 
 ### A Case Study in Creating a Society that Chooses Generous Servant-Leaders: The Haudenosaunee
 
@@ -117,8 +147,8 @@ What was the end result of a society based in part on these principles? Whereas 
 
 Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 
-Unfortunately, many people do not even try to confront injustices in their unhealthy culture. How have rulers trained conquered people not to have the personal strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have that deep personal strength to stand for what's right at any cost?
+Unfortunately, many people do not even try to confront injustices in their unhealthy culture. How have rulers trained conquered people not to have the spiritual strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have deep spiritual strength no matter what?
 
-To explore deep spiritual training, join me in _Chapter 9: Why Is Shame So Common?_
+Explore deep spiritual training in _Chapter 9: Why Is Shame So Common?_
 
 <div style="break-after:page"></div>
