@@ -1,10 +1,12 @@
 ## Chapter 3: Healthy Cultures Share Three Core Spiritual Practices
 
-I kept finding more stories of cultures that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, Lakota, and others. Not all these cultures can live in a traditional way today like the Ashaninka. While these cultures have their differences, during traditional times they all live or lived in a similarly beautiful way with each other and the Earth.**
+I kept finding more stories of cultures that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, Lakota, and others. Not all these cultures can live in a traditional way today like the Ashaninka. While these cultures have their differences, during traditional times they all live or lived in a similarly beautiful way with each other and the Earth.
 
-Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the cultures I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawks within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man. The Kamana program seemed like a synthesis of what Jon Young had learned from people of all these cultures with the goal for the student to develop a deep, personal connection with the Earth.**
+Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the cultures I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawks within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man.
 
-Little did I know that Kamana would introduce me to spiritual practices which are common in all healthy cultures. I believe that many of the other shared characteristics of healthy cultures, past and present, flow from this spiritual foundation.**
+The Kamana program seemed like a synthesis of what Jon Young had learned from people of all these cultures with the goal for the student to develop a deep, personal connection with the Earth.
+
+Little did I know that Kamana would introduce me to spiritual practices which are common in all healthy cultures. I believe that many of the other shared characteristics of healthy cultures, past and present, flow from this spiritual foundation.
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
@@ -20,15 +22,15 @@ The first core spiritual practice is to notice all the gifts we receive and feel
 
 The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one. Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters. Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.
 
-I grew up learning to give thanks to God by closing my eyes and trying to ignore my surroundings so I could focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea or feeling of God. And I thanked my mental idea of God for all the good things in my life.**
+I grew up learning to give thanks to God by closing my eyes and trying to ignore my surroundings so I could focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea or feeling of God. And I thanked my mental idea of God for all the good things in my life.
 
-Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around -- by teaching me something, feeding me or other animals, shading the soil so it would stay moist, and more. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.**
+Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around -- by teaching me something, feeding me or other animals, shading the soil so it would stay moist, and more. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.
 
-Once I started seeing nonhumans as teachers and feeling grateful for them, I started learning lessons too. I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks like to hunt small animals like mice and shrews, so I knew they all would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?**
+Once I started seeing nonhumans as teachers and feeling grateful for them, I started learning lessons too. I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks like to hunt small animals like mice and shrews, so I knew they all would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?
 
 I looked up through the forest canopy just in time to notice a second, silent hawk flying to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #3<br/>Gratitude for the nonhumans' gifts**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #3<br/>Gratitude for the nonhumans' gifts</div>
 <div class="rev-act-body">Cultivating a practical, aware gratitude begins with noticing the gifts you receive. To start, go outside and find a nonhuman to observe closely, and ask what its gifts are.<br/><br/>For example, if you observed a tree, you would ask: how does the tree benefit all the life around it, including you? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Notice every gift that you can, and practice feeling grateful for them.</div></div>
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts
@@ -37,15 +39,15 @@ Through my nature connection practices, I learned so many ways each creature con
 
 Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being." Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"
 
-Just like everybody else, you have sacred gifts, a life purpose, a way you can make the world a better place -- _and only you can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is to _cultivate and give your sacred gifts_ too.**
+Just like everybody else, you have sacred gifts, a life purpose, a way you can make the world a better place -- _and only you can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is to _cultivate and give your sacred gifts_ too.
 
 I believe that cultivating and giving one's sacred gifts fully is how a person gives their deepest love. Thus, training a person to give their sacred gifts trains them to give their deepest love in life, and to be their best self.
 
 Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. Ten Fingers also noted that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.
 
-Like the Thanksgiving Address and cultivating a practical, aware gratitude, I had a hard time with this practice too. I had never thought about my life purpose or what I deeply loved to do. Mostly I'd focused on building a safe and comfortable life, and I'd never thought about what I would do or give if I didn't feel constrained by needing a job. When I thought about it, I mostly felt stressed or anxious.**
+Like the Thanksgiving Address and cultivating a practical, aware gratitude, I had a hard time with this practice too. I had never thought about my life purpose or what I deeply loved to do. Mostly I'd focused on building a safe and comfortable life, and I'd never thought about what I would do or give if I didn't feel constrained by needing a job. When I thought about it, I mostly felt stressed or anxious.
 
-I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in many years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.**
+I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in many years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.
 
 These two spiritual practices of gratitude and gift-giving are both so beautiful. The third core spiritual practice ties them all together.
 
@@ -63,14 +65,14 @@ Everywhere I looked, I noticed healthy cultures were standing in solidarity with
 
 In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."
 
-In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities where they live.**
+In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities where they live.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Practice the joy of reciprocity**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Practice the joy of reciprocity</div>
 <div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, babysitting someone's kid, helping them find a job, or cooking a meal for a sick person. Practice feeling gratitude for what they've given you. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving to someone just for the joy of giving.</div></div>
 
 ### Carry Your Gifts with Conviction
 
-A person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.**
+I believe that a person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.
 
 These three core spiritual practices are core to who we are as humans. You are the giving of your deepest love, just like I'm the giving of my love. Giving to others in gratitude for what we receive is who we are as humans.
 
@@ -82,7 +84,7 @@ These practices aren't just for some people. Anybody could embrace them right no
 
 What are your gifts? What can you give or do or be that would open your heart and let it sing?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover your own sacred gifts**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover your own sacred gifts</div>
 <div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and consider what most matters to you, and how you can act in service of it. 2) Consider what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and meaning already in life, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
 
 <div style="break-after:page"></div>

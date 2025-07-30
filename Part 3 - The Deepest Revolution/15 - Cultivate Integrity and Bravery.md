@@ -1,5 +1,21 @@
 ## Chapter 15: Hold Yourself and Others to a High Standard
 
+<toc/>
+
+* [Dignity and Self-Respect: Give Your Gifts Even in the Face of Hopelessness](#dignity-and-self-respect-give-your-gifts-even-in-the-face-of-hopelessness)
+* [Commit to Personal Growth with Others](#commit-to-personal-growth-with-others)
+* [Your Integrity is the Structure of your Culture](#your-integrity-is-the-structure-of-your-culture)
+* [Cultivate Integrity](#cultivate-integrity)
+* [Cultivate Bravery](#cultivate-bravery)
+* [Cultivate Physical Strength and Endurance](#cultivate-physical-strength-and-endurance)
+  * [Direct Your Awareness with Intention](#direct-your-awareness-with-intention)
+  * [Protect Each Other](#protect-each-other)
+  * [Everything is a skill -- integrity example](#everything-is-a-skill----integrity-example)
+  * [Transitions Show that High Standards are Reasonable](#transitions-show-that-high-standards-are-reasonable)
+  * [Have fun without electricity](#have-fun-without-electricity)
+  * [Decide What's Worth Dying For](#decide-whats-worth-dying-for)
+<toc/>
+
 Countless people have been trapped in unhealthy cultures for centuries or even millennia.
 
 What do you think is the biggest trouble that keeps people trapped, generation after generation?
@@ -90,21 +106,6 @@ Just like Wim Hof program for cold training - slow, steady, skillful progression
 
 * Everything is a Skill You Can Practice - personal qualities like awareness and bravery, physical abilities like strength and cold resilience, just like any other skill such as drawing or math. 
 
-### Cultivate Deep Patience
-
-Just because a prisoner decides to escape their prison doesn't mean they will succeed. Once a prisoner decides to escape prison, they must bide their time, preparing themselves.
-
-Likewise, even if you work with others to found a whole nation ready and willing to uphold your own laws, it may not be time. Plenty of revolutions have been crushed in the past.
-
-Maintain the wisdom, continue to stand with each other and the Earth, and prepare for when the time is ripe.
-
-An opportunity always has two parts -- the circumstances, and you. If you're not prepared and ready to seize the moment, you'll never find an opportunity. And if the circumstances aren't right, then there is no opportunity either.
-
-The Zapatistas were conquered by the Spanish over 500 years ago. They had a few revolutions over the centuries that didn't work out. Finally in 1994, after 10 years of preparation, the time was right and they successfully took a stand.
-
-It is easy to romanticize successful revolutionaries, but think of all those people in the intervening generations that kept the ancient wisdom alive, so that in the 1990s the Zapatistas remembered what a healthy culture was like and brought a new one to life.
-
-Even if revolution is hopeless in the foreseeable future, do not fall into despair. You can be like those intervening generations, keeping alive ancient wisdom, protecting the Earth, maintaining mutual support networks, and preparing for a time when you and other people can take a stand as a nation and establish your own laws without oppression from others.
 
 #### Direct Your Awareness with Intention
 
@@ -122,10 +123,21 @@ Focus your attention on the most meaningful things -- joyful times with loved on
 
 Awareness, integrity, bravery -- these are skills that can be practiced.
 
+#### Everything is a skill -- integrity example
+
+* Integrity is a skill, with many sub-skills
+
+* One subskill: how to rebuild trust when someone acted out of integrity, or in an untrustworthy way?
+
+* path back to grace, or _return to integrity_ -- return to a place of mutual trust
+
+* is equivalent to the path of personal growth -- verifying that the person is fully committed to that high standard, and they're on their way
 
 #### Transitions Show that High Standards are Reasonable
 
 Prechtel in _Secrets of the Talking Jaguar_: "thugs, gangs, rape, murder, guns, drug addiction, and overpopulation" all set in within 5 years of being conquered by soldiers and "deculturated" by Christian missionaries. 
+
+#### Have fun without electricity
 
 
 

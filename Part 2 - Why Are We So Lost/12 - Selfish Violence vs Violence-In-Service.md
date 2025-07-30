@@ -62,9 +62,15 @@ They practiced a deep humility, not letting anyone feel like they were special o
 
 Immediately the Zapatistas put into effect laws which they had prepared in advance. Many women had given input to decide the laws they would live by, and after the revolution, sexism dramatically diminished. Interviews with many Zapatista women in 2014 showed that the changes were real and lasting.
 
-They passed laws preserving the seas, rivers, and forests. People could keep enough land to sustain their family, but no one was allowed to hoard land or property. When individuals owned more than a certain number of acres, the extra was redistributed for communal farming. Anyone who hoarded wealth was considered a traitor, ensuring there would be no rich people to try and corrupt the leadership and society from within.
+They passed laws preserving the seas, rivers, and forests. People could keep enough land to sustain their family, but no one was allowed to hoard land or property. When individuals owned more than a certain number of acres, the extra was redistributed for communal farming. Hoarding wealth was outlawed, and anyone who hoarded wealth was considered a traitor.
 
-They ended property taxes and vastly reduced rents. Everyone was free to arm themselves and uphold their laws, and even organize their own self-protection groups. All prisoners were released except murderers, rapists, and drug trafficking bosses. They developed a system of leadership that ensured that no one passed laws on anyone else. Rather, different layers of councils, each layer covering a larger area, helped coordinate cooperation and collective self-defense as needed.
+_Redistributing wealth was a crucial part of creating a healthy culture_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will stay selfish.
+
+By redistributing wealth early on and outlawing hoarding, the Zapatistas essentially removed deep selfishness in their society. This explains why they could have leaders who actually served the people instead of the rich: they didn't have any rich people constantly trying to corrupt their leadership because they didn't allow anyone to be rich.
+
+And since redistributing wealth is simply normal and common in a gift economy, this isn't just a one-off event. Redistributing wealth is a common, ongoing part of maintaining a way of life based on generous sharing.
+
+The Zapatistas also ended property taxes and vastly reduced rents. Everyone was free to arm themselves and uphold their laws, and even organize their own self-protection groups. All prisoners were released except murderers, rapists, and drug trafficking bosses. They developed a system of leadership that ensured that no one passed laws on anyone else. Rather, different layers of councils, each layer covering a larger area, helped coordinate cooperation and collective self-defense as needed.
 
 One commander said, "Para todos, todo, para nosotros nada" -- For everyone, everything; for us, nothing. They offer their gifts for the good of the group. This person acknowledged that being a Zapatista was difficult. They sometimes only have hard tortillas to eat, and sometimes they fall sick due to poor food. They often sleep on hard floors or can't sleep for days and nights. Their lives are often at risk.
 

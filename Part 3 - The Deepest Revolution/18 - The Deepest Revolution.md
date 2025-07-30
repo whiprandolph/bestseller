@@ -1,27 +1,54 @@
 ## Chapter 18: The Deepest Revolution
 
-* Until now, I have only included revolutionary activities that I have embraced in my life. But I have never worked with others to found a nation, so I do not know how everything that is required. But I know the work needs to be done even if I don't know all the steps. 
+* Until now, I have only included revolutionary activities that I have embraced in my life. But I have never worked with others to found a nation, so I do not know how everything that is required. But I know the work needs to be done even if I don't know all the steps.
 
 * Study healthy cultures, become friends with people who carry their healthy-culture traditions. Healthy cultures have found a huge variety of ways of sharing food, choosing servant-leaders, having sexual relationships, eating nutritious diets, raising strong children, living in harmony with the Earth, addressing inappropriate behavior, responding to threats, and more. Consider which ways could work for you, and which wouldn't, and what lessons to learn.
 
-The "Bibliography" section in this book offers a key list of writings on which this book is based, and _one Disease One Cure_ offers many more.
+The "Bibliography" section in this book offers a key list of writings on which this book is based, and _One Disease One Cure_ offers many more.
 
-### Find People To Whom You Can Speak Your Heart
+### The Deepest Revolution and Creating a New Healthy Culture are the Same Path
 
-* ref mom's story - I know someone who, in the early 1990s, thought about whether it was ok for the US to invade Iraq. She wondered, is the US invading to bring democracy? Or take oil? Is it ok to kill people to take oil?
+A revolution is just a process, usually violent, where people in power lose that power. In a shallow revolution, oa new ruling class replaces the old, and the lives of most people don't change much.
 
-Unfortunately, she was the wife of a US military officer living on an overseas base, surrounded by soldiers and their spouses. She was unable to find other people to share her concerns with, and speak her heart. She was surrounded by people, but unable to discuss what mattered to her and consider how to respond with others.
+After the Deepest Revolution, there is no ruling class. The people seize power together, and collectively stand for a culture of mutual respect. They appoint wise and generous leaders and replace them as needed so their leaders always serve the people.
 
-Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was deeply unhappy. Finally, she decided to take anti-depressants, which allowed her to numb the feeling of dissatisfaction without responding to it. She stopped thinking deeply about politics.
+What is the path to that Deepest Revolution? Sadly I have not experienced this myself. For those of us who have forgotten our healthy-culture ancestors, I believe that path to the Deepest Revolution and the path to creating a new healthy culture, or a new nation, are one and the same path. 
 
-Plenty of people who feel trapped and unable to respond to their fears cope by numbing their feelings with endless distractions, whether through screen addiction, drugs, overworking, or other ways. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to respond productively.
+Recall that freedom simply means living in a society where everyone expects everyone else to bravely uphold their laws and seek justice. To live in a free society, everyone has to have that spiritual strength to give their deepest love and continuously stand for what's right.
 
-The most important step to addressing any concerns or fears you have is this: find other people you trust to tell them how you feel and your concerns and thoughts, and listen to them too. If you don't trust anyone in your life this much, then make new friends.
+Every revolutionary activity in this book encourages aspects of that spiritual strength. I believe that the attitudes, relationships, and practices from these activities are universal in healthy cultures. In other words, if you apply yourself and embrace these activities as a normal way of life, they will prepare you to play a good role in that Deepest Revolution.
 
-* This showed me the importance of finding someone you can speak your heart to. Either deepen the friendships you have, or make new friends.
+Consider the key revolutionary activities from this book: embracing the three core spiritual gratitudes (practical aware gratitude, giving your sacred gifts, and living in reciprocity), deep awareness and empathy, praising others' good deeds, channeling anger in productive ways, savoring the joy of giving without any expectation of return, standing for what's right and supporting others when they take this stand, cultivating a mutually enriching relationship with the Earth, noticing and questioning your own assumptions, practicing integrity and bravery, being part of a group where people share and hold each other to high standards of excellent behavior, physical training, self-defense training, protecting the Earth: I believe all these practices can prepare anybody to play a strong role in a healthy culture.
 
-* find people. Start with 1 if you need to, then find another after that.
+And when you work with others to form groups that share, hold each other to high standards and embrace these other revolutionary practices, you form _healthy subcultures_. You may still be stuck in an unhealthy culture, living under others' laws. But when you and others in your group hold each other to a high standard, effectively creating your own standards of good behavior -- that is, you'll be creating your own unwritten laws.
 
+The Haudenosaunee writers said their culture "was founded on concepts of moral justice, not statute law." Instead of endlessly debating legal minutiae, I believe they focused on building up everybody's spiritual strength, each person holding the others to a high standard and expecting the best from each other, and helping each other grow. When everyone has the spiritual strength to stand for what's right, a culture of mutual respect results.
+
+You and the people around you could start on this path now, even while trapped in an unhealthy culture. Build your spiritual strength, and hold yourself and others to high standards, and you'll begin forming a healthy subculture.
+
+Every little healthy subculture of 5 or 10 people can form the seed of fully soverign healthy subculture someday in the future....
+
+
+
+### Found a New Nation with Others
+
+* not a small thing or easy. But it's the one political project where, if you succeeded, could make the deepest, most transformational difference.
+
+* in an unhealthy culture, real victories are rare and every victory is temporary: abortion "rights" can be given, then taken away again. Racist hiring can be outlawed in one administration, then encouraged again in the next. One political party might protect a forest, and then another comes to power and allows it to be logged.
+
+Why? Because there are very wealthy, political powerful people who are very selfish and who benefit from racism -- like there are powerful people who benefit from sexism, environmental destruction, corruption, deceitful media, and so on. Corrupt people never want their self-serving activities to come to light, so they always want to distract, divide, gaslight, deceive, and otherwise manipulate.
+
+And when people are trapped in financial desperation, they will do whatever's necessary to survive -- and if that means logging, printing falsehoods in a newspaper, or other hurtful things, so be it. When there's no solidarity, and no one holding each other to high standards of behavior, financially desperate people will do what they need to survive, and play whatever mental and emotional games they need to to protect their survival.
+
+So, if you wanted to protect a river, what is the best way? Found a new nation that embraces reciprocity, each person with the others and the Earth. When everyone stands for what's right and shares as a way of life, you won't have financially desperate poor people doing whatever it takes to survive. You won't have rich people constantly corrupting your leadership to enact policies that make them richer.
+
+This is why the Zapatistas outlawed hoarding wealth, and redistributed excess wealth as part of their revolution. They did not allow corruption in their society -- none. Because corruption and selfishness are the same, that means they got rid of selfishness, encouraging a society of generosity instead.
+
+Life will always be full of challenges, especially in a world with so many unhealthy cultures. Even if a group of a million people successfully founded a new nation and could protect themselves from nearby unhealthy cultures, life would not suddenly become problem-free. But so long as they maintain a healthy culture where everyone stands for what's right, certain types of problems can actually go away -- discrimination, greed, and so on.
+
+And that means that people can make agreements that last generations, or as long as this new nation lasts, and not just until the next political administration comes to office. Your nation could agree never to pollute the water of a river nearby, and you wouldn't have to worry about unaccountable political leaders and corrupt businessmen changing that policy in 2 years.
+
+In this way, in your own nation, you wouldn't keep fighting the same political fights like people do endlessly in unhealthy cultures. That's because when you found a new, healthy nation, you no longer have the greed and corruption at the heart of your society.
 
 ### Hold Each Other to a High Standard
 
@@ -29,7 +56,9 @@ The most important step to addressing any concerns or fears you have is this: fi
 
 * People noticed big shift after being conquered/forced into unhealthy cultures (Pretty Shield, Rain-in-the-Face quotes, reference health issues from Price, or notice how shocked people like me or liedloff were at relaxed joyfulness)
 
-* 
+* in practice, when people hold each other to a high standard of excellent behavior -- including things like generosity, awareness, integrity, authenticity, joy, and walking a meaningful path in life -- they are also building up each other's dignity and self-respect.
+
+Dignified, self-respecting people hold themselves to a high standard of excellent and beautiful behavior. And when they make a mistake, instead of feeling shame, they learn whatever lesson is needed so they can hold themselves to that high standard.
 
 
 

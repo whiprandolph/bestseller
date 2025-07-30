@@ -22,7 +22,7 @@ In the 1770s, American revolutionaries cried "Give me liberty or give me death!"
 
 Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but they commonly have spread shame and sexism and they have equated pleasure and sin -- unlike Jesus Christ. For centuries, missionaries have urged people to hoard wealth -- unlike Jesus Christ, who urged his followers to give away their wealth. Wherever obedient Christians have gone, they've spread dictatorships where a few people dictate the laws and the rest submissively obey -- unlike their revolutionary spiritual leader Jesus Christ, who opposed the Roman dictatorship he lived in.
 
-As long as people embrace submissive obedience, crushing their own dignity, this sort of deep confusion will remain. Once people embrace submissive obedience, there is no room for deep wisdom. People will seek freedom not knowing what it's like and discover new forms of tyranny instead.
+As long as people embrace submissive obedience, this sort of deep confusion will remain. Once people embrace submissive obedience, there is no room for deep wisdom. People will seek freedom not knowing what it's like and discover new forms of tyranny instead.
 
 This deep confusion is both ancient and modern. 
 
@@ -32,7 +32,7 @@ People keep voting in elections knowing that the outcome won't fundamentally cha
 
 As any doctor knows, treating a symptom will never actually lead to deep healing because the underlying disease persists. Widespread racism, sexism, greed, child abuse, pollution, and political corruption are merely _symptoms of the root cultural disease where a few people rule over the rest, and the public accepts their own submissive obedience as legitimate._ So long as activists treat these symptoms as separate problems, they will never go away.
 
-"Waking up" isn't just a process of learning about oppression. It's about finding your sense of dignity and deep self-respect, and helping others find theirs. It's about finding out what is the most meaningful path _for you_, and then walking it. It's about connecting with the Earth with like-minded people, remembering how to generously share and receive, and building the internal strength to come to others' aid when they need you. It's about putting away your screens and books and feeling joy at experiencing life directly with all your senses wide awake.
+"Waking up" isn't just a process of learning about oppression. It's about finding your sense of dignity and deep self-respect, and helping others find theirs. It's about finding out what is the most meaningful path _for you_, and then walking it. It's about connecting with the Earth with like-minded people, remembering how to generously share and receive, and building the spiritual strength to come to others' aid when they need you. It's about putting away your screens and books and feeling joy at experiencing life directly with all your senses wide awake.
 
 In other words, "waking up" is remembering how to give your deepest love.
 

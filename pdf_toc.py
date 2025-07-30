@@ -4,6 +4,7 @@ from pprint import pprint as pp
 from ttoc import is_chapter_name, is_main_part_intro, is_pre_or_post_material
 from pprint import pprint as pprint
 from progress import chapters
+import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
 md_root_dir = r"C:\Users\whip\tdr"
@@ -161,19 +162,41 @@ def merge_pdfs(content_path, book_pdf_path):
   merger.close()
 
 def sample_pdf(book_pdf_path):
+  part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+
   print("  == Sampling PDF\n")
-  merger = PdfWriter()
-  merger.append(book_pdf_path, pages=PageRange("1"))
-  merger.append(book_pdf_path, pages=PageRange("40:119"))
-  merger.write(book_pdf_path + " - part 2 Jul 28 pm.pdf")
-  merger.close()
+  part_two = PdfWriter()
+  part_two.append(book_pdf_path, pages=PageRange("1"))
+  part_two.append(book_pdf_path, pages=PageRange("44:121"))
+  part_two.write(part_two_path)
+  part_two.close()
+
+  part_two_reader = PdfReader(part_two_path)
+  try:
+    assert "Table of Contents" in part_two_reader.pages[0].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ToC)"
+    assert "Why Are We So Lost" in part_two_reader.pages[1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (title page)"
+    assert "succeed? Let us explore in Part 3 - The Deepest Revolution" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
+  except AssertionError as exc:
+    print(exc)
+    breakpoint()
+    a = 4 
 
   part_one = PdfWriter()
   part_one.append(book_pdf_path, pages=PageRange("1"))
   part_one.append(book_pdf_path, pages=PageRange("5:44"))
-  part_one.write(book_pdf_path + " - part 1 Jul 28 pm.pdf")
+  part_one.write(part_one_path)
   part_one.close()
 
+  part_one_reader = PdfReader(part_one_path)
+  try:
+    assert "Table of Contents" in part_one_reader.pages[0].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (ToC)"
+    assert "This Is Who We Really Are" in part_one_reader.pages[1].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (title page)"
+    assert "spiritual strength, join me in Part 2 - Why Are We So Lost?" in part_one_reader.pages[-1].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (ending)"
+  except AssertionError as exc:
+    print(exc)
+    breakpoint()
+    a = 4 
 
 def main(content_path, book_pdf_path, dimensions={}):
   prep_pdf_toc(content_path, dimensions)

@@ -1,3 +1,20 @@
+### Cultivate Deep Patience
+
+Just because a prisoner decides to escape their prison doesn't mean they will succeed. Once a prisoner decides to escape prison, they must bide their time, preparing themselves.
+
+Likewise, even if you work with others to found a whole nation ready and willing to uphold your own laws, it may not be time. Plenty of revolutions have been crushed in the past.
+
+Maintain the wisdom, continue to stand with each other and the Earth, and prepare for when the time is ripe.
+
+An opportunity always has two parts -- the circumstances, and you. If you're not prepared and ready to seize the moment, you'll never find an opportunity. And if the circumstances aren't right, then there is no opportunity either.
+
+The Zapatistas were conquered by the Spanish over 500 years ago. They had a few revolutions over the centuries that didn't work out. Finally in 1994, after 10 years of preparation, the time was right and they successfully took a stand.
+
+It is easy to romanticize successful revolutionaries, but think of all those people in the intervening generations that kept the ancient wisdom alive, so that in the 1990s the Zapatistas remembered what a healthy culture was like and brought a new one to life.
+
+Even if revolution is hopeless in the foreseeable future, do not fall into despair. You can be like those intervening generations, keeping alive ancient wisdom, protecting the Earth, maintaining mutual support networks, and preparing for a time when you and other people can take a stand as a nation and establish your own laws without oppression from others.
+
+
 ### Chapter ending
 
 In cultures where everyone embraces this practice of gracious receiving, where people retell stories of others' good deeds, they wind up with leaders who don't spread racism and hatred. So many problems, including racism, hatred, sexism, pollution, poverty in the midst of abundance, disconnection from nature, corruption, greed, child abuse, and more are _symptoms of the root cultural disease where a few people rule over the rest, and people accept their own obedience as legitimate_. Any culture with this disease will show these symptoms, each in its own way. And I believe a single cure could end all these terrible troubles: creating cultures where everyone stands for what's right, and no one rules over anyone else.
