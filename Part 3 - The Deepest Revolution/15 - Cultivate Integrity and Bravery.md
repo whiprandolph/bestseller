@@ -13,6 +13,7 @@
   * [Everything is a skill -- integrity example](#everything-is-a-skill----integrity-example)
   * [Transitions Show that High Standards are Reasonable](#transitions-show-that-high-standards-are-reasonable)
   * [Have fun without electricity](#have-fun-without-electricity)
+  * [justice vs law](#justice-vs-law)
   * [Decide What's Worth Dying For](#decide-whats-worth-dying-for)
 <toc/>
 
@@ -135,10 +136,16 @@ Awareness, integrity, bravery -- these are skills that can be practiced.
 
 #### Transitions Show that High Standards are Reasonable
 
-Prechtel in _Secrets of the Talking Jaguar_: "thugs, gangs, rape, murder, guns, drug addiction, and overpopulation" all set in within 5 years of being conquered by soldiers and "deculturated" by Christian missionaries. 
+Prechtel in _Secrets of the Talking Jaguar_: "thugs, gangs, rape, murder, guns, drug addiction, and overpopulation" all set in within 5 years of being conquered by soldiers and "deculturated" by  wwwwan missionaries. 
 
 #### Have fun without electricity
 
+
+#### justice vs law
+
+* sometimes people make agreements about proper behavior that do not account for everything that could happen, and so 
+
+* In unhealthy cultures, when the law and justice are in conflict, the legal systems enforce the law, justice be damned. In healthy cultures, when justice and their agreements are somehow in conflict, they choose justice -- and they have the spiritual strength to make this choice with wisdom.
 
 
 #### Decide What's Worth Dying For

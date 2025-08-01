@@ -62,19 +62,19 @@ These techniques are all devious, but they're still far from ideal for authoriti
 
 #### Astroturf Social Movements
 
-Authorities may also start their own _astroturf social movements_, groups of organizations that claim to be grassroots but are actually controlled by the authorities from the start. If there were no social justice movement, angry people might start their own and it might become revolutionary. But if authorities could create their own social movement they secretly control, activists would be more likely to join that, and thus invest huge amounts of time and energy into a movement which only sets moderate goals and does not achieve deep change.
+Authorities may also start their own _astroturf social movements_, groups of organizations that claim to be grassroots but are actually controlled by the authorities from the start. If there were no social justice movement, angry people might start their own and it might become revolutionary. But if authorities could create their own social movement they secretly control, activists would be more likely to join that, and thus invest huge amounts of time and energy into a movement which only sets moderate goals and does not achieve deep change.**
 
-As one example from the early 1900s, secret police in Tsarist Russia secretly started trade unions that acted as if they were independent. Many thousands of workers joined, excited to be part of a movement for better wages and better working conditions. S. V. Zubatov, a secret police chief, had the "movement leaders" host pro-monarchy classes so that workers would think of the Russian monarch as supportive and wise rather than selfish. The unions would pretend to negotiate with factory owners about wage increases, while the real negotiations were happening between the factory owners and the police chief.
+As one example from the early 1900s, secret police in Tsarist Russia secretly started trade unions that acted as if they were independent. Many thousands of workers joined, excited to be part of a movement for better wages and better working conditions. S. V. Zubatov, a secret police chief, had the "movement leaders" host pro-monarchy classes so that workers would think of the Russian monarch as supportive and wise rather than selfish. The unions would pretend to negotiate with factory owners about wage increases, while the real negotiations were happening between the factory owners and the police chief.**
 
-Tens of thousands of workers joined Russian labor unions secretly controlled by the police, thinkng they were all coming together to seek meaningful change. The workers legitimately wanted that change and worked hard for it, not knowing that the leadership was directing their energy in a way that they would only see moderate improvements at best.
+Tens of thousands of workers joined Russian labor unions secretly controlled by the police, thinkng they were all coming together to seek meaningful change. The workers legitimately wanted that change and worked hard for it, not knowing that the leadership was directing their energy in a way that they would only see moderate improvements at best.**
 
-How would you feel if you spent hundreds of hours supporting such a labor movement, tired of the poor wages, long hours, and dangerous work environments, only to discover later that the "movement" was being manipulated by the most powerful people in your society to prevent meaninful change?
+How would you feel if you spent hundreds of hours supporting such a labor movement, tired of the poor wages, long hours, and dangerous work environments, only to discover later that the "movement" was being manipulated by the most powerful people in your society to prevent meaninful change?**
 
 I believe similar manipulation is playing out in the United States with the Black Lives Matter movement. In 2024, the "impact" page on blacklivesmatter.com proclaimed "We are building an institution to fight white supremacy." The "about us" page on m4bl.org (Movement for Black Lives) stated "We are anti-capitalist." Yet the movement is heavily funded by some of the wealthiest white capitalists on the planet, including the people behind the Ford Foundation who have donated more than $840,000,000 to Black Lives Matter-related organizations since 2011.
 
 The Ford Foundation is the "philanthropic" organization based on the wealth of white capitalist Henry Ford, founder of the Ford car company. As early as 1951 it had ties with the US Central Intelligence Agency (CIA), which requested its help doing psychological warfare operations in Asia. This background in psychological warfare meant that the Ford Foundation already had experience deceiving and manipulating whole societies in service of US imperialism -- do you think it might use the same manipulative techniques in the US, further refined after decades of practice?**
 
-The Ford Foundation was already known in the 1960s and 1970s for funding "moderate" political groups to try and attract black people away from revolutionary movements like the Black Panthers.
+The Ford Foundation was already known in the 1960s and 1970s for funding "moderate" political groups to try and attract black people away from revolutionary movements like the Black Panthers.**
 
 Ford Foundation directors have included some of the most politically connected American capitalists, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank. Other rich donors to Black Lives Matter-related groups include multi-billionaires Mark Zuckerberg (ceo of Facebook) and Pierre Omidyar (cofounder of eBay).**
 
@@ -149,8 +149,10 @@ What was the end result of a society based in part on these principles? Whereas 
 
 Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 
-Unfortunately, many people do not even try to confront injustices in their unhealthy culture. How have rulers trained conquered people not to have the spiritual strength to stand for what's right, instead tolerating endless exploitation, discrimination, pollution, and corruption? And how do healthy cultures train people instead to have deep spiritual strength no matter what?
-
-Explore deep spiritual training in _Chapter 9: Why Is Shame So Common?_
+[xxx-needs ending]
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-needs ending]

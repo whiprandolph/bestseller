@@ -104,7 +104,9 @@ Of course, not everyone trained for obedience becomes obedient. Some become peop
 
 Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful culture.
 
-This shows how conquering is not a single event, but a continual process, and it involves lots of child abuse. Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate predatory behavior all around them?
+This shows how conquering is not a single event, but a continual process, and it involves lots of child abuse. Child abuse is an essential aspect of every unhealthy culture that allows them to persist, generation after generation. And that means _treating children respectfully is essential to creating healthy cultures again._**
+
+Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate predatory behavior all around them?
 
 ### When Adults Learn to "Hold Back" or "Shut Down" Parts of Themselves
 

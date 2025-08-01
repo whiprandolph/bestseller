@@ -10,9 +10,15 @@ And they would be shocked if they were threatened with severe violence for tryin
 
 But for many of us living in the United States, Spain, Russia, China, Egypt, and every other unhealthy culture around the world, such unjust behavior is not so shocking, is it?
 
-Countless groups of people have tried countless times over centuries to come together and seek justice. And when they do, what do they see?
+Why does such unjust behavior persist?
 
-Regardless of the particular country, or the type of government or economy, when people seek justice in unhealthy cultures, they see a similar response.
+### Fierce Resistance
+
+Countless groups of people have tried countless times over centuries to come together and seek justice. And when they do, what do they face, time and time again?
+
+Regardless of the particular country, or the type of government or economy, whenever and wherever people in unhealthy cultures seek justice, they face a similar response.
+
+Take a look.
 
 <div style="break-after:page"></div>
 
@@ -42,13 +48,13 @@ I was taught growing up that the police's job is to keep people safe and enforce
 
 And who are the police protecting the rich and powerful from? Of course, they are protecting the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy cultures. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
 
-This is what it means to live in an unfree, unhealthy culture: people are threatened and punished for seeking justice for themselves and their neighbors.**
+This is what it means to live in an unfree, unhealthy culture: people are threatened and punished for seeking justice for themselves and their neighbors.
 
 In unhealthy cultures, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption and crime?
 
 As I was born and raised in an unhealthy culture, all this seemed normal and natural to me until I discovered healthy cultures where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own culture and seek justice_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.**
+Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own culture and seek justice_. In healthy cultures, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy cultures, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
 
 Unhealthy cultures systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice.
 
@@ -56,16 +62,16 @@ In healthy cultures, standing for what's right in solidarity with neighbors is n
 
 This shows why so many people of unhealthy cultures are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- injustice and ineffective political movements become normalized.
 
-So long as people accept their own submissive obedience as legitimate, they will have endless political debates that ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.**
+As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates and ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
 Can you imagine living in a culture where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Practice standing for what's right**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Practice standing for what's right</div>
 <div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
 
 ### The Nootka Stand in Solidarity
 
-In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.**
+In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.
 
 In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.
 
@@ -95,13 +101,27 @@ This story showed me what it's like when everyone in a culture upholds the rules
 
 And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Support someone else when they take a stand**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Support someone else when they take a stand</div>
 <div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her culture. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her if she were attacked? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 ### Solidarity and Generosity Used to be Universal
 
-A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected. Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
+A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected.
 
-Selfishness is pervasive in every unhealthy culture. How do selfish rulers enforce a way of life that encourages selfishness in others? And how are free people able to maintain a way of life with widespread generosity instead? Explore these different ways of life in _Chapter 7: Why Are People So Selfish?_
+Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
+
+Why are we so lost then?
+
+Because we have been forced against our will to learn to tolerate injustice and forget who we really are. When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level of in every unhealthy culture.
+
+When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and they can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not.
+
+You may not feel this affects you. You may have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself, if you woke up tomorrow with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy culture do for you? Would you have the deep security that comes from living in a loving, healthy culture where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice? 
+
+Regardless of what unhealthy culture you live in, the answer is no. And because you know that, you have known since childhood that you must play along, including by not seeing what is happening.
+
+But this playing-along is not who we really are. And because of that, I know that each of us – including you – have power, not only to see the truth but the power to help make things right.
+
+"Why are we so lost?" is an important question we must address. But it is only worth the pain of facing the answer to that qustion when we also know that we absolutely can – and we must – stand up together and change it.
 
 <div style="break-after:page"></div>

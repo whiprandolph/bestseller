@@ -82,8 +82,6 @@ The Black Panthers, Apaches, and Zapatistas showed what it's like to use violenc
 
 I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose violence in service of the people they loved and in service of the Earth.
 
-What happens when people choose submission instead? Find out in _Chapter 13: The Endless Predation Must End_.
-
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Learn to judge when violence is appropriate**</div>
 <div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when it's not. Think of 3 examples of selfish violence and violence-in-service of a greater good. If necessary, do research to find three of each kind. What do the examples of selfish violence have in common? What do your examples of violence-in-service have in common? In what circumstances do you think violence is appropriate, and when is it not appropriate? There are no right or wrong answers here. It's important to find clear answers within yourself.</div></div>
 

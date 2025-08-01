@@ -168,7 +168,7 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("44:121"))
+  part_two.append(book_pdf_path, pages=PageRange("44:123"))
   part_two.write(part_two_path)
   part_two.close()
 

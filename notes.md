@@ -16,7 +16,7 @@
 * internal freedom to give our deepest love, and external freedom to do it in a society that welcomes it
 
 ### Final Formatting Reminders
-* make sure chap 4 images, captions, and lead-ins are all on the same page
+* make sure chap 6 images, captions, and lead-ins are all on the same page and formatting is nice
 * make sure all _ and * and ** become bold/underlined
 * remove all ** edit marks
 * make all riot police images the same size

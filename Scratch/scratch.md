@@ -1,3 +1,30 @@
+### How Can Everyone Be Divine If Some People Act with Cruelty and Selfishness?
+(from shame/religion chapter)
+Authoritarian religions commonly encourage shame, disconnection from divinity, a sense of inherent badness or conditional goodness, self-doubt, and sexism. But the three core spiritual practices encourage the opposite.
+
+The first spiritual practice, *developing a practical aware gratitude*, encourages deep awareness of others and gratitude for each person's gifts instead of hurtful sexist or racist assumptions.
+
+The second spiritual practice of *giving our gifts* reminds us that everyone has sacred gifts to give, a life purpose that only they can contribute, and this belief encourages high self-worth and a sense of inherent goodness, and leaves no room for shame.
+
+And the third core spiritual practice of *living in reciprocity* encourages deep and secure solidarity rather than the isolation, despair, and division that many people in unhealthy cultures feel daily.
+
+The three core spiritual practices bring out the best in people. Is it any wonder that healthy cultures around the world embrace them? And is it any wonder that authoritarian religions encourage hurtful attitudes instead?
+
+So are humans inherently selfish or inherently generous? Or does it depend on the person or culture? I believe _divinity speaks through each person's heart_. Each person has a life purpose, or sacred gifts to give, and the divine voice in each person's heart will help them find their gifts if they will only listen. Deep down, each person knows what's right and wrong, just and unjust. 
+
+When people act on that divine voice -- when a person offers their sacred gifts, acting with integrity, generosity, courage, awareness, authenticity, joy, and other beautiful qualities -- then the person is _acting with an open heart_, offering their deepest love. The more a person learns to "hold back" or "shut down" parts of themselves, the more they _close their heart to that divine voice_. The ones who hold back the most are often called "cold-hearted" or said to have "hearts of stone." In other words, they don't listen to that divine voice inside them that all people have, and so they act selfishly instead, withholding their gifts.
+
+Don Cox was a black American revolutionary leader in the Black Panthers, and his mother taught him this attitude. Cox said, "Mama was a saint. She taught me that there were no bad people in the world, only those who _made mistakes or stumbled_ along the path of righteousness. That naïve simplicity touched me to the marrow..."
+
+Like Jesus Christ, black American civil rights leader Martin Luther King Jr carried on his work knowing he would be killed for it. In a public speech on the night before he was assassinated, he said, "What would happen to me from some of our _sick_ white brothers? Well, I don't know what will happen now... I just want to do God's will..."
+
+I believe that no one is inherently bad, but some people do have a sickness, or stumble on a good path. And some people get really sick and cause huge amounts of unnecessary suffering. This is what happens when people of unhealthy cultures grow up learning to "hold back" or "shut down" sacred parts of themselves, learning to ignore abuse, ignore uncomfortable feelings or truths, or believe that people are untrustworthy, selfish, or bad, with almost everybody holding back in their own way.
+
+Many religions and ideologies of unhealthy cultures encourage that sickness, that heart-closure, or that stumbling. They train people to think selfishness is good, or humans are born disconnected from god, or we're inclined to sin and inherently bad, or we can't trust our instincts and feelings and neighbors. When children's love and dignity isn't welcome, many people learn to "hold back" or "shut down" parts of themselves or ignore some parts of reality to get along in their unhealthy culture, which only reinforces these early childhood patterns in adulthood with deceitful politicians, propaganda-filled media, and authoritarian schools, churches, and jobs.
+
+No one is inherently bad or selfish. Everyone has love to give. And no matter what's happened in the past, every moment is a fresh new chance to show up in the world in a good way.
+
+
 ### Cultivate Deep Patience
 
 Just because a prisoner decides to escape their prison doesn't mean they will succeed. Once a prisoner decides to escape prison, they must bide their time, preparing themselves.

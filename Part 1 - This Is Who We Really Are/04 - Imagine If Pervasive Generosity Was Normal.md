@@ -1,12 +1,12 @@
 ## Chapter 4: Imagine If Pervasive Generosity Was Normal
 
-Take a moment and picture yourself living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in time of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.**
+Take a moment and picture yourself living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in time of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
 Hard to imagine, isn't it?
 
 In the United States, like every unhealthy culture, people generally do have to fend for themselves. Businesses must make a profit (take in more than they give out) or else they go under. And most people want to make as much money as possible too.
 
-This drive to get more than we give, or even get rich, is not our human nature. It is one of the natural human consequences of living in an unhealthy culture, where the economy rewards selfishness and people who don't make enough money must live with sickness, hunger, homelessness, isolation, shame, and worse.**
+This drive to get more than we give (trying to "get" rich or trying to "get" ahead) is not our human nature. We are born naturally wanting to give and receive. However, an unnatural imbalance occurs in unhealthy cultures, where the economy rewards selfishness and people who don't make enough money must live with sickness, hunger, homelessness, isolation, shame, and worse.
 
 When you live in a culture where few people care if you eat tonight or what happens to you tomorrow, the self-centered desire to take as much as possible (i.e. to get rich) is naturally pervasive -- and as a result, it seems quite normal.
 
@@ -30,7 +30,7 @@ In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shep
 
 ### Generosity is the Norm
 
-These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any healthy society where everybody encourages generosity and strongly discourages selfishness. When everybody in a nation bases their lives on the three core spiritual practices of gratitude, gift-giving, and reciprocity, generosity naturally becomes pervasive, including their generous leaders. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.**
+These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any healthy society where everybody encourages generosity and strongly discourages selfishness. When everybody in a nation bases their lives on the three core spiritual practices of gratitude, gift-giving, and reciprocity, generosity naturally becomes pervasive, including their generous leaders. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.
 
 Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because my family and I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.
 
@@ -40,7 +40,7 @@ Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left
 
 I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 
-How do healthy cultures of all kinds do so well at avoiding this sort of hurtful selfishness?**
+How do healthy cultures of all kinds do so well at avoiding this sort of hurtful selfishness?
 
 ### Deliberately Avoiding Selfishness at All Costs
 
@@ -48,7 +48,7 @@ How do healthy cultures maintain widespread generosity? Is it by chance? Are som
 
 Eventually I noticed that it's no accident: in every healthy culture I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-Even in healthy cultures, someone may occasionally not get along with others, or start to feel disconnected or untrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.**
+Even in healthy cultures, someone may occasionally not get along with others, or start to feel disconnected or untrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
 
 Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.
 
@@ -80,9 +80,9 @@ But we don't need to speculate about how to deal with our biggest political prob
 
 Stories of healthy cultures gave me a _standard of comparison:_ once I studied common ways of life of healthy cultures, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy culture more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
 
-But first, I had to answer a big question: why doesn't everybody live in healthy cultures now? Find out in _Chapter 5: Why Doesn't Everybody Live in a Beautiful Way?_
+But first, I had to answer a big question: why doesn't everybody live in healthy cultures now?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group</div>
 <div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>
 
 <div style="break-after:page"></div>

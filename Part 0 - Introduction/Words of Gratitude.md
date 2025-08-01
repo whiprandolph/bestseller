@@ -1,4 +1,4 @@
-# Words of Gratitude
+## Words of Gratitude
 
 This book is based off the research I did for my first book, _One Disease One Cure_, and so I feel even more grateful to all the same people and nonhumans who helped me write that one. A few extra words of gratitude are in order though.
 

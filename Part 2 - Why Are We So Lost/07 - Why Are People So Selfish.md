@@ -111,8 +111,6 @@ In cultures that forbid people from seeking justice and upholding their own laws
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
-Selfishness and corruption are the same thing, and corruption is pervasive in every unhealthy culture. How come so few people stand in solidarity to confront the corruption and injustice in their unhealthy culture? To find out join me in _Chapter 8: Why Don't More People Stand Together?_ 
-
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear**</div>
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 

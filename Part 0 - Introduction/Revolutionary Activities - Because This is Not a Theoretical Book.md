@@ -1,17 +1,17 @@
-# Revolutionary Activities -- Because This is Not a Theoretical Book
+## Revolutionary Activities -- Because This is Not a Theoretical Book
 
-Dear Reader,
+This is a book about The Deepest Revolution -- proof that it's possible to live in a nation without injustice and corruption, why our current way of life isn't working, and inspirational stories from healthy cultures to help guide the way.
 
-This is a practical book about the Deepest Revolution. It is not theoretical. The Deepest Revolution is too important to just think about it.
+But no one will give you a beautiful healthy culture to be part of. No one will hand you a beautiful way of life on a silver platter.
 
-If you want to join the party, you need to cultivate yourself.
+This book isn't about a "solution" -- it's about a journey. I can't tell you every step needed to have a successful Deep Revolution, but I can tell you the kind of person you'd need to be to take part in it.
 
-I have included Revolutionary Activities which I believe will help you embrace attitudes and skills that I believe are essential to living in solidarity with other people and the Earth, based on the clear stories and perspectives from dozens of healthy cultures I have studied.
+After studying many healthy cultures and multiple Deep Revolutions, I noticed the people in these societies all have certain things in common -- things like deep connection with the Earth, integrity, bravery, joy, respect for children, mutual understanding, gratitude, and more. They have the spiritual strength to confront injustice, hold on to deep truths even while the media spreads lies and distractions, and release all shame. Each person gives their deepest love each moment as a normal way of life.
 
-These are not like many school homework assignments where you complete them once and move on. Many of these could be life-long practices, even daily, and the more you work them, the deeper they will take you on a beautiful path of deep meaning and connection.
+Sounds like a cool group of people to be around, right? 
 
-I have personally embraced all the activities in Part 1, Part 2, and most in Part 3, and they have made a huge difference in my life and I believe they can do the same for others. I believe these practices can lay the groundwork to help people come together and form healthy cultures.
+That's why this book includes dozens of Revolutionary Activities. I urge you to complete the activities. Let them challenge you. And don't just do each activity once, but do them repeatedly, so they become a way of life. I know from experience that the more you work these activities, the deeper they will take you on a beautiful path of deep meaning and connection.
 
-However, I have not successfully worked with others to realize the Deepest Revolution, and so I have not been able to complete all the activities in Part 3. Even though I haven't been able to complete all the activities, I know the work needs to be done. 
+I believe that if you grew up in a healthy culture, many of these activities would be normal parts of your childhood training. But for people that didn't grow up in healthy cultures, they'll train us to play a good part in the Deepest Revolution.
 
 <div style="break-after:page"></div>
