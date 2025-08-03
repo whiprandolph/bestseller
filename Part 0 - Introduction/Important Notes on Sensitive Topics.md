@@ -1,4 +1,4 @@
-## Important Notes on Sensitive Topics
+# Important Notes on Sensitive Topics
 
 ### Capitalization of People's Titles
 

@@ -1,4 +1,4 @@
-### Chapter 15: Welcome Everyone's Gifts
+## Chapter 15: Welcome Everyone's Gifts
 
 Some people have more money or privilege than others, but no one is doing well in their unhealthy culture.
 

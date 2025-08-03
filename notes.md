@@ -30,6 +30,7 @@
 * Chapter number fixup: Scan for "Chapter" and verify all references are correct, including within a couple chapters
 * make sure there aren't any pages with just 2-5 lines. Word-craft as needed.
 * scan for 'integrity of service' and ensure any explanations are after definition
+* add check to verify all chapters start at "##" depth
 * A few places where I end statements with "and more" or "countless others" - can seem ambiguous, making expanding on this with more specific statements would be more strong, "plenty of "and so on"
 * scan for common phrases and ensure they're not repeated too close to each other.
   * healthy culture

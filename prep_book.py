@@ -38,6 +38,10 @@ BOOK_ADDED_STYLE = """
     background-color: #F3F3F3;
     padding: 1em;
   }
+  h1 {
+    /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */
+    font-size: 1.5em;
+  }
   .rev-act-header {
     text-align: center;
     font-weight: bold;
@@ -147,8 +151,8 @@ def main():
   print("Finished producing html")
   make_online_pdf()
   os.startfile(book_final)
-  # make_phys_book()
-  # make_epub()
+  make_phys_book()
+  make_epub()
   cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
