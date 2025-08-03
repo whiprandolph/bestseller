@@ -16,4 +16,7 @@
 * Learn to Feed the Earth, and Learn to Receive Its Gifts
 
 
+
+* Get rid of non-essential surveillance devices, and any that you keep, treat with suspicion
+
 <div style="break-after:page"></div>

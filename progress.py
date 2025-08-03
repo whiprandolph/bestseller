@@ -26,10 +26,8 @@ chapters = {
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
     (1, 1, "The Biggest Secret in Human History.md"),
-    (1, 1, "Cultivate Integrity and Bravery.md"),
-    (1, 1, "Embrace the 3 Core Spiritual Practices.md"),
-    (1, 1, "How Can a Whole Nation Embrace Freedom.md"),
-    (1, 1, "The Deepest Revolution.md"),
+    (1, 1, "Welcome Everyone's Gifts.md"),
+    (1, 1, "Hold Yourself and Others to a High Standard.md"),
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "To Learn More.md"),

@@ -16,6 +16,8 @@ Just as the American, German, and other authorities are calling anti-genocide pr
 
 Why would ruling classes work so hard to spread propaganda against healthy cultures? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."
 
+In other words, ruling classes try to keep people in despair, not knowing that another way of life is possible without the endless troubles like corruption and greed.
+
 But now, you know the secret: healthy cultures do exist, whole nations that maintain a baseline of respect internally because everybody stands for what's right, and nobody rules over anybody else. And that is proof that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."
 
 Most people either haven't heard of healthy cultures or they misunderstand them, so they have no standard of comparison, and they're likely to accept their unhealthy culture as "good enough." British prime minister Winston Churchill even said, "democracy is the worst form of government except for all those other forms that have been tried..."
@@ -84,11 +86,15 @@ It can be easy to feel trapped and unable to respond to one's frustrations and f
 
 This showed me how easy it can be to forget, to stop asking deep questions and stop believing deep change is possible. It also taught me the path to continually remembering and keeping a vision alive: _share your vision with other people_.
 
-So find people that you trust to speak your heart to, and whom you likewise listen to. When you can speak clearly with thoughtful, friendly people in private, they will help you remember that you are sane, and it's your unhealthy culture that is crazy!
+So find people that you trust to speak your heart to, and whom you likewise listen to. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy culture that is crazy!
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #16<br/>Find people with whom you can speak your heart**</div>
 <div class="rev-act-body">Even if you don't know how to respond to your feelings, it can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
 
-[Ending]
+[xxx-ending]
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-ending]

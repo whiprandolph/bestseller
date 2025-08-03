@@ -83,7 +83,7 @@ The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" 
 
 Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.
 
-One day, a mirror person from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else. 
+One day, a mirror woman from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else. 
 
 She moved to the front and waited for church to start.
 
