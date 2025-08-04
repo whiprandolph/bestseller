@@ -26,13 +26,13 @@ In socialist Venezuela, people standing up for themselves and seeking justice se
 
 <center>
 <img src="./images/venezuelan_riot_police.jpg" width="390px" alt="Riot Police in Venezuela"/><br/>
-_Riot Police in Venezuela_</center>
+_Riot Police in Venezuela_[xxx-venezuelan riot]</center>
 
 In communist China, they see this:
 
 <center>
 <img src="./images/chinese_riot_police.jpg" width="390px" alt="Riot Police in China"/><br/>
-_Riot Police in China_
+_Riot Police in China_[xxx-chinese riot]
 </center>
 
 <div style="break-after:page"></div>
@@ -41,7 +41,7 @@ And in the capitalist United States, people standing up for themselves see this:
 
 <center>
 <img src="./images/american_riot_police.jpg" width="390px" alt="Riot Police in the United States"/><br/>
-_Riot Police in the United States_
+_Riot Police in the United States_[xxx-american riot]
 </center>
 <br/>
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
@@ -73,7 +73,7 @@ Can you imagine living in a culture where everyone accepts responsibility for se
 
 In healthy cultures, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.
 
-In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.
+In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109]
 
 These "mirror" people were like magazine opinion writers who commented on all sorts of things. If a mirror thought that the council was about to do something foolish, they might show up at council and imitate one of the leader's every moves so that "every little wart on that person would show, every hole in their idea would suddenly look real big."
 
@@ -114,7 +114,7 @@ Why are we so lost then?
 
 Because we have been forced against our will to learn to tolerate injustice and forget who we really are. When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level of in every unhealthy culture.
 
-When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and they can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not.
+When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and people can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not.
 
 You may not feel this affects you. You may have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself, if you woke up tomorrow with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy culture do for you? Would you have the deep security that comes from living in a loving, healthy culture where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice? 
 
@@ -125,3 +125,13 @@ But this playing-along is not who we really are. And because of that, I know tha
 "Why are we so lost?" is an important question we must address. But it is only worth the pain of facing the answer to that qustion when we also know that we absolutely can – and we must – stand up together and change it.
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-american riot]-xxx
+
+[xxx-daughters of copper woman|109]-xxx
+
+[xxx-venezuelan riot]-xxx
+
+[xxx-chinese riot]-xxx

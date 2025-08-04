@@ -18,9 +18,11 @@ Many women have resisted this mistreatment and worked to get their unhealthy cul
 
 As a result, many women in unhealthy cultures have aspired to a life of wage slavery, trying to find meaningless jobs just like male wage slaves who've had meaningless jobs for centuries.
 
-Unfortunately, when women only aspire to having the same roles as men, they simply take on exploitative jobs that men have traditionally held. Women engineers design nuclear power plants that produce toxic waste which will pollute the Earth for millennia. Women business executives oversee the production of plastics and other chemicals causing endless health problems. Women police officers abuse protesters who are standing for what's right and seeking justice. Women politicians like Margaret Thatcher or Nancy Pelosi implement laws that benefit the rich.
+Unfortunately, when women only aspire to having the same roles as men, they simply take on exploitative jobs that men have traditionally held. Women engineers design nuclear power plants that produce toxic waste which will pollute the Earth for millennia. Women business executives oversee the production of plastics and other chemicals causing endless health problems. Women police officers abuse protesters who are standing for what's right and seeking justice. Women politicians like Margaret Thatcher or Hillary Clinton implement laws that benefit the rich.[xxx-odoc|chp39]<sup>,</sup>[xxx-conversation thatcher]
 
-For as long as I live in an unhealthy culture, I will support women in finding meaningful paid work. Women are equally capable as men in many areas of life and equally deserving of respect. However, encouraging girls to become female wage slaves, selfish female business executives, and corrupt female politicians is clearly not the path to freedom.**
+For as long as I live in an unhealthy culture, I will support women in finding meaningful paid work. Women are equally capable as men in many areas of life and equally deserving of respect. However, encouraging girls to become female wage slaves, selfish female business executives, and corrupt female politicians is clearly not what earlier feminists had in mind.**
+
+When I think about having a job, I look to the Zapatistas and Black Panthers for inspiration. They didn't necessarily stop working normal jobs while they sought deep change; they just knew that each person individually "getting a better job" in an exploitative economy was not the path to collective freedom.
 
 #### Honor the Feminine Strengths
 
@@ -34,11 +36,18 @@ Women's nurturing and tending qualities are strengths, not weaknesses. These qua
 
 Embracing the sacred feminine in an unhealthy culture is an act of courage, healing, and love. It is strong to embrace being female, not weak. There is nothing more powerful or revolutionary than being yourself and giving your deepest love.
 
-The Haudenosaunee and Zapatista men and women founders knew they needed strong women to play a strong role in their healthy culture. The stories of these healthy cultures' foundings both involved women playing a key role, and the men recognized and welcomed this. Women who try to be "like men" or "as good as men" are not simply being themselves. Yet this is where real strength comes from -- from _being yourself, by giving your deepest love_. Healthy cultures need strong women being themselves.
+The Haudenosaunee showed me how a whole nation can value women's sensitivity and wisdom. Chief Oren Lyons described how, whenever there is a vacant leadership role, a clan mother is trusted to choose a candidate to fill the position. Her choice must be approved by her clan, and then by the grand council of chiefs, and finally by all the people. If a candidate does not receive approval at any stage, the clan matriarch must start over and find someone else, sending another man through the process till he has the full support needed to be recognized as a leader. In this way, no man becomes leader without the support of the trusted woman elder, other leaders, and the community.[xxx-original instructions|a democracy based on peace]
+
+The Haudenosaunee and Zapatista men and women founders knew they needed strong women to play a strong role in their healthy culture. The founding of both these healthy cultures involved women playing a key role in determining their laws and customs, and the men recognized and welcomed the women's contributions.[xxx-odoc|ch31]<sup>,</sup>[xxx-odoc|ch40]
+
+Women who try to be "like men" or "as good as men" are not simply being themselves. Yet this is where real strength comes from -- from _being yourself, by giving your deepest love_. Healthy cultures need strong women being themselves.
 
 Whether a particular woman sees her role as tending children or being a military commander, healer, teacher, engineer, administrator, or something else or a mix, women who give their deepest love can contribute in countless ways.
 
 But sexism will not end and freedom will not come just because women succeed in holding the same exploitative jobs as men. Sexism and male privilege are universal features of every unhealthy culture there has ever been. Deep freedom and the end of sexism will come when everybody stands for a culture of mutual respect, and nobody rules over anybody else.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Welcome the feminine gifts</div>
+<div class="rev-act-body">Think of a way that you've seen or heard women treated hurtfully. For example, perhaps someone claimed a woman deserved to be assaulted because she dressed in a beautiful way, or a mother hardly had any maternity leave after giving birth and struggled to rest and eat well. Maybe someone said that tending to her family and community without expectation of payment is less valuable than having a paying job.<br/><br/>Find a way to honor the feminine gifts around you, so that it is easier for women to give them.</div></div>
 
 ### Welcome the Masculine Gifts
 
@@ -50,7 +59,9 @@ As a result, abusive cultures raise boys not to honor their innate spiritual cal
 
 _It is not legal to be a good man in an unhealthy culture_, because good men stand up against any injustice or threat to their people, and authorities forbid this. Thus many men learn to tolerate, ignore, or perpetuate abuse to our neighbors, against all our natural instincts.
 
-When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy cultures wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?" Recall that spirituality is simply how a person relates to themselves and the world. When a man's deep gift of protective boundary-setting is not welcome in their unhealthy culture, it is difficult for a man to know how to relate to himself and the world.
+When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy cultures wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?"
+
+Recall that spirituality is simply how a person relates to themselves and the world. When a man's deep gift of protective boundary-setting is not welcome in their unhealthy culture, it is difficult for a man to know how to relate to himself and the world.
 
 This ultimately is the spiritual reality behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their love and not stand for what's right is deeply unsatisfying.
 
@@ -65,9 +76,6 @@ Rain-in-the-Face was a Sioux warrior who fought to protect his people from the e
 Every transition into unhealthy cultures required this deep spiritual wounding in men where they are expected to hold back their love and not protect their people from the biggest threats. Rain-In-The-Face could at least recognize his wound because he had grown up in a culture that welcomed his deepest love. He knew what giving his love and setting protective boundaries was like, so he knew something was wrong when these gifts were unwelcome in the unhealthy culture.
 
 Most boys in unhealthy cultures never learn what it's like to give their deepest love because they're trained for obedience instead of standing for what's right. Training children for obedience actually trains them for cowardice, as they learn to take the comfortable and safe path (of doing what they're told to stay out of trouble) instead of bravely standing for what's right, even contrary to the authorities. When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Welcome the feminine gifts</div>
-<div class="rev-act-body">Think of a way that you've seen or heard women treated hurtfully. For example, perhaps someone claimed a woman deserved to be assaulted because she dressed in a beautiful way, or a mother hardly had any maternity leave after giving birth and struggled to rest and eat well. Maybe someone said that tending to her family and community without expectation of payment is less valuable than having a paying job.<br/><br/>Find a way to honor the feminine gifts around you, so that it is easier for women to give them.</div></div>
 
 #### Brave Men Inspire Women's Trust, and Trusting Women Inspire Men's Bravery
 
@@ -87,9 +95,9 @@ Pretty Shield was a Crow woman, and she described what it was like when the men 
 
 Many stories show the profoundly beautiful way of life that exists when brave men inspire women's trust, and trusting women intentionally inspire men's bravery.
 
-Wikis was a boy of five or six years old when his Cheyenne village was attacked. He remembered seeing the men instantly jump on their horses and ride towards the danger while the women gathered the children. He said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp."
+Wikis was a boy of five or six years old when his Cheyenne village was attacked. He remembered seeing the men instantly jump on their horses and ride towards the danger while the women gathered the children. He said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp."[xxx-when buffalo ran|attack on the camp]
 
-The warriors were heavily outnumbered, and so they repeatedly engaged the enemy and retreated to avoid being overwhelmed. Wikis said, "there were many of these strangers, while our people were only a few. But still my people kept stopping and turning and fighting. Now the noise was louder. The women sang their strong heart songs more shrilly, and I could hear more plainly the whoops of men..." Wikis' mother then ran away with the children across a river. Help came from a larger nearby village and pushed the attackers away. Several warriors died that night protecting their people.[xxx-when buffalo ran|attack on the camp]
+The warriors were heavily outnumbered, and so they repeatedly engaged the enemy and retreated to avoid being overwhelmed. Wikis said, "there were many of these strangers, while our people were only a few. But still my people kept stopping and turning and fighting. Now the noise was louder. The women sang their strong heart songs more shrilly, and I could hear more plainly the whoops of men..." Wikis' mother then ran away with the children across a river. Help came from a larger nearby village and pushed the attackers away. Several warriors died that night protecting their people.
 
 Women's beauty and trust can be deeply inspirational to men who have trained to bravely give their love in service to their people. Black Elk described how the Lakota women would cheer on their men both during preparation and during battle. In the Battle of Little Bighorn in 1876, Black Elk described an attack by the American military led by lieutenant colonel George Armstrong Custer. As the attackers approached, they kicked up a huge dust cloud. Women and children ran into their village while the warriors ran out. Warriors shouted war cries and Black Elk described how he once ran to a group of women: "When I got to the women on the hill they were all singing and making the tremolo to cheer the men fighting across the river."[xxx-black elk speaks|the rubbing out of long hair]
 
@@ -142,3 +150,13 @@ Find your power and recognize your sacred gifts. Give your sacred gifts every da
 [xxx-when buffalo ran|lessons prairie]
 
 [xxx-ending]
+
+[xxx-original instructions|a democracy based on peace]
+
+[xxx-odoc|chp39]
+
+[xxx-odoc|ch40]
+
+[xxx-odoc|ch31]
+
+[xxx-conversation thatcher]

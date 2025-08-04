@@ -2,7 +2,7 @@
 
 In every healthy culture I've found, elders consistently train children to be generous, and to see selfishness as a threat to their way of life.
 
-Sioux man Sitting Bull said, "Love of possessions is a disease," and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant." Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness were allowed to take hold in their society.
+Sioux man Sitting Bull said, "Love of possessions is a disease,"[xxx-indian heroes and great chieftains|sitting bull] and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant."[xxx-from deep woods to civilization|the way opens] Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness were allowed to take hold in their society.[xxx-braiding sweetgrass|windigo footprints]
 
 When one or a few people act selfishly, the culture can respond and help them feel comfortable sharing again, or evict them if they insist on being selfish.
 
@@ -30,13 +30,13 @@ Many people in 2025 recognize chattel slave plantations or forced prison labor a
 
 * _Advantage 2: Politicians and businessmen can pretend that workers live in a free society_. Wage slaves can legally choose their job and where to live. This offers much more flexibility than in chattel slavery, prison slavery, or military slavery, and so politicians can pretend that wage slaves live in a free country, and they should be proud and grateful.
 
-Soviet East German minister for state security Erich Milke once said, "The [German Democratic Republic] is a state that guarantees its citizens freedom, democracy, and basic human rights." On Human Rights Day, Canadian prime minister Justin Trudeau noted that, "defending human rights and democracy has always been, and will continue to be, a priority for Canada..." Whether socialist or capitalist, these are simply different forms of market economy that allow politicians to pretend that the workers are free.
+Soviet East German minister for state security Erich Milke once said, "The [German Democratic Republic] is a state that guarantees its citizens freedom, democracy, and basic human rights."[xxx-stasi east german secret police|the sword of repression] On Human Rights Day, Canadian prime minister Justin Trudeau noted that, "defending human rights and democracy has always been, and will continue to be, a priority for Canada..."[xxx-statement canada prime minister rights] Whether socialist or capitalist, these are simply different forms of market economy that allow politicians to pretend that the workers are free.
 
-People of healthy cultures -- who currently or in recent times lived in actual freedom -- recognize the truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms." When people are forced to work for others to survive, not allowed to choose their own laws, and not allowed to uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
+People of healthy cultures -- who currently or in recent times lived in actual freedom -- recognize the truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people are forced to work for others to survive, not allowed to choose their own laws, and not allowed to uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
 
 #### Maintaining Financial Desperation in Market Economies
 
-Authorities use a vast number of techniques to make people feel financially desperate and willing to do work they don't want to do in order to earn money. As a result, many people sacrifice their integrity, health, family time, and other important things just to keep the job they need to survive. This financial desperation explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."
+Authorities use a vast number of techniques to make people feel financially desperate and willing to do work they don't want to do in order to earn money. As a result, many people sacrifice their integrity, health, family time, and other important things just to keep the job they need to survive. This financial desperation explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."[xxx-quote investigator upton]
 
 Different ruling classes manage their economies very differently to maintain desperation and maximize productivity, but there are some common patterns.
 
@@ -62,7 +62,7 @@ Of course, rulers may not need to force bankers, politicians, and individual bos
 
 Authorities' underlying attitude in market economies is "find a way to serve us, or enjoy your poverty." Workers don't legally have to have a job, but they face desperate poverty if they don't find a way to serve some master somewhere. However, in market economies the worst punishment for disobedience is usually just being fired. In command economies, the approach is more direct: "Obey my order, or I will punish you." Workers in these situations generally do not choose their boss and are physically punished if they do not follow orders.
 
-For example, in US chattel slavery before the US Civil War, if a slave did not pick enough cotton in a day, the boss would whip them severely to motivate higher performance the next day. Prisoners likewise do not get to choose their boss or their kind of work, and plenty of stories from the United States, Russia, and other countries describe severe physical and sexual punishments for prisoners that disobey orders.
+For example, in US chattel slavery before the US Civil War, if a slave did not pick enough cotton in a day, the boss would whip them severely to motivate higher performance the next day.[xxx-half has never been told|1805-1861] Prisoners likewise do not get to choose their boss or their kind of work, and plenty of stories from the United States, Russia, and other countries describe severe physical and sexual punishments for prisoners that disobey orders.[xxx-odoc|ch24]
 
 Militaries are command economies as well. When there is a draft, governments force people to join the military. Even when people volunteer, militaries commonly do not let soldiers leave at will for years after joining. Soldiers commonly don't choose their boss (commanding officer) and are imprisoned if they disobey orders.
 
@@ -91,7 +91,7 @@ All of life is simply divine beings giving their gifts. This is the recognition 
 
 In gift economies, people simply figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy cultures (known as Indians) often gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
 
-Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."
+Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
 
 "Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an Indian giver is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and pass it along to someone else who needs it more.
 
@@ -99,13 +99,13 @@ Due to this fundamental difference between caring for others and caring primaril
 
 A person in a gift economy may feel upset if a person accepts a gift, doesn't use it, and then refuses to pass it on to someone else. A person from a profit economy may feel upset if they receive a gift only to find that the giver wants it back. Both sides may feel offended, and it reflects a fundamentally different perspective on sharing (and trusting others to share) versus hoarding (and not trusting others to share). Do gifts keep moving until they arrive where they are most needed? Or do people hoard possessions whether they need them or not?
 
-Potawatomi woman Robin Kimmerer noted the consequences when she wrote, "If all the world is a commodity, how poor we grow. When all the world is a gift in motion, how wealthy we become."
+Potawatomi woman Robin Kimmerer noted the consequences when she wrote, "If all the world is a commodity, how poor we grow. When all the world is a gift in motion, how wealthy we become."[xxx-braiding sweetgrass|the gift of strawberries]
 
 This healthy-culture attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
 
 Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever the group faces a big challenge.
 
-In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"
+In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"[xxx-original instructions|armstrong]
 
 In cultures that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy culture. Widespread selfishness is the result.
 
@@ -115,3 +115,29 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-braiding sweetgrass|windigo footprints]-xxx
+
+[xxx-from deep woods to civilization|the way opens]-xxx
+
+[xxx-indian heroes and great chieftains|sitting bull]-xxx
+
+[xxx-stasi east german secret police|the sword of repression]-xxx
+
+[xxx-statement canada prime minister rights]
+
+[xxx-griid sitting bull speech]
+
+[xxx-quote investigator upton]
+
+[xxx-original instructions|armstrong]-xxx
+
+[xxx-braiding sweetgrass|the gift of strawberries]-xxx
+
+[xxx-odoc|ch24]-xxx
+
+[xxx-half has never been told|1805-1861]-xxx
+
+[xxx-basket interview]-xxx

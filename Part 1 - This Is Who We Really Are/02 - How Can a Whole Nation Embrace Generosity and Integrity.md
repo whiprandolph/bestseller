@@ -18,13 +18,13 @@ I was amazed to discover that the Ashaninka had no police or prisons, yet they a
 
 Avoiding crime may seem impossible in societies numbering in the thousands or more, yet many large healthy human cultures have lived this way -- not just occasionally, but for millions of years.
 
-Countless Americans and Europeans, when encountering healthy cultures for the first time, have been surprised by the lack of crime or law enforcement. For example, when French Christian missionaries first visited the Huron in North America in the 1600s, they were amazed that thousands of people could get along so well without police or prisons. 
+Countless Americans and Europeans, when encountering healthy cultures for the first time, have been surprised by the lack of crime or law enforcement. For example, when French Christian missionaries first visited the Huron in North America in the 1600s, they were amazed that thousands of people could get along so well without police or prisons.[xxx-huron farmers of the north|p71]
 
-In the 1930s, when American dentist Weston Price visited many healthy cultures around the world, he wrote that "few impressions can be more vivid than that of the absence of prisons and asylums." 
+In the 1930s, when American dentist Weston Price visited many healthy cultures around the world, he wrote that "few impressions can be more vivid than that of the absence of prisons and asylums."[xxx-nutr phys gen|phys ment moral deter]
 
-Benjamin Franklin seemed equally surprised by healthy cultures he visited in eastern North America in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."
+Benjamin Franklin seemed equally surprised by healthy cultures he visited in eastern North America in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."[xxx-lies my teacher told me|p108]
 
-Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."
+Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."[xxx-a basic call to consciousness|p49]
 
 In sharp contrast, the United States, France, and every other unhealthy culture around the world spend huge amounts of time, energy, and money trying to control crime with prisons and police -- and yet so much crime and political corruption continues.
 
@@ -32,9 +32,9 @@ How can some nations live without police and prisons, and also no widespread cri
 
 It's not as if healthy cultures don't have some troubles -- in any society, people sometimes don't get along. The difference is that people of healthy cultures address disputes in ways that maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior without demanding humiliation or submission. And when mutual respect is the norm, any selfish or hurtful act stands out as something to be immediately addressed so everyone can return to that respectful baseline.
 
-Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.
+Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.[xxx-original instructions|definition of indigenous knowledge]
 
-The Ju/'hoan San (these punctuation symbols refer to sounds that don't exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."
+The Ju/'hoan San (these punctuation symbols refer to sounds that don't exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."[xxx-original instructions|peace technologies from the san bushmen of africa]
 
 Some people think these beautiful practices can only work in small groups, but these kinds of effective approaches have worked in both small and very large nations.
 
@@ -46,7 +46,7 @@ Actually, no. As later chapters show, when people live in respectful societies w
 
 And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, isolation, and humiliation that comes from being imprisoned.
 
-Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..." 
+Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
 
 Banishing or killing someone for severe misbehavior, like hoarding wealth or killing someone in anger, appears to have been very rare.
 
@@ -54,7 +54,7 @@ All these cultures seem so different, each with their own ways of helping people
 
 ### But Can We Live This Way Today?
 
-Yes! There are present-day examples of people who struggled with greed, discrimination, and corruption for centuries, but then founded a new healthy culture and did away with these problems. The Zapatistas were conquered by the Spanish 500 years ago, then lived under Mexican rule until their revolution in 1994. Even after so long, they remembered how to have a healthy culture, so when they were able to launch their revolution they knew how to re-establish that baseline of mutual respect amongst themselves even while under attack from the Mexican military.
+Yes! There are present-day examples of people who struggled with greed, discrimination, and corruption for centuries, but then founded a new healthy culture and did away with these problems. The Zapatistas were conquered by the Spanish 500 years ago, then lived under Mexican rule until their revolution in 1994. Even after so long, they remembered how to have a healthy culture, so when they were able to launch their revolution they knew how to re-establish that baseline of mutual respect amongst themselves even while under attack from the Mexican military.[xxx-odoc|ch40]
 
 As just one example, the Zapatistas substantially reduced the sexism that women faced. When women were interviewed 20 years later in 2014, one said "The capitalists had us believing this idea... that women are not valuable." Another woman said, "The [women] suffered a lot before '94: humiliation, mistreatment, rape." But the revolution brought deep change, with one Zapatista woman saying "As women we have the same rights as men, we have the right to decide which duties we can carry out in the communities..." Another woman said, "in those [Mexican] organizations there are many problems of rape and mistreatment, while with us, Zapatistas, it is not that way..."
 
@@ -64,7 +64,7 @@ Of course, there are many stories of individual Americans or small groups pullin
 
 And yet as I read more about various healthy cultures, I kept finding stories in which whole towns and even whole nations routinely acted with kindness and respect toward every member.
 
-Nancy Basket, a woman of Cherokee descent described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.
+Nancy Basket, a woman of Cherokee descent described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.[xxx-basket interview]
 
 People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
 
@@ -72,33 +72,33 @@ People would go back and forth between the new and old sites as they prepared th
 
 The more I read, the more I found stories of nations that currently or in the recent past were similar to the Ashaninka. Superficially, of course, they were and are different -- Eskimos in the arctic might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia. But I kept noticing deep, beautiful patterns that healthy cultures seem to all share in common when they are able to live in a traditional way.
 
-Besides the lack of police and prisons, I also noticed observers remarking on their deep integrity. When Ohiyesa, a Sioux man born in North America in the 1800s, visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."
+Besides the lack of police and prisons, I also noticed observers remarking on their deep integrity. When Ohiyesa, a Sioux man born in North America in the 1800s, visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."[xxx-from deep woods to civilization|civ college life east]
 
-American S.M. Barrett described having complete trust in Apache leader Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise."
+American S.M. Barrett described having complete trust in Apache leader Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise."[xxx-geronimo autobio|introductory]
 
-Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.
+Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.[xxx-fighting cheyennes|introduction]
 
 I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- but also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, and Canada. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful cultures.
 
 And it's not just trustworthiness. I kept finding stories of incredible generosity -- not just occasionally, but as a normal way of life for whole nations.
 
-Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. They did not have markets for trading or bartering, but instead embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.
+Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. They did not have markets for trading or bartering, but instead embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
 
 The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
 
 How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, instead gathering wealth so they can give away as much as possible to their neighbors?
 
-This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.
+This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
-Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."
+Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-a basic call to consciousness|p104]
 
 ### When Even Prisoners of War Don't Want to Leave
 
 All this could easily seem too good to be true, except for another kind of story I kept finding: stories of people born in unhealthy cultures running away to live in healthy cultures.
 
-Benjamin Franklin also noticed this, pointing out how children born in healthy cultures and then raised in European cultures commonly tried to return to their healthy culture. However, "when white persons of either sex have been taken prisoners young by the Indians, and have lived a while among them, tho' ransomed by their Friends, and treated with all imaginable tenderness... yet [soon] they become disgusted with our manner of life... and take the first good Opportunity of escaping again into the Woods, from whence there is no reclaiming them." Many enslaved people who escaped British or American bondage also ran away to live with healthy cultures.
+Benjamin Franklin also noticed this, saying "No European who has tasted Savage Life can afterwards bear to live in our societies."[xxx-lies my teacher told me|p107] "Savage" has been a common European label for people of healthy cultures, which will be discussed later. Many enslaved people who escaped British or American bondage also ran away to live with healthy cultures.[xxx-lies my teacher told me|p108]
 
-Even when people of unhealthy cultures were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee Confederacy engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French prisoners didn't want to return home after experiencing life in a healthy culture: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."
+Even when people of unhealthy cultures were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee Confederacy engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French prisoners didn't want to return home after experiencing life in a healthy culture: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
 
 In other words, French prisoners of war had lived in a non-abusive culture and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."
 
@@ -106,7 +106,7 @@ This was obviously humiliating for colonial leaders who pretended not to abusive
 
 In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy culture they'd been able to experience!
 
-These healthy cultures were a major threat to colonial leaders, because their existence showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.
+These healthy cultures were a major threat to colonial leaders, because their existence showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.[xxx-lies my teacher told me|p107]
 
 ### Deep Respect, Even when Capturing Prisoners of War
 
@@ -114,9 +114,9 @@ For a while I wondered how healthy cultures could keep prisoners of war if they 
 
 There are three ways to deal with captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. 
 
-People of healthy cultures have openly acknowledged that they treat their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Sioux man Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."
+People of healthy cultures have openly acknowledged that they treat their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Sioux man Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
-Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.
+Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder."[xxx-red mother|p173] A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p??????]
 
 In this way, healthy cultures do not capture people and treat them abusively, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy cultures ensure they keep that internal baseline of mutual respect.
 
@@ -128,3 +128,47 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 <div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic If so, what were some of your assumptions about people that you may now question?</div></div>
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-huron farmers of the north|p71]-xxx
+
+[xxx-a basic call to consciousness|p49]-xxx
+
+[xxx-basket interview]-xxx
+
+[xxx-lies my teacher told me|p108]-xxx
+
+[xxx-original instructions|peace technologies from the san bushmen of africa]-xxx
+
+[xxx-braiding sweetgrass|windigo footprints]-xxx
+
+[xxx-nutr phys gen|phys ment moral deter]-xxx
+
+[xxx-original instructions|definition of indigenous knowledge]-xxx
+
+[xxx-odoc|ch40]-xxx
+
+[xxx-from deep woods to civilization|civ college life east]-xxx
+
+[xxx-fighting cheyennes|introduction]-xxx
+
+[xxx-geronimo autobio|introductory]-xxx
+
+[xxx-huron farmers of the north|p40]-xxx
+
+[xxx-secrets of the talking jaguar|p275]-xxx
+
+[xxx-secrets of the talking jaguar|p210]-xxx
+
+[xxx-a basic call to consciousness|p104]-xxx
+
+[xxx-lies my teacher told me|p107]-xxx
+
+[xxx-beyond geography|possession]-xxx
+
+[xxx-indian heroes and great chieftains|sitting bull]-xxx
+
+[xxx-red mother|p173]-xxx
+
+[xxx-red mother|p??????]

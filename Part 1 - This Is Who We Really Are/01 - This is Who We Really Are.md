@@ -48,25 +48,25 @@ A few months later, my father asked me what I had learned. I told him that I did
 
 The more I looked around in my own culture, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
-For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty!
+For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
 
 I realized that driving past a prison is like driving past a chattel slave plantation from two centuries ago: the slaves didn't "deserve" to be there; they were just captured and enslaved and put to work, or else they'd get punished. How are present-day prisoners in any different situation, if only 2% got a trial by jury where they actually got a chance to defend themselves in court? Prisoners cannot legally refuse to work either, just like chattel slaves of the past. It's like an ancient injustice just changed form, but never really went away.
 
 Everywhere I look in my town, I see the same kind of corruption, each industry in its own way.
 
-I went grocery shopping, and found that almost everything for sale causes cancer, immune disorders, developmental disorders, and other troubles: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans. 
+I went grocery shopping, and found that almost everything for sale causes cancer, immune disorders, developmental disorders, and other troubles: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans.[xxx-leaf score nonstick chems]<sup>,</sup>[xxx-cbc news plastics food wrap]<sup>,</sup>[xxx-ewg dirty dozen food chems]
 
-Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of fraud, bribing government officials, manipulating research trials, misleading advertising, and more.
+Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of fraud, bribing government officials, manipulating research trials, misleading advertising, and more.[xxx-jama fin penalties]
 
 The Ashaninka don't have corruption like this. What lessons could I possibly learn from them to help make this nightmare end?
 
-I drive past all the major banks every day -- the same banks that keep getting "caught" every few years laundering money for drug cartels and human trafficking organizations, or forging legal paperwork to defraud homeowners, cheating their own customers, or whatever the next scam-of-the-day is.
+I drive past all the major banks every day -- the same banks that keep getting "caught" every few years laundering money for drug cartels and human trafficking organizations, or forging legal paperwork to defraud homeowners, cheating their own customers, or whatever the next scam-of-the-day is.[xxx-bettermarkets bank rap sheet]
 
 These pharmaceutical companies and banks get dinged with little "cost of doing business" fines by the government, and nothing much changes. The predatory and selfish behavior continues -- not by outsiders, but mostly people within my own culture! How come the Ashaninka are able to maintain respectful relations between everyone, and in America, it seems like rich Americans are the biggest threat that the poor Americans face?
 
-Almost all of America's drinking water is now toxic, with different regions having their own mix of heavy metals, microplastics, and other chemicals. Chemical and fossil fuel companies don't seem to care about the long term effects of the products they sell.
+Almost all of America's drinking water is now toxic, with different regions having their own mix of heavy metals, microplastics, and other chemicals. Chemical and fossil fuel companies don't seem to care about the long term effects of the products they sell.[xxx-ewg state drinking water]
 
-Forests keep getting cleared to make way for strip malls and suburban lots, while scientists sound the alarm that loss of forests is a major driver of climate change and the mass extinction happening right now.
+Forests keep getting cleared to make way for strip malls and suburban lots, while scientists sound the alarm that loss of forests is a major driver of climate change and the mass extinction happening right now.[xxx-nrdc logging climate change]
 
 Anyone who confronts injustices and tries to uphold the law is punished, because only the police are supposed to enforce the law. Unfortunately, the police have to follow orders and clearly they don't enforce the law consistently. As a result, no one is free to confront these terrible troubles.
 
@@ -100,3 +100,21 @@ Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic v
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-cbc news plastics food wrap]-xxx
+
+[xxx-npr plea bargain]-xxx
+
+[xxx-leaf score nonstick chems]-xxx
+
+[xxx-ewg dirty dozen food chems]-xxx
+
+[xxx-jama fin penalties]-xxx
+
+[xxx-bettermarkets bank rap sheet]-xxx
+
+[xxx-ewg state drinking water]-xxx
+
+[xxx-nrdc logging climate change]-xxx

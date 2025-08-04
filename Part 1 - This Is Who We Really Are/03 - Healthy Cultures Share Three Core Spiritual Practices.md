@@ -20,7 +20,7 @@ All these things are gifts! No one makes the trees offer their gifts of shade or
 
 The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy culture has its own ways of expressing gratitude, but they all have _some_ way.
 
-The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one. Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters. Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.
+The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one.[xxx-kamana 2 nat|p1] Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters.[xxx-original instructions|armstrong] Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.[xxx-braiding sweetgrass|skywoman falling]
 
 I grew up learning to give thanks to God by closing my eyes and trying to ignore my surroundings so I could focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea or feeling of God. And I thanked my mental idea of God for all the good things in my life.
 
@@ -37,7 +37,7 @@ I looked up through the forest canopy just in time to notice a second, silent ha
 
 Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we are divine creatures like everything else in Creation.
 
-Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being." Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"
+Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart] Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
 
 Just like everybody else, you have sacred gifts, a life purpose, a way you can make the world a better place -- _and only you can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is to _cultivate and give your sacred gifts_ too.
 
@@ -55,15 +55,15 @@ These two spiritual practices of gratitude and gift-giving are both so beautiful
 
 Many healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
 
-The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills. In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account. The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.
+The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills.[xxx-cultural survival standing rock] In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account.[xxx-basket interview] The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.[xxx-cnapa concept note]<sup>,</sup>[xxx-the best guardians of the forest]
 
-In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established." The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging the old-growth forests.
+In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established."[xxx-guardian mbuti] The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging the old-growth forests.[xxx-australia example]<sup>,</sup>[xxx-resilience sami skerk]
 
-In South America, the Yuracares, Tchimanes and other cultures work to prevent the destruction of their forests in the TIPNIS region of Bolivia, where the government wants to allow illegal road development, monocrop farming, and deforestation. In northern Asia, the Evenk, Nivkh, and other cultures work to stop destructive Russian oil and gas extraction activities.
+In South America, the Yuracares, Tchimanes and other cultures work to prevent the destruction of their forests in the TIPNIS region of Bolivia, where the government wants to allow illegal road development, monocrop farming, and deforestation.[xxx-counterpunch tipnis] In northern Asia, the Evenk, Nivkh, and other cultures work to stop destructive Russian oil and gas extraction activities.[xxx-cultural survival sakhalin island]
 
 Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their neighbors, both human and nonhuman.
 
-In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."
+In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-braiding sweetgrass|allegiance to gratitude]
 
 In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities where they live.
 
@@ -80,7 +80,7 @@ People may learn to "hold back" or "shut down" parts of themselves to survive in
 
 Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among their people, and between people and the Earth?
 
-These practices aren't just for some people. Anybody could embrace them right now to cultivate and give a deeper love. And it turns out, what's good for the individual is also good for the group. As Robin Kimmerer wrote, "in order for the whole to flourish, each of us has to be strong in who we are and carry our gifts with conviction, so they can be shared with others."
+These practices aren't just for some people. Anybody could embrace them right now to cultivate and give a deeper love. And it turns out, what's good for the individual is also good for the group. As Robin Kimmerer wrote, "in order for the whole to flourish, each of us has to be strong in who we are and carry our gifts with conviction, so they can be shared with others."[xxx-braiding sweetgrass|the three sisters]
 
 What are your gifts? What can you give or do or be that would open your heart and let it sing?
 
@@ -88,3 +88,35 @@ What are your gifts? What can you give or do or be that would open your heart an
 <div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and consider what most matters to you, and how you can act in service of it. 2) Consider what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and meaning already in life, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-original instructions|armstrong]-xxx
+
+[xxx-kamana 2 nat|p1]-xxx
+
+[xxx-braiding sweetgrass|skywoman falling]-xxx
+
+[xxx-kamana 3 nat|burning desire heart]-aaa (Young, n.d.-a, 14)
+
+[xxx-the best guardians of the forest]
+
+[xxx-guardian mbuti]
+
+[xxx-resilience sami skerk]
+
+[xxx-australia example]
+
+[xxx-counterpunch tipnis]
+
+[xxx-cultural survival sakhalin island]
+
+[xxx-basket interview]-xxx
+
+[xxx-braiding sweetgrass|allegiance to gratitude]-xxx
+
+[xxx-cnapa concept note]
+
+[xxx-cultural survival standing rock]
+
+[xxx-braiding sweetgrass|the three sisters]-xxx

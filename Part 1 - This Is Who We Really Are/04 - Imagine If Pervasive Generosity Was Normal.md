@@ -16,7 +16,7 @@ Every healthy culture I've studied strongly promotes generosity (giving) and rec
 
 ### Generosity from Birth
 
-Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and other accomplishments, and at each feast the parents gave away as much as they could for the benefit of those who had little.
+Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and other accomplishments, and at each feast the parents gave away as much as they could for the benefit of those who had little.[xxx-indian heroes and great chieftains|crazy horse]
 
 Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to _be brave as he faced the consequences of his generosity._ She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
 
@@ -24,9 +24,9 @@ Sioux parents didn't just model generosity; they actively encouraged generosity 
 
 This generosity doesn't just exist between the people in these societies. In every single beautiful culture I found, their generosity extended to the nonhumans as well. That is, the people live or lived in a way that benefits the nonhumans around them.  
 
-Jeannette Armstrong described the traditional Okanagan decision-making process called en'owkinwiwx, and how it very carefully took into account the full range of the humans' and nonhumans' needs. She was trained as a _land speaker_, and her role in their group decision-making was to consider every decision's effects on the land. In this way, the Okanagans made sure to always take the non-humans' needs into account.
+Jeannette Armstrong described the traditional Okanagan decision-making process called en'owkinwiwx, and how it very carefully took into account the full range of the humans' and nonhumans' needs. She was trained as a _land speaker_, and her role in their group decision-making was to consider every decision's effects on the land. In this way, the Okanagans made sure to always take the non-humans' needs into account.[xxx-original instructions|armstrong]
 
-In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shepherds. These people recognized that while the wolves sometimes ate the people's sheep, the wolves also ate gazelles which would overeat and destroy the grassland if the wolves didn't keep them in check. Without the grassland, the sheep would die, and humans couldn't survive either. Thus the hunter-shepherds were very careful not to overhunt the wolves, ensuring the whole ecosystem could thrive.
+In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shepherds. These people recognized that while the wolves sometimes ate the people's sheep, the wolves also ate gazelles which would overeat and destroy the grassland if the wolves didn't keep them in check. Without the grassland, the sheep would die, and humans couldn't survive either. Thus the hunter-shepherds were very careful not to overhunt the wolves, ensuring the whole ecosystem could thrive.[xxx-wolf totem|chapter 2]
 
 ### Generosity is the Norm
 
@@ -34,9 +34,9 @@ These stories really touched me, even shocked me. But in time I realized this wa
 
 Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because my family and I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.
 
-Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.
+Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.[xxx-basket interview]
 
-Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.
+Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.[xxx-commodity exchange and subordination]
 
 I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 
@@ -50,15 +50,15 @@ Eventually I noticed that it's no accident: in every healthy culture I've found,
 
 Even in healthy cultures, someone may occasionally not get along with others, or start to feel disconnected or untrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
 
-Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.
+Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.[xxx-braiding sweetgrass|windigo footprints]
 
 Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to be in a culture with pervasive selfishness and greed? 
 
-The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their culture. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."
+The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their culture. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-a basic call to consciousness|p105]
 
 In other words, in healthy cultures, it's no accident that they maintain a way of life based on generosity and mutual respect. In every healthy culture I've found, they recognize the profound threat that selfish behavior represents, and they go to great lengths to avoid it.
 
-Jeannette Armstrong's description of Okanagan decision-making shows how beautiful life can be in cultures that embrace generosity and reciprocity, and why people would go to such great lengths to avoid selfishness. When a community includes the perspectives of human relationships and the land in their decision-making, "community changes... the material things don't have a lot of meaning... material wealth and the securing of it or being fearful and being frightened about not having 'things' to sustain you, disappears... The realization that people and community are there to sustain you creates the most secure feeling in the world... When that happens, you're imbued with the hope that others surrounding you in your community can provide."
+Jeannette Armstrong's description of Okanagan decision-making shows how beautiful life can be in cultures that embrace generosity and reciprocity, and why people would go to such great lengths to avoid selfishness. When a community includes the perspectives of human relationships and the land in their decision-making, "community changes... the material things don't have a lot of meaning... material wealth and the securing of it or being fearful and being frightened about not having 'things' to sustain you, disappears... The realization that people and community are there to sustain you creates the most secure feeling in the world... When that happens, you're imbued with the hope that others surrounding you in your community can provide."[xxx-original instructions|armstrong]
 
 ### What Do These Stories Mean?
 
@@ -86,3 +86,19 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 <div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-indian heroes and great chieftains|crazy horse]-xxx
+
+[xxx-wolf totem|chapter 2]-xxx
+
+[xxx-original instructions|armstrong]-xxx
+
+[xxx-basket interview]-xxx
+
+[xxx-commodity exchange and subordination]-xxx
+
+[xxx-braiding sweetgrass|windigo footprints]-xxx
+
+[xxx-a basic call to consciousness|p105]-xxx

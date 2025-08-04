@@ -4,17 +4,17 @@ For years, I studied beautiful traditional cultures like the Lakota and Potawato
 
 I also kept studying unhealthy cultures, like Russia, Great Britain, Canada, and the United States, and I kept noticing common patterns there too, such as racism, sexism, self-serving political leaders, and pollution. What causes those cultures to be so unhealthy, generation after generation?
 
-Do cultures become unhealthy when the population gets too large? Some academic literature states that humans can only maintain tight knit communities of up to 150 people, a limit called "Dunbar's number." I commonly hear people claim that humans start behaving inappropriately towards each other in groups larger than 150, as accountability mechanisms supposedly start to break down then.
+Do cultures become unhealthy when the population gets too large? Some academic literature states that humans can only maintain tight knit communities of up to 150 people, a limit called "Dunbar's number." I commonly hear people claim that humans start behaving inappropriately towards each other in groups larger than 150, as accountability mechanisms supposedly start to break down then.[xxx-conversation dunbar number]
 
 But that doesn't make sense. The Ashaninka number more than 2,000 and maintain a generous, relaxed culture where everyone is treated respectfully.
 
-The Cherokee in 1674 CE numbered approximately 50,000 and likewise maintained that internal baseline of mutual respect amongst themselves.
+The Cherokee in 1674 CE numbered approximately 50,000 and likewise maintained that internal baseline of mutual respect amongst themselves.[xxx-cherokee pop and extent]
 
-Do cultures become unhealthy when they cover too much area? That doesn't make sense either. As of the early 1700s, the Haudenosaunee Confederacy covered over 38,000 square miles. This is comparable in size to Switzerland, Bhutan, or Taiwan. If the Haudenosaunee were a US state, it would be the 38th largest, between Kentucky and Indiana.
+Do cultures become unhealthy when they cover too much area? That doesn't make sense either. As of the early 1700s, the Haudenosaunee Confederacy covered over 38,000 square miles.[xxx-native land map haud] This is comparable in size to Switzerland, Bhutan, or Taiwan. If the Haudenosaunee were a US state, it would be the 38th largest, between Kentucky and Indiana.
 
-Before extended European contact, the Cherokee covered approximately 40,000 sq miles. Clearly humans can maintain healthy cultures that cover huge distances and include many thousands of people.
+Before extended European contact, the Cherokee covered approximately 40,000 sq miles. Clearly humans can maintain healthy cultures that cover huge distances and include many thousands of people.[xxx-cherokee pop and extent]
 
-Did the trouble happen when people started farming? No, the Huron gained about 75% of the food they ate from crops they grew. They still shocked French missionaries who couldn't understand how people could get along without police, prisons, and authorities imposing law and order. Even prior to contact with European colonizers, the Haudenosaunee relied more on farming than hunting for food.
+Did the trouble happen when people started farming? No, the Huron gained about 75% of the food they ate from crops they grew. They still shocked French missionaries who couldn't understand how people could get along without police, prisons, and authorities imposing law and order.[xxx-huron farmers of the north|p26]<sup>,</sup>[xxx-huron farmers of the north|p71] Even prior to contact with European colonizers, the Haudenosaunee relied more on farming than hunting for food.[xxx-encyclopedia haudenosaunee|pvii]
 
 Sometimes people of these cultures are called native, indigenous, tribal, aboriginal, indian, or first nations. I call them healthy human cultures.
 
@@ -58,7 +58,7 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 Part 3 of this book will explore how you can work with others to create a beautiful way of life, a nation of spiritually strong people living in actual freedom. It will require tremendous hard work, bravery and risk -- and _it's worth it_.
 
-But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain the kind of healthy cultures millions of humans have lived in since the dawn of time.**
+But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain the kind of healthy cultures millions of people have lived in since the dawn of time.**
 
 Healthy cultures are who we really are. Anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 
@@ -71,3 +71,17 @@ Most people haven't heard the perspectives and stories that offer a helpful path
 To confront the deep sickness in every unhealthy culture and learn ways to build our spiritual strength, join me in _Part 2 - Why Are We So Lost?_
 
 <div style="break-after:page"></div>
+
+### References
+
+[xxx-native land map haud]
+
+[xxx-conversation dunbar number]
+
+[xxx-cherokee pop and extent]
+
+[xxx-encyclopedia haudenosaunee|pvii]
+
+[xxx-huron farmers of the north|p71]-xxx
+
+[xxx-huron farmers of the north|p26]-xxx
