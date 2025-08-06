@@ -6,10 +6,10 @@ chapters = {
   ],
   "Part 1 - This Is Who We Really Are": [
     (1, 1, "Part Introduction.md"),
-    (2, 1, "This is Who We Really Are.md"),
-    (2, 1, "How Can a Whole Nation Embrace Generosity and Integrity.md"),
-    (1, 1, "Healthy Cultures Share Three Core Spiritual Practices.md"),
-    (2, 1, "Imagine If Pervasive Generosity Was Normal.md"),
+    (3, 1, "This is Who We Really Are.md"),
+    (3, 1, "How Can a Whole Nation Embrace Generosity and Integrity.md"),
+    (2, 1, "Healthy Cultures Share Three Core Spiritual Practices.md"),
+    (3, 1, "Imagine If Pervasive Generosity Was Normal.md"),
     (1, 1, "Why Doesn't Everybody Live in This Beautiful Way.md"),
   ],
   "Part 2 - Why Are We So Lost": [
@@ -20,7 +20,7 @@ chapters = {
     (1, 1, "Why Do People Obey Corrupt Leaders.md"),
     (1, 1, "Why Are People So Racist And Hateful.md"),
     (1, 1, "How Can a Whole Nation Embrace Awareness and Unity.md"),
-    (1, 1, "Selfish Violence vs Violence-In-Service.md"),
+    (3, 1, "Selfish Violence vs Selfless Violence.md"),
     (1, 1, "The Endless Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [
@@ -38,5 +38,6 @@ chapters = {
 }
 
 # 1 = some/all text missing citations
-# 2 = all text with citations, some/all missing cite author/reference
-# 3 = complete with all citations, auth/reference, and verified
+# 2 = all text with citations in zotero, not all verified (this has [xxx-cite] below ### References)
+# 3 = all verified, not all with formatted citation (ie auth, year) (this is -xxx)
+# 4 = complete with all citations, auth/reference, and verified (this is -aaa)

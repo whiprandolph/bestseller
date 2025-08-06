@@ -73,7 +73,9 @@ phys_content_pdf_path = os.path.join(book_final, "content_phys.pdf")
 online_book_pdf_path = os.path.join(book_final, "The Deepest Revolution.pdf")
 phys_book_pdf_path = os.path.join(book_final, "The Deepest Revolution -- PHYSICAL.pdf")
 index_path = os.path.join(book_final, "index.pdf")
-
+citations_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\Citations.md"
+bib_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\Bibliography.md"
+tmp_bib_path = os.path.join(book_final, "tmp_biblio.md")
 images_source = r"C:\Users\whip\tdr-book-html\images"
 images_dest = os.path.join(book_final, "images")
 
@@ -102,20 +104,125 @@ def process_chapter(full_path):
   if not is_main_part_intro(os.path.basename(full_path), os.path.dirname(full_path)):
     assert chap_id not in chap_ids, chap_id
   chap_ids.add(chap_id)
-  references = "### References"
-  try:
-    assert '<toc/>' not in blob, "Chap %s has <toc/>" % full_path
-    assert references not in blob, "reference in chap %s" % full_path
-    assert "break-after:page" in blob, "no break-after in %s" % full_path
-  except AssertionError as exc:
-    response = 'y'
-    time.sleep(.25)
-    print("FAILED ASSERTION '%s', CONFIRM WE SHOULD CONTINUE (Y/n) > " % exc)
-    if response == 'n':
-      sys.exit()
-  if references in blob:
-    return blob.split(references)[0]
-  return blob
+  ref_header = "### References"
+  assert '<toc/>' not in blob, "Chap %s has <toc/>" % full_path
+  assert "break-after:page" in blob, "no break-after in %s" % full_path
+
+  if not ref_header in blob:
+    return blob, []
+
+  body, references = blob.split(ref_header)
+
+  cite_list = []
+  ref_map = build_ref_map(references)
+
+  ref_start_line_check = [x for x in body.split("\n") if x.strip().startswith("[xxx")]
+  assert len(ref_start_line_check) == 0, "[xxx starts a line; ref: %s, file: %s" % (ref_start_line_check, full_path)
+
+  header_check = [x for x in body.split("\n") if x.strip().startswith("##") and not ("[" not in x and "]" not in x and "(" not in x and ")" not in x) and "Audio" not in x]
+  assert len(header_check) == 0, "edit-header; header: %s, file: %s" % (header_check, full_path)
+
+  start = body.find("[xxx")
+
+  cite_number = 1
+  while start != -1:
+    end = body.find("]", start)+1
+    xxx_ref = body[start:end]
+    body = body[:start] + "<sup><a href=\"#cite_%s_%s_dest\" id=\"cite_%s_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (chap_id, cite_number, chap_id, cite_number, cite_number) + body[end:]
+    cite_list.append((chap_id, cite_number, ref_map[xxx_ref]))
+    start = body.find("[xxx", start+1)
+
+    cite_number += 1
+
+  # assert "**" not in blob, full_path
+  print("SKIPPING ** CHECK")
+  time.sleep(.25)
+
+  print_out = "Back-to-backs for " + os.path.basename(full_path)
+  do_print = False
+  for i in range(1, len(cite_list)):
+    if cite_list[i][1] == cite_list[i-1][1]:
+      print_out += '\n   ' + cite_list[i][1]
+      do_print = True
+  if do_print:
+    print(print_out)
+
+  return body, cite_list
+
+
+def build_ref_map(ref_blob):
+  ref_map = {}
+
+  for line in ref_blob.split("\n"):
+    if not line.strip(): continue
+
+    print("ADDING FAKE CITES TILL THEY'RE DONE")
+    # assert "[xxx" in line and "-aaa" in line, line
+    if '-xxx' in line:
+      xxx, official = line.split("-xxx")
+    elif '-aaa ' in line:
+      xxx, official = line.split("-aaa ")
+    else:
+      xxx = line
+    ref_map[xxx] = "(author, date)"
+    continue
+
+    xxx, official = line.split("-aaa ")
+    xxx = xxx.strip()
+    official = official.strip()
+    assert xxx.startswith("[xxx") and xxx[-1] == "]", line
+    assert official[0] == "(" and official[-1] == ")", line
+
+    ref_map[xxx] = official
+  print(ref_map)
+  return ref_map
+
+
+def write_cites(cite_list):
+  with open(citations_path, 'w', encoding='utf-8') as citations_handle:
+    citations_handle.write("# Citations\n\n")
+    citations_handle.write("<table class=\"cite_table\">")
+    for chap, cites in cite_list:
+      if not cites:
+        continue
+
+      citations_handle.write("<tr><td><b>%s</b></td></tr>" % chap)
+      cites_iterable = iter(cites)
+      for chap_id, cite_num, cite in cites_iterable:
+      #citations_handle.write("## %s\n\n" % chap)
+      #for chap_id, cite_num, cite in cites:
+        #citations_handle.write("<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (chap_id, cite_num, chap_id, cite_num, cite_num, cite))
+        cell_contents = "<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (chap_id, cite_num, chap_id, cite_num, cite_num, cite)
+        try:
+          next_chap_id, next_cite_num, next_cite = next(cites_iterable)
+          # Even number of cites, row has two cells
+          cell_contents_2 = "<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (next_chap_id, next_cite_num, next_chap_id, next_cite_num, next_cite_num, next_cite)
+          citations_handle.write("<tr><td>%s</td><td>%s</td></tr>\n\n" % (cell_contents, cell_contents_2))
+        except Exception as exc:
+          # odd number of cites, close out the row
+          citations_handle.write("<tr><td>%s</td><td></td></tr>\n\n" % cell_contents)
+
+    citations_handle.write("</table>")
+    citations_handle.write("<div style=\"break-after:page\"></div>\n")
+
+
+def fix_biblio():
+  bib_blob = open(bib_path, 'r', encoding='utf-8').read()
+  lines = bib_blob.split("\n")
+
+  fixed_lines = []
+  for line in lines:
+    if line.strip() == "" or "# Bibliography" in line: continue
+
+    if "https://" in line or "http://" in line and "a href" not in line:
+      protocol = "https://" if "https://" in line else "http://"
+      link = protocol + line.split(protocol)[1].strip()
+      if " " in link: # if the url isn't at the end of the line
+        link = link.split(" ")[0]
+      line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link))
+    assert "\">\">" not in line, line
+    fixed_lines.append(line)
+  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n%s\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
 
 
 def main():
@@ -132,14 +239,25 @@ def main():
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
   assert len(full_list) == 26, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
-      body = process_chapter(file_name)
+      #if "citation" in file_name.lower() or "bibliography" in file_name.lower():
+      #  continue
+      body, cite_list = process_chapter(file_name)
       book_md.write("%s\n" % body)
       if 'Part ' not in file_name:
         chap_line = body.split("\n", 1)[0]
         assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
-      
+      if cite_list:
+        chapter_name = body.split("\n", 1)[0].strip("## ").strip()
+        full_cite_list.append((chapter_name, cite_list))
+    print("# cite count: %s" % sum([len(cites) for foo, cites in full_cite_list]))
+    #write_cites(full_cite_list)
+    #fix_biblio()
+    #cite_blob = open(citations_path, 'r', encoding='utf-8').read()
+    #book_md.write("%s\n\n" % cite_blob)
+
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
   fixup_html(online_book_html_path)

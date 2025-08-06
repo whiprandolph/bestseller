@@ -26,6 +26,7 @@
 * play with page margins to get more text on a page, shrink page count. 
 * play with font size slightly - small changes can have big efffect on page count due to whole paragraphs getting shifted around
 * verify part/chapter formatting is correct in epub, esp preface material and post-material
+* scan for common phrases and ensure they're not overused too close to each other - stand for what's right, healthy culture / unhealthy culture, etc.
 * vertical center the part names
 * Chapter number fixup: Scan for "Chapter" and verify all references are correct, including within a couple chapters
 * make sure there aren't any pages with just 2-5 lines. Word-craft as needed.
@@ -69,7 +70,7 @@
     - understood the European-prisoner part
 
   - I am emotionally struck that cultures that have been healthy historically are not extant, haven't dealt with what we've dealt with and "come out the other side"
-****** give example in part 1 of Zapatistas going from unhealthy -> healthy, releasing sexism --> shows that people can pull out of shitty cultural patterns, and that this isn't just historical but is happening now
+    --> give example in part 1 of Zapatistas going from unhealthy -> healthy, releasing sexism --> shows that people can pull out of shitty cultural patterns, and that this isn't just historical but is happening now
 
 * Any parts you specially liked, found surprising or interesting
 
@@ -199,3 +200,10 @@ Start all part 2 chapters with healthy cultures?
 Endless predation - lightbulb moment leading into part 3
   * our politics aren't working. Right/left, democracy-monarchy, capitalism-communism - these arguments aren't working. 
   * trained to hold back/shut down self - endless predation is what happens, what we can easily predict will happen
+
+
+## research notes
+
+### Quran
+
+Like Basket/MLK, this quran quote (Al-Quran Surah 5: Verse 32):  On the other hand, if one saves the life of a single person it shall be as if he has saved the lives of all mankind

@@ -117,9 +117,7 @@ People tend to rise or fall to the expectations others have for them. When peopl
 
 Of course, anybody in any culture can hold themselves and others to a high standard. Ruling classes can impose whatever laws they want, but you and the people around you can choose how you will show up in life.
 
-Find your power and recognize your sacred gifts. Give your sacred gifts every day, and invite the people around you to do the same. When everybody in a group bravely gives their deepest love every day, the people will be able to relax into a widespread trust in each other that feels deeply satisfying.
-
-[xxx-ending]
+Find your power and recognize your sacred gifts. Give your sacred gifts every day, and invite the people around you to do the same. When everybody in a group bravely gives their deepest love every day, the people will be able to relax into a widespread trust in each other that feels deeply satisfying.[xxx-ending]
 
 <div style="break-after:page"></div>
 

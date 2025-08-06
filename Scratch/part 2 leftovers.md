@@ -1,0 +1,10 @@
+## From racism/hatred
+this relentless training arises from three underlying cultural drivers:
+
+1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. 
+
+    For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.
+
+2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing the above example, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.
+
+3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.

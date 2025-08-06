@@ -4,8 +4,6 @@
 
 * Study healthy cultures, become friends with people who carry their healthy-culture traditions. Healthy cultures have found a huge variety of ways of sharing food, choosing servant-leaders, having sexual relationships, eating nutritious diets, raising strong children, living in harmony with the Earth, addressing inappropriate behavior, responding to threats, and more. Consider which ways could work for you, and which wouldn't, and what lessons to learn.
 
-The "Bibliography" section in this book offers a key list of writings on which this book is based, and _One Disease One Cure_ offers many more.
-
 ### The Deepest Revolution and Creating a New Healthy Culture are the Same Path
 
 A revolution is just a process, usually violent, where people in power lose that power. In a shallow revolution, oa new ruling class replaces the old, and the lives of most people don't change much.

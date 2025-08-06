@@ -136,7 +136,26 @@ After the Deepest Revolution, there isn't a ruling class anymore. The people agr
 
 If there is any kind of revolution or civil war, and people have not cultivated their spiritual strength and unity, then the revolution will be shallow, and little good will come of it.
 
-So cultivate your spiritual strength and support others in growing as well. No one can know the future. But if you work with others to build a foundation of spiritual strength now, you can protect the Earth and each other for as long as your unhealthy culture lasts. And when the time is ripe, you will be ready for the Deepest Revolution. 
+So cultivate your spiritual strength and support others in growing as well. No one can know the future. But if you work with others to build a foundation of spiritual strength now, you can protect the Earth and each other for as long as your unhealthy culture lasts. And when the time is ripe, you will be ready for the Deepest Revolution.
+
+****
+
+You and others will keep fucking up, learn to forgive. Make the relationships, and keep tending it.
+
+Agree to the standards and hold each other to them.
+
+
+Summary chapter -- consider all the activities, when you and others commit to this, what kind of subculture will you have? All the healthy-culture qualities we've explored!
+
+***
+
+Law is just the standard of behaviors people agree on. When Law is imposed, people are unable to uphold their own law.
+
+In practice, that means when standards of behavior are imposed, people don't uphold their own high standards of behavior -- and standards fall.
+
+***
+
+selfishness chapter - examples of people demanding work - examples of coerced consent (how many people want politicians to make more jobs, higher paying jobs)
 
 <div style="break-after:page"></div>
 

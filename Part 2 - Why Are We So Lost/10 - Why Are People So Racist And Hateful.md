@@ -6,15 +6,7 @@ This is not true. No one is born racist, sexist, or hateful. Every child, regard
 
 However, immersed in unhealthy cultures from birth, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are culturally programmed to discriminate against others. That programming is not inherent in our DNA. It has to be taught.
 
-How are racism and other kinds of discrimination taught? I believe this relentless training arises from three underlying cultural drivers:
-
-1. _Systemic discrimination_: Rulers and lower authorities artificially impose differences between races by purposely treating different groups of people in different ways in terms of the law, pay, exposure to toxic pollution, how they are commonly represented in news and entertainment, access to food, school funding, and many other conditions. Authorities may also propagate hateful or racist beliefs and then punish anyone who disagrees. 
-
-    For example, in the 1600s, wealthy slaveowners in colonial Virginia decided only black people would be chattel slaves, whereas poor whites could be overseers, shopkeepers, farmers, and soldiers. Poor white people were thus strongly encouraged to support chattel slavery, siding with rich slave owners against the chattel slaves. Anyone who spoke out against this system risked being attacked, imprisoned or killed, including white people, which led to a strong anti-black racism among Virginian white people.
-
-2. _Adopting an authoritarian attitude_: Many people learn to adopt racist attitudes that are imposed or encouraged by authorities in order to maintain or advance their own privilege, comfort, and safety in their abusive unhealthy culture. Continuing the above example, white people in colonial Virginia were more likely to support chattel slavery than work together to confront the rich slave owners who kept them all in poverty. We see this in many forms today, as many people adopt attitudes and beliefs that help protect their privilege.
-
-3. _Child abuse_: Some kinds of child abuse predispose people to embrace authoritarian attitudes. For example, studies show that children who are physically abused are more likely to perpetuate, or at least tolerate, abuse of themselves or others. Since abusive exploitation is common in unhealthy cultures, many abused parents tragically abuse their children or cannot offer loving affection and healthy boundaries, training children to develop hurtful traits.
+How are racism and other kinds of discrimination taught? I believe it is simple: rulers decide what behaviors and attitudes are ok, and punish people who don't adopt them. People who play along get rewarded, and those who don't get punished, often in confusing ways. Eventually, hurtful attitudes and behaviors become normalized.**
 
 How does this work in practice?
 
@@ -74,9 +66,9 @@ Many government statements have called the Palestinians subhumans who deserve im
 
 In Israel, one school girl expressed sympathy with the Palestinians, saying she hoped they could return to their homes soon. She was suspended from school as other students threatened to burn her house down and the Ministry of Education accused her of "incitement against IDF [Israeli] soldiers."
 
-In America, we see similar disturbances. Anyone who tries to acknowledge the truth about Israeli aggression towards Palestinians is accused of antisemitism -- as if opposing Israeli genocide and being racist towards Jews were the same thing, which obviously they are not.**
+In America, we see similar disturbances. Anyone who tries to acknowledge the truth about Israeli aggression towards Palestinians is accused of antisemitism -- as if opposing the Israeli government's genocide and being racist towards Jewish people were the same thing, which obviously they are not.
 
-President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide. This is only an expansion of the policy that his predecessor president Biden started, as the genocide clearly has support from both major political parties.
+President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide. This is only an expansion of the policy that his predecessor president Biden started, as the genocide clearly has had support from both major political parties the entire time.
 
 Similar manipulative behavior is happening in many other unhealthy cultures, including Germany, Australia, France, and the United Kingdom.
 
@@ -84,7 +76,7 @@ And it's not just the government that tries to scare protesters away from acknow
 
 Just like American slave owners scared poor and middle class white people into hating black people or remaining silent so they wouldn't oppose slavery, modern day authorities are trying to scare us into submission so we won't oppose their genocide.
 
-And just like authorities have attacked or killed spiritual leaders in the past, the same thing is happening today as authorities attack or kill the activists showing the most bravery, wisdom, and generosity to try to stop the massacre of Palestinians. American authorities imprisoned Mahmoud Khalil for his activist work against the genocide, just like the Germans arrested Majed Abusalama and the British arrested Huda Ammori. Countless thousands of others, in every country whose rulers strongly support the genocide, have also been persecuted for opposing it.**
+And just like authorities have attacked or killed spiritual leaders in the past, the same thing is happening today as authorities attack or kill the activists showing the most bravery, wisdom, and generosity to try to stop the massacre of Palestinians. American authorities imprisoned Mahmoud Khalil for his activist leadership work against the genocide, just like the Germans arrested Majed Abusalama and the British arrested Huda Ammori. In every country whose rulers strongly support the genocide, countless thousands of others have also been persecuted for opposing it.
 
 Why are so many governments and corporate leaders supporting this genocide? People can only speculate: is it part of a plan for creating a major new west-Asian trade route through Israel? Accessing gas deposits off the Gaza coast? Developing beachfront real estate? All the above, or something else? When leaders are unaccountable, it can be difficult to know their true motivations.
 
@@ -94,11 +86,17 @@ This shows how ancient patterns of nations with rulers (or ruling classes) are p
 
 Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. _All these countries are actually dictatorships: cultures where some people dictate the law, and everyone else is expected to obey it._
 
-This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways, even when they pretend not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are just more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.
+This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.**
+
+Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.**
+
+None of this excuses anyone's behavior, but it does explain where troubles like racism and hatred come from: authorities impose racism and hate, rewarding those who go along and punishing those who don't. Many people sadly follow along to protect their privilege.**
+
+There is another big factor leading to racism and hatred: child abuse can predispose people to adopting very hurtful attitudes, as Chapter 13 will explore.**
 
 When people are trapped with selfish and unaccountable leaders, the results are always tragic. What would it take for a group of people to select the most selfless and honest leaders instead?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Protect yourself from adopting racist or hateful beliefs**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Protect yourself from adopting racist or hateful beliefs</div>
 <div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you knew someone from that group that you admired, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, go to the library and look for stories there. If you live in the United States, I suggest finding someone from Russia, Iran or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working in a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of countless people.<br/><br/>Finding a person to learn from does not mean you need to support any of these countries' governments. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're just people too, probably stuck in an unhealthy culture like you.</div></div>
 
 ### Healthy Cultures Choose Leaders Who Serve the People
@@ -129,7 +127,7 @@ One Nootka storyteller described the importance of "the mirror in the eyes of th
 
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Spread good news to encourage good deeds**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Spread good news to encourage good deeds</div>
 <div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
 
 <div style="break-after:page"></div>

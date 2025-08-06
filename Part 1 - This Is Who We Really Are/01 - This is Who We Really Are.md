@@ -90,7 +90,7 @@ Part Three calls for _The Deepest Revolution_: our current unhealthy cultures mu
 
 In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy cultures themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy cultures, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. Many of these books reference more than one healthy culture.
 
-While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observers. A full list of this book's major sources can be found in the _Bibliography_ section.
+While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observers.
 
 The next chapter explores how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
 

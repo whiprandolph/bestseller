@@ -83,6 +83,14 @@ def get_md(md_path):
     if "<toc/>" in md_contents:
         a, b, c = md_contents.split("<toc/>")
         md_contents = a + c
+    start = md_contents.find("[xxx")
+    cite_number = 1
+    while start != -1:
+        end = md_contents.find("]", start)+1
+        md_contents = md_contents[:start] + str(cite_number) + md_contents[end:]
+        start = md_contents.find("[xxx", start+1)
+        cite_number+=1
+    md_contents = md_contents.replace("<sup>,</sup>",",")
     return md_contents
 
 

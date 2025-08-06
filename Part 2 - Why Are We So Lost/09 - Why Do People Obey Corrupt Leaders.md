@@ -1,5 +1,13 @@
 ## Chapter 9: Why Do People Obey Corrupt Leaders?
 
+***
+move jesus history near top, then comparison below, change framing
+
+rev-act: how do you think Jesus Christ would feel about people being taught to be obedient to oppressive authorities?
+
+***
+
+
 The shared core experience of having a ruling class is simple: you must obey their laws whether you like them or not. Even if you like their laws, you are not allowed to uphold those laws -- if you do, you will be punished for intervening to ensure justice when someone behaves badly. Like it or not, you must follow the rulers and their lower authorities, even if you don't trust them or like their leadership.
 
 Following corrupt, unaccountable leaders is considered a normal part of life in unhealthy cultures: people don't choose their bosses at work, don't choose their commanders in the military, and don't really choose their political leaders, because even in democracies politicians run and win based primarily on money, and therefore they are effectively chosen by the rich.
@@ -16,9 +24,9 @@ And what would be a highly effective way of accomplishing that? How about imposi
 
 Every religion has aspects of wisdom and beauty. However, when ruling classes impose an ideology or religion, they consistently twist or distort this ancient wisdom and beauty so that people learn to submit to authorities instead of personally stand for what's right. Unfortunately, this is essentially why religions like Christianity, Islam, and Buddhism consistently train people for submissive obedience.
 
-This is sensitive stuff and I want to assure you that I am sticking to the known facts from recorded history. Christianity was first imposed on ancient Rome by Roman emperor Theodosius in 380 CE, and he threatened severe punishment to anyone who didn't convert. And what does the official Christian Bible say? According to 1-Peter 2:13: "Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority, or to governors..."
+This is sensitive stuff and I want to assure you that I am sticking to the known facts from recorded history. Christianity was first imposed on ancient Rome by Roman emperor Theodosius in 380 CE, and he threatened severe punishment to anyone who didn't convert.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440] And what does the official Christian Bible say? According to 1-Peter 2:13: "Submit yourselves for the Lord's sake to every human authority: whether to the emperor, as the supreme authority, or to governors..."[xxx-bible|niv 1 peter 2:13]
 
-Islamic rulers have also propagated this same pro-obedience ideology in their religion. The Quran says, "O believers! Obey Allah and obey the Messenger and those in authority among you." And of course, plenty of other authoritarian religions train people to believe that god says to obey their rulers.
+Islamic rulers have also propagated this same pro-obedience ideology in their religion. The Quran says, "O believers! Obey Allah and obey the Messenger and those in authority among you."[xxx-quran|4:59] And of course, plenty of other authoritarian religions train people to believe that god says to obey their rulers.
 
 The trouble runs deeper though. In abusive relationships, the abuser will often try to control the victim by lowering the victim's self-esteem in various ways -- by making them doubt themselves and doubt their own senses, by shaming and belittling them, by training the victim to think they're lucky to live with the abuser and would be worse off on their own. Abusers may train victims to think abuse is normal in relationships, and victims deserve what they get. Not surprisingly, victims who believe these things are more likely to tolerate abuse and stay in abusive relationships instead of leaving them.
 
@@ -28,27 +36,27 @@ In unhealthy cultures -- just like in abusive domestic relationships between two
 
 Self-respecting people do not passively submit to abusive authorities, but when people deeply embrace these hurtful attitudes or beliefs, they can become more willing to accept abuse, isolation, dissatisfaction, apathy, meaninglessness, superficiality, or despair.
 
-For example, the Catholic Church's official dogma states that humans are "inclined to sin" and have "an inclination to evil." Still one of the most followed religions in the world, Catholicism states that the first human (Adam) "lost the original holiness and justice he had received from God, not only for himself but for all human beings."
+For example, the Catholic Church's official dogma states that humans are "inclined to sin" and have "an inclination to evil." Still one of the most followed religions in the world, Catholicism states that the first human (Adam) "lost the original holiness and justice he had received from God, not only for himself but for all human beings."[xxx-catholic catechism|405]<sup>,</sup>[xxx-catholic catechism|416-418]
 
-And it's not just humans who are inherently bad or evil. Catholic dogma states that human sin "put the world as a whole in the sinful condition." This message that humans are born without holiness, inclined to evil, and disconnected from divinity is deeply shameful and discouraging.
+And it's not just humans who are inherently bad or evil. Catholic dogma states that human sin "put the world as a whole in the sinful condition."[xxx-catholic catechism|408] This message that humans are born without holiness, inclined to evil, and disconnected from divinity is deeply shameful and discouraging.
 
 And it gets worse -- apparently we were born into a sinful world that our sinful ways helped create! What message could possibly encourage more hopelessness?
 
-The Islamic Quran likewise causes people to doubt their own sense of right and wrong, and to trust authorities instead. The Quran repeatedly states Allah's omniscience: "Allah is All-Forgiving, Most Merciful... Surely Allah is Almighty, All-Wise... And Allah is All-Hearing, All-Knowing." The Quran paints the Islamic God Allah as omniscient, and how should a person respond if they have a feeling, urge, or thought that does not align with their authorities' religious text? The Quran is clear: "Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
+The Islamic Quran likewise causes people to doubt their own sense of right and wrong, and to trust authorities instead. The Quran repeatedly states Allah's omniscience: "Surely Allah is Almighty, All-Wise[xxx-quran|2:220]... And Allah is All-Hearing, All-Knowing."[xxx-quran|2:224] The Quran paints the Islamic God Allah as omniscient, and how should a person respond if they have a feeling, urge, or thought that does not align with their authorities' religious text? The Quran is clear: "Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."[xxx-quran|2:216]
 
-Buddhist authorities have pulled the same authority-supporting tricks. Visitors to Tibet prior to the Chinese takeover in the 1950s found Tibetan Buddhists teaching that the world is full of evil. Every bend of the road, stream crossing, or village entrance had to have a row of flags to exorcize evil spirits. Lakes, wells, and streams teamed with demons who brought floods and hail storms upon anyone who violated their religious leaders' rules.
+Buddhist authorities have pulled the same authority-supporting tricks. Visitors to Tibet prior to the Chinese takeover in the 1950s found Tibetan Buddhists teaching that the world is full of evil. Every bend of the road, stream crossing, or village entrance had to have a row of flags to exorcize evil spirits. Lakes, wells, and streams teamed with demons who brought floods and hail storms upon anyone who violated their religious leaders' rules.[xxx-lhasa vol 1|p350]
 
 Evil could exist almost anywhere, from doorways to cracks in stones, and -- surprise, surprise -- only the priests could protect people from evil, for a fee of course. This ideology scared people away from the wilderness, seeing nonhumans as evil spirits rather than as their teachers and siblings, offering their gifts. This further trained people to live in fear and kept them in poverty.
 
-Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."
+Even the Tibetan Buddhist belief in karma has been used to excuse extreme exploitation by rich monks and lamas. The fourteenth Dalai Lama implied that serfs clearly deserve their suffering when he said, "A poor Tibetan was less inclined to envy or resent his Tibetan landlord because he knew that each of them was reaping the seed he had sown in his previous life."[xxx-timely rain|p127]
 
 Why would rulers deliberately push these attitudes and beliefs? Do you think it's a coincidence that these attitudes and beliefs discourage the spiritual strength and collective solidarity that might allow people to free themselves by uniting, making their own respectful laws, and upholding those laws together?
 
 This may seem like a stretch for many people to believe, but it sure looks to me like this is no coincidence. Sadly there is even more evidence to back this up.
 
-Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.
+Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.[xxx-vridhamma first discourse]
 
-Religion is a major way rulers have imposed sexism. Authoritarian religions commonly teach divisive sexism, discouraging solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..." The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man." Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."
+Religion is a major way rulers have imposed sexism. Authoritarian religions commonly teach divisive sexism, discouraging solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible|kjb 1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
 
 If these holy books really are the word of an all-powerful god, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
 
@@ -60,7 +68,7 @@ Authoritarian ideologies train people to doubt their instincts, or see obedience
 
 And if people really are so terrible, then of course it's foolish to trust one's neighbors. Thus these beliefs discourage trust too.
 
-Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave," and the Christian Bible and Islamic Quran urge Christians and Muslims around the world to believe they are free even while obeying their authorities. Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise. And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
+Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave,"[xxx-britannica usa anthem] and the Christian Bible and Islamic Quran urge Christians and Muslims around the world to believe they are free even while obeying their authorities.[xxx-bible|niv 1 peter 2:16]<sup>,</sup>[xxx-quran|2:256] Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise.[xxx-ussr worker paradise] And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
 
 And what are the results of these hurtful religions and ideologies? Unhealthy cultures around the world seem "just how life is" to countless inhabitants, including Americans, Chinese, Iraqis, Koreans, and others.
 
@@ -83,29 +91,35 @@ Let's start with the obvious: while Christian authorities consistently emphasize
 
 Some Christians claim that Christ was obedient because he said, "Render unto Caesar that which is Caesar's," suggesting people should pay their taxes. But revolutionaries commonly debate whether to pay their taxes. Do you pay taxes to avoid harassment, so you can focus on liberating your people? Or do you choose not to support a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. Consider how incredibly disobedient Jesus Christ was:
 
-* _Fed people illegally:_ Jesus Christ illegally fed hungry people on the sabbath.
+* _Fed people illegally:_ Jesus Christ illegally fed hungry people on the sabbath.[xxx-bible|esv mark 2:23-24]
 
-* _Healed people illegally:_ Christ illegally healed people on the sabbath.
+* _Healed people illegally:_ Christ illegally healed people on the sabbath.[xxx-bible|matthew 12:10]<sup>,</sup>[xxx-bible|mark 3:2]
 
 * _Prioritized doing the right thing over following the law:_ When religious-legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath."[xxx-bible mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following the law.
 
-* _Attacked predatory money lenders:_ Jesus physically attacked moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people.
+* _Attacked predatory money lenders:_ Jesus physically attacked moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people.[xxx-bible|esv mark 11:15-18]
 
-* _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot, and perhaps more. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.
+* _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot, and perhaps more. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
 
-* _Christ was killed like a revolutionary:_ Crucifixion was a punishment that the Romans used especially for revolutionaries. Christ was nailed to a cross and left to die in a public place to scare others away from revolutionary activities.
+* _Christ was killed like a revolutionary:_ Crucifixion was a punishment that the Romans used especially for revolutionaries. Christ and two other revolutionaries were nailed to a cross and left to die in a public place to scare others away from revolutionary activities.[xxx-worldhistory jewish zealots]
 
 In other words, Christ was tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission, as all oppressive governments do.
 
-Unfortunately for the Roman authorities, Jesus had been extremely inspirational, and a religion formed that continued to spread his teachings after he died. The revolutionary movement also continued, with a series of Jewish-Roman rebellions occurring between 66 and 135 CE. None were successful.
+Unfortunately for the Roman authorities, Jesus had been extremely inspirational, and a religion formed that continued to spread his teachings after he died. The revolutionary movement also continued, with a series of Jewish-Roman rebellions occurring between 66 and 135 CE. None were successful.[xxx-britannica jew roman wars]
 
-The religion inspired by Jesus Christ kept spreading, and by the 300s CE, multiple sects existed. Finally, in 380 CE, something weird happened. The same Roman government that had killed Jesus Christ imposed Christianity as a religion on the Roman Empire, requiring people to worship Christ as their spiritual leader. Why?
+The religion inspired by Jesus Christ kept spreading, and by the 300s CE, multiple sects existed. Finally, in 380 CE, something weird happened. The same Roman government that had killed Jesus Christ imposed Christianity as a religion on the Roman Empire, requiring people to worship Christ as their spiritual leader. Why?[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
-Instead of allowing this revolutionary Christianity to spread and perhaps inspire more people to become revolutionaries, the Roman emperor embraced it, but he embraced a specific version of Christianity that _trained people for obedience_. The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good. It trained them for low self-worth, taught the belief that people are inclined to sin, and taught that the world itself is sinful.
+Instead of allowing this revolutionary Christianity to spread and perhaps inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity that _trained people for obedience_. The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good. It trained them for low self-worth, taught the belief that people are inclined to sin, and taught that the world itself is sinful.
 
 In other words, the Roman state spread a religious ideology that _discouraged spiritual strength_ and trained people to _misunderstand their revolutionary spiritual leader Jesus Christ,_ even while requiring people to worship Christ, a man of incredible spiritual strength.
 
-When emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." In other words, anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.
+When emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." In other words, anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
+
+So how exactly did Roman emperor Theodosius impose a version of Christianity that discouraged spiritual strength and encouraged obedience instead? It turns out that Theodosius imposed a religious ideology similar to.....
+
+
+
+
 
 There is a common saying that "the winners write the history books." The Roman authorities killed Jesus Christ, and then centuries later they decided which stories would be included in the Holy Bible which they forced on their empire, and they chose which aspects of that Bible would be emphasized in official teachings. And then they pretended that the Bible was the literal word of God, instead of an ideology imposed on conquered people by their rulers to train them for submissive obedience.**
 
@@ -172,3 +186,57 @@ It is critically important to chooes for yourself what to believe. Ancient spiri
 ### References
 
 [xxx-bible mark 2:27]
+
+[xxx-bible|niv 1 peter 2:13]-xxx
+
+[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]-xxx
+
+[xxx-quran|4:59]-xxx
+
+[xxx-catholic catechism|403]-xxx
+
+[xxx-catholic catechism|416-418]-xxx
+
+[xxx-catholic catechism|405]-xxx
+
+[xxx-catholic catechism|408]-xxx
+
+[xxx-quran|2:220]-xxx
+
+[xxx-quran|2:216]-xxx
+
+[xxx-quran|2:224]-xxx
+
+[xxx-lhasa vol 1|p350]-xxx
+
+[xxx-timely rain|p127]-xxx
+
+[xxx-vridhamma first discourse]-xxx
+
+[xxx-bible|kjb 1 corinthians 11:3]-xxx
+
+[xxx-quran|4:34]-xxx
+
+[xxx-when serfs stood up|p329]-xxx
+
+[xxx-bible|niv 1 peter 2:16]-xxx
+
+[xxx-britannica usa anthem]-xxx
+
+[xxx-ussr worker paradise]-xxx
+
+[xxx-quran|2:256]-xxx
+
+[xxx-bible|esv mark 11:15-18]-xxx
+
+[xxx-worldhistory jewish zealots]-xxx
+
+[xxx-britannica jewish overview]-xxx
+
+[xxx-bible|mark 3:2]-xxx
+
+[xxx-bible|esv mark 2:23-24]-xxx
+
+[xxx-bible|matthew 12:10]-xxx
+
+[xxx-britannica jew roman wars]-xxx

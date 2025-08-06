@@ -1,12 +1,6 @@
 ## Chapter 11: How Can a Whole Nation Embrace Awareness and Unity?
 
-Imagine if you were an elder in a healthy culture. You're seated around a fire with some other wise old people, considering what you could do to generate a society where everyone cultivated a deep awareness of other people and the Earth, and everyone felt a deep unity and connection with each other. In such a society, there would be no room for divisive racism or ignorance.
-
-What sorts of practices and perspectives do you think would help cultivate unity and widespread deep awareness? 
-
-### Nature Connection Practices: My Personal Journey to Greater Awareness and Connection
-
-I was pleasantly surprised to discover how much the nature connection practices described in Chapter 3 helped me connect more deeply, not just with nonhumans, but with people too. After practicing for years, it's clear to me that if a whole group of people regularly embraced nature connection practices, they could feel closely connected indeed, leaving no place for sexism, racism and hatred.
+When I first began doing nature-connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. After practicing for years, it's clear to me that if a whole group of people regularly embraced nature connection practices, they could feel closely connected indeed, leaving no place for sexism, racism and hatred.
 
 Every day, I go to my sit-spot and pay attention to the nonhumans. I ask questions like, what plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. I learned to feel curious about the experiences of the beings around me, and I supplemented my observations with research -- both by reading nature guide books and listening to stories from mentors.
 
@@ -16,7 +10,8 @@ I continually practiced feeling into the experiences of other living beings. I i
 
 Eventually I learned something really cool: plants and animals can help me notice parts of the landscape I can't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not notice rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
 
-The first of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
+The first 
+of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
 
 Over time, I learned to observe more closely, question my assumptions, and empathize with nonhumans, and the same attitudes and skills helped me understand and empathize with other people too. Even people who are not like me.
 

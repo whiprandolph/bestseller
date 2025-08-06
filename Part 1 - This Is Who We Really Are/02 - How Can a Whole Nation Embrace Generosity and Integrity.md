@@ -116,7 +116,7 @@ There are three ways to deal with captives that allow a nation to maintain a bas
 
 People of healthy cultures have openly acknowledged that they treat their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Sioux man Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
-Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder."[xxx-red mother|p173] A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p??????]
+Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
 
 In this way, healthy cultures do not capture people and treat them abusively, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy cultures ensure they keep that internal baseline of mutual respect.
 
@@ -170,5 +170,3 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 [xxx-indian heroes and great chieftains|sitting bull]-xxx
 
 [xxx-red mother|p173]-xxx
-
-[xxx-red mother|p??????]

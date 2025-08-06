@@ -147,9 +147,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
 
-Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
-
-[xxx-needs ending]
+Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.[xxx-needs ending]
 
 <div style="break-after:page"></div>
 
