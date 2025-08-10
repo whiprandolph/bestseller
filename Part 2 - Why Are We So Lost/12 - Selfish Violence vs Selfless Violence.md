@@ -99,63 +99,63 @@ I suspect everyone in these stories would have preferred peace. But when the opt
 
 ### References
 
-[xxx-wagingnonviolence in the face of assassinations]-xxx
+[xxx-wagingnonviolence in the face of assassinations]-aaa (Rull, 2021)
 
-[xxx-interview with major ana maría: on the atrocities]-xxx
+[xxx-interview with major ana maría: on the atrocities]-aaa ("Interview with Mayor Ana María (Google Translate, Trans.)," 1995)
 
-[xxx-first declaration of the lacandon jungle]-xxx
+[xxx-first declaration of the lacandon jungle]-aaa ("First Declaration of the Lacandon Jungle," 1994)
 
-[xxx-original instructions|return ancient council]-xxx
+[xxx-original instructions|return ancient council]-aaa (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")
 
-[xxx-ezln preparing 10 years]-xxx
+[xxx-ezln preparing 10 years]-aaa (Marcos, 1994)
 
-[xxx-on the reasons for the general red alert]-xxx
+[xxx-on the reasons for the general red alert]-aaa (Indigenous Clandestine Revolutionary Committee, 2005)
 
-[xxx-cimacnoticias ezln women percent]-xxx
+[xxx-cimacnoticias ezln women percent]-aaa (Mujeres 45% de Las Bases Zapatistas, 2011)
 
-[xxx-ezln ramona san crist]-xxx
+[xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 
-[xxx-everyday heroism makes the sparkles possible]-xxx
+[xxx-everyday heroism makes the sparkles possible]-aaa ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)
 
-[xxx-opendemocracy zapatista women law as it is lived today]-xxx
+[xxx-opendemocracy zapatista women law as it is lived today]-aaa (Marcos, 2014)
 
-[xxx-ezln rev women law]-xxx
+[xxx-ezln rev women law]-aaa ("Ley Revolucionaria de Mujeres," 1993)
 
-[xxx-ezln ag law]-xxx
+[xxx-ezln ag law]-aaa ("Revolutionary Agriculture Law (Google Translate, Trans.)," 1993)
 
-[xxx-ezln urban reform law]-xxx
+[xxx-ezln urban reform law]-aaa ("Urban Reform Law (Google Translate, Trans.)," 1993)
 
-[xxx-ezln justice law]-xxx
+[xxx-ezln justice law]-aaa ("Justice Law (Google Translate, Trans.)," 1993)
 
-[xxx-ezln law rights and obligations]-xxx
+[xxx-ezln law rights and obligations]-aaa ("Law on the Rights and Obligations of Peoples in Struggle (Google Translate, Trans.)," 1993)
 
-[xxx-ezln new structure]-xxx
+[xxx-ezln new structure]-aaa ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)
 
-[xxx-putin troll]-xxx
+[xxx-putin troll]-aaa ("Have You All Lost Your Minds?". Amazing and Terrifying Speech by @SWagenknecht, 2024)
 
 [xxx-mate us ukraine coup]-xxx
 
-[xxx-goering]-xxx
+[xxx-goering]-aaa (Gilbert, n.d.)
 
-[xxx-caitlinjohnstone unprovoked]-xxx
+[xxx-caitlinjohnstone unprovoked]-aaa (Johnstone, 2023)
 
-[xxx-ussr false flag]-xxx
+[xxx-ussr false flag]-aaa (Edwards, 2006, 105)
 
-[xxx-nazi reichstag]-xxx
+[xxx-nazi reichstag]-aaa (Boissoneault, 2017)
 
-[xxx-nationalreview satter putin]-xxx
+[xxx-nationalreview satter putin]-aaa (Satter, 2016)
 
-[xxx-ae911truth explosives]-xxx
+[xxx-ae911truth explosives]-aaa (Explosive Features | Twin Towers, n.d.)
 
-[xxx-cbs saudi intel]-xxx
+[xxx-cbs saudi intel]-aaa (FBI Releases Declassified Documents about Investigating Ties between Saudi Government and Sept. 11 Attacks, 2021)
 
-[xxx-ae911truth witnesses explosion]-xxx
+[xxx-ae911truth witnesses explosion]-aaa (MacQueen, 2006)
 
-[xxx-guardian bush saudi ties]-xxx
+[xxx-guardian bush saudi ties]-aaa (Unger, 2018)
 
-[xxx-jacobin 911 saudi]-xxx
+[xxx-jacobin 911 saudi]-aaa (Marcetic, 2024)
 
-[xxx-aljazeera saudi links]-xxx
+[xxx-aljazeera saudi links]-aaa (FBI Releases Newly Declassified Record on September 11 Attacks, 2021)
 
 [xxx-history panthers guns]-xxx
 

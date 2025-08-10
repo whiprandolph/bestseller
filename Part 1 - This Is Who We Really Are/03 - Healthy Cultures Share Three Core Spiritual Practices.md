@@ -89,32 +89,32 @@ What are your gifts? What can you give or do or be that would open your heart an
 
 ### References
 
-[xxx-original instructions|armstrong]-xxx
+[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
-[xxx-kamana 2 nat|p1]-xxx
+[xxx-kamana 2 nat|p1]-aaa (Young, n.d.-b, 1)
 
-[xxx-braiding sweetgrass|skywoman falling]-xxx
+[xxx-braiding sweetgrass|skywoman falling]-aaa (Kimmerer, 2013, "Skywoman Falling")
 
 [xxx-kamana 3 nat|burning desire heart]-aaa (Young, n.d.-a, 14)
 
-[xxx-the best guardians of the forest]-xxx
+[xxx-the best guardians of the forest]-aaa (Jenu Kuruba, n.d.)
 
-[xxx-guardian mbuti]-xxx
+[xxx-guardian mbuti]-aaa (Gauthier & Pravettoni, 2016)
 
-[xxx-resilience sami skerk]-xxx
+[xxx-resilience sami skerk]-aaa (Skerk, 2022)
 
-[xxx-australia example]-xxx
+[xxx-australia example]-aaa (Kenyon, 2020)
 
-[xxx-counterpunch tipnis]-xxx
+[xxx-counterpunch tipnis]-aaa (Solon, 2017)
 
-[xxx-cultural survival sakhalin island]-xxx
+[xxx-cultural survival sakhalin island]-aaa (Russia: Sakhalin Island Indigenous Peoples Protest Oil Development, 2005)
 
-[xxx-basket interview]-xxx
+[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
 
-[xxx-braiding sweetgrass|allegiance to gratitude]-xxx
+[xxx-braiding sweetgrass|allegiance to gratitude]-aaa (Kimmerer, 2013, "Allegiance to Gratitude")
 
-[xxx-cnapa concept note]-xxx
+[xxx-cnapa concept note]-aaa (Debunking the Idea of Protected Areas, 2023)
 
-[xxx-cultural survival standing rock]-xxx
+[xxx-cultural survival standing rock]-aaa (Weston, 2017)
 
-[xxx-braiding sweetgrass|the three sisters]-xxx
+[xxx-braiding sweetgrass|the three sisters]-aaa (Kimmerer, 2013, "The Three Sisters")

@@ -74,14 +74,14 @@ To confront the deep sickness in every unhealthy culture and learn ways to build
 
 ### References
 
-[xxx-native land map haud]-xxx
+[xxx-native land map haud]-aaa (Ho-de-No-Sau-Nee-Ga (Haudenosaunee), n.d.)
 
-[xxx-conversation dunbar number]-xxx
+[xxx-conversation dunbar number]-aaa ("Dunbar's Number: Why the Theory That Humans Can Only Maintain 150 Friendships Has Withstood 30 Years of Scrutiny," 2021)
 
 [xxx-cherokee pop and extent]-aaa (Malinowski et al., 1999, 244)
 
-[xxx-encyclopedia haudenosaunee|pvii]-xxx
+[xxx-encyclopedia haudenosaunee|pvii]-aaa (Johansen & Mann, 2000, vii)
 
-[xxx-huron farmers of the north|p71]-xxx
+[xxx-huron farmers of the north|p71]-aaa (Trigger, 1969, 71)
 
-[xxx-huron farmers of the north|p26]-xxx
+[xxx-huron farmers of the north|p26]-aaa (Trigger, 1969, 26)

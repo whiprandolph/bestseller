@@ -21,6 +21,7 @@
 * remove all ** edit marks
 * make all riot police images the same size
 * add hawks hunting pic?
+* rename ODOC Zap chapter? would they have said it was successful at any time? Or not humble/too triumphant?
 * verify all citations copied from odoc to tdr as needed.
 * verify all cites in book are in zotero
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit

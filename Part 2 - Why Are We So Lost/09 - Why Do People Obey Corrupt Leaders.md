@@ -213,35 +213,35 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-bible|niv 1 peter 2:13]-xxx
 
-[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]-xxx
+[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]-aaa (Pharr, 1952, 440)
 
-[xxx-quran|4:59]-xxx
+[xxx-quran|4:59]-aaa (The Quran, 4:59, Translated by Mustafa Khattab)
 
 [xxx-catholic catechism|403]-xxx
 
-[xxx-catholic catechism|416-418]-xxx
+[xxx-catholic catechism|416-418]-aaa (Catechism of the Catholic Church, 1997, 416-418)
 
-[xxx-catholic catechism|405]-xxx
+[xxx-catholic catechism|405]-aaa (Catechism of the Catholic Church, 1997, 405)
 
 [xxx-catholic catechism|408]-xxx
 
-[xxx-quran|2:220]-xxx
+[xxx-quran|2:220]-aaa (The Quran, 2:220, Translated by Mustafa Khattab)
 
-[xxx-quran|2:216]-xxx
+[xxx-quran|2:216]-aaa (The Quran, 2:216, Translated by Mustafa Khattab)
 
-[xxx-quran|2:224]-xxx
+[xxx-quran|2:224]-aaa (The Quran, 2:224, Translated by Mustafa Khattab)
 
-[xxx-lhasa vol 1|p350]-xxx
+[xxx-lhasa vol 1|p350]-aaa (Landon, 1905, 350)
 
-[xxx-timely rain|p127]-xxx
+[xxx-timely rain|p127]-aaa (Gelder & Gelder, 1964, 127)
 
-[xxx-vridhamma first discourse]-xxx
+[xxx-vridhamma first discourse]-aaa (The First Discourse of the Buddha, n.d.)
 
-[xxx-bible|kjb 1 corinthians 11:3]-xxx
+[xxx-bible|kjb 1 corinthians 11:3]-aaa (1 Corinthians 11:3, King James Version Bible)
 
-[xxx-quran|4:34]-xxx
+[xxx-quran|4:34]-aaa (The Quran, 4:34, Translated by Mustafa Khattab)
 
-[xxx-when serfs stood up|p329]-xxx
+[xxx-when serfs stood up|p329]-aaa (Strong, 1976, 329)
 
 [xxx-bible|niv 1 peter 2:16]-xxx
 
@@ -249,11 +249,11 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-ussr worker paradise]-xxx
 
-[xxx-bible|esv mark 11:15-18]-xxx
+[xxx-bible|esv mark 11:15-18]-aaa (Mark 11:15-18, English Standard Version Bible)
 
-[xxx-worldhistory jewish zealots]-xxx
+[xxx-worldhistory jewish zealots]-aaa (Denova, 2022)
 
-[xxx-britannica jewish overview]-xxx
+[xxx-britannica jewish overview]-aaa (Gaster & Dimitrovsky, 2024)
 
 [xxx-bible|mark 3:2]-xxx
 
@@ -263,7 +263,7 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-latterday jesus obed]-xxx
 
-[xxx-medium weapon names]-xxx
+[xxx-medium weapon names]-aaa (War is Boring, 2014)
 
 [xxx-bible|mark 12:17]-xxx
 
@@ -271,7 +271,7 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-catholic jesus obed]-xxx
 
-[xxx-britannica jewish revolt]-xxx
+[xxx-britannica jewish revolt]-aaa (Lohnes, 2024)
 
 [xxx-bible|luke 6:31]-xxx
 
@@ -279,27 +279,27 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-udanavarga|p252]-xxx
 
-[xxx-original instructions|a democracy based on peace]-xxx
+[xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
 
-[xxx-bible|mark 10:32-34]-xxx
+[xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
 
-[xxx-oxford messiah]-xxx
+[xxx-oxford messiah]-aaa (Messiah, n.d.)
 
 [xxx-jesus died for sins]-xxx
 
-[xxx-geronimo autobio|preparation of a warrior]-xxx
+[xxx-geronimo autobio|preparation of a warrior]-aaa (Barrett, 2010, "Preparation of a Warrior")
 
-[xxx-georgiaencyclopedia king]-xxx
+[xxx-georgiaencyclopedia king]-aaa (Kirk, 2020)
 
-[xxx-ratical king memphis trial]-xxx
+[xxx-ratical king memphis trial]-aaa (Douglass, 2000)
 
-[xxx-mlk final speech afscmd]-xxx
+[xxx-mlk final speech afscmd]-aaa (King Jr, 1968)
 
-[xxx-fbi messiah]-xxx
+[xxx-fbi messiah]-aaa (Hoover, n.d.)
 
 [xxx-grandmothers light|p9]-xxx
 
-[xxx-continuum concept|growing up]-xxx
+[xxx-continuum concept|growing up]-aaa (Liedloff, 2004, "Growing Up")
 
 [xxx-braiding sweetgrass|a mothers work]-xxx
 

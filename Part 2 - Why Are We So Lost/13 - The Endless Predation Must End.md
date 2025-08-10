@@ -156,6 +156,6 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 ### References
 
-[xxx-from deep woods to civilization|on the white man's trail]-xxx
+[xxx-from deep woods to civilization|on the white man's trail]-aaa (Eastman (Ohiyesa), 1916, "On the White Man's Trail")
 
-[xxx-daughters of copper woman|p71]
+[xxx-daughters of copper woman|p71]-aaa (Cameron, 1981, 71)

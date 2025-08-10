@@ -66,4 +66,4 @@ Racism and other kinds of discrimination do not have to exist. Whole nations are
 
 ### References
 
-[xxx-kamana 2 nat|p1]-xxx
+[xxx-kamana 2 nat|p1]-aaa (Young, n.d.-b, 1)

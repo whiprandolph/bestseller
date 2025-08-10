@@ -87,16 +87,16 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 
 ### References
 
-[xxx-indian heroes and great chieftains|crazy horse]-xxx
+[xxx-indian heroes and great chieftains|crazy horse]-aaa (Eastman (Ohiyesa), 2013, "Crazy Horse")
 
-[xxx-wolf totem|chapter 2]-xxx
+[xxx-wolf totem|chapter 2]-aaa (Rong, 2008, Chapter 2)
 
-[xxx-original instructions|armstrong]-xxx
+[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
-[xxx-basket interview]-xxx
+[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
 
-[xxx-commodity exchange and subordination]-xxx
+[xxx-commodity exchange and subordination]-aaa (Anderson, 1985)
 
-[xxx-braiding sweetgrass|windigo footprints]-xxx
+[xxx-braiding sweetgrass|windigo footprints]-aaa (Kimmerer, 2013, "Windigo Footprints")
 
-[xxx-a basic call to consciousness|p105]-xxx
+[xxx-a basic call to consciousness|p105]-aaa (Notes, 2005, 105)

@@ -185,14 +185,16 @@ def migrate_citations(file_path):
            continue
         cite = odoc_refs.get(ref.strip("-xxx"))
         if cite:
-           ref = ref.replace("xxx", "aaa")
+           ref = ref.replace("-xxx", "-aaa")
            ref_finished_list.append("%s %s" % (ref, cite))
         else:
            ref_finished_list.append(ref)
-    new_ref_section = "\n\n".join(ref_finished_list)
+    new_ref_section = "\n\n" + "\n\n".join(ref_finished_list)
     pp(new_ref_section)
     assert len(refs) == len(ref_finished_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
-    #breakpoint()
+    new_blob = ref_header.join((body, new_ref_section))
+    open(file_path, 'w', encoding='utf-8').write(new_blob)
+
 
 def get_odoc_refs():
     odoc_refs = {}

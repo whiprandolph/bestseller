@@ -101,18 +101,18 @@ Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic v
 
 ### References
 
-[xxx-cbc news plastics food wrap]-xxx
+[xxx-cbc news plastics food wrap]-aaa (Mahdavi, 2023)
 
-[xxx-npr plea bargain]-xxx
+[xxx-npr plea bargain]-aaa (Johnson, 2023)
 
-[xxx-leaf score nonstick chems]-xxx
+[xxx-leaf score nonstick chems]-aaa (Matthews, 2020)
 
-[xxx-ewg dirty dozen food chems]-xxx
+[xxx-ewg dirty dozen food chems]-aaa (Myers, 2025)
 
-[xxx-jama fin penalties]-xxx
+[xxx-jama fin penalties]-aaa (Arnold et al., 2020)
 
-[xxx-bettermarkets bank rap sheet]-xxx
+[xxx-bettermarkets bank rap sheet]-aaa (Wall Street's Ongoing Crime Spree, 2022)
 
-[xxx-ewg state drinking water]-xxx
+[xxx-ewg state drinking water]-aaa (Tapped out: America’s Drinking Water and the Health Risks Hidden behind Legal Limits, 2025)
 
-[xxx-nrdc logging climate change]-xxx
+[xxx-nrdc logging climate change]-aaa (Deforestation and Forest Degradation: The Causes, Effects, and Solutions, 2025)

@@ -129,42 +129,42 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 
 ### References
 
-[xxx-huron farmers of the north|p71]-xxx
+[xxx-huron farmers of the north|p71]-aaa (Trigger, 1969, 71)
 
-[xxx-a basic call to consciousness|p49]-xxx
+[xxx-a basic call to consciousness|p49]-aaa (Notes, 2005, 49)
 
-[xxx-basket interview]-xxx
+[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
 
-[xxx-lies my teacher told me|p108]-xxx
+[xxx-lies my teacher told me|p108]-aaa (Loewen, 2007, 108)
 
-[xxx-original instructions|peace technologies from the san bushmen of africa]-xxx
+[xxx-original instructions|peace technologies from the san bushmen of africa]-aaa (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")
 
-[xxx-braiding sweetgrass|windigo footprints]-xxx
+[xxx-braiding sweetgrass|windigo footprints]-aaa (Kimmerer, 2013, "Windigo Footprints")
 
-[xxx-nutr phys gen|phys ment moral deter]-xxx
+[xxx-nutr phys gen|phys ment moral deter]-aaa (Price, 1939, "Physical, Mental, and Moral Degeneration")
 
-[xxx-original instructions|definition of indigenous knowledge]-xxx
+[xxx-original instructions|definition of indigenous knowledge]-aaa (Nelson, 2008, "Definition of Indigenous Knowledge")
 
-[xxx-odoc|ch40]-xxx
+[xxx-odoc|ch40]-aaa (Randolph, 2024, "Chapter 40: Enough! - The Zapatistas' Successful Revolution")
 
-[xxx-from deep woods to civilization|civ college life east]-xxx
+[xxx-from deep woods to civilization|civ college life east]-aaa (Eastman (Ohiyesa), 1916, "College Life in the East")
 
-[xxx-fighting cheyennes|introduction]-xxx
+[xxx-fighting cheyennes|introduction]-aaa (Vestal, 1955, "Introduction")
 
-[xxx-geronimo autobio|introductory]-xxx
+[xxx-geronimo autobio|introductory]-aaa (Barrett, 2010, "Introductory")
 
-[xxx-huron farmers of the north|p40]-xxx
+[xxx-huron farmers of the north|p40]-aaa (Trigger, 1969, 40)
 
-[xxx-secrets of the talking jaguar|p275]-xxx
+[xxx-secrets of the talking jaguar|p275]-aaa (Prechtel, 1999, 275)
 
-[xxx-secrets of the talking jaguar|p210]-xxx
+[xxx-secrets of the talking jaguar|p210]-aaa (Prechtel, 1999, 210)
 
-[xxx-a basic call to consciousness|p104]-xxx
+[xxx-a basic call to consciousness|p104]-aaa (Notes, 2005, 104)
 
-[xxx-lies my teacher told me|p107]-xxx
+[xxx-lies my teacher told me|p107]-aaa (Loewen, 2007, 107)
 
-[xxx-beyond geography|possession]-xxx
+[xxx-beyond geography|possession]-aaa (Turner, 1994, "Possession")
 
-[xxx-indian heroes and great chieftains|sitting bull]-xxx
+[xxx-indian heroes and great chieftains|sitting bull]-aaa (Eastman (Ohiyesa), 2013, "Sitting Bull")
 
-[xxx-red mother|p173]-xxx
+[xxx-red mother|p173]-aaa (Linderman, 1932, 173)

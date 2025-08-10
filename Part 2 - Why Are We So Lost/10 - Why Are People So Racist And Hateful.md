@@ -132,23 +132,23 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 ### References
 
-[xxx-harriet moses of her people]-xxx
+[xxx-harriet moses of her people]-aaa (Bradford, 2020)
 
-[xxx-report on the diseases and physical peculiarities of the negro race]-xxx
+[xxx-report on the diseases and physical peculiarities of the negro race]-aaa (Cartwright, 1851)
 
-[xxx-odoc|ch6]-xxx
+[xxx-odoc|ch6]-aaa (Randolph, 2024, "Chapter 6: Blind Belief 1 - When People Ignore Reality to Maintain Safety and Comfort")
 
 [xxx-the ku klux klan: a study in reconstruction politics|p353-354]-aaa (Olsen, 1962, 353-354)
 
-[xxx-odoc|ch22]-xxx
+[xxx-odoc|ch22]-aaa (Randolph, 2024, "Chapter 22: Imposing And Maintaining Hatred")
 
-[xxx-putin troll]-xxx
+[xxx-putin troll]-aaa ("Have You All Lost Your Minds?". Amazing and Terrifying Speech by @SWagenknecht, 2024)
 
-[xxx-israel count calories]-xxx
+[xxx-israel count calories]-aaa (Lyons, 2023)
 
 [xxx-isrtimes intel support]-xxx
 
-[xxx-open air prison]-xxx
+[xxx-open air prison]-aaa (Dismantle Israel's Carceral Regime and "Open-Air" Imprisonment of Palestinians: UN Expert, 2023)
 
 [xxx-uscongress israel support]-xxx
 
@@ -162,15 +162,15 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 [xxx-pales holocaust comparison]-aaa (Government press office, 2023)
 
-[xxx-lancet palestinian casualties]-xxx
+[xxx-lancet palestinian casualties]-aaa (Khatib et al., 2024)
 
-[xxx-intercept israel propaganda]-xxx
+[xxx-intercept israel propaganda]-aaa (Scahill, 2024)
 
-[xxx-haaretz school girl sympathy]-xxx
+[xxx-haaretz school girl sympathy]-aaa (Solomon, 2024)
 
-[xxx-usnews palestine protest mask]-xxx
+[xxx-usnews palestine protest mask]-aaa (North Carolina Lawmakers Approve Mask Bill That Allows Health Exemption After Pushback, 2024)
 
-[xxx-thehill protester surveillance]-xxx
+[xxx-thehill protester surveillance]-aaa (Weiss, 2024)
 
 [xxx-trump illegal prot]-xxx
 
@@ -190,10 +190,10 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 [xxx-arrest majed]-xxx
 
-[xxx-odoc|ch20]-xxx
+[xxx-odoc|ch20]-aaa (Randolph, 2024, "Chapter 20: Imposing And Maintaining Racism vs Generating Unity")
 
-[xxx-secrets of the talking jaguar|p210]-xxx
+[xxx-secrets of the talking jaguar|p210]-aaa (Prechtel, 1999, 210)
 
-[xxx-when buffalo ran|the way to live]-xxx
+[xxx-when buffalo ran|the way to live]-aaa (Grinnell, 2005, "The Way to Live")
 
-[xxx-daughters of copper woman|112]-xxx
+[xxx-daughters of copper woman|112]-aaa (Cameron, 1981, 112)

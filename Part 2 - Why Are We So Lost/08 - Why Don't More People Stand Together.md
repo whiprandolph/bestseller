@@ -153,97 +153,97 @@ Countless people have dreamed of revolution, but too few revolutionaries have st
 
 [xxx-needs ending]
 
-[xxx-letterfromjail.com]-xxx
+[xxx-letterfromjail.com]-aaa (King Jr, 1963)
 
-[xxx-stasi introduction]-xxx
+[xxx-stasi introduction]-aaa (Introduction - Ministry for State Security, n.d.)
 
-[xxx-stasi tactics]-xxx
+[xxx-stasi tactics]-aaa (Hertzgerg, 2021)
 
-[xxx-basket interview]-xxx
+[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
 
-[xxx-moving things around]-xxx
+[xxx-moving things around]-aaa (Stuchbery, 2019)
 
-[xxx-cook assange finne]-xxx
+[xxx-cook assange finne]-aaa (Cook, 2020)
 
-[xxx-bible|kjb mark 11:15-18]-xxx
+[xxx-bible|kjb mark 11:15-18]-aaa (Mark 11:15-18, King James Version Bible)
 
-[xxx-georgiaencyclopedia king]-xxx
+[xxx-georgiaencyclopedia king]-aaa (Kirk, 2020)
 
-[xxx-worldhistory jewish zealots]-xxx
+[xxx-worldhistory jewish zealots]-aaa (Denova, 2022)
 
-[xxx-ratical king memphis trial]-xxx
+[xxx-ratical king memphis trial]-aaa (Douglass, 2000)
 
-[xxx-king vietnam speech]-xxx
+[xxx-king vietnam speech]-aaa (King Jr, 1967)
 
-[xxx-nypost taibbi]-xxx
+[xxx-nypost taibbi]-aaa (Nelson, 2023)
 
-[xxx-britannica jewish overview]-xxx
+[xxx-britannica jewish overview]-aaa (Gaster & Dimitrovsky, 2024)
 
-[xxx-bettelheim]-xxx
+[xxx-bettelheim]-aaa (Bettelheim, 1943)
 
-[xxx-bailey police socialism]-xxx
+[xxx-bailey police socialism]-aaa (Bailey, 1957)
 
-[xxx-watchful state|p8-12]-xxx
+[xxx-watchful state|p8-12]-aaa (Daly, 2004, 8-12)
 
-[xxx-guardian family spy]-xxx
+[xxx-guardian family spy]-aaa (Evans & Lewis, 2012)
 
-[xxx-russian secret police|okhrana age assassinations]-xxx
+[xxx-russian secret police|okhrana age assassinations]-aaa (Hingley, 2021, "The Okhrana in the Age of Assassinations 1901-1908")
 
-[xxx-blacklivesmatter impact]-xxx
+[xxx-blacklivesmatter impact]-aaa (Impact, n.d.)
 
-[xxx-rockarch ford 60s race activism]-xxx
+[xxx-rockarch ford 60s race activism]-aaa (Wimpee, 2020)
 
-[xxx-omidyar equity transformation]-xxx
+[xxx-omidyar equity transformation]-aaa (2021 Tax Form 990-PF for Omidyar Network Fund, Inc, n.d.)
 
-[xxx-chan zuckerberg blm donation]-xxx
+[xxx-chan zuckerberg blm donation]-aaa (2021 Tax Form 990-PF Chan Zuckerberg Initiative Foundation, n.d.)
 
-[xxx-cia request ford foundation help psych warfare]-xxx
+[xxx-cia request ford foundation help psych warfare]-aaa (Director of Central Intelligence, Assistant Director, Research and Reports, 1951)
 
-[xxx-m4bl about us]-xxx
+[xxx-m4bl about us]-aaa ("About Us," n.d.)
 
-[xxx-fordfoundation 665]-xxx
+[xxx-fordfoundation 665]-aaa (Ford Foundation Announces $180 Million in New Funding for U.S. Racial Justice Efforts, 2020)
 
-[xxx-britannica mccloy]-xxx
+[xxx-britannica mccloy]-aaa (The Editors of the Encyclopedia Britannica, n.d.)
 
-[xxx-shrm microaggressions corporation]-xxx
+[xxx-shrm microaggressions corporation]-aaa (For example: 10 Microaggressions Companies Must Avoid, n.d.)
 
-[xxx-ap capitalize black]-xxx
+[xxx-ap capitalize black]-aaa (Daniszewski, 2020)
 
-[xxx-odoc|ch20]-xxx
+[xxx-odoc|ch20]-aaa (Randolph, 2024, "Chapter 20: Imposing And Maintaining Racism vs Generating Unity")
 
-[xxx-odoc|ch24]-xxx
+[xxx-odoc|ch24]-aaa (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")
 
-[xxx-harpers magazine real purpose drug war]-xxx
+[xxx-harpers magazine real purpose drug war]-aaa (Baum, 2016)
 
-[xxx-greenpeace koch]-xxx
+[xxx-greenpeace koch]-aaa ("Koch Industries: Secretly Funding the Climate Denial Machine," n.d.)
 
-[xxx-odoc|ch36]-xxx
+[xxx-odoc|ch36]-aaa (Randolph, 2024, "Chapter 36: Sabotaging Efforts at Deep Cultural Healing")
 
-[xxx-odoc|ch32]-xxx
+[xxx-odoc|ch32]-aaa (Randolph, 2024, "Chapter 32: A Study in Privilege and World-Shaping - the Police")
 
-[xxx-npr plea bargain]-xxx
+[xxx-npr plea bargain]-aaa (Johnson, 2023)
 
-[xxx-original instructions|a democracy based on peace]-xxx
+[xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
 
-[xxx-a basic call to consciousness|p38]-xxx
+[xxx-a basic call to consciousness|p38]-aaa (Notes, 2005, 38)
 
-[xxx-a basic call to consciousness|p105]-xxx
+[xxx-a basic call to consciousness|p105]-aaa (Notes, 2005, 105)
 
-[xxx-britannica utopia]-xxx
+[xxx-britannica utopia]-aaa (Utopia, 2024)
 
-[xxx-a basic call to consciousness|p34]-xxx
+[xxx-a basic call to consciousness|p34]-aaa (Notes, 2005, 34)
 
-[xxx-a basic call to consciousness|p39]-xxx
+[xxx-a basic call to consciousness|p39]-aaa (Notes, 2005, 39)
 
-[xxx-a basic call to consciousness|p35]-xxx
+[xxx-a basic call to consciousness|p35]-aaa (Notes, 2005, 35)
 
-[xxx-a basic call to consciousness|p104]-xxx
+[xxx-a basic call to consciousness|p104]-aaa (Notes, 2005, 104)
 
-[xxx-a basic call to consciousness|p37]-xxx
+[xxx-a basic call to consciousness|p37]-aaa (Notes, 2005, 37)
 
-[xxx-bible|esv mark 2:23-24]-xxx
+[xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
 
-[xxx-bible|matthew 12:10]-xxx
+[xxx-bible|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
 
 [xxx-bible|mark 10:32-34]
 

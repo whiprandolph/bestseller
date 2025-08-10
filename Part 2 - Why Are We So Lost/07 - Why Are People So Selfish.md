@@ -118,34 +118,34 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 ### References
 
-[xxx-braiding sweetgrass|windigo footprints]-xxx
+[xxx-braiding sweetgrass|windigo footprints]-aaa (Kimmerer, 2013, "Windigo Footprints")
 
-[xxx-from deep woods to civilization|the way opens]-xxx
+[xxx-from deep woods to civilization|the way opens]-aaa (Eastman (Ohiyesa), 1916, "The Way Opens")
 
-[xxx-indian heroes and great chieftains|sitting bull]-xxx
+[xxx-indian heroes and great chieftains|sitting bull]-aaa (Eastman (Ohiyesa), 2013, "Sitting Bull")
 
-[xxx-stasi east german secret police|the sword of repression]-xxx
+[xxx-stasi east german secret police|the sword of repression]-aaa (Koehler, 1999, "The Sword of Repression")
 
-[xxx-statement canada prime minister rights]-xxx
+[xxx-statement canada prime minister rights]-aaa (Trudeau, 2022)
 
-[xxx-griid sitting bull speech]-xxx
+[xxx-griid sitting bull speech]-aaa (kswheeler, 2011)
 
-[xxx-quote investigator upton]-xxx
+[xxx-quote investigator upton]-aaa ("It Is Difficult to Get a Man to Understand Something When His Salary Depends Upon His Not Understanding It," 2017)
 
-[xxx-original instructions|armstrong]-xxx
+[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
-[xxx-braiding sweetgrass|the gift of strawberries]-xxx
+[xxx-braiding sweetgrass|the gift of strawberries]-aaa (Kimmerer, 2013, "The Gift of Strawberries")
 
-[xxx-odoc|ch24]-xxx
+[xxx-odoc|ch24]-aaa (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")
 
-[xxx-half has never been told|1805-1861]-xxx
+[xxx-half has never been told|1805-1861]-aaa (Baptist, 2014, "1805-1861")
 
-[xxx-basket interview]-xxx
+[xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
 
-[xxx-tandf bangladesh we demand work]-xxx
+[xxx-tandf bangladesh we demand work]-aaa (Gardner, 2018)
 
-[xxx-washpo we demand work]-xxx
+[xxx-washpo we demand work]-aaa (Berbard, 2021)
 
-[xxx-communists and the fight for jobs and revolution]-xxx
+[xxx-communists and the fight for jobs and revolution]-aaa (Green & Isaacson, 2012)
 
-[xxx-indian child life|early hardships]-xxx
+[xxx-indian child life|early hardships]-aaa (Eastman (Ohiyesa), 2008, "Early Hardships")

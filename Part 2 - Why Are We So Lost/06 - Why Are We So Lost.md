@@ -122,12 +122,12 @@ For many of us, we and our ancestors have been trapped in this way of life for a
 
 ### References
 
-[xxx-american riot]-xxx
+[xxx-american riot]-aaa (Neal, 2020)
 
-[xxx-daughters of copper woman|109]-xxx
+[xxx-daughters of copper woman|109]-aaa (Cameron, 1981, 109)
 
-[xxx-venezuelan riot]-xxx
+[xxx-venezuelan riot]-aaa (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)
 
-[xxx-chinese riot]-xxx
+[xxx-chinese riot]-aaa (Chinese City Kills Project after Protest, 2012)
 
-[xxx-venezuela protest reason]-xxx
+[xxx-venezuela protest reason]-aaa (2018-11-21 Central University of Venezuela, 2018)
