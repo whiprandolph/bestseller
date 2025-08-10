@@ -51,5 +51,3 @@ _Childhood training_: Covers many themes: the impact of obedience-oriented schoo
     * _Unions and mutual aid societies_
 
 * _Hero stories from unhealthy cultures_: includes in-depth profiles of Martin Luther King Jr, Jesus Christ, and Harriet Tubman.
-
-<div style="break-after:page"></div>

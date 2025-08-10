@@ -23,7 +23,7 @@ And here is the best part: Over time this helped me notice rancidity I couldn't 
 
 The more I cultivated careful awareness, the more deeply I could see. For example, I'm a white man, and when I hear black Americans repeatedly complain about police brutality, it shows me where my society isn't as fair as it seems in my experience.
 
-When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it.
+When children complain about being forced to sit through boring or meaningless classes at school, they show me that people weren't born to tolerate boredom and meaningless work in adulthood -- we have to be trained for it.**
 
 As I became more empathetic and observant, I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. Their awareness became an extension of my awareness. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust everyone, but I take care to notice what lessons I can learn from others.
 
@@ -41,7 +41,7 @@ But this is not the only way that cultivating a practical, aware gratitude can h
 
 The Haudenosaunee showed me the kind of unity that comes from these nature connection practices. They have a very special Thanksgiving Address where they methodically go through different forms of life and give thanks to each. They thank the medicine herbs for removing sickness and the fish for purifying water. They give thanks to the trees for providing shelter and food. They give thanks to all the divine beings who give so much to create the web of life that we're all part of.
 
-The Haudenosaunee open every gathering with the Thanksgiving Address, calling it The Words That Come Before All Else. While each rendition is unique, the version I learned ends in this way:
+The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:[xxx-kamana 2 nat|p1]
 
 > Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings.
 
@@ -64,4 +64,6 @@ Racism and other kinds of discrimination do not have to exist. Whole nations are
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Cultivate awareness and connection with the living world**</div>
 <div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach from how they live their lives. _I strongly recommend looking for a nature connection mentor or program to help you on your path._</div></div>
 
-<div style="break-after:page"></div>
+### References
+
+[xxx-kamana 2 nat|p1]-xxx

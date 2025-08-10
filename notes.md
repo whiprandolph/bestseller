@@ -15,12 +15,14 @@
 
 * internal freedom to give our deepest love, and external freedom to do it in a society that welcomes it
 
-### Final Formatting Reminders
+### Final Reminders
 * make sure chap 6 images, captions, and lead-ins are all on the same page and formatting is nice
 * make sure all _ and * and ** become bold/underlined
 * remove all ** edit marks
 * make all riot police images the same size
 * add hawks hunting pic?
+* verify all citations copied from odoc to tdr as needed.
+* verify all cites in book are in zotero
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
 * fix formatting of part intro pages - need visible title centered w/newline between part x and title.
 * play with page margins to get more text on a page, shrink page count. 

@@ -23,7 +23,6 @@ images_source = r"C:\Users\whip\tdr-book-html\images"
 images_dest = os.path.join(book_final, "images")
 
 def get_name(grouping, chapter_name, chapter_number, idx):
-
   add_to_chapter_counter = 0
   grouping_path = os.path.join(chapters_dir, grouping)
   non_chapter_path = os.path.join(grouping_path, chapter_name)
@@ -34,7 +33,8 @@ def get_name(grouping, chapter_name, chapter_number, idx):
     name = open(chapter_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
 
   elif is_pre_or_post_material(chapter_name, grouping_path):
-    name = open(non_chapter_path, 'r', encoding='utf-8').read().strip().split("\n")[0].split("# ")[1]
+    body = open(non_chapter_path, 'r', encoding='utf-8').read().strip()
+    name = body.split("\n")[0].split("# ")[1]
 
   elif is_main_part_intro(chapter_name, grouping):
     name = grouping  
@@ -168,7 +168,7 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("44:128"))
+  part_two.append(book_pdf_path, pages=PageRange("44:130"))
   part_two.write(part_two_path)
   part_two.close()
 
@@ -176,7 +176,7 @@ def sample_pdf(book_pdf_path):
   try:
     assert "Table of Contents" in part_two_reader.pages[0].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ToC)"
     assert "Why Are We So Lost" in part_two_reader.pages[1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (title page)"
-    assert "succeed? Let us explore in Part 3 - The Deepest Revolution" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
+    assert "Explore paths to creating" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()

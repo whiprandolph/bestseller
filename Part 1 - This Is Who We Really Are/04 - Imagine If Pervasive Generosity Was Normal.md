@@ -85,8 +85,6 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group</div>
 <div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>
 
-<div style="break-after:page"></div>
-
 ### References
 
 [xxx-indian heroes and great chieftains|crazy horse]-xxx

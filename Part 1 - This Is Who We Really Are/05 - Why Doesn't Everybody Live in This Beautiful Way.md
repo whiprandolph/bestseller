@@ -40,9 +40,11 @@ In order to find a pathway to freedom and live without these terrible troubles, 
 
 Spiritual strength is foundational for maintaining a free society. But what do "freedom" and "spiritual strength" even mean?
 
-To me, a person has _spiritual strength_ if they give their deepest love in each moment without holding back, and you stand for what's right for yourself and others. Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. In difficult moments you may sometimes feel uncertain or scared or angry, but regardless how you feel or what's going on around you, you give your deepest love. You stand for what's right no matter what.
+To me, a person has _spiritual strength_ if they give their deepest love in each moment without holding back, and they stand for what's right for themselves and others.
 
-_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by as a normal way of life. Your neighbors expect nothing less than your deepest bravery and integrity as you uphold the laws everybody lives by so that justice becomes a normal. _In a free society, your neighbors expect you to offer your deepest love and stand for what's right, rather than punishing you for it._ In a free society, everyone is expected to cultivate the spiritual strength to stand for what's right, no matter what.
+Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. In difficult moments you may sometimes feel uncertain or scared or angry, but regardless how you feel or what's going on around you, you give your deepest love, and you stand for what's right no matter what.
+
+_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by as a normal way of life. Your neighbors expect nothing less than your deepest bravery and integrity as you uphold the laws everybody lives by so that justice becomes normal. _In a free society, your neighbors expect you to offer your deepest love and stand for what's right, rather than punishing you for it._ In a free society, everyone is expected to cultivate the spiritual strength to stand for what's right, no matter what.
 
 However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy culture punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy cultures, no one has that freedom to uphold their own laws -- not even the rich.
 
@@ -52,7 +54,7 @@ However, you can still give your deepest love no matter what, even if you're tra
 
 This clarifies why _freedom is built on spiritual strength_: when everyone in a nation gives their love and seeks justice in solidarity with others, then each person welcomes everyone else to do that too. When spiritual strength is normal in a nation, your neighbors simply expect you to stand in solidarity with others so nobody experiences injustice.
 
-When too many people "hold back" or "shut down" parts of themselves and learn to tolerate abuses all around, then we wind up with societies that punish people for standing for justice. Everyone in a nation must have that _spiritual strength_ to give their deepest love and stand for what's right so that collectively they can have _freedom_ where people are encouraged rather than punished for give their deepest love.
+When too many people "hold back" or "shut down" parts of themselves and learn to tolerate abuses all around, then we wind up with societies that punish people for standing for justice. Everyone in a nation must have that _spiritual strength_ to give their deepest love and stand for what's right so that collectively they can have _freedom_ where justice and mutual respect are just normal.
 
 ### Let's Be Brave Together
 
@@ -60,7 +62,7 @@ Part 3 of this book will explore how you can work with others to create a beauti
 
 But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain the kind of healthy cultures millions of people have lived in since the dawn of time.**
 
-Healthy cultures are who we really are. Anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
+Healthy cultures are who we really are, but anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 
 The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape the trap, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
 
@@ -70,17 +72,15 @@ Most people haven't heard the perspectives and stories that offer a helpful path
 
 To confront the deep sickness in every unhealthy culture and learn ways to build our spiritual strength, join me in _Part 2 - Why Are We So Lost?_
 
-<div style="break-after:page"></div>
-
 ### References
 
-[xxx-native land map haud]
+[xxx-native land map haud]-xxx
 
-[xxx-conversation dunbar number]
+[xxx-conversation dunbar number]-xxx
 
-[xxx-cherokee pop and extent]
+[xxx-cherokee pop and extent]-aaa (Malinowski et al., 1999, 244)
 
-[xxx-encyclopedia haudenosaunee|pvii]
+[xxx-encyclopedia haudenosaunee|pvii]-xxx
 
 [xxx-huron farmers of the north|p71]-xxx
 

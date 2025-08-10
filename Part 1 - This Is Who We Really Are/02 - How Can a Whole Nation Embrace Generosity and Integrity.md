@@ -127,8 +127,6 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
 <div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic If so, what were some of your assumptions about people that you may now question?</div></div>
 
-<div style="break-after:page"></div>
-
 ### References
 
 [xxx-huron farmers of the north|p71]-xxx

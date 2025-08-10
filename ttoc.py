@@ -6,6 +6,7 @@ import markdown2
 import subprocess
 import traceback
 from progress import chapters
+from pprint import pprint as pp
 
 source_dir = r"C:\Users\whip\tdr"
 md_dir = r"C:\Users\whip\tdr-md-publish"
@@ -16,13 +17,17 @@ pdf_dir = r"C:\Users\whip\tdr-book-pdf"
 md_publish_dir = r"C:\Users\whip\tdr-md-publish"
 why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
 why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
+odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
 
 PUBLISH = True
 
+odoc_file_list = []
+odoc_refs = {}
+ref_header = '### References'
 full_html = ""
 full_html_path = os.path.join(html_dir, 'full_book.html')
 REV_ACT_COUNTER = 1 # start at 1
-
+odoc_file_list = []
 
 def rev_act_count_fixup(md_path):
     global REV_ACT_COUNTER
@@ -167,15 +172,96 @@ def is_main_body(chapter_name, directory):
           "part 3" in directory.lower())
 
 
+def migrate_citations(file_path):
+    blob = open(file_path, 'r', encoding='utf-8').read().strip()
+    if ref_header not in blob:
+        return
+    body, ref_section = blob.split(ref_header)
+    ref_finished_list = []
+    refs = [ref.strip() for ref in ref_section.split("\n") if ref.strip()]
+    for ref in refs:
+        if not "-xxx" in ref:
+           ref_finished_list.append(ref)
+           continue
+        cite = odoc_refs.get(ref.strip("-xxx"))
+        if cite:
+           ref = ref.replace("xxx", "aaa")
+           ref_finished_list.append("%s %s" % (ref, cite))
+        else:
+           ref_finished_list.append(ref)
+    new_ref_section = "\n\n".join(ref_finished_list)
+    pp(new_ref_section)
+    assert len(refs) == len(ref_finished_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
+    #breakpoint()
+
+def get_odoc_refs():
+    odoc_refs = {}
+    for odoc_path in odoc_file_list:
+        with open(odoc_path, 'r', encoding='utf-8') as handle:
+            blob = handle.read()
+            print("Seeking refs in " + odoc_path)
+            if ref_header not in blob:
+               continue
+            _, ref_section = blob.split(ref_header)
+            new_refs = [odoc_ref.strip().split("-aaa ") for odoc_ref in ref_section.split("\n") if odoc_ref.strip() and "-aaa" in odoc_ref]
+            odoc_refs.update({a:b for a, b in new_refs})
+    return odoc_refs
+
+
+def odoc_is_chapter_name(chapter_name, chapter_path):
+  return 'introduction' not in chapter_name.lower() and 'appendices' not in chapter_path.lower() and "preface material" not in chapter_path.lower() and "part 12" not in chapter_path.lower()
+
+def odoc_get_file_list():
+  tocs = {}
+  full_list = []
+  chapter_number = 0
+  for grouping in os.listdir(odoc_chapters_root):
+    grouping_path = os.path.join(odoc_chapters_root, grouping)
+    if not os.path.isdir(grouping_path) or ("Part 0" not in grouping and "Part 10" not in grouping):
+      continue
+    
+    for idx, chapter_name in enumerate(os.listdir(grouping_path)):
+      if 'images' in chapter_name:
+        continue
+      idx += 1
+      non_chapter_path = os.path.join(grouping_path, chapter_name)
+      chapter_path = os.path.join(grouping_path, chapter_name)
+      document_path = os.path.join(grouping_path, chapter_name)
+      if odoc_is_chapter_name(chapter_name, document_path):
+        document_path = chapter_path
+        chapter_number+=1
+      else: 
+        document_path = non_chapter_path
+      next_toc = {}
+      if os.path.exists(document_path):
+        try:
+          full_list.append(document_path)
+        except ValueError as exc:
+          raise ValueError("Error: %s\nInvalid file: %s" % (str(exc), document_path))
+      else:
+        print("WTF path doesn't exist: %s" % document_path)
+        import pdb;pdb.set_trace()
+        a = 3
+
+  pp(full_list)
+  return full_list
+
+
+
 def main():
     file_list = get_file_list()
     for file_path in file_list:
         if '.md' in file_path:
             toc.insert_and_return_toc(file_path)
             rev_act_count_fixup(file_path)
+            migrate_citations(file_path)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
     
+
+odoc_file_list = odoc_get_file_list()
+odoc_refs = get_odoc_refs()
+
 
 if __name__ == '__main__':
     start_time = time.time()

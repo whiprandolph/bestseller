@@ -18,30 +18,26 @@ Countless groups of people have tried countless times over centuries to come tog
 
 Regardless of the particular country, or the type of government or economy, whenever and wherever people in unhealthy cultures seek justice, they face a similar response.
 
-Take a look.
+In socialist Venezuela, when students came together to seek better conditions at their university during an economic crisis in 2018, they saw this:[xxx-venezuela protest reason]<sup>,</sup>[xxx-venezuelan riot]**
+
+<center>
+<img src="./images/venezuelan_riot_police.jpg" width="370px" alt="Riot Police in Venezuela"/><br/>
+_Riot Police in Venezuela_</center>
 
 <div style="break-after:page"></div>
 
-In socialist Venezuela, people standing up for themselves and seeking justice see this:
+In communist China, when people came together to stop corporations from polluting their rivers in 2012, they saw this:[xxx-chinese riot]**
 
 <center>
-<img src="./images/venezuelan_riot_police.jpg" width="390px" alt="Riot Police in Venezuela"/><br/>
-_Riot Police in Venezuela_[xxx-venezuelan riot]</center>
-
-In communist China, they see this:
-
-<center>
-<img src="./images/chinese_riot_police.jpg" width="390px" alt="Riot Police in China"/><br/>
-_Riot Police in China_[xxx-chinese riot]
+<img src="./images/chinese_riot_police.jpg" width="370px" alt="Riot Police in China"/><br/>
+_Riot Police in China_
 </center>
 
-<div style="break-after:page"></div>
-
-And in the capitalist United States, people standing up for themselves see this:
+And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]**
 
 <center>
-<img src="./images/american_riot_police.jpg" width="390px" alt="Riot Police in the United States"/><br/>
-_Riot Police in the United States_[xxx-american riot]
+<img src="./images/american_riot_police.jpg" width="370px" alt="Riot Police in the United States"/><br/>
+_Riot Police in the United States_
 </center>
 <br/>
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
@@ -106,25 +102,23 @@ And this solidarity was not a one-off event. It was a way of life. The clown wal
 
 ### Solidarity and Generosity Used to be Universal
 
-A few thousand years ago, everybody lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected.
+A few thousand years ago, every human on Earth lived in a healthy culture where solidarity and widespread generosity among neighbors was simply normal and expected.
 
-Since then, unhealthy cultures have formed and slowly spread around the world, trapping free people in exploitative societies where a few people rule over the rest.
+In recent times, unhealthy cultures have formed and spread around the world, trapping free people in abusive societies where a few people rule over the rest.
 
-Why are we so lost then?
+Why are we so lost then? It's an important question, and the answer is simple -- we're not allowed to stand for justice and uphold our own laws. Any political movement that doesn't address this root problem is destined to achieve superficial change at best.**
 
-Because we have been forced against our will to learn to tolerate injustice and forget who we really are. When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level of in every unhealthy culture.
+When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy culture.**
 
-When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and people can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not.
+When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and people can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not normal.**
 
-You may not feel this affects you. You may have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself, if you woke up tomorrow with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy culture do for you? Would you have the deep security that comes from living in a loving, healthy culture where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice? 
+You may not feel this affects you. You may have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself, if you woke up tomorrow with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy culture do for you? Would you have the deep security that comes from living in a loving, healthy culture where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice?**
 
-Regardless of what unhealthy culture you live in, the answer is no. And because you know that, you have known since childhood that you must play along, including by not seeing what is happening.
+Regardless of what unhealthy culture you live in, the answer is no. And because you know that, you have known since childhood that you must play along.**
 
-But this playing-along is not who we really are. And because of that, I know that each of us – including you – have power, not only to see the truth but the power to help make things right.
+But this playing-along is not who we really are. And because of that, I know that each of us – including you – have the power to help make things right.**
 
-"Why are we so lost?" is an important question we must address. But it is only worth the pain of facing the answer to that qustion when we also know that we absolutely can – and we must – stand up together and change it.
-
-<div style="break-after:page"></div>
+For many of us, we and our ancestors have been trapped in this way of life for a very long time. This may be painful to face, but we absolutely can – and we must – stand up together and change it.**
 
 ### References
 
@@ -135,3 +129,5 @@ But this playing-along is not who we really are. And because of that, I know tha
 [xxx-venezuelan riot]-xxx
 
 [xxx-chinese riot]-xxx
+
+[xxx-venezuela protest reason]-xxx

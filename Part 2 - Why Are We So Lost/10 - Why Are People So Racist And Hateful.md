@@ -30,21 +30,21 @@ And over time, this becomes a habit that feels more or less normal for many peop
 
 Let's look at some historical examples to see how this works.
 
-In the US pre-Civil War south, chattel slavery was assumed to be good for the slaves by all right-thinking people. Doctors even had a diagnosis called "Draepetomania" where any slave who tried to escape was believed to have a mental illness! Why would they believe such nonsense, even highly trained doctors, instead of simply recognizing the evils of slavery and acknowledging people's healthy desire to escape?
+In the US pre-Civil War south, chattel slavery was assumed to be good for the slaves by all right-thinking people. Doctors even had a diagnosis called "Draepetomania" where any slave who tried to escape was believed to have a mental illness![xxx-report on the diseases and physical peculiarities of the negro race] Why would they believe such nonsense, even highly trained doctors, instead of simply recognizing the evils of slavery and acknowledging people's healthy desire to escape?
 
-The answer is simple: any white Americans who sympathized with black people and acknowledged the evils of slavery were heavily punished. In the slave states, people could be imprisoned for 10 years for having a copy of _Uncle Tom's Cabin_, a book that showed slavery in a sympathetic light. Draepetomania represents what I call a _blind belief_ where people believe something because authorities make it the safe or convenient thing to believe, not because it's true. In other words, it was safe for doctors to believe the runaway slaves had mental illnesses, and it was unsafe to see runaways as healthy and slavery as evil.
+The answer is simple: any white Americans who sympathized with black people and acknowledged the evils of slavery were heavily punished. In the slave states, people could be imprisoned for 10 years for having a copy of _Uncle Tom's Cabin_, a book that showed chattel slavery in a sympathetic light.[xxx-harriet moses of her people] Draepetomania represents what I call a _blind belief_ where people believe something because authorities make it the safe or convenient thing to believe, not because it's true. In other words, it was safe for doctors to believe the runaway slaves had mental illnesses, and it was unsafe to see runaways as healthy and slavery as evil.
 
-Likewise in the Soviet Union and China in the mid 20th century, the government and society were assumed to be great and getting better, so any activists who fought corruption were assumed to have mental illnesses too. Many activists were arrested and accused of having mental disturbances and sent to prison hospitals where they were treated like the political prisoners they were. These activists were behaving appropriately and trying to serve their people, and authorities made up theories of mental illness as a cover story to justify imprisoning them.
+Likewise in the Soviet Union and China in the mid 20th century, the government and society were assumed to be great and getting better, so any activists who fought corruption were assumed to have mental illnesses too. Many activists were arrested and accused of having mental disturbances and sent to prison hospitals where they were treated like the political prisoners they were. These activists were behaving appropriately and trying to serve their people, and authorities made up theories of mental illness as a cover story to justify imprisoning them.[xxx-odoc|ch6]
 
 In this social pattern, authorities punish people for speaking the truth, making it safe and socially acceptable to believe falsehoods. Unfortunately, this can also cause huge amounts of racism and hatred in a society, as authorities encourage people to adopt racist or hateful attitudes, and punish those who don't.
 
 The Ku Klux Klan was a campaign of paramilitary violence operated by wealthy ex-slaveowners in the US South after the US Civil War. Most Americans know that terrible violence was directed at black people to scare them into remaining second class citizens. But few know that this campaign also attacked any white people who sympathized with oppressed black people!
 
-In other words, whites who were racist were left alone or even rewarded. Any anti-racist white people risked rape, murder, having their house burned, or other atrocities. This has been a major driver of anti-black racism in the US South: authorities wanted that racism to avoid solidarity among poor white and black people, and for centuries they brutally punished any white people who stood up to confront racial injustices. Many KKK members were sheriffs and politicians, so the law was part of the problem!
+In other words, whites who were racist were left alone or even rewarded. Any anti-racist white people risked atrocities like rape, murder, and having their house burned. The conservative news media was full of hate for "Dark Savages and white ignoramusses." This has been a major driver of anti-black racism in the US South: authorities wanted that racism to avoid solidarity among poor white and black people, and for centuries they brutally punished any white people who stood up to confront racial injustices. Many KKK members were sheriffs and politicians, so the law was part of the problem![xxx-the ku klux klan: a study in reconstruction politics|p353-354]
 
-Similar stories abound from unhealthy cultures around the world. Nazi Germans and Soviet citizens were each trained by their governments to hate the other side during World War II. Anyone who didn't hate enough risked being called a sympathizer and traitor and going to jail. When these authorities wanted war, they propagated hatred among the populace and punished anyone who spoke the truth and refused to hate.
+Similar stories abound from unhealthy cultures around the world. Nazi Germans and Soviet citizens were each trained by their governments to hate the other side during World War II. Anyone who didn't hate enough risked being called a sympathizer and traitor and going to jail. When these authorities wanted war, they propagated hatred among the populace and punished anyone who spoke the truth and refused to hate.[xxx-odoc|ch22]
 
-Why did so many Germans learn to hate Jewish people after World War I? Well, the German monarchy, business leaders, and generals had really screwed up and lost the war. Knowing it was a foregone conclusion, they surrendered before the enemy had crossed into German territory. Unfortunately, they had lied to the German public, and the media contained propaganda which said they were winning the war until the moment they surrendered. Thus many Germans were really confused: why did they surrender if they were winning?
+Why did so many Germans learn to hate Jewish people after World War I? Well, the German monarchy, business leaders, and generals had really screwed up and lost the war. Knowing it was a foregone conclusion, they surrendered before the enemy had crossed into German territory. Unfortunately, they had lied to the German public, and the media contained propaganda which said they were winning the war until the moment they surrendered. Thus many Germans were really confused: why did they surrender if they were winning?[xxx-odoc|ch22]
 
 The political, military and business leaders wanted to avoid accountability for losing the war and spreading lies, so they propagated a "stab-in-the-back" narrative, blaming Jews, labor activists, liberals, and others for undermining the country from within.
 
@@ -52,31 +52,31 @@ A tragic number of Germans believed this nonsense, and it wasn't an accident: pr
 
 ### And It Continues Today
 
-Racism, hatred, and ignorance can be widely propagated by authorities to avoid accountability, sabotage solidarity, promote imperial wars, and other reasons. It can be challenging to recognize because authorities will often punish someone for one secret reason, but publicly accuse them of something different. For example, present-day Germans who oppose war with Russia have been called "Putin-trolls", a reference to Russian president Putin, essentially calling them traitors instead of brave activists trying to stop an unnecessary war.
+Racism, hatred, and ignorance can be widely propagated by authorities to avoid accountability, sabotage solidarity, promote imperial wars, and other reasons. It can be challenging to recognize because authorities will often punish someone for one secret reason, but publicly accuse them of something different. For example, present-day Germans who oppose war with Russia have been called "Putin-trolls", a reference to Russian president Putin, essentially calling them traitors instead of brave activists trying to stop an unnecessary war.[xxx-putin troll]
 
-In another present-day example, the United States continues to support Israel's genocide of the Palestinians. Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were literally counting the calories of food being allowed in to keep the Palestinians at starvation levels.
+In another present-day example, the United States continues to support Israel's genocide of the Palestinians. Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were literally counting the calories of food being allowed in to keep the Palestinians at starvation levels.[xxx-open air prison]<sup>,</sup>[xxx-israel count calories]
 
-The Israelis began their all-out genocide in October 2023, with tremendous US support in the form of weapons, surveillance, fuel, political cover at the United Nations, and more. But just how bad has the violence been? Many news stories say that only 40-50,000 Palestinians have died -- surely a tragedy, but not genocide.
+The Israelis began their all-out genocide in October 2023, with tremendous US support including weapons, ammunition, military intelligence, fuel, and political cover at the United Nations.[xxx-isrtimes intel support]<sup>,</sup>[xxx-uscongress israel support] But just how bad has the violence been? Many news stories say that only 60,000 Palestinians have died -- surely a tragedy, but not genocide.[xxx-israeli pal deaths]
 
-Before the present conflict started in October 2023, the Palestinian population in Gaza was estimated at 2.2 million. When US president Trump took office in February 2025, he stated the Palestinian population was around 1.7-1.8 million. Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war. So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, and disease while extremely few Israelis have died in comparison.
+Before the present conflict started in October 2023, the Palestinian population in Gaza was estimated at 2.2 million.[xxx-pal 2023 pop] When US president Trump took office in February 2025, he stated the Palestinian population was around 1.7-1.8 million.[xxx-trump pales pop] Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war.[xxx-lancet palestinian casualties] So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, and disease while extremely few Israelis have died in comparison.[xxx-israeli pal deaths]
 
 How have the Israeli and American governments trained their populations to tolerate and even support this genocide? You guessed it: spreading racist and hateful propaganda about Palestinians, and punishing anyone who tried to speak the truth and stand up for what's right.
 
-Many government statements have called the Palestinians subhumans who deserve immense cruelty. For example, Israel's defense minister Yoav Gallant said, "We are fighting human animals and we are acting accordingly." Israelis have been trained to see Palestinians as a threat on par with Nazi Germany, rather than victims of a cruel occupation.
+Many government statements have called the Palestinians subhumans who deserve immense cruelty. For example, Israel's defense minister Yoav Gallant said, "We are fighting human animals and we are acting accordingly."[xxx-intercept israel propaganda] Israelis have been trained to see Palestinians as a threat on par with Nazi Germany, rather than victims of a cruel occupation.[xxx-pales holocaust comparison]
 
-In Israel, one school girl expressed sympathy with the Palestinians, saying she hoped they could return to their homes soon. She was suspended from school as other students threatened to burn her house down and the Ministry of Education accused her of "incitement against IDF [Israeli] soldiers."
+In Israel, one school girl expressed sympathy with the Palestinians, saying she hoped they could return to their homes soon. She was suspended from school as other students threatened to burn her village down and the Ministry of Education accused her of "incitement against IDF [Israeli] soldiers."[xxx-haaretz school girl sympathy]
 
 In America, we see similar disturbances. Anyone who tries to acknowledge the truth about Israeli aggression towards Palestinians is accused of antisemitism -- as if opposing the Israeli government's genocide and being racist towards Jewish people were the same thing, which obviously they are not.
 
-President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide. This is only an expansion of the policy that his predecessor president Biden started, as the genocide clearly has had support from both major political parties the entire time.
+President Trump is deporting many people for attending what he calls "illegal" protests and he accuses universities of tolerating antisemitism for allowing protests against the genocide.[xxx-trump illegal prot] This is only an expansion of the policy under the previous Biden administration, as the genocide clearly has had support from both major political parties the entire time.[xxx-biden pales protest suppress]
 
-Similar manipulative behavior is happening in many other unhealthy cultures, including Germany, Australia, France, and the United Kingdom.
+Similar manipulative behavior is happening in many other unhealthy cultures, including Germany[xxx-germany anti pales], Australia[xxx-austr anti pales], France[xxx-france anti pales], and many other European countries[xxx-euro anti pales].
 
-And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said that all activists were being monitored with AI-enabled cameras, their protesting would be recorded and show up in background checks, and they would never be hired again! In fact, North Carolina outlawed wearing face masks outside to make this surveillance even easier.
+And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said that all activists were being monitored with AI-enabled cameras, their protesting would be recorded and show up in background checks, and they would never be hired again.[xxx-thehill protester surveillance] In fact, North Carolina outlawed wearing face masks outside to make this surveillance even easier.[xxx-usnews palestine protest mask]
 
 Just like American slave owners scared poor and middle class white people into hating black people or remaining silent so they wouldn't oppose slavery, modern day authorities are trying to scare us into submission so we won't oppose their genocide.
 
-And just like authorities have attacked or killed spiritual leaders in the past, the same thing is happening today as authorities attack or kill the activists showing the most bravery, wisdom, and generosity to try to stop the massacre of Palestinians. American authorities imprisoned Mahmoud Khalil for his activist leadership work against the genocide, just like the Germans arrested Majed Abusalama and the British arrested Huda Ammori. In every country whose rulers strongly support the genocide, countless thousands of others have also been persecuted for opposing it.
+And just like authorities have attacked or killed spiritual leaders in the past, the same thing is happening today as authorities attack or kill the activists showing the most bravery, wisdom, and generosity to try to stop the massacre of Palestinians. American authorities imprisoned Mahmoud Khalil for his activist leadership work against the genocide[xxx-arrest khalil], just like the Germans arrested the organizer Majed Abusalama[xxx-arrest majed] and the British arrested the organizer Huda Ammori.[xxx-arrest huda] In every country whose rulers strongly support the genocide, countless thousands of others have also been persecuted for opposing it.
 
 Why are so many governments and corporate leaders supporting this genocide? People can only speculate: is it part of a plan for creating a major new west-Asian trade route through Israel? Accessing gas deposits off the Gaza coast? Developing beachfront real estate? All the above, or something else? When leaders are unaccountable, it can be difficult to know their true motivations.
 
@@ -86,9 +86,9 @@ This shows how ancient patterns of nations with rulers (or ruling classes) are p
 
 Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. _All these countries are actually dictatorships: cultures where some people dictate the law, and everyone else is expected to obey it._
 
-This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.**
+This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.[xxx-odoc|ch22]**
 
-Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.**
+Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.[xxx-odoc|ch20]**
 
 None of this excuses anyone's behavior, but it does explain where troubles like racism and hatred come from: authorities impose racism and hate, rewarding those who go along and punishing those who don't. Many people sadly follow along to protect their privilege.**
 
@@ -107,9 +107,9 @@ Do they just vote every few years and complain about politicians between electio
 
 It turns out that it is everyone's responsibility to ensure that only the most selfless people become leaders. Can you imagine having leaders who are so humble that they would never campaign for office? How would they even become leaders then?
 
-Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_.
+Martín Prechtel described how Tzutujil Mayan leaders gave away their wealth each time they reached a new level of leadership, putting them on the same level as everyone else -- and these leaders were expected to _never campaign for office_.[xxx-secrets of the talking jaguar|p210]
 
-Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.
+Likewise, traditional Cheyenne warriors were trained from childhood never to brag about their moments of bravery, instead trusting that other warriors would tell their stories on their behalf.[xxx-when buffalo ran|the way to live]
 
 It's everyone's responsibility to notice people's good deeds and retell their stories so that people's reputation can grow without any campaigning or bragging.
 
@@ -123,11 +123,77 @@ Given that some healthy cultures have had many tens of thousands of people, and 
 
 I love telling stories of others' good deeds -- it's fun! Who doesn't like telling and hearing good news? Who doesn't like encouraging and rewarding good behavior? Every retelling is a little celebration.
 
-One Nootka storyteller described the importance of "the mirror in the eyes of the people you love." When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
+One Nootka storyteller described the importance of "the mirror in the eyes of the people you love."[xxx-daughters of copper woman|112] When someone feels unseen and unappreciated, it can be discouraging. When people know that their neighbors and coworkers see them and feel grateful for their good deeds, they're likely to do more good deeds in the future. It simply feels good to give to grateful people. 
 
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy culture or healthy subculture, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Spread good news to encourage good deeds</div>
 <div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
 
-<div style="break-after:page"></div>
+### References
+
+[xxx-harriet moses of her people]-xxx
+
+[xxx-report on the diseases and physical peculiarities of the negro race]-xxx
+
+[xxx-odoc|ch6]-xxx
+
+[xxx-the ku klux klan: a study in reconstruction politics|p353-354]-aaa (Olsen, 1962, 353-354)
+
+[xxx-odoc|ch22]-xxx
+
+[xxx-putin troll]-xxx
+
+[xxx-israel count calories]-xxx
+
+[xxx-isrtimes intel support]-xxx
+
+[xxx-open air prison]-xxx
+
+[xxx-uscongress israel support]-xxx
+
+[xxx-palest death count low]-xxx
+
+[xxx-pal 2023 pop]-xxx
+
+[xxx-trump pales pop]-xxx
+
+[xxx-israeli pal deaths]-xxx
+
+[xxx-pales holocaust comparison]-aaa (Government press office, 2023)
+
+[xxx-lancet palestinian casualties]-xxx
+
+[xxx-intercept israel propaganda]-xxx
+
+[xxx-haaretz school girl sympathy]-xxx
+
+[xxx-usnews palestine protest mask]-xxx
+
+[xxx-thehill protester surveillance]-xxx
+
+[xxx-trump illegal prot]-xxx
+
+[xxx-biden pales protest suppress]-xxx
+
+[xxx-germany anti pales]-xxx
+
+[xxx-euro anti pales]-xxx
+
+[xxx-austr anti pales]-xxx
+
+[xxx-france anti pales]-xxx
+
+[xxx-arrest huda]-xxx
+
+[xxx-arrest khalil]-xxx
+
+[xxx-arrest majed]-xxx
+
+[xxx-odoc|ch20]-xxx
+
+[xxx-secrets of the talking jaguar|p210]-xxx
+
+[xxx-when buffalo ran|the way to live]-xxx
+
+[xxx-daughters of copper woman|112]-xxx

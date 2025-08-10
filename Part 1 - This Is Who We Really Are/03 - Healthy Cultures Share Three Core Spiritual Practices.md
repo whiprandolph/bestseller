@@ -55,7 +55,7 @@ These two spiritual practices of gratitude and gift-giving are both so beautiful
 
 Many healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
 
-The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills.[xxx-cultural survival standing rock] In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account.[xxx-basket interview] The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.[xxx-cnapa concept note]<sup>,</sup>[xxx-the best guardians of the forest]
+The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills.[xxx-cultural survival standing rock] In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means the same as "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account.[xxx-basket interview] The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.[xxx-cnapa concept note]<sup>,</sup>[xxx-the best guardians of the forest]
 
 In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established."[xxx-guardian mbuti] The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging the old-growth forests.[xxx-australia example]<sup>,</sup>[xxx-resilience sami skerk]
 
@@ -87,8 +87,6 @@ What are your gifts? What can you give or do or be that would open your heart an
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover your own sacred gifts</div>
 <div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and consider what most matters to you, and how you can act in service of it. 2) Consider what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and meaning already in life, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
 
-<div style="break-after:page"></div>
-
 ### References
 
 [xxx-original instructions|armstrong]-xxx
@@ -99,24 +97,24 @@ What are your gifts? What can you give or do or be that would open your heart an
 
 [xxx-kamana 3 nat|burning desire heart]-aaa (Young, n.d.-a, 14)
 
-[xxx-the best guardians of the forest]
+[xxx-the best guardians of the forest]-xxx
 
-[xxx-guardian mbuti]
+[xxx-guardian mbuti]-xxx
 
-[xxx-resilience sami skerk]
+[xxx-resilience sami skerk]-xxx
 
-[xxx-australia example]
+[xxx-australia example]-xxx
 
-[xxx-counterpunch tipnis]
+[xxx-counterpunch tipnis]-xxx
 
-[xxx-cultural survival sakhalin island]
+[xxx-cultural survival sakhalin island]-xxx
 
 [xxx-basket interview]-xxx
 
 [xxx-braiding sweetgrass|allegiance to gratitude]-xxx
 
-[xxx-cnapa concept note]
+[xxx-cnapa concept note]-xxx
 
-[xxx-cultural survival standing rock]
+[xxx-cultural survival standing rock]-xxx
 
 [xxx-braiding sweetgrass|the three sisters]-xxx

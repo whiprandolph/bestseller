@@ -106,12 +106,17 @@ def process_chapter(full_path):
   chap_ids.add(chap_id)
   ref_header = "### References"
   assert '<toc/>' not in blob, "Chap %s has <toc/>" % full_path
-  assert "break-after:page" in blob, "no break-after in %s" % full_path
-
+  if "06 - Why Are We So Lost" in full_path:
+    assert blob.count("break-after:page") == 1, "page CONTAINS too many break-after in %s" % full_path
+  else:
+    assert "break-after:page" not in blob, "page CONTAINS break-after in %s" % full_path
+  
   if not ref_header in blob:
+    blob += "\n\n<div style=\"break-after:page\"></div>\n"
     return blob, []
 
   body, references = blob.split(ref_header)
+  body += "\n\n<div style=\"break-after:page\"></div>\n"
 
   cite_list = []
   ref_map = build_ref_map(references)
@@ -253,6 +258,8 @@ def main():
         chapter_name = body.split("\n", 1)[0].strip("## ").strip()
         full_cite_list.append((chapter_name, cite_list))
     print("# cite count: %s" % sum([len(cites) for foo, cites in full_cite_list]))
+    # pp(full_cite_list)
+    # breakpoint()
     #write_cites(full_cite_list)
     #fix_biblio()
     #cite_blob = open(citations_path, 'r', encoding='utf-8').read()

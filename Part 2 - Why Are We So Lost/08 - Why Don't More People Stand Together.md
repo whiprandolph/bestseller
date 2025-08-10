@@ -30,13 +30,13 @@ They also surveilled activists to dig up and publicize any private behaviors the
 
 Can you imagine what it would be like if the government deliberately made your life as difficult as possible, just because you confronted injustices with your neighbors?**
 
-There are many other examples of this kind of bureaucratic assault, including reputation sabotage. For instance, in the 2010s the US decided to have Julian Assange accused of sexual assault in Sweden after Assange revealed huge numbers of war crimes and deceit by US political leaders. The original Swedish prosecutor Eva Finne acknowledged, "There is no suspicion of any crime whatsoever." However, corrupt politics won out, and continual political persecution resulted in Assange being trapped for 12 years in an embassy and later a British prison.[xxx-cook assange finne]**
+There are many other examples of this kind of bureaucratic assault, including reputation sabotage. For instance, in the 2010s the US decided to have Julian Assange accused of sexual assault in Sweden after Assange revealed huge numbers of war crimes and deceit by US political leaders. The original Swedish prosecutor Eva Finne acknowledged, "There is no suspicion of any crime whatsoever." However, corrupt politics won out, and continual political persecution resulted in Assange being trapped for over a decade in an embassy and later a British prison.[xxx-cook assange finne]**
 
 Authorities may also audit the taxes of activists to force them to waste huge amounts of time. In 2022, American Matt Taibbi was busily exposing documents showing how the US government pressured a social media company to censor content. Three weeks later, the US federal tax authority (IRS) opened an investigation of Taibbi. Fortunately, powerful politicians contacted the IRS on Taibbi's behalf, and the IRS agents decided Taibbi didn't owe any taxes after all.[xxx-nypost taibbi]
 
-Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous social activists include Jesus Christ and Martin Luther King Jr. Jesus Christ had consistently broke the law to feed[xxx-???] and heal[xxx-???] people who needed it, and he even attacked moneylenders for profiting in the Temple.[xxx-bible|kjb mark 11:18] He associated with many Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples.[xxx-britannica jewish overview] He kept serving his people in the deepest ways he could, knowing he would be killed for it. Finally the authorities arrested and nailed him to a cross and left him to die in public. It was normal for Roman authorities to publicly torture revolutionaries to death with crucifiction in order to scare everyone else into submission.[xxx-worldhistory jewish zealots]
+Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous social activists include Jesus Christ and Martin Luther King Jr. Jesus Christ had consistently broke the law to feed[xxx-bible|esv mark 2:23-24] and heal[xxx-bible|matthew 12:10] people who needed it, and he even attacked moneylenders for profiting in the Temple.[xxx-bible|kjb mark 11:15-18] He associated with Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots] He kept serving his people in the deepest ways he could, knowing he would be killed for it.[xxx-bible|kjb mark 9:31]<sup>,</sup>[xxx-bible|mark 10:32-34] Finally the authorities arrested and nailed him to a cross and left him to die in public along with two other revolutionaries. It was normal for Roman authorities to publicly torture revolutionaries to death with crucifixion in order to scare everyone else into submission.[xxx-worldhistory jewish zealots]
 
-The death of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States to improve the treatment of black people in the 1950s and 1960s.[xxx-georgiaencyclopedia king] Over time, he also took a stand against imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy.[xxx-king vietnam speech]
+The death of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States to improve the treatment of black people in the 1950s and 1960s.[xxx-georgiaencyclopedia king] Over time, he also took a stand against imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy.[xxx-king vietnam speech] Like Jesus Christ, King carried on his work even knowing it would cost him his life, even acknowledging this in a speech the night before his assassination.[xxx-mlk final speech afscmd]
 
 On April 4, 1968, a sniper murdered Martin Luther King Jr. The government arrested and convicted James Earl Ray for this act, but a great deal of evidence indicated that someone else had actually killed Martin Luther King Jr.
 
@@ -54,9 +54,9 @@ The Nazis worked diligently to scare Germans into submission in the 1930s. Bruce
 
 This led to group members believing they were safe as long as they stayed out of leadership positions. The Nazis did not want any public opposition, so they responded by arresting lawyers essentially randomly across the group. Nobody was explicitly told why they were arrested, but they all learned it was from their activism work. This scared the rest and allowed the Nazis to leave a few leading lawyers in place when this was useful to them.
 
-Infiltration is particularly devious, where undercover police officers or contractors will pretend to be activists and participate in social movements. In 2011-2012, eight British women activists filed a lawsuit stating they were tricked into having long-term relationships with police who sabotaged their efforts to mitigate animal cruelty, reduce pollution, and more. Prosecutors and police chiefs set up 12 "inquiries" to investigate police misconduct, but all took place in secret and there has been no sign of change. Some of the women even had children with the undercover police who had secretly undermined all the good work they were doing.[xxx-guardian family spy]
+Infiltration is particularly devious, where undercover police officers or contractors will pretend to be activists and participate in social movements. In 2011, eight British women activists filed a lawsuit stating they were tricked into having long-term relationships with police who sabotaged their efforts to reduce animal cruelty and pollution going back to the 1980s. Prosecutors and police chiefs set up 12 "inquiries" to investigate police misconduct, but all took place in secret and there has been no sign of change. Some of the women even had children with the undercover police who had secretly undermined all the good work they were doing.[xxx-guardian family spy]
 
-The Tsarist Russian secret police provide more examples of police infiltration. Helpful informants were more likely to get into university or get a job, while incorruptible activists were denied. One police chief even allowed infiltrators to engage in illegal behavior to earn the trust of the real activists. Infiltrators were trained in all the fashionable revolutionary and socialist theories, and whenever an activist group seemed to settle on one theory, the infiltrators would start advocating for an opposing one, never letting the group settle on a coherent understanding of their problems and what to do about them. The manipulation ran deep![xxx-watchful state|p8-10]<sup>,</sup>[xxx-bailey police socialism]
+The Tsarist Russian secret police provide more examples of police infiltration. Helpful informants were more likely to get into university or get a job, while incorruptible activists were denied. One police chief even allowed infiltrators to engage in illegal behavior to earn the trust of the real activists. Infiltrators were trained in all the fashionable revolutionary and socialist theories, and whenever an activist group seemed to settle on one theory, the infiltrators would start advocating for an opposing one, never letting the group settle on a coherent understanding of their problems and what to do about them. The manipulation ran deep![xxx-watchful state|p8-12]<sup>,</sup>[xxx-bailey police socialism]
 
 These techniques are all devious, but they're still far from ideal for authorities. Ideally activists would never start their own activist groups, but join government-sponsored organizations where they can be most easily surveilled and controlled.
 
@@ -80,7 +80,7 @@ Ford Foundation directors have included some of the most politically connected A
 
 Just as the vast majority of activists in the astroturf Russian labor unions legitimately wanted change, countless honest, well-meaning activists have supported Black Lives Matter. But sadly, the most influential people -- the funders and their choice of organizations and leaders they fund -- have found ways to direct that activist energy to effectively seek only moderate change and avert deep change.**
 
-After 10 years, what was there to show? Many wealthy and powerful people implemented superficial changes that might feel rewarding and give appearance that Black Lives Matter was making progress, but which do not end the oppression of black people. The government announced a new federal holiday called Juneteenth in honor of the end of chattel slavery. Companies like Zoom and Google allow people to choose their skin color in their profiles. Some large news companies and publishers capitalize the letter "b" when writing about "black people."[xxx-ap capitalize black]**
+After 10 years, what was there to show? Many wealthy and powerful people implemented superficial changes that might feel rewarding and give appearance that Black Lives Matter was making progress, but which do not end the oppression of black people. The government announced a new federal holiday called Juneteenth in honor of the end of chattel slavery. Companies like Zoom and Google allow people to choose their skin color in their profiles. Some large news companies and publishers "take a stand" against racism by capitalizing the letter "b" when writing about black people.[xxx-ap capitalize black]**
 
 Many companies include some variation of "diversity, equity, and inclusion" projects geared towards helping employees get along and work productively together. Corporate officers that claim to oppose racism commonly discuss microaggressions that hurt an individual's feelings but do not address the massive macroaggressions which generate systems of prison slavery.[xxx-shrm microaggressions corporation]**
 
@@ -102,7 +102,7 @@ This oppression profoundly benefits the rich in countless ways, as it discourage
 
 Black Lives Matter organizers proclaim they are anti-white supremacy and anti-capitalist. But do you think that a movement so heavily funded by rich white capitalists will end the oppression that benefits them so much?**
 
-Black Lives Matter isn't even the only astroturf movement in the United States. As another example, the multibillionaire Koch brothers have spent over $160 million to fund dozens of "independent" research and opinion organizations to trick people into thinking climate change is fake -- all to protect their investment in their oil and chemical company.[xxx-greenpeace koch]<sup>,</sup>[xxx-new yorker koch]**
+Black Lives Matter isn't even the only astroturf movement in the United States. As another example, the multibillionaire Koch brothers have spent over $160 million to fund at least 90 "independent" research and opinion organizations to trick people into thinking climate change is fake -- all to protect their investment in their oil and chemical company.[xxx-greenpeace koch]**
 
 Creating and controlling astroturf social movements is common in unhealthy cultures where a few powerful people control vast wealth and work to keep it at any cost.
 
@@ -149,79 +149,73 @@ What was the end result of a society based in part on these principles? Whereas 
 
 Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.[xxx-needs ending]
 
-<div style="break-after:page"></div>
-
 ### References
 
 [xxx-needs ending]
 
-[xxx-letterfromjail.com]
+[xxx-letterfromjail.com]-xxx
 
-[xxx-stasi introduction]
+[xxx-stasi introduction]-xxx
 
-[xxx-stasi tactics]
+[xxx-stasi tactics]-xxx
 
-[xxx-basket interview]
+[xxx-basket interview]-xxx
 
-[xxx-moving things around]
+[xxx-moving things around]-xxx
 
-[xxx-cook assange finne]
+[xxx-cook assange finne]-xxx
 
-[xxx-bible|kjb mark 11:18]
+[xxx-bible|kjb mark 11:15-18]-xxx
 
-[xxx-georgiaencyclopedia king]
+[xxx-georgiaencyclopedia king]-xxx
 
-[xxx-worldhistory jewish zealots]
+[xxx-worldhistory jewish zealots]-xxx
 
-[xxx-ratical king memphis trial]
+[xxx-ratical king memphis trial]-xxx
 
-[xxx-king vietnam speech]
+[xxx-king vietnam speech]-xxx
 
-[xxx-nypost taibbi]
+[xxx-nypost taibbi]-xxx
 
-[xxx-???]
-
-[xxx-britannica jewish overview]
+[xxx-britannica jewish overview]-xxx
 
 [xxx-bettelheim]-xxx
 
-[xxx-bailey police socialism]
+[xxx-bailey police socialism]-xxx
 
-[xxx-watchful state|p8-10]-xxx
+[xxx-watchful state|p8-12]-xxx
 
-[xxx-guardian family spy]
+[xxx-guardian family spy]-xxx
 
-[xxx-russian secret police|okhrana age assassinations]
+[xxx-russian secret police|okhrana age assassinations]-xxx
 
-[xxx-blacklivesmatter impact]
+[xxx-blacklivesmatter impact]-xxx
 
-[xxx-rockarch ford 60s race activism]
+[xxx-rockarch ford 60s race activism]-xxx
 
-[xxx-omidyar equity transformation]
+[xxx-omidyar equity transformation]-xxx
 
-[xxx-chan zuckerberg blm donation]
+[xxx-chan zuckerberg blm donation]-xxx
 
-[xxx-cia request ford foundation help psych warfare]
+[xxx-cia request ford foundation help psych warfare]-xxx
 
-[xxx-m4bl about us]
+[xxx-m4bl about us]-xxx
 
-[xxx-fordfoundation 665]
+[xxx-fordfoundation 665]-xxx
 
-[xxx-britannica mccloy]
+[xxx-britannica mccloy]-xxx
 
-[xxx-shrm microaggressions corporation]
+[xxx-shrm microaggressions corporation]-xxx
 
-[xxx-ap capitalize black]
+[xxx-ap capitalize black]-xxx
 
-[xxx-odoc|ch20]
+[xxx-odoc|ch20]-xxx
 
-[xxx-odoc|ch24]
+[xxx-odoc|ch24]-xxx
 
-[xxx-harpers magazine real purpose drug war]
+[xxx-harpers magazine real purpose drug war]-xxx
 
-[xxx-new yorker koch]
-
-[xxx-greenpeace koch]
+[xxx-greenpeace koch]-xxx
 
 [xxx-odoc|ch36]-xxx
 
@@ -235,7 +229,7 @@ Countless people have dreamed of revolution, but too few revolutionaries have st
 
 [xxx-a basic call to consciousness|p105]-xxx
 
-[xxx-britannica utopia]
+[xxx-britannica utopia]-xxx
 
 [xxx-a basic call to consciousness|p34]-xxx
 
@@ -246,3 +240,13 @@ Countless people have dreamed of revolution, but too few revolutionaries have st
 [xxx-a basic call to consciousness|p104]-xxx
 
 [xxx-a basic call to consciousness|p37]-xxx
+
+[xxx-bible|esv mark 2:23-24]-xxx
+
+[xxx-bible|matthew 12:10]-xxx
+
+[xxx-bible|mark 10:32-34]
+
+[xxx-mlk final speech afscmd]
+
+[xxx-bible|kjb mark 9:31]

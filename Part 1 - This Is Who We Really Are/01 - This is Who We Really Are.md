@@ -99,8 +99,6 @@ Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic v
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
-<div style="break-after:page"></div>
-
 ### References
 
 [xxx-cbc news plastics food wrap]-xxx
