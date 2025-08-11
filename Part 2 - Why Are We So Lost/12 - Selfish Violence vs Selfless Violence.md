@@ -64,7 +64,7 @@ On December 22, 1997, a paramilitary group called Máscara Roja murdered 45 wome
 
 Why did the Zapatistas stand up to the Mexican government this way? Why was it worth putting themselves through such difficult times?
 
-The Zapatistas had suffered under Spanish and then Mexican rule for 500 years. Their rallying cry was _Ya Basta!_, _Enough!_. Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Despite the facade of elections, they could not choose leaders they actually respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
+The Zapatistas had suffered under Spanish and then Mexican rule for 500 years. Their rallying cry was _Ya Basta!_, _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Despite the facade of elections, they could not choose leaders they actually respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
 
 One commander said, "Para todos, todo, para nosotros nada" -- For everyone, everything; for us, nothing. Each person offers their gifts for the good of the group. This person acknowledged that being a Zapatista was difficult. They sometimes only have hard tortillas to eat, and sometimes they fall sick due to poor food. They often sleep on hard floors or can't sleep for days and nights. Their lives are often at risk.[xxx-original instructions|return ancient council]
 
@@ -98,6 +98,12 @@ I suspect everyone in these stories would have preferred peace. But when the opt
 <div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when it's not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each kind. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? In what circumstances do you think violence is appropriate, and when is it not appropriate?</div></div>
 
 ### References
+
+[xxx-mate us ukraine coup]-aaa (Maté, 2022)
+
+[xxx-history panthers guns]-aaa (Morgan, 2018)
+
+[xxx-panthers food clothes]-aaa ("The Black Panther Party," n.d.)
 
 [xxx-wagingnonviolence in the face of assassinations]-aaa (Rull, 2021)
 
@@ -133,8 +139,6 @@ I suspect everyone in these stories would have preferred peace. But when the opt
 
 [xxx-putin troll]-aaa ("Have You All Lost Your Minds?". Amazing and Terrifying Speech by @SWagenknecht, 2024)
 
-[xxx-mate us ukraine coup]-xxx
-
 [xxx-goering]-aaa (Gilbert, n.d.)
 
 [xxx-caitlinjohnstone unprovoked]-aaa (Johnstone, 2023)
@@ -156,10 +160,6 @@ I suspect everyone in these stories would have preferred peace. But when the opt
 [xxx-jacobin 911 saudi]-aaa (Marcetic, 2024)
 
 [xxx-aljazeera saudi links]-aaa (FBI Releases Newly Declassified Record on September 11 Attacks, 2021)
-
-[xxx-history panthers guns]-xxx
-
-[xxx-panthers food clothes]-xxx
 
 [xxx-geronimo autobio|kas-ki-yeh]-aaa (Barrett, 2010, "KAS-KI-YEH")
 

@@ -61,7 +61,7 @@ def get_page_number(pdf, name, start_page):
   a = 5
 
 
-def prep_pdf_toc(content_path, dimensions={}):
+def prep_pdf_toc(content_path, dimensions):
   pdf = PdfReader(content_path)
 
   chapter_number = 1
@@ -107,7 +107,7 @@ def write_toc_line(md, name, page_number):
   md.write("<span class=\"page\"><span class=\"visually-hidden\">Page</span> %s</span>\n" % page_number)
   md.write("</a>\n")
 
-def output_table(toc_data, dimensions={}):
+def output_table(toc_data, dimensions):
   md = open(toc_html_path, encoding='utf-8', mode='w')
   md.write("<html><title>The Deepest Revolution</title>\n")
   md.write("<style>\n%s\n</style>\n" % css)
@@ -115,13 +115,13 @@ def output_table(toc_data, dimensions={}):
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
-  md.write("<body>\n\n")
-  md.write("<center><h2>The<br/>Deepest Revolution</h2><br/>\n\n")
+  md.write("<body>\n\n<br/><br/>")
+  md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
   md.write("<h2>DRAFT</h2><br/>\n\n")
   md.write("<h4>William Randolph</h4><br/></center>\n\n")
 
-  md.write("<div style=\"break-after:always\"></div><div style=\"break-after:page\"></div>\n")
-  md.write("<center><b>Table of Contents</b></center>\n")
+  md.write("<div style=\"break-after:page\"></div>\n")
+  md.write("<div style=\"margin-top:.5in\"><center><b>Table of Contents</b></center></div>\n")
   md.write("<ol class=\"toc-list\" role=\"list\">\n")
 
   for part in toc_data:
@@ -168,7 +168,7 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("44:130"))
+  part_two.append(book_pdf_path, pages=PageRange("39:116"))
   part_two.write(part_two_path)
   part_two.close()
 
@@ -176,7 +176,7 @@ def sample_pdf(book_pdf_path):
   try:
     assert "Table of Contents" in part_two_reader.pages[0].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ToC)"
     assert "Why Are We So Lost" in part_two_reader.pages[1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (title page)"
-    assert "Explore paths to creating" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
+    assert "paths to creating new" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()
@@ -184,7 +184,7 @@ def sample_pdf(book_pdf_path):
 
   part_one = PdfWriter()
   part_one.append(book_pdf_path, pages=PageRange("1"))
-  part_one.append(book_pdf_path, pages=PageRange("5:44"))
+  part_one.append(book_pdf_path, pages=PageRange("5:39"))
   part_one.write(part_one_path)
   part_one.close()
 
@@ -198,13 +198,17 @@ def sample_pdf(book_pdf_path):
     breakpoint()
     a = 4 
 
-def main(content_path, book_pdf_path, dimensions={}):
+def main(content_path, book_pdf_path, dimensions):
   prep_pdf_toc(content_path, dimensions)
   merge_pdfs(content_path, book_pdf_path)
   sample_pdf(book_pdf_path)
 
 
 css = """
+html {
+  font-size:11.3pt;
+}
+
 .visually-hidden {
     clip: rect(0 0 0 0);
     clip-path: inset(100%);
@@ -225,11 +229,12 @@ css = """
 }
 
 .toc-list {
-  padding: 0;
+  padding-right: .55in;
+  padding-left: .55in;
 }
 
 .toc-list ol {
-  padding-inline-start: 2ch;
+  padding-inline-start: 1ch;
 }
 
 .toc-list > li > a {

@@ -209,21 +209,53 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 ### References
 
-[xxx-bible mark 2:27]-xxx
+[xxx-tgc jesus obed]-aaa (McCormick, n.d.)
 
-[xxx-bible|niv 1 peter 2:13]-xxx
+[xxx-catholic jesus obed]-aaa (Perla, 2022)
+
+[xxx-13th hadith]-aaa (Nawawi, n.d.)
+
+[xxx-jesus died for sins]-aaa (Kim, 2025)
+
+[xxx-britannica usa anthem]-aaa (Blumberg, 2025)
+
+[xxx-ussr worker paradise]-aaa (Arbuthnot, Mollie, 2019)
+
+[xxx-latterday jesus obed]-aaa (Stapley, 1977)
+
+[xxx-bible|luke 6:31]-aaa (Luke 6:31, King James Version Bible)
+
+[xxx-udanavarga|p252]-aaa (Rockhill, 1892)
+
+[xxx-grandmothers light|p9]-aaa (Allen, 1991, 9)
+
+[xxx-braiding sweetgrass|a mothers work]-aaa (Kimmerer, 2013, "A Mother's Work")
+
+[xxx-islam freedom]-aaa (Khan, 2019)
+
+[xxx-bible mark 2:27]-aaa (Mark 2:27, King James Version Bible)
+
+[xxx-bible|niv 1 peter 2:13]-aaa (Mark 1 Peter 2:13, New International Version Bible)
+
+[xxx-catholic catechism|408]-aaa (Catechism of the Catholic Church, 1997, 408)
+
+[xxx-bible|niv 1 peter 2:16]-aaa (1 Peter 2:16, New International Version Bible)
+
+[xxx-bible|mark 3:2]-aaa (Mark 3:2, King James Version Bible)
+
+[xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
+
+[xxx-bible|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
+
+[xxx-bible|mark 12:17]-aaa (Mark 12:17, King James Version Bible)
 
 [xxx-codex theodosianus xvi 1.2. the theodosian code|p440]-aaa (Pharr, 1952, 440)
 
 [xxx-quran|4:59]-aaa (The Quran, 4:59, Translated by Mustafa Khattab)
 
-[xxx-catholic catechism|403]-xxx
-
 [xxx-catholic catechism|416-418]-aaa (Catechism of the Catholic Church, 1997, 416-418)
 
 [xxx-catholic catechism|405]-aaa (Catechism of the Catholic Church, 1997, 405)
-
-[xxx-catholic catechism|408]-xxx
 
 [xxx-quran|2:220]-aaa (The Quran, 2:220, Translated by Mustafa Khattab)
 
@@ -243,49 +275,21 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-when serfs stood up|p329]-aaa (Strong, 1976, 329)
 
-[xxx-bible|niv 1 peter 2:16]-xxx
-
-[xxx-britannica usa anthem]-xxx
-
-[xxx-ussr worker paradise]-xxx
-
 [xxx-bible|esv mark 11:15-18]-aaa (Mark 11:15-18, English Standard Version Bible)
 
 [xxx-worldhistory jewish zealots]-aaa (Denova, 2022)
 
 [xxx-britannica jewish overview]-aaa (Gaster & Dimitrovsky, 2024)
 
-[xxx-bible|mark 3:2]-xxx
-
-[xxx-bible|esv mark 2:23-24]-xxx
-
-[xxx-bible|matthew 12:10]-xxx
-
-[xxx-latterday jesus obed]-xxx
-
 [xxx-medium weapon names]-aaa (War is Boring, 2014)
 
-[xxx-bible|mark 12:17]-xxx
-
-[xxx-tgc jesus obed]-xxx
-
-[xxx-catholic jesus obed]-xxx
-
 [xxx-britannica jewish revolt]-aaa (Lohnes, 2024)
-
-[xxx-bible|luke 6:31]-xxx
-
-[xxx-13th hadith]-xxx
-
-[xxx-udanavarga|p252]-xxx
 
 [xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
 
 [xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
 
 [xxx-oxford messiah]-aaa (Messiah, n.d.)
-
-[xxx-jesus died for sins]-xxx
 
 [xxx-geronimo autobio|preparation of a warrior]-aaa (Barrett, 2010, "Preparation of a Warrior")
 
@@ -297,10 +301,4 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-fbi messiah]-aaa (Hoover, n.d.)
 
-[xxx-grandmothers light|p9]-xxx
-
 [xxx-continuum concept|growing up]-aaa (Liedloff, 2004, "Growing Up")
-
-[xxx-braiding sweetgrass|a mothers work]-xxx
-
-[xxx-islam freedom]-xxx

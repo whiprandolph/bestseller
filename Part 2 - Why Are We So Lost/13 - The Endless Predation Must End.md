@@ -1,24 +1,24 @@
 ## Chapter 13: The Endless Predation Must End
 
-Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.
+Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
 
 How can well-off, even middle- or upper-class people be prisoners?
 
 Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy cultures have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of standing up together to seek justice, abuse and exploitation become the norm.
 
-Sadly, child sexual abuse runs rampant in these conditions, including by unaccountable religious, business and political authorities. For example, researchers in Germany, Ireland, the USA and Australia have found many thousands of child sexual abuse victims just from Catholic priests in each country. One investigation into Catholic abuses in France alone found over 216,000 child sexual assault victims between 1950-2020. Universally, higher Catholic Church authorities covered up or stalled investigations into the abusive priests.
+Sadly, child sexual abuse runs rampant in these conditions, including by unaccountable religious, business and political authorities. For example, researchers in Germany, Ireland, the USA and Australia have found many thousands of child sexual abuse victims just from Catholic priests in each country. One investigation into Catholic abuses in France alone found over 216,000 child sexual assault victims between 1950-2020. Universally, higher Catholic Church authorities covered up or stalled investigations into the abusive priests.[xxx-aljazeera catholic pedophilia]
 
-Child rape can become quite normalized. One boy was raped by monks in Buddhist Tibet and complained to other monks. He said, "they shrugged and said simply that that was just the way things were."
+Child rape can become quite normalized. One boy was raped by monks in Buddhist Tibet and complained to other monks. He said, "they shrugged and said simply that that was just the way things were."[xxx-the struggle for modern tibet|chapter 3]
 
-Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile raped dozens of underaged people as young as 8 years old from the 1960s-1980s, and British Broadcasting Corporation (BBC) staff forced out young women who complained of his inappropriate behavior.
+Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile raped dozens of underaged people as young as 8 years old from the 1960s-1980s. When a young woman complained to British Broadcasting Corporation (BBC) staff about his inappropriate behavior, the staff evicted her from the premises.[xxx-dame janet smith report]
 
-An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.
+An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.[xxx-guardian portugal boys]<sup>,</sup>[xxx-guardian portugal president knew]
 
 How do you think the Portuguese people felt watching these legal proceedings carefully avoid the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
 
 Tragically, such disturbing troubles are simply common in unhealthy cultures that punish you for seeking justice. Thus similar stories can be found in the United States.
 
-In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found huge numbers of child sexual abuse victims who named many powerful people as abusers, including judges, politicians, and business executives. National figures were involved too, including multiple American billionaires and a US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the perpetrators faced justice.
+In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found many child sexual abuse victims who described many satanic rituals and named many powerful people as abusers, including judges, politicians, and wealthy business executives. National figures were involved too, including billionaire George HW Bush, who at various times was a billionaire US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the perpetrators faced justice.[xxx-franklin cover up|p4-12]<sup>,</sup>[xxx-franklin cover up|pxvii]
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy cultures go on about their lives as if this rampant child abuse isn't still happening all around them.
 
@@ -34,7 +34,7 @@ A staggering level of abusive behavior always occurs when people allow themselve
 
 Can you imagine a world without child sexual abuse? Not just a world with more women's self-defense classes, or stronger laws, or better ways of supporting victims. Can you imagine a world without _any_ child sexual abuse?
 
-This world is possible. Healthy cultures do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy cultures to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two young Nootka girls.
+This world is possible. Healthy cultures do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy cultures to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two young Nootka girls.[xxx-daughters of copper woman|p73-74]
 
 The Nootkas' response showed me that they had never experienced child sexual assault until encountering an unhealthy culture:
 
@@ -50,7 +50,7 @@ Healthy cultures see any disrespect as a cultural wound that affects everybody, 
 
 The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their culture's survival to protect themselves from predators.
 
-This taught me the importance of maintaining that internal baseline of mutual respect. Once a culture allows disrespect and tolerates selfish predators, there is no end to the trouble.
+This taught me the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy cultures show, once a culture allows disrespect and tolerates selfish predators, there is no end to the trouble.
 
 ### What Is It Like to be Conquered? And What Does That Have to Do With Me?
 
@@ -66,15 +66,15 @@ Unfortunately, many ruling classes have recognized this truth, and this explains
 
 The Lakota and Nootka offer tragic examples, as they were ultimately unable to prevent conquering Christians from kidnapping most of their children and sending them to abusive boarding schools.
 
-Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common and girls and boys were shamed and humiliated in countless ways and trained to hate the healthy culture they'd grown up in. One man named White Hat noted, "I was so angry that I was born an Indian that I didn't want to live."
+Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common and girls and boys were shamed and humiliated in countless ways and trained to hate the healthy culture they'd grown up in. One man named White Hat noted, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
 
 At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for himself and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]**
 
-At Catholic boarding schools, Nootka girls likewise learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."
+At Catholic boarding schools, Nootka girls likewise learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 
 Countless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
 
-Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for drunkenness, shame, domestic violence, and other terrible troubles to take hold, proving again that humans didn't "evolve" to live in unhealthy cultures; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
+Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for terrible troubles like drunkenness, shame, and domestic violence to take hold that seem so tragically widespread in every unhealthy culture. This proves again that humans didn't "evolve" to live in unhealthy cultures; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
 
 While every instance of conquering is unique, they are all similarly traumatic. That means your ancestors went through something just as traumatic as the Nootka and Lakota. The only difference is that your ancestors went through it decades, centuries, or maybe millennia ago, and those stories are no longer passed down so you don't know them. Thus drug and alcohol abuse, despair, domestic violence, and the other widespread troubles may now seem normal or "just how life is." But just because you are not aware of what your ancestors went through does not mean it did not happen. And those ancient traumas that your ancestors endured were never fully healed, and they still affect us today.
 
@@ -82,17 +82,17 @@ While every instance of conquering is unique, they are all similarly traumatic. 
 
 Mistreatment of children has a profound effect on our politics, because people's childhood experiences can radically affect their spirituality -- that is, childhood experiences dramatically affect how people relate to themselves and the world. An abused or deprived child can struggle to trust other people or themselves, or cultivate deep rage, resentment, shame, sense of isolation, fear, stress, or other troubles that color the rest of their lives if they're unable to heal.
 
-The _True Americanism_ study interviewed 50 men, 25 who volunteered to fight in the Vietnam war and 25 who took a stand to end that war, even at great personal risk. In the large majority of war volunteers, the men had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."
+The _True Americanism_ study interviewed 40 men, 25 who volunteered to fight in the Vietnam war and 15 who took a stand to end that war, even at great personal risk. In the large majority of war volunteers, the men had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."[xxx-true americanism|p50]<sup>,</sup>[xxx-true americanism|p25]
 
-The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..." In other words, these men clearly had learned to ignore their own dignity and sense of right and wrong. They were not offering their sacred gifts. Instead of walking the most meaningful life imaginable, they were willing to be cogs in a machine they knew was corrupt.
+The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "many people have got their thumb in the pie over there..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..." In other words, these men clearly had learned to ignore their own dignity and sense of right and wrong. They were not offering their sacred gifts. Instead of walking the most meaningful life imaginable, they were willing to be cogs in a machine they knew was corrupt.[xxx-true americanism|p151]
 
-In contrast, the war-resisters had the spiritual strength to oppose an unjust war even at great personal risk, with some going to prison for years. Growing up in respectful settings, they cultivated the self-respect to stand for what's right in adulthood. But the differences in these two groups of men go deeper still.
+In contrast, the war-resisters had the spiritual strength to oppose an unjust war even at great personal risk, with almost all of them either having been imprisoned, awaiting sentencing or facing trial at the time of their interviews. Growing up in respectful settings, they cultivated the self-respect to stand for what's right in adulthood. But the differences in these two groups of men go deeper still.[xxx-true americanism|p3]
 
 When children are repeatedly mistreated or deprived, they can learn to "hold back" or "shut down" parts of themselves, ignore parts of their experience, and develop hurtful attitudes in order to numb the pain of continual dissatisfaction. When this is severe enough, it can lead to adults with very disturbing attitudes and behavior. Many adults struggle to feel any pleasure or connection at all, or even find pleasure revolting.
 
-Interviewers found that most war-volunteers were unable to feel deeply, describing any sort of deepening relationship as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."
+Interviewers found that most war-volunteers were unable to feel deeply, describing any sort of deepening relationship as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."[xxx-true americanism|p137]
 
-In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned deep lessons from women sexual partners, including how to relate to people, share, and enjoy life.
+In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned deep lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
 
 Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel deeply -- they lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have deep insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, ie objectifying them. And people who are insecure tend to put down others.
 
@@ -114,7 +114,7 @@ Unfortunately, deep training for submissive obedience does not end in childhood,
 
 ### When Adults Learn to "Hold Back" or "Shut Down" Parts of Themselves
 
-Julian Assange said how people learn to tolerate abuse: "Every time we witness an injustice and do not act, we train our character to be passive in its presence and thereby eventually lose all ability to defend ourselves and those we love."
+Julian Assange said how people learn to tolerate abuse: "Every time we witness an injustice and do not act, we train our character to be passive in its presence and thereby eventually lose all ability to defend ourselves and those we love."[xxx-assange quote]
 
 What qualities would people need to cultivate to have the strength to live in a healthy culture? And how are adults trained to tolerate living in an unhealthy culture with endless exploitation?
 
@@ -155,6 +155,44 @@ Ending this predation will require creating new healthy cultures. We must create
 You and the people around you can do this. What could help you succeed? Explore paths to creating new healthy cultures in _Part 3 - The Deepest Revolution_.
 
 ### References
+
+[xxx-dame janet smith report]
+
+[xxx-aljazeera catholic pedophilia]
+
+[xxx-guardian portugal president knew]
+
+[xxx-guardian portugal boys]
+
+[xxx-assange quote]
+
+[xxx-the struggle for modern tibet|chapter 3]-aaa (Tsering et al., 1997, "Chapter 3")
+
+[xxx-daughters of copper woman|p73-74]-aaa (Cameron, 1981, 73-74)
+
+[xxx-true americanism|p3]-aaa (Mantell, 1974, 3)
+
+[xxx-franklin cover up|p4-12]-aaa  (DeCamp, 1996, 4-12)
+
+[xxx-true americanism|p141]-aaa (Mantell, 1974, 141)
+
+[xxx-true americanism|p151]-aaa (Mantell, 1974, 151)
+
+[xxx-true americanism|p147]-aaa (Mantell, 1974, 147)
+
+[xxx-true americanism|p137]-aaa (Mantell, 1974, 137)
+
+[xxx-true americanism|p25]-aaa (Mantell, 1974, 25)
+
+[xxx-griid sitting bull speech]-aaa (kswheeler, 2011)
+
+[xxx-franklin cover up|pxvii]-aaa  (DeCamp, 1996, xvii)
+
+[xxx-true americanism|p50]-aaa (Mantell, 1974, 50)
+
+[xxx-daughters of copper woman|p62]-aaa (Cameron, 1981, 62)
+
+[xxx-black elk life of an american visionary|vanishing americans]-aaa (Jackson, 2016, "Vanishing Americans")
 
 [xxx-from deep woods to civilization|on the white man's trail]-aaa (Eastman (Ohiyesa), 1916, "On the White Man's Trail")
 

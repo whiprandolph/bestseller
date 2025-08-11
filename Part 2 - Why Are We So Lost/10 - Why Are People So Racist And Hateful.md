@@ -132,6 +132,34 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 ### References
 
+[xxx-france anti pales]-aaa (Peter & Vock, 2023)
+
+[xxx-arrest huda]-aaa (Gibson, 2025)
+
+[xxx-arrest khalil]-aaa (Offenhartz, 2025)
+
+[xxx-arrest majed]-aaa (German Police Crack down on Palestinian Activists in Berlin, 2022)
+
+[xxx-biden pales protest suppress]-aaa (Zituni, 2024)
+
+[xxx-germany anti pales]-aaa (Conkar, 2024)
+
+[xxx-euro anti pales]-aaa (Solidarity Protests with Palestinian People Banned in at Least 12 EU Countries, 2024)
+
+[xxx-austr anti pales]-aaa (Johnstone, 2024)
+
+[xxx-isrtimes intel support]-aaa (Copp, 2023)
+
+[xxx-uscongress israel support]-aaa (Sharp, 2025)
+
+[xxx-pal 2023 pop]-aaa (PCBS | The International Population Day, 11/07/2023, n.d.)
+
+[xxx-trump pales pop]-aaa (Maimann, 2025)
+
+[xxx-israeli pal deaths]-aaa (AJLabs, 2025)
+
+[xxx-trump illegal prot]-aaa (Ahmadi, 2025)
+
 [xxx-harriet moses of her people]-aaa (Bradford, 2020)
 
 [xxx-report on the diseases and physical peculiarities of the negro race]-aaa (Cartwright, 1851)
@@ -146,19 +174,7 @@ This is the power of that practical, aware gratitude to encourage more good beha
 
 [xxx-israel count calories]-aaa (Lyons, 2023)
 
-[xxx-isrtimes intel support]-xxx
-
 [xxx-open air prison]-aaa (Dismantle Israel's Carceral Regime and "Open-Air" Imprisonment of Palestinians: UN Expert, 2023)
-
-[xxx-uscongress israel support]-xxx
-
-[xxx-palest death count low]-xxx
-
-[xxx-pal 2023 pop]-xxx
-
-[xxx-trump pales pop]-xxx
-
-[xxx-israeli pal deaths]-xxx
 
 [xxx-pales holocaust comparison]-aaa (Government press office, 2023)
 
@@ -171,24 +187,6 @@ This is the power of that practical, aware gratitude to encourage more good beha
 [xxx-usnews palestine protest mask]-aaa (North Carolina Lawmakers Approve Mask Bill That Allows Health Exemption After Pushback, 2024)
 
 [xxx-thehill protester surveillance]-aaa (Weiss, 2024)
-
-[xxx-trump illegal prot]-xxx
-
-[xxx-biden pales protest suppress]-xxx
-
-[xxx-germany anti pales]-xxx
-
-[xxx-euro anti pales]-xxx
-
-[xxx-austr anti pales]-xxx
-
-[xxx-france anti pales]-xxx
-
-[xxx-arrest huda]-xxx
-
-[xxx-arrest khalil]-xxx
-
-[xxx-arrest majed]-xxx
 
 [xxx-odoc|ch20]-aaa (Randolph, 2024, "Chapter 20: Imposing And Maintaining Racism vs Generating Unity")
 

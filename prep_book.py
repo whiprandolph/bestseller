@@ -13,6 +13,13 @@ from pypdf import PdfReader, PdfWriter
 from ttoc import is_main_part_intro
 from progress import chapters 
 
+"""
+Checks to add:
+* every cite references an item in biblio
+* every biblio item has >= 1 cite
+
+"""
+
 assert publish.CUT_OUT_REFS_AND_TOCS == True, "Set publish.CUT_OUT_REFS_AND_TOCS to True"
 
 repo_root_dir = r"C:\Users\whip\tdr"
@@ -25,12 +32,21 @@ BOOK_ADDED_STYLE = """
 
 <style>\n
   p {\n
-    font-size: 12pt;
+    font-size: 11.5pt;
     color:black;
   }\n
+  #biblio p {
+    font-size: 9pt;
+    margin: .5em;
+  }
   @page {
     size: %sin %sin;
+    margin-left: .55in;
+    margin-right: .55in;
+    margin-top: .4in;
+    margin-bottom: .45in
   }
+  table.cite_table td {font-size:9px;}
   blockquote {
     color: black;
   }
@@ -161,16 +177,17 @@ def build_ref_map(ref_blob):
   for line in ref_blob.split("\n"):
     if not line.strip(): continue
 
-    print("ADDING FAKE CITES TILL THEY'RE DONE")
     # assert "[xxx" in line and "-aaa" in line, line
     if '-xxx' in line:
       xxx, official = line.split("-xxx")
-    elif '-aaa ' in line:
-      xxx, official = line.split("-aaa ")
-    else:
+      ref_map[xxx] = "(author, date)"
+      print("ADDING FAKE CITES TILL THEY'RE DONE (%s)" % xxx)
+      continue
+    elif '-aaa' not in line:
       xxx = line
-    ref_map[xxx] = "(author, date)"
-    continue
+      ref_map[xxx] = "(author, date)"
+      print("ADDING FAKE CITES TILL THEY'RE DONE (%s)" % xxx)
+      continue
 
     xxx, official = line.split("-aaa ")
     xxx = xxx.strip()
@@ -179,7 +196,6 @@ def build_ref_map(ref_blob):
     assert official[0] == "(" and official[-1] == ")", line
 
     ref_map[xxx] = official
-  print(ref_map)
   return ref_map
 
 
@@ -227,7 +243,7 @@ def fix_biblio():
       line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link))
     assert "\">\">" not in line, line
     fixed_lines.append(line)
-  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n%s\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
+  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n<div id=\"biblio\">\n\n%s\n\n</div>\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
 
 
 def main():
@@ -243,12 +259,12 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 26, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
-      #if "citation" in file_name.lower() or "bibliography" in file_name.lower():
-      #  continue
+      if "citation" in file_name.lower() or "bibliography" in file_name.lower():
+        continue
       body, cite_list = process_chapter(file_name)
       book_md.write("%s\n" % body)
       if 'Part ' not in file_name:
@@ -257,14 +273,15 @@ def main():
       if cite_list:
         chapter_name = body.split("\n", 1)[0].strip("## ").strip()
         full_cite_list.append((chapter_name, cite_list))
-    print("# cite count: %s" % sum([len(cites) for foo, cites in full_cite_list]))
-    # pp(full_cite_list)
-    # breakpoint()
-    #write_cites(full_cite_list)
-    #fix_biblio()
-    #cite_blob = open(citations_path, 'r', encoding='utf-8').read()
-    #book_md.write("%s\n\n" % cite_blob)
-
+    write_cites(full_cite_list)
+    fix_biblio()
+    cite_blob = open(citations_path, 'r', encoding='utf-8').read()
+    bib_blob = open(tmp_bib_path, 'r', encoding='utf-8').read()
+    book_md.write("%s\n\n" % cite_blob)
+    book_md.write("%s\n\n" % bib_blob)
+    for i in range(20):
+      book_md.write("# filler\n\n padding to 180 pages.<div style=\"break-after:page\"></div>\n")
+    book_md.close()
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
   fixup_html(online_book_html_path)
@@ -278,7 +295,7 @@ def main():
   os.startfile(book_final)
   make_phys_book()
   make_epub()
-  cleanup()
+  # cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
   time_diff = round(end_time-start_time)
@@ -340,6 +357,7 @@ def update_images_bw():
 
 
 def make_phys_book():
+  
   server_string = "python -m http.server -d %s" % book_final
   print(" == Starting server again (physical book): %s (%s)" % (server_string, time.ctime()))
   server = subprocess.Popen(server_string)
@@ -356,6 +374,7 @@ def make_phys_book():
   finally:
     server.terminate()
   pass
+
 
 def cleanup():
   print("Cleaning up... (%s)" % time.ctime())

@@ -175,33 +175,40 @@ def is_main_body(chapter_name, directory):
 def migrate_citations(file_path):
     blob = open(file_path, 'r', encoding='utf-8').read().strip()
     if ref_header not in blob:
-        return
+        return 0,0,0
     body, ref_section = blob.split(ref_header)
+    unchecked_refs = []
+    checked_but_unmatched_refs = []
     ref_finished_list = []
     refs = [ref.strip() for ref in ref_section.split("\n") if ref.strip()]
     for ref in refs:
-        if not "-xxx" in ref:
+        if '-aaa' in ref:
            ref_finished_list.append(ref)
+           continue
+        if not "-xxx" in ref:
+           unchecked_refs.append(ref)
            continue
         cite = odoc_refs.get(ref.strip("-xxx"))
         if cite:
            ref = ref.replace("-xxx", "-aaa")
            ref_finished_list.append("%s %s" % (ref, cite))
         else:
-           ref_finished_list.append(ref)
-    new_ref_section = "\n\n" + "\n\n".join(ref_finished_list)
-    pp(new_ref_section)
-    assert len(refs) == len(ref_finished_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
+           checked_but_unmatched_refs.append(ref)
+
+    final_ref_list = unchecked_refs[:]
+    final_ref_list.extend(checked_but_unmatched_refs)
+    final_ref_list.extend(ref_finished_list)
+    new_ref_section = "\n\n" + "\n\n".join(final_ref_list)
+    assert len(refs) == len(final_ref_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
     new_blob = ref_header.join((body, new_ref_section))
     open(file_path, 'w', encoding='utf-8').write(new_blob)
-
+    return [len(a) for a in (unchecked_refs, checked_but_unmatched_refs, ref_finished_list)]
 
 def get_odoc_refs():
     odoc_refs = {}
     for odoc_path in odoc_file_list:
         with open(odoc_path, 'r', encoding='utf-8') as handle:
             blob = handle.read()
-            print("Seeking refs in " + odoc_path)
             if ref_header not in blob:
                continue
             _, ref_section = blob.split(ref_header)
@@ -245,18 +252,27 @@ def odoc_get_file_list():
         import pdb;pdb.set_trace()
         a = 3
 
-  pp(full_list)
   return full_list
 
 
 
 def main():
     file_list = get_file_list()
+    total_unchecked = 0
+    total_checked = 0
+    total_formatted = 0
     for file_path in file_list:
         if '.md' in file_path:
             toc.insert_and_return_toc(file_path)
             rev_act_count_fixup(file_path)
-            migrate_citations(file_path)
+            unchecked, checked, formatted = migrate_citations(file_path)
+            total_unchecked += unchecked
+            total_checked += checked
+            total_formatted += formatted
+    cite_count = total_unchecked + total_checked + total_formatted
+    print("unchecked: %s (%s%%)" % (total_unchecked, str(round(100*total_unchecked/cite_count,2))))
+    print("checked: %s (%s%%)" % (total_checked, str(round(100*total_checked/cite_count,2))))
+    print("formatted: %s (%s%%)" % (total_formatted, str(round(100*total_formatted/cite_count,2))))
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
     

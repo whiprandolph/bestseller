@@ -32,8 +32,9 @@ chapters = {
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "Acknowledging Contradictions.md"),
-    (1, 1, "Bibliography.md"),
     (1, 1, "Copyright & Further Reading.md"),
+    (1, 1, "Citations.md"),
+    (1, 1, "Bibliography.md"),
   ],
 }
 

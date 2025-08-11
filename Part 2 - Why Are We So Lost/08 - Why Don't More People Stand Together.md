@@ -153,6 +153,12 @@ Countless people have dreamed of revolution, but too few revolutionaries have st
 
 [xxx-needs ending]
 
+[xxx-bible|mark 10:32-34]
+
+[xxx-mlk final speech afscmd]
+
+[xxx-bible|kjb mark 9:31]
+
 [xxx-letterfromjail.com]-aaa (King Jr, 1963)
 
 [xxx-stasi introduction]-aaa (Introduction - Ministry for State Security, n.d.)
@@ -244,9 +250,3 @@ Countless people have dreamed of revolution, but too few revolutionaries have st
 [xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
 
 [xxx-bible|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
-
-[xxx-bible|mark 10:32-34]
-
-[xxx-mlk final speech afscmd]
-
-[xxx-bible|kjb mark 9:31]
