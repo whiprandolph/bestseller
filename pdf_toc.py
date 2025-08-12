@@ -201,7 +201,7 @@ def sample_pdf(book_pdf_path):
 def main(content_path, book_pdf_path, dimensions):
   prep_pdf_toc(content_path, dimensions)
   merge_pdfs(content_path, book_pdf_path)
-  sample_pdf(book_pdf_path)
+  # sample_pdf(book_pdf_path)
 
 
 css = """

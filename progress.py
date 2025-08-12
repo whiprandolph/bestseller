@@ -21,7 +21,7 @@ chapters = {
     (3, 1, "Why Are People So Racist And Hateful.md"),
     (3, 1, "How Can a Whole Nation Embrace Awareness and Unity.md"),
     (3, 1, "Selfish Violence vs Selfless Violence.md"),
-    (1, 1, "The Endless Predation Must End.md"),
+    (3, 1, "The Endless Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),

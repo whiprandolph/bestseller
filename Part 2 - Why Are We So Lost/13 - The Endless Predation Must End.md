@@ -10,7 +10,7 @@ Sadly, child sexual abuse runs rampant in these conditions, including by unaccou
 
 Child rape can become quite normalized. One boy was raped by monks in Buddhist Tibet and complained to other monks. He said, "they shrugged and said simply that that was just the way things were."[xxx-the struggle for modern tibet|chapter 3]
 
-Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile raped dozens of underaged people as young as 8 years old from the 1960s-1980s. When a young woman complained to British Broadcasting Corporation (BBC) staff about his inappropriate behavior, the staff evicted her from the premises.[xxx-dame janet smith report]
+Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile sexually assaulted dozens of underaged people as young as 8 years old from the 1960s-1980s. When a young woman complained to British Broadcasting Corporation (BBC) staff about his inappropriate behavior, the staff evicted her from the premises. Another was told, "keep your mouth shut, he's a VIP."[xxx-dame janet smith report|p3-4]<sup>,</sup>[xxx-dame janet smith report|p49]
 
 An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.[xxx-guardian portugal boys]<sup>,</sup>[xxx-guardian portugal president knew]
 
@@ -98,7 +98,7 @@ Abusive or deprived childhoods profoundly affect people's capacity for pleasure 
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others consistently embrace superficiality and allow themselves to be cogs in a machine? 
 
-Child abuse or deprivation isn't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy cultures carry at least some negative impacts from their childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.**
+Child abuse or deprivation isn't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy cultures carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.**
 
 The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep spiritual strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
 
@@ -156,15 +156,17 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 ### References
 
-[xxx-dame janet smith report]
+[xxx-guardian portugal president knew]-aaa (Tremlett, 2002)
 
-[xxx-aljazeera catholic pedophilia]
+[xxx-guardian portugal boys]-aaa (Tremlett, 2010)
 
-[xxx-guardian portugal president knew]
+[xxx-assange quote]-aaa (Assange, 2007)
 
-[xxx-guardian portugal boys]
+[xxx-aljazeera catholic pedophilia]-aaa (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)
 
-[xxx-assange quote]
+[xxx-dame janet smith report|p49]-aaa (Smith, 2016, 49)
+
+[xxx-dame janet smith report|p3-4]-aaa (Smith, 2016, 3-4)
 
 [xxx-the struggle for modern tibet|chapter 3]-aaa (Tsering et al., 1997, "Chapter 3")
 

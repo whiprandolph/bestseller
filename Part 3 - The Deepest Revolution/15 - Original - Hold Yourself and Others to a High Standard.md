@@ -1,4 +1,4 @@
-## Chapter 16: Hold Yourself and Others to a High Standard
+## Chapter 16: (Original) Hold Yourself and Others to a High Standard
 
 ### When People Develop Low Standards
 

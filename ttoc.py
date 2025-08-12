@@ -202,6 +202,7 @@ def migrate_citations(file_path):
     assert len(refs) == len(final_ref_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
     new_blob = ref_header.join((body, new_ref_section))
     open(file_path, 'w', encoding='utf-8').write(new_blob)
+    print("UNCHECKED: %s" % str(unchecked_refs))
     return [len(a) for a in (unchecked_refs, checked_but_unmatched_refs, ref_finished_list)]
 
 def get_odoc_refs():

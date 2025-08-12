@@ -1,4 +1,4 @@
-## Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land
+## Chapter 17: The Deepest Revolution, Pt 3: We Are the Promised Land
 
 ### Give Your Sacred Gifts
 

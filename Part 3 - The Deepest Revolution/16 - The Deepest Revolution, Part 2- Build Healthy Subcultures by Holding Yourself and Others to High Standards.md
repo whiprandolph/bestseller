@@ -1,9 +1,20 @@
-## Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Holding Yourself and Others to High Standards
+## Chapter 16: The Deepest Revolution, Pt 2: Build Healthy Subcultures by Holding Yourself and Others to High Standards
+
+### When People are discouraged from developing high standards and are rewarded for low standards, the outcome is dismal
+
+Once people are conquered, and they accept being ruled in their unhealthy culture as normal and legitimate, _people's standards for themselves and each other drops a lot._ In other words, when a person or group finally considers it legitimate and ok to submit to authorities, they stop expecting very much of themselves or each other. People don't really expect life to be deeply meaningful, don't deeply trust others, or learn to focus mostly on themselves or pleasing others to keep life comfortable.
+
+The underlying attitudes are things like, "Why bother cultivating deep integrity and bravery if I just want to keep my comfortable, predictable life and not rock the boat?" or "Why confront injustice if I don't trust others to stand with me, and if it wouldn't do any good anyway?"
+
+As Part 2 showed, unhealthy cultures reward and encourage all our worst qualities, such as selfishness, cowardice, disconnection from each other and the Earth, ignorance, and superficiality. When people stop standing for what's right, and instead focus on keeping their job or wealth while staying out of trouble, these qualities can become widespread.
 
 ### Find like-minded people on a similar path
 * Where to find them
 * How to befriend them 
 * Expect challenges and grow beyond them by holding yourself and others to high standards
+
+For many people, one of the hardest beliefs to release comes down to trust: can you imagine completely trusting the people around you? Even if you don't trust the people around you right now, can you imagine even the possibility of finding others with whom you could have a deep trust relationship, knowing everyone else has the spiritual strength to honor your trust?
+
 
 ### High Standards: Our Only Way to Collectively Be Who We Really Are
 * No healthy culture is possible without high standards

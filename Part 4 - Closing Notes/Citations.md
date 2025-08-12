@@ -194,10 +194,10 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_13_src" id="cite_Chapter_8_13_dest" style="text-decoration:none">13</a>. (Denova, 2022)<br/>
-</td><td><a href="#cite_Chapter_8_14_src" id="cite_Chapter_8_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_8_14_src" id="cite_Chapter_8_14_dest" style="text-decoration:none">14</a>. (Mark 9:31, King James Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_15_src" id="cite_Chapter_8_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_8_15_src" id="cite_Chapter_8_15_dest" style="text-decoration:none">15</a>. (Mark 10:32-34, King James Version Bible)<br/>
 </td><td><a href="#cite_Chapter_8_16_src" id="cite_Chapter_8_16_dest" style="text-decoration:none">16</a>. (Denova, 2022)<br/>
 </td></tr>
 
@@ -205,7 +205,7 @@
 </td><td><a href="#cite_Chapter_8_18_src" id="cite_Chapter_8_18_dest" style="text-decoration:none">18</a>. (King Jr, 1967)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_19_src" id="cite_Chapter_8_19_dest" style="text-decoration:none">19</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_8_19_src" id="cite_Chapter_8_19_dest" style="text-decoration:none">19</a>. (King Jr, 1968)<br/>
 </td><td><a href="#cite_Chapter_8_20_src" id="cite_Chapter_8_20_dest" style="text-decoration:none">20</a>. (Douglass, 2000)<br/>
 </td></tr>
 
@@ -286,8 +286,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_59_src" id="cite_Chapter_8_59_dest" style="text-decoration:none">59</a>. (Notes, 2005, 104)<br/>
-</td><td><a href="#cite_Chapter_8_60_src" id="cite_Chapter_8_60_dest" style="text-decoration:none">60</a>. (author, date)<br/>
-</td></tr>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 9: Why Do People Obey Corrupt Leaders?</b></td></tr><tr><td><a href="#cite_Chapter_9_1_src" id="cite_Chapter_9_1_dest" style="text-decoration:none">1</a>. (Stapley, 1977)<br/>
 </td><td><a href="#cite_Chapter_9_2_src" id="cite_Chapter_9_2_dest" style="text-decoration:none">2</a>. (Perla, 2022)<br/>
@@ -554,58 +553,62 @@
 </td><td></td></tr>
 
 <tr><td><b>Chapter 13: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
-</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_13_3_src" id="cite_Chapter_13_3_dest" style="text-decoration:none">3</a>. (Tsering et al., 1997, "Chapter 3")<br/>
-</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (Smith, 2016, 3-4)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (Smith, 2016, 49)<br/>
+</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (Tremlett, 2010)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (DeCamp, 1996, 4-12)<br/>
-</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (DeCamp, 1996, xvii)<br/>
+<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (Tremlett, 2002)<br/>
+</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (DeCamp, 1996, 4-12)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (Cameron, 1981, 71)<br/>
-</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (Cameron, 1981, 73-74)<br/>
+<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (DeCamp, 1996, xvii)<br/>
+</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (Cameron, 1981, 71)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (Jackson, 2016, "Vanishing Americans")<br/>
-</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (Eastman (Ohiyesa), 1916, "On the White Man's Trail")<br/>
+<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (Cameron, 1981, 73-74)<br/>
+</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (Jackson, 2016, "Vanishing Americans")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (Cameron, 1981, 62)<br/>
-</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (Mantell, 1974, 50)<br/>
+<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (Eastman (Ohiyesa), 1916, "On the White Man's Trail")<br/>
+</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (Cameron, 1981, 62)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (Mantell, 1974, 25)<br/>
-</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (Mantell, 1974, 151)<br/>
+<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (Mantell, 1974, 50)<br/>
+</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (Mantell, 1974, 25)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (Mantell, 1974, 3)<br/>
-</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 137)<br/>
+<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (Mantell, 1974, 151)<br/>
+</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 3)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Mantell, 1974, 141)<br/>
-</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Mantell, 1974, 147)<br/>
+<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Mantell, 1974, 137)<br/>
+</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Mantell, 1974, 141)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Mantell, 1974, 147)<br/>
+</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (Assange, 2007)<br/>
+</td></tr>
+
+<tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (Churchill, 1947)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
-</td></tr>
-
-<tr><td><b>Chapter 15: The Deepest Revolution, Part 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+<tr><td><b>Chapter 15: The Deepest Revolution, Pt 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_15_4_src" id="cite_Chapter_15_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_15_5_src" id="cite_Chapter_15_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_15_6_src" id="cite_Chapter_15_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
 </td></tr>
 
 </table><div style="break-after:page"></div>
