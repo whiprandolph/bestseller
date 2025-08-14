@@ -124,7 +124,7 @@ I grew up as a Christian, believing in Jesus and God, and it was difficult for m
 
 Many authorities insist that their religion or ideology is "all or nothing" -- you either believe everything, or you're cast out as an unbeliever. But that is simply bullying, pressuring people to adopt hurtful beliefs or attitudes just to stay in good standing in their community. Each of us has the power and the responsibility to choose which perspectives we embrace, and which ones we will not.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Choose what lessons you learn</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Choose what lessons you learn</div>
 <div class="rev-act-body">You have the power to choose what perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.</div></div>
 
 ### People Embracing Obedience Act Contrary to Christ's Teachings

@@ -279,8 +279,6 @@ def main():
     bib_blob = open(tmp_bib_path, 'r', encoding='utf-8').read()
     book_md.write("%s\n\n" % cite_blob)
     book_md.write("%s\n\n" % bib_blob)
-    for i in range(20):
-      book_md.write("# filler\n\n padding to 180 pages.<div style=\"break-after:page\"></div>\n")
     book_md.close()
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])

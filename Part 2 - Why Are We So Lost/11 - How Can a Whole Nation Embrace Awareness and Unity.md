@@ -6,12 +6,11 @@ Every day, I go to my sit-spot and pay attention to the nonhumans. I ask questio
 
 Sitting there each day, I wondered, for example, why a bird would constantly look up as they eat. I learned that they stay continuously aware in case predators arrive. I also saw that some species of tree grew near each other, while others did not. Black walnuts, for example, produce a compound which only some plants find toxic, so they grow near sugar maple and box elder but avoid white pines.
 
-I continually practiced feeling into the experiences of other living beings. I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me up in an instant. If I were a songbird, I would probably eat carefully too!
+I continually practiced feeling into the experiences of other living beings based on my observations. I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me up in an instant. If I were a songbird, I would probably eat carefully too!
 
 Eventually I learned something really cool: plants and animals can help me notice parts of the landscape I can't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not notice rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
 
-The first 
-of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
+The first of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
 
 Over time, I learned to observe more closely, question my assumptions, and empathize with nonhumans, and the same attitudes and skills helped me understand and empathize with other people too. Even people who are not like me.
 
@@ -51,8 +50,6 @@ The Haudenosaunee open every gathering with the Thanksgiving Address, calling it
 
 Healthy cultures generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
-_This is the opposite of divisive racism!_
-
 This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a culture's leaders can encourage unity and awareness rather than division and ignorance.
 
 When I began giving thanks to the nonhumans for their divine gifts, I realized that God is not off in the sky; Creator is alive in Creation. I believe that's what it means to recognize the Great Spirit That Moves Through All Beings, a perspective I've found in many healthy cultures. In Christianity, this is called the Holy Spirit. And since Creator is alive in Creation, when people stand in solidarity with the Earth, they're standing in solidarity with Creator.
@@ -61,7 +58,7 @@ Being in solidarity with life means being in solidarity with God. Being One with
 
 Racism and other kinds of discrimination do not have to exist. Whole nations are capable of incredible unity when they base their way of life on the three core spiritual practices.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Cultivate awareness and connection with the living world</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Cultivate awareness and connection with the living world</div>
 <div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach from how they live their lives. _I strongly recommend looking for a nature connection mentor or program to help you on your path._</div></div>
 
 ### References

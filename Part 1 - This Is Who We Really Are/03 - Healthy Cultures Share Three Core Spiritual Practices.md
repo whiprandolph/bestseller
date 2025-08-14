@@ -35,9 +35,11 @@ I looked up through the forest canopy just in time to notice a second, silent ha
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts
 
-Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we are divine creatures like everything else in Creation.
+Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we humans are divine creatures like everything else in Creation.
 
-Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart] Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
+Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
+
+Nancy Basket described the traditional Cherokee understanding: "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
 
 Just like everybody else, you have sacred gifts, a life purpose, a way you can make the world a better place -- _and only you can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is to _cultivate and give your sacred gifts_ too.
 
@@ -47,13 +49,13 @@ Some people have a special calling to enrich the soil, find food during lean tim
 
 Like the Thanksgiving Address and cultivating a practical, aware gratitude, I had a hard time with this practice too. I had never thought about my life purpose or what I deeply loved to do. Mostly I'd focused on building a safe and comfortable life, and I'd never thought about what I would do or give if I didn't feel constrained by needing a job. When I thought about it, I mostly felt stressed or anxious.
 
-I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in many years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.
+I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.
 
 These two spiritual practices of gratitude and gift-giving are both so beautiful. The third core spiritual practice ties them all together.
 
 ### The Third Core Spiritual Practice: Living in Reciprocity
 
-Many healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
+Healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
 
 The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills.[xxx-cultural survival standing rock] In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means the same as "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account.[xxx-basket interview] The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.[xxx-cnapa concept note]<sup>,</sup>[xxx-the best guardians of the forest]
 
@@ -70,6 +72,9 @@ In other words, people of healthy cultures do not just avoid polluting the Earth
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Practice the joy of reciprocity</div>
 <div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, babysitting someone's kid, helping them find a job, or cooking a meal for a sick person. Practice feeling gratitude for what they've given you. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving to someone just for the joy of giving.</div></div>
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Practice giving first**</div>
+<div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start that relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, or mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Don't have any expectation of return, but just give to strangers in ways that, even if the relationship ended immediately after your giving, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he become one of my best friends. This taught me to give first before I've received anything from someone, and just see what happens.</div></div>
+
 ### Carry Your Gifts with Conviction
 
 I believe that a person's spirituality is simply how they relate to themselves and the world. Is there an authoritarian god-figure scaring everyone into obedience? Is the world just a bunch of molecules moving around aimlessly? Or are we all divine beings, and it really matters how each of us shows up in life? The three core spiritual practices are spiritual because they teach people how to relate to the world: with practical, aware gratitude, by giving their deepest love, and living in reciprocity.
@@ -84,8 +89,8 @@ These practices aren't just for some people. Anybody could embrace them right no
 
 What are your gifts? What can you give or do or be that would open your heart and let it sing?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover your own sacred gifts</div>
-<div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and consider what most matters to you, and how you can act in service of it. 2) Consider what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and meaning already in life, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Discover your own sacred gifts</div>
+<div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity, and build on those things. 4) Ask people around you when they have noticed you being the most joyful, enlivened, and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
 
 ### References
 

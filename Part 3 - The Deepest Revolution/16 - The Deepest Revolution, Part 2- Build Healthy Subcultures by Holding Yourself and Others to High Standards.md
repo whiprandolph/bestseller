@@ -1,4 +1,4 @@
-## Chapter 16: The Deepest Revolution, Pt 2: Build Healthy Subcultures by Holding Yourself and Others to High Standards
+## Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Holding Yourself and Others to High Standards
 
 ### When People are discouraged from developing high standards and are rewarded for low standards, the outcome is dismal
 
@@ -14,6 +14,7 @@ As Part 2 showed, unhealthy cultures reward and encourage all our worst qualitie
 * Expect challenges and grow beyond them by holding yourself and others to high standards
 
 For many people, one of the hardest beliefs to release comes down to trust: can you imagine completely trusting the people around you? Even if you don't trust the people around you right now, can you imagine even the possibility of finding others with whom you could have a deep trust relationship, knowing everyone else has the spiritual strength to honor your trust?
+
 
 
 ### High Standards: Our Only Way to Collectively Be Who We Really Are

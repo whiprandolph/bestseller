@@ -108,7 +108,7 @@ Creating and controlling astroturf social movements is common in unhealthy cultu
 
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Channel your anger**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Channel your anger**</div>
 <div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy culture, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy culture where people would never tolerate such abuses.</div></div>
 
 ### A Case Study in Creating a Society that Chooses Generous Servant-Leaders: The Haudenosaunee
