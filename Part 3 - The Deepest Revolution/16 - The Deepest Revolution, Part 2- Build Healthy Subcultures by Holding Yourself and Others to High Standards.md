@@ -16,6 +16,7 @@ As Part 2 showed, unhealthy cultures reward and encourage all our worst qualitie
 For many people, one of the hardest beliefs to release comes down to trust: can you imagine completely trusting the people around you? Even if you don't trust the people around you right now, can you imagine even the possibility of finding others with whom you could have a deep trust relationship, knowing everyone else has the spiritual strength to honor your trust?
 
 
+REV-ACT - gracious receiving - receive without giving anything back in the moment, but trusting you'll give back and have reciprocity over time. People need to feel like they can give to you without it being a trade.
 
 ### High Standards: Our Only Way to Collectively Be Who We Really Are
 * No healthy culture is possible without high standards

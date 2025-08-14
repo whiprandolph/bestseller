@@ -615,11 +615,4 @@
 </td><td><a href="#cite_Chapter_15_8_src" id="cite_Chapter_15_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
-</td></tr>
-
-<tr><td><a href="#cite_Chapter_15_11_src" id="cite_Chapter_15_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
-</td><td></td></tr>
-
 </table><div style="break-after:page"></div>
