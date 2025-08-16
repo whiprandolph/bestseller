@@ -128,7 +128,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_6_3_src" id="cite_Chapter_6_3_dest" style="text-decoration:none">3</a>. (Chinese City Kills Project after Protest, 2012)<br/>
-</td><td><a href="#cite_Chapter_6_4_src" id="cite_Chapter_6_4_dest" style="text-decoration:none">4</a>. (Neal, 2020)<br/>
+</td><td><a href="#cite_Chapter_6_4_src" id="cite_Chapter_6_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_6_5_src" id="cite_Chapter_6_5_dest" style="text-decoration:none">5</a>. (Cameron, 1981, 109)<br/>
@@ -619,12 +619,18 @@
 <tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
 </td><td></td></tr>
 
+<tr><td><b>Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
+</td><td></td></tr>
+
 <tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (Chinese City Kills Project after Protest, 2012)<br/>
-</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_4_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_4_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_4_dest" style="text-decoration:none">4</a>. (Chinese City Kills Project after Protest, 2012)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_5_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
+</td><td></td></tr>
 
 </table><div style="break-after:page"></div>

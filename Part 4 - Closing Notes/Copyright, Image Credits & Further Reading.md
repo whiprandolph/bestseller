@@ -6,7 +6,7 @@ If you want to use material from this book in a way not supported by the license
 
 Nothing in this book is intended to substitute for personalized advice from trusted practitioners in healthz, law, or any other field.
 
-Digital version ISBN: [xxx-need-isbn]
+Digital version ISBN: [xxx-need-isbn]; Print ISBN: [xxx-need-other-isbn]
 
 _Image Credits_
 
@@ -29,6 +29,8 @@ Both _The Deepest Revolution_ and _One Disease One Cure_ are free to download an
 [xxx-american riot]
 
 [xxx-need-isbn]
+
+[xxx-need-other-isbn]
 
 [xxx-chinese riot]-aaa (Chinese City Kills Project after Protest, 2012)
 

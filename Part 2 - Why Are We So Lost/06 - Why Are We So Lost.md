@@ -122,7 +122,7 @@ For many of us, we and our ancestors have been trapped in this way of life for a
 
 ### References
 
-[xxx-american riot]-aaa (Neal, 2020)
+[xxx-american riot]
 
 [xxx-daughters of copper woman|109]-aaa (Cameron, 1981, 109)
 
