@@ -114,6 +114,10 @@ def get_md(md_path):
         start = md_contents.find("[xxx", start+1)
         cite_number+=1
     md_contents = md_contents.replace("<sup>,</sup>",",")
+    while "<img" in md_contents:
+       start = md_contents.find("<img")
+       end = md_contents.find(">", start)
+       md_contents = md_contents[:start] + md_contents[end+1:]
     return md_contents
 
 

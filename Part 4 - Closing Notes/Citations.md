@@ -463,12 +463,13 @@
 </td><td><a href="#cite_Chapter_10_32_src" id="cite_Chapter_10_32_dest" style="text-decoration:none">32</a>. (Randolph, 2024, "Chapter 20: Imposing And Maintaining Racism vs Generating Unity")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_10_33_src" id="cite_Chapter_10_33_dest" style="text-decoration:none">33</a>. (Prechtel, 1999, 210)<br/>
-</td><td><a href="#cite_Chapter_10_34_src" id="cite_Chapter_10_34_dest" style="text-decoration:none">34</a>. (Grinnell, 2005, "The Way to Live")<br/>
+<tr><td><a href="#cite_Chapter_10_33_src" id="cite_Chapter_10_33_dest" style="text-decoration:none">33</a>. (General Secretariat Organization of American States, 2007)<br/>
+</td><td><a href="#cite_Chapter_10_34_src" id="cite_Chapter_10_34_dest" style="text-decoration:none">34</a>. (Prechtel, 1999, 210)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_10_35_src" id="cite_Chapter_10_35_dest" style="text-decoration:none">35</a>. (Cameron, 1981, 112)<br/>
-</td><td></td></tr>
+<tr><td><a href="#cite_Chapter_10_35_src" id="cite_Chapter_10_35_dest" style="text-decoration:none">35</a>. (Grinnell, 2005, "The Way to Live")<br/>
+</td><td><a href="#cite_Chapter_10_36_src" id="cite_Chapter_10_36_dest" style="text-decoration:none">36</a>. (Cameron, 1981, 112)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 11: How Can a Whole Nation Embrace Awareness and Unity?</b></td></tr><tr><td><a href="#cite_Chapter_11_1_src" id="cite_Chapter_11_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
 </td><td></td></tr>

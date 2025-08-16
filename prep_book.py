@@ -108,7 +108,7 @@ def verify_epub():
     if path.lower().endswith('png') or path.lower().endswith('jpg'):
       img_count+=1
   # should be 3 for contents, 4 w/cover
-  assert img_count == 5, "Invalid image count, %s" % img_count
+  assert img_count == 7, "Invalid image count, %s" % img_count
   shutil.rmtree(book_zip_dir)
   os.remove(book_zip_path)
   

@@ -6,7 +6,7 @@ This is not true. No one is born racist, sexist, or hateful. Every child, regard
 
 However, immersed in unhealthy cultures from birth, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are culturally programmed to discriminate against others. That programming is not inherent in our DNA. It has to be taught.
 
-How are racism and other kinds of discrimination taught? I believe it is simple: rulers decide what behaviors and attitudes are ok, and punish people who don't adopt them. People who play along get rewarded, and those who don't get punished, often in confusing ways. Eventually, hurtful attitudes and behaviors become normalized.**
+How are racism and other kinds of discrimination taught? I believe it is simple: rulers decide what behaviors and attitudes are ok, and punish people who don't adopt them. People who play along get rewarded, and those who don't get punished, often in confusing ways. Eventually, hurtful attitudes and behaviors become normalized.
 
 How does this work in practice?
 
@@ -50,6 +50,9 @@ The political, military and business leaders wanted to avoid accountability for 
 
 A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was just a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.
 
+<center><img src="./images/polkas_vs_stripes.png" alt="Falling for Scams like Racism" height="311" width="597"/><br/>
+<i>When people fall for scams like racism, they see their neighbors as a threat and argue about nonsense while ignoring the real problems.**</i></center>
+
 ### And It Continues Today
 
 Racism, hatred, and ignorance can be widely propagated by authorities to avoid accountability, sabotage solidarity, promote imperial wars, and other reasons. It can be challenging to recognize because authorities will often punish someone for one secret reason, but publicly accuse them of something different. For example, present-day Germans who oppose war with Russia have been called "Putin-trolls", a reference to Russian president Putin, essentially calling them traitors instead of brave activists trying to stop an unnecessary war.[xxx-putin troll]
@@ -86,13 +89,13 @@ This shows how ancient patterns of nations with rulers (or ruling classes) are p
 
 Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. _All these countries are actually dictatorships: cultures where some people dictate the law, and everyone else is expected to obey it._
 
-This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.[xxx-odoc|ch22]**
+This isn't the only dynamic that leads to racism and hate in unhealthy cultures, though it is sadly common. Authorities may encourage divisive racism in countless ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.[xxx-odoc|ch22]
 
-Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.[xxx-odoc|ch20]**
+Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.[xxx-odoc|ch20]
 
-None of this excuses anyone's behavior, but it does explain where troubles like racism and hatred come from: authorities impose racism and hate, rewarding those who go along and punishing those who don't. Many people sadly follow along to protect their privilege.**
+Authorities impose systemic sexism in similar ways. One investigation by the Organization of American States found that every legal system of every unhealthy culture in North and South America, from the United States and Canada to Ecuador and Brazil, widely discriminates against women in cases of sexual assault and domestic violence.[xxx-ohchr americas violence women] Stories from around the world show that this is universal in unhealthy cultures, as authorities impose sexism while pretending to treat everyone equally in the so-called "justice" system.**
 
-There is another big factor leading to racism and hatred: child abuse can predispose people to adopting very hurtful attitudes, as Chapter 13 will explore.**
+None of this excuses anyone's behavior, but it does explain where troubles like racism, hatred and even sexism come from: authorities impose discrimination by treating different groups differenty and propagate hurtful attitudes to justify this, rewarding those who go along and punishing those who don't. Many people sadly follow along to protect their privilege and teach their children to do the same. Eventually, it all seems quite normal. Just the way life is.
 
 When people are trapped with selfish and unaccountable leaders, the results are always tragic. What would it take for a group of people to select the most selfless and honest leaders instead?
 
@@ -131,6 +134,10 @@ This is the power of that practical, aware gratitude to encourage more good beha
 <div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
 
 ### References
+
+[xxx-boys will be boys]-aaa (Weiss, 2009)
+
+[xxx-ohchr americas violence women]-aaa (General Secretariat Organization of American States, 2007)
 
 [xxx-france anti pales]-aaa (Peter & Vock, 2023)
 
