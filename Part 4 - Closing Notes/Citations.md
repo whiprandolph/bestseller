@@ -619,4 +619,12 @@
 <tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
 </td><td></td></tr>
 
+<tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (Chinese City Kills Project after Protest, 2012)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_4_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td></tr>
+
 </table><div style="break-after:page"></div>

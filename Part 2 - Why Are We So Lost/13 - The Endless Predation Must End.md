@@ -62,7 +62,7 @@ Imagine, again, if you were a king and wanted to conquer free people and train t
 
 But what if you could instill deep shame, low self-worth, and all manner of emotional dysfunction on people from a very young age so that they didn't have the spiritual strength to stand for what's right in adulthood? And people who have been mistreated or deprived in childhood are likely to grow up and somehow mistreat their own children, knowingly or not. An endless cycle would begin where each generation trains the next to have strange emotional disturbances and feel shame, selfishness, low awareness, low self-worth, or other hurtful qualities.
 
-Unfortunately, many ruling classes have recognized this truth, and this explains why forcibly kidnapping and abusing children has often been a key element in conquering previously-free people. It also explains why ongoing, widespread child abuse and deprivation is essential to maintaining support for abusive rulers in unhealthy cultures across the centuries.
+Unfortunately, many ruling classes have recognized this truth, and this explains why forcibly kidnapping and abusing children has often been a key element in conquering previously-free people. It also explains why ongoing, widespread child abuse and deprivation are essential to maintaining support for abusive rulers in unhealthy cultures across the centuries.
 
 The Lakota and Nootka offer tragic examples, as they were ultimately unable to prevent conquering Christians from kidnapping most of their children and sending them to abusive boarding schools.
 

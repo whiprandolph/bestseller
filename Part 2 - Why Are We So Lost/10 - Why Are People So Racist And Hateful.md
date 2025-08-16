@@ -50,7 +50,7 @@ The political, military and business leaders wanted to avoid accountability for 
 
 A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was just a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.
 
-<center><img src="./images/polkas_vs_stripes.png" alt="Falling for Scams like Racism" height="311" width="597"/><br/>
+<center><img src="./images/polkas_vs_stripes.png" alt="When People Fall for Scams like Racism" height="311" width="597"/><br/>
 <i>When people fall for scams like racism, they see their neighbors as a threat and argue about nonsense while ignoring the real problems.**</i></center>
 
 ### And It Continues Today

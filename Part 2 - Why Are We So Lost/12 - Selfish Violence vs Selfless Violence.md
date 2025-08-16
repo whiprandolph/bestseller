@@ -80,7 +80,7 @@ Immediately the Zapatistas put into effect laws which they had prepared in advan
 
 They passed laws preserving the seas, rivers, and forests. People could keep enough land to sustain their family, but no one was allowed to hoard land or property. When individuals owned more than a certain number of acres, the extra was redistributed for communal farming. Hoarding land or productive equipment was outlawed.[xxx-ezln ag law]
 
-_Redistributing wealth was a crucial part of creating a healthy culture_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will stay selfish.
+_Redistributing wealth was a crucial part of creating a healthy culture_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will remain selfish.
 
 By redistributing wealth early on and outlawing hoarding, the Zapatistas essentially removed deep selfishness in their society. This explains why they could have leaders who actually served the people instead of the rich: they didn't have any rich people constantly trying to corrupt their leadership because they didn't allow anyone to be rich.
 
