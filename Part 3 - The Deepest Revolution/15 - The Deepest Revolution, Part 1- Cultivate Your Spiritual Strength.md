@@ -12,7 +12,7 @@ Giving up old beliefs and perspectives can be hard, even when it's obvious that 
 
 Then he described how hard this was: "Everything I had heard during the weekend helped me understand that all the efforts I had made up until then to be acceptable to mainstream society had just made me a 'good nigger.' I was simultaneously ashamed and furious. All I could do was cry." Cox eventually dedicated himself to freeing black Americans from oppression, becoming a senior leader in the Black Panthers.
 
-Bogaletch Gebre described her own powerful transformation. As a young adult, she underwent female genitual mutilation in Ethiopia, being taught that it made her a "whole woman." Later in life, a friend learned of this and felt horrified, and at first Gebre defended the practice as she had for years. Then she had her own transformation, as she "experienced an incredible awakening, then a tidal wave of anger, as I began to comprehend all that had been taken from me in ignorance. Tears of understanding flooded from me as I allowed the scientist in me to see, to examine in a new light, all that I remembered..." Gebre went on to lead a movement to abolish female genital mutilation.[xxx-original instructions|ethiopian women]
+Bogaletch Gebre described her own powerful transformation. As a young adult, she underwent female genitual mutilation in Ethiopia, being taught that it made her a "whole woman." Later in life, a friend learned of this and felt horrified, and at first Gebre defended the practice as she had for years. Then she had her own transformation, as she "experienced an incredible awakening, then a tidal wave of anger, as I began to comprehend all that had been taken from me in ignorance... Tears of understanding flooded from me as I allowed the scientist in me to see, to examine in a new light, all that I remembered..." Gebre went on to lead a movement to abolish female genital mutilation.[xxx-original instructions|ethiopian women]
 
 Giving up old beliefs can be hard. Even Jesus Christ needed 40 days alone in the desert before he could fully confront the urge to seek wealth and power which his unhealthy culture tempted him with, and instead choose a path of service. After his transformation, he began his ministry which has inspired people for 2,000 years.
 
@@ -47,7 +47,7 @@ Stinging nettle has helped me relieve joint pain, and I've witnessed lobelia use
 
 Yucca has offered me its leaves to make cordage, and miscanthus grass has helped me make a watertight roof to live under.
 
-I learned to receive intangible gifts too -- the feeling of joy as the sun reflects off the dew in the morning, or cooling off in a stream on a hot summer day. I was grateful to the plants I couldn't use directly, because they offered food and homes to birds and other animals that I was happy to have as company.
+I learned to receive intangible gifts too -- the delight seeing the sun reflects off the dew in the morning, or cooling off in a stream on a hot summer day. I was grateful to the plants I couldn't use directly, because they offered food and homes to birds and other animals that I was happy to have as company.
 
 The more I learned to receive the Earth's gifts, and the more I practiced feeling grateful, the more I saw gifts everywhere I looked. I felt surrounded by abundance, and grateful for life.
 
@@ -78,7 +78,7 @@ Harriet Tubman was a black runaway slave during the times of US chattel slavery.
 
 In the coming years, she kept going back to help others escape, over and over. She was never caught, but if she had been, she'd have been tortured with unthinkable cruelty. But she loved her people so much, she was willing to accept the risk.
 
-Tubman described the sense of being moved by a greater power very vividly. Whenever someone remarked on her courage or good fortune, she would say, "Don't I tell you, Missus, 'twan't me, 'twas de Lord! Jes' so long as he wanted to use me, he would take keer of me, an' when he didn't want me no longer, I was ready to go; I always tole him, I'm gwine to hole stiddy on to you, an' you've got to see me trou."
+Tubman described the sense of being moved by a greater power very vividly. Whenever someone remarked on her courage or good fortune, she would say, "'Twan't me, 'twas de Lord! Jes' so long as he wanted to use me, he would take keer of me, an' when he didn't want me no longer, I was ready to go."
 
 Jesus Christ and Martin Luther King Jr were the same -- both of them repeatedly acknowledged that they were going to die because of the ways they served their people, and yet they kept on serving in the deepest ways they knew how.
 
@@ -90,7 +90,7 @@ The truth is very simple: everyone has a divine voice in their heart that, from 
 
 In other words, Tubman, King, and Christ only seem special because they gave their deepest love, or their sacred gifts, within unhealthy cultures that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school and adulthood.
 
-This is the universal spiritual truth behind the teachings of religions like Christianity, Islam, and Buddhism: everyone has sacred gifts to give, a divine purpose that only they can give. And the divine voice inside you already knows that purpose, whether you consciously know it or not.
+This is the universal spiritual truth behind the teachings of religions like Christianity, Islam, and Buddhism: everyone has sacred gifts to give, a divine purpose that only they can fulfill. And the divine voice inside you already knows that purpose, whether you consciously know it or not.
 
 There is good news: if you are like me, and you learned to hold back your love or not discover your own sacred gifts or deep purpose, there are ways to access that part of yourself so that you can give yourself fully like Tubman, King, and Christ. It's simply a matter of releasing all distractions and temptations, and instead really listening to that inner divine voice inside you.
 
@@ -125,8 +125,6 @@ In unhealthy cultures that train people for distraction, any of these practices 
 
 ### Cultivating Spiritual Strength, Part 3: Live in Reciprocity
 
-When you see life's gifts everywhere you look and feel deep gratitude, and when you're clear on your own sacred gifts and giving your love fully, something magical happens: everything starts to matter. 
-
 Cultivating a practical aware gratitude and giving your sacred gifts are the first and second core spiritual practices, and they're the first two steps of cultivating a deep spiritual strength.
 
 The third core spiritual practice, living in reciprocity, completes the puzzle.
@@ -135,9 +133,9 @@ I've met plenty of people who practice feeling gratitude. But if you're not givi
 
 And some people cultivate a passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
-Some people find passion for abstract things like scientific research or engineering or writing. But when people merely find joy in their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create nuclear bombs their rulers use in ways they later regret. Civil engineers may obsess about building codes, and help construct well-built prisons that corrupt legal systems use to unjustly persecute and punish activists and the poor.
+Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely find joy in their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create nuclear bombs their rulers use in ways they later regret. Civil engineers may obsess about building codes, and help construct well-built prisons that corrupt legal systems use to unjustly persecute and punish activists and the poor.
 
-Gratitude without service can feel empty, and passion without that clear gratitude can easily become comfortable and ultimately meaningless. Ruling classes are only to happy for wage slaves to feel passionate about their jobs.
+Gratitude without service can feel empty, and passion without that clear gratitude can easily become comfortable and ultimately meaningless. Ruling classes are only too happy for wage slaves to feel passionate about their jobs.
 
 It's the 3rd core spiritual practice that ultimately ties them all together, yielding a deep spiritual strength: living in reciprocity.
 
@@ -145,7 +143,9 @@ When you're grateful to other people and nonhumans, and you feel an unstoppable 
 
 _Everything matters._
 
-Harriet Tubman faced extreme risk as the worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. Not only was she fully present and aware of the risks, she conveyed this importance to the people she rescued. She couldn't let babies cry and give away the escaping group, so she brought opiate drugs to keep them asleep. She brought along a pistol, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would pull out her revolver, point it at the head of the exhausted man, and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody could betray the group, even accidentally, and everyone escaped safely.
+Harriet Tubman faced extreme risk as she worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. Not only was she fully present and aware of the risks, she conveyed this importance to the people she rescued. She couldn't let babies cry and give away the escaping group, so she brought opiate drugs to keep them asleep.
+
+Tubman brought along a pistol, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would point her revolver at the head of the exhausted man and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody could betray the group, even accidentally, and everyone escaped safely.[xxx-harriet moses of her people]
 
 Can you imagine pointing a gun at someone whose life you wanted to save, and telling them to find their composure, or you'd have to kill them to protect the group?
 
@@ -153,7 +153,7 @@ A story from the Zapatistas shows how every moment matters, even in moments of j
 
 Your love could light up the world, but it's hard to keep giving alone. And it's hard to give if you don't feel very grateful.
 
-When you cultivate deep relationships with other people and nonhumans, where each person is grateful for the other's gifts, then magic happens. It would be unthinkable to give less than your deepest love, as that's simply what people expect of each other in deep relationships. And of course, it's deep satisfying to give your love to people who are grateful for it.
+When you cultivate deep relationships with other people and nonhumans, where each person is grateful for the other's gifts, then magic happens. It would be unthinkable to give less than your deepest love, as that's simply what people expect of each other in deep relationships. And of course, it's satisfying to give your love to people who are grateful for it.
 
 But how to form such deep reciprocal relationships, where people share their gifts generously, and feel grateful for the gifts they receive?
 
@@ -163,7 +163,7 @@ When you practice standing for what's right and supporting others who take a sta
 
 When you practice giving first and giving without any expectation in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
 
-When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends that you ever imagined.
+When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends than you ever imagined.
 
 When you can cultivate deep relationships with people and nonhumans, they will give life a deep meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give when there are grateful people and nonhumans to receive them.
 
@@ -177,30 +177,22 @@ At some point, our ancestors suffered something terrible, and eventually the unh
 
 It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from cultivating your spiritual strength with others as they cultivate theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
 
-Recreate the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating spiritual strength, and find others to walk it with, you'll begin the Deepest Revolution. That path will be beautiful no matter what happens, and it's a necessary part of that larger path leading to new healthy cultures where respect is the norm among the people, and between people and the Earth.
+Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating spiritual strength, and find others to walk it with, you'll begin the Deepest Revolution. That path will be beautiful no matter what happens, and it's a necessary part of that larger path leading to new healthy cultures where respect is the norm among the people, and between people and the Earth.
 
 ### References
 
-[xxx-the vision|p80]
+[xxx-bible|matthew 4:1-11]-aaa (Matthew 4:1-11, English Standard Version Bible)
 
-[xxx-red mother|p84]
+[xxx-bible|esv john 6:38]-aaa (John 6:38, English Standard Version Bible)
 
-[xxx-braiding sweetgrass|wisgaak gokpenagen]
+[xxx-mlk final speech afscmd]-aaa (King Jr, 1968)
 
-[xxx-geronimo autobio|Unwritten Laws of the Apaches]
+[xxx-harriet moses of her people]-aaa (Bradford, 2020)
 
-[xxx-just another nigger|just another nigger]
+[xxx-just another nigger|just another nigger]-aaa (Cox, 2019, "Just Another Nigger")
 
-[xxx-original instructions|ethiopian women]
+[xxx-the vision|p126]-aaa (Brown Jr, 1988, 126)
 
-[xxx-mlk final speech afscmd]
+[xxx-original instructions|ethiopian women]-aaa (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")
 
-[xxx-bible|matthew 4:1-11]
-
-[xxx-the vision|p126]
-
-[xxx-bible|esv john 6:38]
-
-[xxx-indian heroes and great chieftains|crazy horse]
-
-[xxx-harriet moses of her people]
+[xxx-indian heroes and great chieftains|crazy horse]-aaa (Eastman (Ohiyesa), 2013, "Crazy Horse")

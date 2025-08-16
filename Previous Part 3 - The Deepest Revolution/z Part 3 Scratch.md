@@ -8,114 +8,6 @@ But if you're like me, you don't know anything about your healthy-culture ancest
 
 ### Spiritual strength scratch
 
-### Scratch
-
-
-All of creation is simply divine beings giving and receiving gifts. Yes, many humans act with cruelty and selfishness, and living in an unhealthy culture can make it difficult to see life in this beautiful way. But even the cruelty and selfishness have something to teach, something to feel grateful for -- they show me that people in my unhealthy culture are collectively not on a good path, and that motivates me to help makes things right.
-
-Even acknowledging all the troubles in the world, it's still true that creation is simply divine beings giving and receiving gifts. And that means that the way for you to fit into creation -- the most meaningful way for you to approach life -- is to cultivate and give your sacred gifts too.
-
-In other words, discover what you deeply care about, and how best to act in service of it. What is the most meaningful path you can walk in life?
-
-There is a divine voice in your heart right now that knows this purpose already, or that knows your sacred gifts. If you don't already clearly know it, it's only because you've learned not to listen.
-
-I didn't listen to that voice in my heart for many years, and when I first wondered about my gifts, I felt nervous or anxious. When I asked friends about theirs, many of them responded the same way. After years of school and jobs that train people to follow others' directions and rules, many people learn to ignore that inner voice that would guide them on a meaningful path if only they would listen.
-
-If you're not walking that most meaningful path right now, then how do you know anything that you're doing matters? It's easy in unhealthy cultures to go into "survival mode" and focus on getting or keeping a job, and maintaining your mental and physical health. And certainly survival is important.
-
-But you will only drift through life, waiting for life to matter, if you're not intentionally walking a meaningful path. Countless people ignore this to their detriment.
-
-Maybe you set endless goals or make many commitments, keeping some and breaking others. But if you're not walking a meaningful path, then why do your goals or promises matter? Why does it matter if you have integrity or bravery if life itself feels meaningless, because you're not walking a meaningful path?
-
-Some people feel passionate about an abstraction like scientific research or engineering. But if you just enjoy the tasks while you follow your employer's orders and don't much think about the real-world consequences of your work, how meaningful is your path really? Being a cog in someone else's machine is not meaningful.
-
-
-
-
-
-I cannot tell you what your sacred gifts are, but I can offer some exercises that have helped me and other people understand their gifts.
-
-* _Time Alone in the Wilderness Seeking Guidance_: 
-
-* _Notice What Brings You Special Joy or Sparks Curiosity_:
-
-
-
-* _Feel Your Anger_:
-
-
-So what are your gifts? If you're totally clear, and if you're already giving your love fully, then good. But most people I encounter do not know their sacred gifts. 
-
-
-
-
-
-
-* What cause or people or nonhumans do you care about? 
-
-* If you've always known, but maybe not noticed or acted on it - feel that energy or curiosity
-
-* What do you have to give? And to whom do you feel excited to give it?
-
-* Partly this is about knowing yourself: maybe you have a strong urge to express yourself through dance, or research the cure for a disease that you've seen hurt people you love, or protecting a forest or river, or ending poverty where you live.
-
-And partly this is about forming deep relationships with others. 
-
-* many people struggle to feel passionate about anything. Others become passionate about cultivating certain skills, like scientific research or engineering, divorced from how they're ordered to use those skills by their bosses. Or become passionate about being the best in some sport or business, or art, or making the most money. Or they become passionate about some hobby or following professional sports.
-
-In a sense, these are fine, but they're all essentially
-
-
-
-### Cultivating Spiritual Strength, Part 3: Live in Reciprocity
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I think of spiritual strength as giving your deepest love and standing for what's right in any moment.
-
-It may sound abstract or aspirational, but really it's just what people expect of each other.
-
-
-
-
-
-
-
-
-
-A person with spiritual strength gives their deepest love and stands for what's right in each moment.
-
-Writing about "spiritual strength" can make it seem abstract or unattainable, but it's actually just what people expect of each other.
-
-Part of cultivating that spiritual strength involves cultivating deep relationships with other people and the Earth so that you care enough to serve them.
-
-Do you have relationships with other people whom you trust, who you feel so grateful for that you actively look for ways to give back to them? Do you have any relationships with nonhumans like this, where you feel so grateful for them that you actively look for ways to serve them back?
-
-This depth of relationship with nonhumans is actually common even in unhealthy cultures. Many people feel grateful for the unconditional joyful affection of their pet dogs or cats, and look for ways to give back to them. I've met a number of people who trust their dog or cat more than they trust other humans.
-
-If you don't have a deep connection with other people, or a deep connection with Earth, 
-
-
-
-
 ### Can You Imagine Deeply Trusting the People Around You?
 
 What is the biggest difference between a present-day Haudenosaunee, Cherokee, or another healthy-culture person who carries on their traditions, and your average American, Russian, or German?
@@ -169,7 +61,7 @@ In a sense, the Potawatomi, Apache, Nootka, and Crow are people like anyone else
 You could hold yourself and the people around you to a high standard of integrity. You and the people around you could cultivate physical resilience, mentor young people in a good way, and learn how to receive the Earth's gifts in a way that actually benefits the Earth.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Remember when you were held to a high standard</div>
-<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Now imagine being part of a group where everybody supported each other this way continually, in all areas of life. No one imposes their ideology on you, but they hold you to a high standard of excellent and beautiful behavior in your job, family life, social groups, and activism work, bringing out the best in you every day. And imagine you get to support others in the same way. How would that feel?</div></div>
+<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Now imagine being part of a group where everybody supported each other this way continually, in all areas of life. No one imposes their ideology on you, but they hold you to a high standard of excellent and beautiful behavior in your job, family life, social groups, and activism work, bringing out the best in you every day. And imagine you get to support others in the same way. How would that feel?</div></div>
 
 ### When People are discouraged from developing high standards and are rewarded for low standards, the outcome is dismal
 
@@ -185,9 +77,15 @@ I believe one thing is crucial: _Hold yourself and others to the highest standar
 
 It takes deep spiritual strength to consistently hold yourself and others to such high standards. Fortunately, if you've been completing the revolutionary activities, you're already on the path of growing your spiritual strength.
 
+### Cultivate Spiritual Strength with Other People
+
+* Commit to a path of spiritual growth, and find others willing to do the same
+
+* Do the revolutionary activities together -- if you have a group of 5 people committed to this path, and you see a chance to support someone who's taking some kind of stand, the whole group could stand with that person. Or practice receiving the Earth's tangible gifts together, such as foraging wild foods or making herbal medicine together, and learning how to respectfully harvest plants. Question assumptions together, and practice giving thanks to the Earth for its gifts together.
+
+
+
 ### How to Cultivate Your Spiritual Strength, Regardless Your Unhealthy Culture
-
-
 
 
 * connect with the Earth, with real gratitude and real ways of serving it
@@ -208,7 +106,7 @@ Parenting is one aspect of life where people can strongly influence someone else
 
 Imagine being surrounded by people and nonhumans you cared about, and who cared about you, and you were really invested in their wellbeing. I think this is the normal way of life in a healthy culture.
 
-The tragedy of unhealthy cultures is that, when they conquer healthy cultures, they do their best to destroy these deeply caring relationships between the people, and between the people and the Earth. Whether by forcing people out of the region entirely, as with the Cherokee Trail of Tears or Potawatomi Trail of Death, or imposing land ownership and then making land too expensive for most to own, or a thousand other ways, unhealthy cultures make it hard for people to form deep connections with the Earth.
+The tragedy of unhealthy cultures is that, when they conquer healthy cultures, they do their best to destroy these deeply caring relationships between the people, and between the people and the Earth. Whether by forcing people out of the region entirely, as with the Cherokee Trail of Tears or Potawatomi Trail of Death, or imposing land ownership and then making land too expensive for most to own, or a thousand other ways, unhealthy cultures make it hard for people to form deep connections with each other and the Earth.
 
 And with all the divisiveness, the racism and sexism, the lazy thinking and foolish assumptions, the police that oppress solidarity movements and attack our spiritual leaders, and economies that reward selfishness, they make it hard for people to connect in ways where each person is deeply grateful for the other.
 

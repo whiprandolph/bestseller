@@ -30,6 +30,8 @@ Once I started seeing nonhumans as teachers and feeling grateful for them, I sta
 
 I looked up through the forest canopy just in time to notice a second, silent hawk flying to the first one. Once they were together, the loud hawk flew in one direction screeching, and the silent hawk flew in the opposite direction. If I were a little mouse, I might feel relief at hearing the loud hawk fly away, and if I relaxed my guard I might not notice the silent hawk flying right over me! The hawks taught me a way to use deception while hunting. They also taught me to question my assumptions.
 
+<center><img src="./images/hawks_hunting.png" alt="Hawks Hunting" height="300" width="300" /><br/>_Hawks hunting_</center>
+
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #3<br/>Gratitude for the nonhumans' gifts</div>
 <div class="rev-act-body">Cultivating a practical, aware gratitude begins with noticing the gifts you receive. To start, go outside and find a nonhuman to observe closely, and ask what its gifts are.<br/><br/>For example, if you observed a tree, you would ask: how does the tree benefit all the life around it, including you? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Notice every gift that you can, and practice feeling grateful for them.</div></div>
 

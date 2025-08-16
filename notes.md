@@ -24,6 +24,7 @@
 * rename ODOC Zap chapter? would they have said it was successful at any time? Or not humble/too triumphant?
 * verify all citations copied from odoc to tdr as needed.
 * verify all cites in book are in zotero
+* verify all subheadings are #### (or smaller) not ###
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
 * fix formatting of part intro pages - need visible title centered w/newline between part x and title.
 * play with page margins to get more text on a page, shrink page count. 

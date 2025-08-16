@@ -18,9 +18,12 @@ md_publish_dir = r"C:\Users\whip\tdr-md-publish"
 why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
 why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
 odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
+rev_act_path = os.path.join(source_dir, "Scratch", "rev-acts.md")
 
 PUBLISH = True
 
+had_rev_act_fixup = False
+open(rev_act_path, 'w', encoding='utf-8').write("")
 odoc_file_list = []
 odoc_refs = {}
 ref_header = '### References'
@@ -30,29 +33,44 @@ REV_ACT_COUNTER = 1 # start at 1
 odoc_file_list = []
 
 def rev_act_count_fixup(md_path):
-    global REV_ACT_COUNTER
+    global REV_ACT_COUNTER, had_rev_act_fixup
     assert md_path.endswith(".md"), md_path
     rev_act_html = '<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #'
     line_list = []
+    rev_act_list = []    
     with open(md_path, 'r', encoding='utf-8') as file_handle:
-        for line in file_handle:     
+        file_lines = file_handle.readlines()
+        for idx, line in enumerate(file_lines):
             if rev_act_html in line:
                 assert "<br/>" in line, line
                 assert "</div>" in line, line
                 act_count, rest_of_line = line.split(rev_act_html)[1].split("<br/>", 1)
                 assert (len(act_count) == 1 or len(act_count) == 2) and act_count.isdigit(), "Bad rev-act count: %s in %s" % (act_count, os.path.basename(md_path))
                 reassembled_line = f"{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
+                if reassembled_line != line:
+                   had_rev_act_fixup = True
                 line_list.append(reassembled_line)
+                rev_act_list.append("".join((file_lines[idx], file_lines[idx+1])))
                 REV_ACT_COUNTER += 1
             elif 'rev-act\"' in line:
                 print("Potential rev-act formatting issue with line:")
-                print(line)
+                print("%s in %s" % (line, md_path))
                 breakpoint()
                 a = 0
             else:
                 line_list.append(line)
     with open(md_path, 'w', encoding='utf-8') as file_handle:
         file_handle.write("".join(line_list))
+    
+    if had_rev_act_fixup:
+        open(rev_act_path, 'w', encoding='utf-8').write("")
+    elif rev_act_list:
+        if len(rev_act_list) == 1:
+            output = rev_act_list[0]
+        else:
+            output = "\n\n".join(rev_act_list)
+        output += "\n\n"
+        open(rev_act_path, 'a', encoding='utf-8').write(output)
 
 
 def get_file_list(ignore_images = False):
@@ -202,7 +220,8 @@ def migrate_citations(file_path):
     assert len(refs) == len(final_ref_list), "ref replacement gone bad; %s != %s, file %s" % (len(refs), len(ref_finished_list), file_path)
     new_blob = ref_header.join((body, new_ref_section))
     open(file_path, 'w', encoding='utf-8').write(new_blob)
-    print("UNCHECKED: %s" % str(unchecked_refs))
+    if unchecked_refs:
+        print("UNCHECKED: %s" % str(unchecked_refs))
     return [len(a) for a in (unchecked_refs, checked_but_unmatched_refs, ref_finished_list)]
 
 def get_odoc_refs():

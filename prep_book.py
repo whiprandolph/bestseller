@@ -36,7 +36,7 @@ BOOK_ADDED_STYLE = """
     color:black;
   }\n
   #biblio p {
-    font-size: 9pt;
+    font-size: 8.5pt;
     margin: .5em;
   }
   @page {
@@ -108,7 +108,7 @@ def verify_epub():
     if path.lower().endswith('png') or path.lower().endswith('jpg'):
       img_count+=1
   # should be 3 for contents, 4 w/cover
-  assert img_count == 4, "Invalid image count, %s" % img_count
+  assert img_count == 5, "Invalid image count, %s" % img_count
   shutil.rmtree(book_zip_dir)
   os.remove(book_zip_path)
   
@@ -339,6 +339,7 @@ def update_images_bw():
     "american_riot_police",
     "chinese_riot_police",
     "venezuelan_riot_police",
+    "hawks_hunting",
   ]
   phys_book_md = open(phys_book_md_path, 'r', encoding='utf-8').read()
 

@@ -599,20 +599,23 @@
 <tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (Churchill, 1947)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 15: The Deepest Revolution, Part 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+<tr><td><b>Chapter 15: The Deepest Revolution, Part 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
+</td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_15_4_src" id="cite_Chapter_15_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (Bradford, 2020)<br/>
+</td><td><a href="#cite_Chapter_15_4_src" id="cite_Chapter_15_4_dest" style="text-decoration:none">4</a>. (John 6:38, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_5_src" id="cite_Chapter_15_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_15_6_src" id="cite_Chapter_15_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_15_5_src" id="cite_Chapter_15_5_dest" style="text-decoration:none">5</a>. (King Jr, 1968)<br/>
+</td><td><a href="#cite_Chapter_15_6_src" id="cite_Chapter_15_6_dest" style="text-decoration:none">6</a>. (Matthew 4:1-11, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_7_src" id="cite_Chapter_15_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_15_8_src" id="cite_Chapter_15_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_15_7_src" id="cite_Chapter_15_7_dest" style="text-decoration:none">7</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
+</td><td><a href="#cite_Chapter_15_8_src" id="cite_Chapter_15_8_dest" style="text-decoration:none">8</a>. (Brown Jr, 1988, 126)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
+</td><td></td></tr>
 
 </table><div style="break-after:page"></div>
