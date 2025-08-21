@@ -62,7 +62,7 @@ As long as people accept their own submissive obedience as legitimate, they will
 
 Can you imagine living in a culture where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Practice standing for what's right</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Practice standing for what's right</div>
 <div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
 
 ### The Nootka Stand in Solidarity
@@ -97,7 +97,7 @@ This story showed me what it's like when everyone in a culture upholds the rules
 
 And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Support someone else when they take a stand</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Support someone else when they take a stand</div>
 <div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her culture. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her if she were attacked? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 ### Solidarity and Generosity Used to be Universal
@@ -106,7 +106,7 @@ A few thousand years ago, every human on Earth lived in a healthy culture where 
 
 In recent times, unhealthy cultures have formed and spread around the world, trapping free people in abusive societies where a few people rule over the rest.
 
-Why are we so lost then? It's an important question, and the answer is simple -- we're not allowed to stand for justice and uphold our own laws. Any political movement that doesn't address this root problem is destined to achieve superficial change at best.**
+Why are we so lost then? It's an important question, and the problem is simple -- we're not allowed to stand for justice and uphold our own laws, and we pretend that we're free. In reality, we're not free, because our laws are imposed on us and we're punished for disobeying them. Any political movement that doesn't address this root problem is destined to achieve superficial change at best.**
 
 When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy culture.**
 

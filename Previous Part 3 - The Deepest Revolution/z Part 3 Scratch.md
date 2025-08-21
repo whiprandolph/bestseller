@@ -129,3 +129,75 @@ Why did Jesus Christ keep serving his people even when he knew he would be kille
 The three core spiritual practices really are essential. If you don't care about other people or nonhumans, you'll never be motivated to...; You matter, and how you show up in life matters -- you have sacred gifts to give. But to whom will you give your gifts? To what cause, what people, what nonhumans? Why, the ones you love -- the ones you feel so grateful for that it would hurt not to serve them however you could.
 
 And when you're giving your gifts from a place of gratitude for the people and nonhumans around you -- then you'll be living in reciprocity, where each person serves the wellbeing of the others, and collectively everyone benefits.
+
+
+
+### Build Revolutionary Healthy Subcultures by Holding Yourself and Others to High Standards
+
+
+* ditch your fucking phones and TVs - only use intentionally, and help each other in this
+
+
+### When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?
+
+* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy cultures. Just lacking freedom... hmm...
+
+* still big problems -- but people would figure it out.
+
+  * could study other healthy cultures -- how do they pick leaders? How do they maintain culture of generous sharing over time?
+
+  * and trust in your own ability to make mistakes and learn from them
+
+  * commit before you know the path, and embrace uncertainty
+
+  * Deepest Revolution never ends, because people will always be standing for what's right as needed - continual humility
+
+### Integrity and Natural Law
+
+* integrity as structure in psychology, engineering -- and healthy cultures
+
+* everyone's collective integrity is the structure of a healthy culture -- the source of law when no one imposes law on anyone else
+
+Law is just the standard of behaviors people agree on. When Law is imposed, people are unable to uphold their own law.
+
+In practice, that means when standards of behavior are imposed, people don't uphold their own high standards of behavior -- and standards fall.
+
+### Everything is a Skill
+
+* integrity, bravery, awareness, gratitude -- all these can be practiced like any other skill. So practice them, and help others practice to bring out the best in each other
+
+* Bravery: quick definition, practice being in scary & uncomfortable situations and doing the right thing
+
+  * Training children (or anybody) for obedience trains them for cowardice. 
+
+* Integrity: 
+    * complement of "trust", meaning there's a kind of integrity for every way that people want to trust each other: honesty, promise-keeping, integrity of service
+    * practice honesty, keeping your promises, and acting in service instead of focusing just on oneself
+
+### Build Revolutionary Healthy Subcultures by Holding Yourself and Others to High Standards
+
+* commit to personal growth and collective growth with others
+
+* people live up or down to expectations set for them
+
+* your gifts matter more when you have others to give them to -- people who are grateful and who expect nothing less
+
+* expectations you set become the law you live by -- ie the standards of behavior you expect from yourself and others
+
+* find excellent mentors and role models.
+
+* Learn to take responsibility for everything in your life -- how will you have a healthy relationship with screens, if any, so they are useful tools but never numbing distractions?
+
+### When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?
+
+* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy cultures. Just lacking freedom... hmm...
+
+* still big problems -- but people would figure it out.
+
+  * could study other healthy cultures -- how do they pick leaders? How do they maintain culture of generous sharing over time?
+
+  * and trust in your own ability to make mistakes and learn from them
+
+  * commit before you know the path, and embrace uncertainty
+
+  * Deepest Revolution never ends, because people will always be standing for what's right as needed - continual humility

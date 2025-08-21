@@ -312,91 +312,103 @@
 </td><td><a href="#cite_Chapter_9_12_src" id="cite_Chapter_9_12_dest" style="text-decoration:none">12</a>. (Denova, 2022)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_13_src" id="cite_Chapter_9_13_dest" style="text-decoration:none">13</a>. (Denova, 2022)<br/>
-</td><td><a href="#cite_Chapter_9_14_src" id="cite_Chapter_9_14_dest" style="text-decoration:none">14</a>. (Mark 12:17, King James Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_13_src" id="cite_Chapter_9_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_14_src" id="cite_Chapter_9_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_15_src" id="cite_Chapter_9_15_dest" style="text-decoration:none">15</a>. (Gaster & Dimitrovsky, 2024)<br/>
-</td><td><a href="#cite_Chapter_9_16_src" id="cite_Chapter_9_16_dest" style="text-decoration:none">16</a>. (Pharr, 1952, 440)<br/>
+<tr><td><a href="#cite_Chapter_9_15_src" id="cite_Chapter_9_15_dest" style="text-decoration:none">15</a>. (Denova, 2022)<br/>
+</td><td><a href="#cite_Chapter_9_16_src" id="cite_Chapter_9_16_dest" style="text-decoration:none">16</a>. (Mark 12:17, King James Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_17_src" id="cite_Chapter_9_17_dest" style="text-decoration:none">17</a>. (Pharr, 1952, 440)<br/>
+<tr><td><a href="#cite_Chapter_9_17_src" id="cite_Chapter_9_17_dest" style="text-decoration:none">17</a>. (Gaster & Dimitrovsky, 2024)<br/>
 </td><td><a href="#cite_Chapter_9_18_src" id="cite_Chapter_9_18_dest" style="text-decoration:none">18</a>. (Pharr, 1952, 440)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_19_src" id="cite_Chapter_9_19_dest" style="text-decoration:none">19</a>. (Mark 1 Peter 2:13, New International Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_20_src" id="cite_Chapter_9_20_dest" style="text-decoration:none">20</a>. (The Quran, 4:59, Translated by Mustafa Khattab)<br/>
+<tr><td><a href="#cite_Chapter_9_19_src" id="cite_Chapter_9_19_dest" style="text-decoration:none">19</a>. (Pharr, 1952, 440)<br/>
+</td><td><a href="#cite_Chapter_9_20_src" id="cite_Chapter_9_20_dest" style="text-decoration:none">20</a>. (Pharr, 1952, 440)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_21_src" id="cite_Chapter_9_21_dest" style="text-decoration:none">21</a>. (Catechism of the Catholic Church, 1997, 405)<br/>
-</td><td><a href="#cite_Chapter_9_22_src" id="cite_Chapter_9_22_dest" style="text-decoration:none">22</a>. (Catechism of the Catholic Church, 1997, 416-418)<br/>
+<tr><td><a href="#cite_Chapter_9_21_src" id="cite_Chapter_9_21_dest" style="text-decoration:none">21</a>. (Mark 1 Peter 2:13, New International Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_22_src" id="cite_Chapter_9_22_dest" style="text-decoration:none">22</a>. (The Quran, 4:59, Translated by Mustafa Khattab)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_23_src" id="cite_Chapter_9_23_dest" style="text-decoration:none">23</a>. (Catechism of the Catholic Church, 1997, 408)<br/>
-</td><td><a href="#cite_Chapter_9_24_src" id="cite_Chapter_9_24_dest" style="text-decoration:none">24</a>. (The Quran, 2:220, Translated by Mustafa Khattab)<br/>
+<tr><td><a href="#cite_Chapter_9_23_src" id="cite_Chapter_9_23_dest" style="text-decoration:none">23</a>. (Catechism of the Catholic Church, 1997, 405)<br/>
+</td><td><a href="#cite_Chapter_9_24_src" id="cite_Chapter_9_24_dest" style="text-decoration:none">24</a>. (Catechism of the Catholic Church, 1997, 416-418)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_25_src" id="cite_Chapter_9_25_dest" style="text-decoration:none">25</a>. (The Quran, 2:224, Translated by Mustafa Khattab)<br/>
-</td><td><a href="#cite_Chapter_9_26_src" id="cite_Chapter_9_26_dest" style="text-decoration:none">26</a>. (The Quran, 2:216, Translated by Mustafa Khattab)<br/>
+<tr><td><a href="#cite_Chapter_9_25_src" id="cite_Chapter_9_25_dest" style="text-decoration:none">25</a>. (Catechism of the Catholic Church, 1997, 408)<br/>
+</td><td><a href="#cite_Chapter_9_26_src" id="cite_Chapter_9_26_dest" style="text-decoration:none">26</a>. (The Quran, 2:220, Translated by Mustafa Khattab)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_27_src" id="cite_Chapter_9_27_dest" style="text-decoration:none">27</a>. (Landon, 1905, 350)<br/>
-</td><td><a href="#cite_Chapter_9_28_src" id="cite_Chapter_9_28_dest" style="text-decoration:none">28</a>. (Gelder & Gelder, 1964, 127)<br/>
+<tr><td><a href="#cite_Chapter_9_27_src" id="cite_Chapter_9_27_dest" style="text-decoration:none">27</a>. (The Quran, 2:224, Translated by Mustafa Khattab)<br/>
+</td><td><a href="#cite_Chapter_9_28_src" id="cite_Chapter_9_28_dest" style="text-decoration:none">28</a>. (The Quran, 2:216, Translated by Mustafa Khattab)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_29_src" id="cite_Chapter_9_29_dest" style="text-decoration:none">29</a>. (The First Discourse of the Buddha, n.d.)<br/>
-</td><td><a href="#cite_Chapter_9_30_src" id="cite_Chapter_9_30_dest" style="text-decoration:none">30</a>. (The Quran, 4:34, Translated by Mustafa Khattab)<br/>
+<tr><td><a href="#cite_Chapter_9_29_src" id="cite_Chapter_9_29_dest" style="text-decoration:none">29</a>. (Landon, 1905, 350)<br/>
+</td><td><a href="#cite_Chapter_9_30_src" id="cite_Chapter_9_30_dest" style="text-decoration:none">30</a>. (Gelder & Gelder, 1964, 127)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_31_src" id="cite_Chapter_9_31_dest" style="text-decoration:none">31</a>. (1 Corinthians 11:3, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_32_src" id="cite_Chapter_9_32_dest" style="text-decoration:none">32</a>. (Strong, 1976, 329)<br/>
+<tr><td><a href="#cite_Chapter_9_31_src" id="cite_Chapter_9_31_dest" style="text-decoration:none">31</a>. (The First Discourse of the Buddha, n.d.)<br/>
+</td><td><a href="#cite_Chapter_9_32_src" id="cite_Chapter_9_32_dest" style="text-decoration:none">32</a>. (The Quran, 4:34, Translated by Mustafa Khattab)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_33_src" id="cite_Chapter_9_33_dest" style="text-decoration:none">33</a>. (Blumberg, 2025)<br/>
-</td><td><a href="#cite_Chapter_9_34_src" id="cite_Chapter_9_34_dest" style="text-decoration:none">34</a>. (1 Peter 2:16, New International Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_33_src" id="cite_Chapter_9_33_dest" style="text-decoration:none">33</a>. (1 Corinthians 11:3, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_34_src" id="cite_Chapter_9_34_dest" style="text-decoration:none">34</a>. (Strong, 1976, 329)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_35_src" id="cite_Chapter_9_35_dest" style="text-decoration:none">35</a>. (Khan, 2019)<br/>
-</td><td><a href="#cite_Chapter_9_36_src" id="cite_Chapter_9_36_dest" style="text-decoration:none">36</a>. (Arbuthnot, Mollie, 2019)<br/>
+<tr><td><a href="#cite_Chapter_9_35_src" id="cite_Chapter_9_35_dest" style="text-decoration:none">35</a>. (Blumberg, 2025)<br/>
+</td><td><a href="#cite_Chapter_9_36_src" id="cite_Chapter_9_36_dest" style="text-decoration:none">36</a>. (1 Peter 2:16, New International Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_37_src" id="cite_Chapter_9_37_dest" style="text-decoration:none">37</a>. (Luke 6:31, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_38_src" id="cite_Chapter_9_38_dest" style="text-decoration:none">38</a>. (Rockhill, 1892)<br/>
+<tr><td><a href="#cite_Chapter_9_37_src" id="cite_Chapter_9_37_dest" style="text-decoration:none">37</a>. (Khan, 2019)<br/>
+</td><td><a href="#cite_Chapter_9_38_src" id="cite_Chapter_9_38_dest" style="text-decoration:none">38</a>. (Arbuthnot, Mollie, 2019)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_39_src" id="cite_Chapter_9_39_dest" style="text-decoration:none">39</a>. (Nawawi, n.d.)<br/>
-</td><td><a href="#cite_Chapter_9_40_src" id="cite_Chapter_9_40_dest" style="text-decoration:none">40</a>. (Nelson, 2008, "A Democracy Based On Peace")<br/>
+<tr><td><a href="#cite_Chapter_9_39_src" id="cite_Chapter_9_39_dest" style="text-decoration:none">39</a>. (Luke 6:31, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_40_src" id="cite_Chapter_9_40_dest" style="text-decoration:none">40</a>. (Rockhill, 1892)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_41_src" id="cite_Chapter_9_41_dest" style="text-decoration:none">41</a>. (Barrett, 2010, "Preparation of a Warrior")<br/>
-</td><td><a href="#cite_Chapter_9_42_src" id="cite_Chapter_9_42_dest" style="text-decoration:none">42</a>. (War is Boring, 2014)<br/>
+<tr><td><a href="#cite_Chapter_9_41_src" id="cite_Chapter_9_41_dest" style="text-decoration:none">41</a>. (Nawawi, n.d.)<br/>
+</td><td><a href="#cite_Chapter_9_42_src" id="cite_Chapter_9_42_dest" style="text-decoration:none">42</a>. (Nelson, 2008, "A Democracy Based On Peace")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_43_src" id="cite_Chapter_9_43_dest" style="text-decoration:none">43</a>. (Allen, 1991, 9)<br/>
-</td><td><a href="#cite_Chapter_9_44_src" id="cite_Chapter_9_44_dest" style="text-decoration:none">44</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
+<tr><td><a href="#cite_Chapter_9_43_src" id="cite_Chapter_9_43_dest" style="text-decoration:none">43</a>. (Barrett, 2010, "Preparation of a Warrior")<br/>
+</td><td><a href="#cite_Chapter_9_44_src" id="cite_Chapter_9_44_dest" style="text-decoration:none">44</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_45_src" id="cite_Chapter_9_45_dest" style="text-decoration:none">45</a>. (Liedloff, 2004, "Growing Up")<br/>
-</td><td><a href="#cite_Chapter_9_46_src" id="cite_Chapter_9_46_dest" style="text-decoration:none">46</a>. (Messiah, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_9_45_src" id="cite_Chapter_9_45_dest" style="text-decoration:none">45</a>. (War is Boring, 2014)<br/>
+</td><td><a href="#cite_Chapter_9_46_src" id="cite_Chapter_9_46_dest" style="text-decoration:none">46</a>. (Allen, 1991, 9)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_47_src" id="cite_Chapter_9_47_dest" style="text-decoration:none">47</a>. (Kim, 2025)<br/>
-</td><td><a href="#cite_Chapter_9_48_src" id="cite_Chapter_9_48_dest" style="text-decoration:none">48</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_47_src" id="cite_Chapter_9_47_dest" style="text-decoration:none">47</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
+</td><td><a href="#cite_Chapter_9_48_src" id="cite_Chapter_9_48_dest" style="text-decoration:none">48</a>. (Liedloff, 2004, "Growing Up")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Mark 3:2, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Mark 10:32-34, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Kirk, 2020)<br/>
+<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Messiah, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (King Jr, 1968)<br/>
-</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Douglass, 2000)<br/>
+<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Kim, 2025)<br/>
+</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Hoover, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Mark 3:2, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_56_src" id="cite_Chapter_9_56_dest" style="text-decoration:none">56</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_9_57_src" id="cite_Chapter_9_57_dest" style="text-decoration:none">57</a>. (Mark 10:32-34, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_58_src" id="cite_Chapter_9_58_dest" style="text-decoration:none">58</a>. (Kirk, 2020)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_9_59_src" id="cite_Chapter_9_59_dest" style="text-decoration:none">59</a>. (King Jr, 1968)<br/>
+</td><td><a href="#cite_Chapter_9_60_src" id="cite_Chapter_9_60_dest" style="text-decoration:none">60</a>. (Douglass, 2000)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_9_61_src" id="cite_Chapter_9_61_dest" style="text-decoration:none">61</a>. (Hoover, n.d.)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 10: Why Are People So Racist And Hateful?</b></td></tr><tr><td><a href="#cite_Chapter_10_1_src" id="cite_Chapter_10_1_dest" style="text-decoration:none">1</a>. (Cartwright, 1851)<br/>
@@ -589,12 +601,16 @@
 </td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 3)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Mantell, 1974, 137)<br/>
-</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Mantell, 1974, 141)<br/>
+<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Mantell, 1974, 147)<br/>
-</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (Assange, 2007)<br/>
+<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Mantell, 1974, 137)<br/>
+</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (Mantell, 1974, 141)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_13_23_src" id="cite_Chapter_13_23_dest" style="text-decoration:none">23</a>. (Mantell, 1974, 147)<br/>
+</td><td><a href="#cite_Chapter_13_24_src" id="cite_Chapter_13_24_dest" style="text-decoration:none">24</a>. (Assange, 2007)<br/>
 </td></tr>
 
 <tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (Churchill, 1947)<br/>
@@ -617,6 +633,29 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
+</td><td></td></tr>
+
+<tr><td><b>Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Building Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_3_src" id="cite_Chapter_16_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_4_src" id="cite_Chapter_16_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_5_src" id="cite_Chapter_16_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>

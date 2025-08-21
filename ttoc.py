@@ -18,7 +18,7 @@ md_publish_dir = r"C:\Users\whip\tdr-md-publish"
 why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
 why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
 odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
-rev_act_path = os.path.join(source_dir, "Scratch", "rev-acts.md")
+rev_act_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities.md")
 
 PUBLISH = True
 
@@ -50,7 +50,7 @@ def rev_act_count_fixup(md_path):
                 if reassembled_line != line:
                    had_rev_act_fixup = True
                 line_list.append(reassembled_line)
-                rev_act_list.append("".join((file_lines[idx], file_lines[idx+1])))
+                rev_act_list.append("".join(("<b>%s</b>" % file_lines[idx], file_lines[idx+1] + "\n")))
                 REV_ACT_COUNTER += 1
             elif 'rev-act\"' in line:
                 print("Potential rev-act formatting issue with line:")
@@ -65,10 +65,11 @@ def rev_act_count_fixup(md_path):
     if had_rev_act_fixup:
         open(rev_act_path, 'w', encoding='utf-8').write("")
     elif rev_act_list:
+        output = "### %s\n\n" % os.path.basename(md_path).strip(".md")
         if len(rev_act_list) == 1:
-            output = rev_act_list[0]
+            output += rev_act_list[0]
         else:
-            output = "\n\n".join(rev_act_list)
+            output += "\n\n".join(rev_act_list)
         output += "\n\n"
         open(rev_act_path, 'a', encoding='utf-8').write(output)
 

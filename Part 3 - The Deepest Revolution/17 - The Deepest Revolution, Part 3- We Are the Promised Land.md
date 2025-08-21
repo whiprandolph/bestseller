@@ -24,7 +24,7 @@ The promised land is real, and I'll tell you what else I learned -- _**WE are th
 
 As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have proven, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.**
 
-Kings and billionaires of unhealthy cultures threaten, bribe, trick, and trap countless people to support all these terrible things and more. I believe the only solution is to transform or end these cultures of abuse.
+Kings and billionaires of unhealthy cultures threaten, bribe, trick, and trap countless people to support all these terrible things and more. The only solution is to create new nations where people maintain a baseline of mutual respect with each other and the Earth.
 
 So cultivate your spiritual strength and support others in cultivating theirs. Stand for what's right together, protecting each other and the Earth. And you won't be taking a stand alone.**
 
@@ -32,7 +32,7 @@ Millions of people are standing for the Earth and standing for cultures of mutua
 
 And I'd love for you to join us.
 
-<center><pre>* * *</pre>For future updates, opportunities, and connections, sign up here:<br/><a href="https://thedeepestrevolution.com/signup">https://thedeepestrevolution.com/signup</a></center>
+<center><pre>* * *</pre>For future updates, opportunities, and connections, sign up here:<br/><a href="https://thedeepestrevolution.com/signup">https://the_deepest_revolution.com/signup</a></center>
 
 ### References
 

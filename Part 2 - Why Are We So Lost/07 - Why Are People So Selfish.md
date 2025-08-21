@@ -4,7 +4,7 @@ Elders in every healthy culture I've studied consistently train children to be g
 
 Sioux man Sitting Bull said, "Love of possessions is a disease,"[xxx-indian heroes and great chieftains|sitting bull] and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant."[xxx-from deep woods to civilization|the way opens] Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness were allowed to take hold in their society.[xxx-braiding sweetgrass|windigo footprints]
 
-When one or a few people act selfishly, the culture can respond by helping them feel comfortable sharing again, or if necessary, evict them if they continue to be have selfishly.
+When one or a few people act selfishly, the culture can respond by helping them feel comfortable sharing again, or if necessary, evict them if they continue to behave selfishly.
 
 But what happens when a ruling class forces laws on the rest, protecting their own wealth at all costs and forbidding people from standing for what's right? What happens when selfishness is allowed to fester, and people can no longer maintain a way of life based on sharing?
 
@@ -113,7 +113,7 @@ In cultures that forbid people from seeking justice and upholding their own laws
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Notice when you hold back out of fear</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 
 ### References

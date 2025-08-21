@@ -18,7 +18,7 @@ Did the trouble happen when people started farming? No, the Huron gained about 7
 
 Sometimes people of these cultures are called native, indigenous, tribal, aboriginal, indian, or first nations. I call them healthy human cultures.
 
-And they all share one core difference from all unhealthy human cultures:
+And they share one core difference from all unhealthy human cultures:
 
 <center>__*In healthy cultures, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
@@ -60,7 +60,7 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 Part 3 of this book will explore how you can work with others to create a beautiful way of life, a nation of spiritually strong people living in actual freedom. It will require tremendous hard work, bravery and risk -- and _it's worth it_.
 
-But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain the kind of healthy cultures millions of people have lived in since the dawn of time.**
+But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similiar to how millions of people have lived in since the dawn of time.**
 
 Healthy cultures are who we really are, but anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 

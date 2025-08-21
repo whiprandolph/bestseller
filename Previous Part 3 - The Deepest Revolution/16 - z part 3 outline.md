@@ -20,7 +20,7 @@
   * [Treat Children Respectfully](#treat-children-respectfully)
   * [Give to the Earth Together](#give-to-the-earth-together)
   * [When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?](#when-people-have-high-expectations-for-themselves-and-each-other-what-kind-of-culture-will-they-create?)
-* [18. The Deepest Revolution: Returning to Who We Really Are](#18.-the-deepest-revolution-returning-to-who-we-really-are)
+* [17. The Deepest Revolution: Returning to Who We Really Are](#18.-the-deepest-revolution-returning-to-who-we-really-are)
   * [Give Your Sacred Gifts](#give-your-sacred-gifts)
   * [We Only Have One Political Problem, and There's Only One Solution](#we-only-have-one-political-problem-and-theres-only-one-solution)
   * [The Deepest Revolution](#the-deepest-revolution)
@@ -124,7 +124,7 @@ What is the key difference between average people of healthy/unhealthy? People i
 
   * Deepest Revolution never ends, because people will always be standing for what's right as needed - continual humility
 
-## 18. The Deepest Revolution: Returning to Who We Really Are
+## 17. The Deepest Revolution: Returning to Who We Really Are
 
 ### Give Your Sacred Gifts
 

@@ -38,9 +38,11 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
 
+* _At trial, Jesus was accused of challenging Roman authority:_ At his trial, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible|kjb luke 23:2] He did not deny the charges.[xxx-bible|esv mark 14:56-64]
+
 * _Christ was killed like a revolutionary:_ Crucifixion was a punishment that the Romans used especially for revolutionaries. Christ and two other revolutionaries were nailed to a cross and left to die in a public place to scare others away from revolutionary activities.[xxx-worldhistory jewish zealots]
 
-In other words, Christ was tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission, as all oppressive governments do.
+Christ stood up for his people against oppressive authorities in wordly and spiritual ways, seeking to free his people from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission, as all oppressive governments do.
 
 Some Christians claim that Christ was obedient because he said, "Render unto Caesar that which is Caesar's," suggesting people should pay their taxes.[xxx-bible|mark 12:17] But revolutionaries commonly debate whether to pay their taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
 
@@ -48,11 +50,13 @@ Unfortunately for the Roman authorities, Jesus was extremely inspirational, and 
 
 The religion inspired by Jesus Christ kept spreading, and by the 300s CE, multiple sects existed. Finally, in 380 CE, something weird happened. The same Roman government that had killed Jesus Christ imposed Christianity as a religion on the Roman Empire, requiring people to worship Jesus Christ as their spiritual leader. Why?[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
-Instead of allowing this revolutionary Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity that _trained people for obedience_. The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
+Instead of allowing this revolutionary Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity _that trained people for obedience_. The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
 
 When Roman emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." In other words, anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
 In many ways, the Roman state spread a religious ideology that _discouraged spiritual strength_ needed to stand up for what's right. Thus Christians were trained to _misunderstand their revolutionary spiritual leader Jesus Christ,_ even while authorities required them to worship Christ, a man of incredible spiritual strength.
+
+As a result, Christians have endlessly debated when to obey and when not, or how to obey, or whom to obey. But _the attitude of obedience itself is rarely questioned_, which is why every Christian society in history has had oppressive authorities that Christians have obeyed. And whenever Christians have had a revolution, they merely put different oppressive authorities in charge that likewise expect obedience.**
 
 So how exactly did Roman emperor Theodosius impose a version of Christianity that discouraged spiritual strength and encouraged obedience instead? It turns out that ruling classes around the world all want to train people to obey corrupt authorities, and they commonly use the same tricks.
 
@@ -118,16 +122,16 @@ And what are the results of these hurtful religions and ideologies? Unhealthy cu
 
 People learn to accept their obedience as normal. When people demand more jobs, less taxes, or more funding for schools or hospitals, what they're essentially demanding is that their authorities please rule them better or more efficiently, and please oppress us a little less. Instead of accepting that they are not free and considering what to do about it, people may believe that they are "losing their rights" or "becoming less free" when their ruling class decides to restrict what speech or actions are allowed.
 
-Most citizens may think they are "good," or trying to "do their part." They may take all sorts of unproductive actions, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, "praying" intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.
+Most citizens may think they are "good," or trying to "do their part." They may take all sorts of unproductive actions, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, praying intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy cultures_.
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every culture and religion. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammad, and I am free to leave the hurtful or unhelpful aspects of these religions behind.
 
 Many authorities insist that their religion or ideology is "all or nothing" -- you either believe everything, or you're cast out as an unbeliever. But that is simply bullying, pressuring people to adopt hurtful beliefs or attitudes just to stay in good standing in their community. Each of us has the power and the responsibility to choose which perspectives we embrace, and which ones we will not.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Choose what lessons you learn</div>
-<div class="rev-act-body">You have the power to choose what perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Choose what lessons you learn</div>
+<div class="rev-act-body">You have the power to choose what perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model to learn from. I kept this lesson, and I've learned much about bravery, generosity, and fasting from him. I was also taught that I should be obedient to God and human authoritities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
 
-### People Embracing Obedience Act Contrary to Christ's Teachings
+### Obedient People Act Contrary to Christ's Teachings
 
 There is a common saying that "the winners write the history books." The Roman authorities killed Jesus Christ, and then centuries later they decided which stories would be included in the Holy Bible which they forced on their empire, and they chose which aspects of that Bible would be emphasized in official teachings. And then they pretended that the Bible was the literal word of God, instead of an ideology imposed on conquered people by their rulers to train them for submissive obedience.
 
@@ -151,7 +155,11 @@ Fewer people would believe obedience is so good and necessary if they knew what 
 
 ### How Can People Follow Their Nation's Laws Without Obedience?
 
-Every nation has laws, whether the nation is healthy or not. But when the laws work for everyone, there's no need for obedience. In healthy cultures, no one forces laws on anybody else that they don't like. In addition, _everyone is expected to uphold their laws, not obey them._ In this way, they have laws they follow, but no obedience. Everyone is expected to have the same spiritual strength as Jesus Christ to stand for what's right no matter what.
+Every nation has laws, whether the nation is healthy or not. But when the laws work for everyone, there's no need for obedience.
+
+In healthy cultures, no one forces laws on anybody else that they don't like. In addition, _everyone is expected to uphold their laws, not obey them._ In this way, they have laws they follow, but no obedience. Everyone is expected to have the same spiritual strength as Jesus Christ to stand for what's right no matter what.
+
+"Obeying a leader" happens when people do not like the laws or orders they're given, or don't like how the laws are unjustly enforced, but they do what they're told because they would be punished otherwise. "Following a leader" happens when people like the leader's directions. There is no threat involved. For example, the crowds of people who listened to Jesus _followed_ his spiritual leadership without any pressure or coercion because they valued his teachings and service, but they were forced to _obey_ Roman authorities whose leadership they didn't like, because they were threatened with punishment for disobeying.**
 
 So how can a nation have leaders if people refuse to obey? It's simple: no one obeys their leaders in healthy cultures. They _choose_ the leader whose direction they value, and if that leader begins to disappoint them, they choose a different leader. As Haudenosaunee man Segwalise said, the leaders are "there by the will of the people and when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
@@ -163,9 +171,9 @@ Contrast that with a healthy-culture military. Apache man Geronimo said that war
 
 That is, each person accepted _personal responsibility_ to help choose excellent leaders, and to ensure they were leading well. If a leader disappointed them, they would choose someone else.
 
-In this way, lower-ranked warriors would accept their leader's directions, but they _chose_ to accept his directions because they valued his leadership. "Choosing to follow" a leader and "being forced to obey" may superficially look similar to outsiders. But when the warriors knew that the bravest and most selfless warrior among them was their leader, they didn't need to obey because they wanted to follow.
+In this way, lower-ranked warriors would accept their leader's directions, but they _chose_ to accept his directions because they valued his leadership. "Choosing to follow" a leader and "being forced to obey" may superficially look similar to outsiders. But when the warriors knew that the bravest and most selfless warrior among them was their leader, they didn't need to be threatened with punishment because they wanted to follow.
 
-This is normal in healthy-culture militaries: the warriors choose the best leaders and willingly follow them as long as they lead well, but there is zero submissive obedience. This explains why Sioux man Red Cloud said that, before colonization, "We were as free as the winds and like the eagle, heard no man's commands. We fought our enemies and feasted our friends."
+This is normal in healthy-culture militaries: the warriors choose the best leaders and willingly follow them as long as they lead well, but there is zero submissive obedience. This explains why Sioux man Red Cloud said that, before colonization, "We were as free as the winds and like the eagle, heard no man's commands. We fought our enemies and feasted our friends."[xxx-black elk life of an american visionary|black robe days]
 
 When each person accepted personal responsibility to _choose who to follow,_ the Apache wound up selecting incredibly capable military leaders. In fact, healthy culture militaries were formidable opponents for the United States until the late 1800s, which explains why the US army named so much military equipment after them, including the UH-72 Lakota utility helicopter, AH-64 Apache attack helicopter, and C-12 Huron transport aircraft.[xxx-medium weapon names]
 
@@ -175,9 +183,19 @@ This explains why young people of healthy cultures are often very resilient and 
 
 When Jean Liedloff visited the Yequana, she wrote, "I found the complete absence of pressure by persuasion, by the imposition of one individual's will upon another, difficult to believe or understand, despite the Yequana's perseverance in showing me examples of it." She described how five Yequana men and a 10 year old boy joined her and other visitors on an expedition far from their village. After a disagreement, the men chose to stop supporting the expedition and one called to the boy, Anchu, saying, "Come along!" The boy decided to stay with the foreigners far from home, so he responded, "no." The adults just turned and left.[xxx-continuum concept|growing up]
 
-Liedloff wrote, "There was no attempt to force or even to persuade him to come with them." Young Anchu didn't return home to his village for months, but he was always up for adventure, and "never anything but helpful and always happy." When children are raised to take deep responsibility for themselves and others instead of submissive obedience, they learn their limits, how to take appropriate risks, how to set respectful boundaries for themselves and honor others' boundaries, and become self-reliant.
+Liedloff wrote, "There was no attempt to force or even to persuade him to come with them." Young Anchu didn't return home to his village for months, but he was always up for adventure, and "never anything but helpful and always happy." When children are raised to take deep responsibility for themselves and others instead of being raised for submissive obedience, they learn their limits, how to take appropriate risks, how to set respectful boundaries for themselves and honor others' boundaries, and become self-reliant.
 
-This shows that whole nations can live without obedience, where everybody _upholds_ their law but nobody obeys it. When religious authorities train people to think obedience is good, they're only trying to cement their rule and keep people from seeking real justice and freedom.
+Solidarity is a core value in every healthy culture. So what happens when people disagree on something important, such as where to live or whether to fight a war? Don't they still need to choose a leader, and isn't that leader going to make a decision that many of them don't like, and just have to live with?**
+
+No. In healthy cultures, when there is a big disagreement, the community may split into smaller groups so that each group has full unity and solidarity. Because they are free to split up as needed, often there aren't hard feelings and the new smaller communities may still be friends and allies, and come to each other's aid in emergencies. They just live separately and exactly as they choose.**
+
+For example, Pretty Shield described how her Crow community had a quarrel in about 1832 and divided into two groups, the Mountain Crows and River Crows. Pretty Shield was born a Mountain Crow but went to live with an aunt who was a River Crow. She said, "This separation from my mother and my sisters was in fact not a very real one, because all the Crows came together often."[xxx-red mother|p21] The Crows never considered living unhappily together, and letting the majority impose a way of life that the minority resented. After separating, each group had a way of life and leadership that was satisfactory to all, and they remained friendly.**
+
+Other stories from the Nez Perce[xxx-indian heroes and great chieftains|chief joseph] and Sioux[xxx-indian child life|faithfulness long ears] show that this willingness to split into separate groups while remaining friendly is a common traditional way of respectfully handling major disputes.**
+
+When people in gift economies don't worry about private property and land ownership, they have a lot of flexibility when solving disputes. When people in profit economies feel the need to protect themselves and their property from untrustworthy neighbors, it becomes much harder to resolve disputes respectfully.**
+
+These stories show that whole nations can live without obedience, where everybody _upholds_ their law but nobody obeys it. When religious authorities train people to think obedience is good and necessary, they're only trying to cement their rule and keep people from seeking real justice and freedom.
 
 ### Authorities Attack or Kill Our Spiritual Leaders
 
@@ -208,6 +226,18 @@ It is critically important to choose for yourself what to believe. Ancient spiri
 Only by tapping into our own power to choose for ourselves what to believe and what principles to uphold can we each help build a healthy culture without these deep troubles.
 
 ### References
+
+[xxx-bible|esv mark 14:56-64]
+
+[xxx-red mother|p21]
+
+[xxx-bible|kjb luke 23:2]
+
+[xxx-indian heroes and great chieftains|chief joseph]
+
+[xxx-indian child life|faithfulness long ears]
+
+[xxx-black elk life of an american visionary|black robe days]
 
 [xxx-tgc jesus obed]-aaa (McCormick, n.d.)
 

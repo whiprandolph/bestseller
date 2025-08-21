@@ -56,7 +56,7 @@ The Mexican military and the Zapatista military, known as the EZLN, clashed almo
 
 However, major Ana María said, "the Zapatista Army is very large and is everywhere." They persevered in solidarity with each other and the Earth. Official fighting continued until a ceasefire was called.[xxx-wagingnonviolence in the face of assassinations]<sup>,</sup>[xxx-interview with major ana maría: on the atrocities]
 
-After both sides agreed to a ceasefire, the government promptly began a campaign of illegal paramilitary violence against the Zapatistas. Evidence came out of the Mexican Defense Ministry's "Chiapas 94 Campaign Plan," where they planned to "secretly organize certain sectors of the civilian population... characterized by a high patriotic sense" and "train and support the self-defense forces or other paramilitary organizations..."[xxx-wagingnonviolence in the face of assassinations]
+After both sides agreed to a ceasefire, the government promptly began a campaign of illegal paramilitary violence against the Zapatistas. Evidence came out of the Mexican Defense Ministry's "Chiapas 94 Campaign Plan," where they planned to "secretly organize certain sectors of the civilian population" and "train and support the self-defense forces or other paramilitary organizations..."[xxx-wagingnonviolence in the face of assassinations]
 
 Neither the Mexican military nor law enforcement stopped the paramilitary fighters from violating all international laws of war. People fired machine guns into Zapatista villages, cut off people's limbs, and many others were disappeared, executed, or displaced from their homes. The leader of the town of Rosario Ibarra had his arm cut off. Women were told their children would be kidnapped if they did not reveal the organizations to which they belonged.[xxx-interview with major ana maría: on the atrocities]
 
@@ -94,8 +94,11 @@ The Black Panthers, Apaches, and Zapatistas showed what it's like to use selfles
 
 I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose selfless violence in service of the people they loved and in service of the Earth.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #16<br/>Learn to judge when violence is appropriate</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Learn to judge when violence is appropriate</div>
 <div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when it's not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each kind. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? In what circumstances do you think violence is appropriate, and when is it not appropriate?</div></div>
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #18<br/>Learn self-defense</div>
+<div class="rev-act-body">Self-defense is the ultimate act of self-respect. Learn how to defend yourself and the people you love from threats and violent attacks.</div></div>
 
 ### References
 

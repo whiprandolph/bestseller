@@ -56,7 +56,7 @@ All these cultures seem so different, each with their own ways of helping people
 
 Yes! There are present-day examples of people who struggled with greed, discrimination, and corruption for centuries, but then founded a new healthy culture and did away with these problems. The Zapatistas were conquered by the Spanish 500 years ago, then lived under Mexican rule until their revolution in 1994. Even after so long, they remembered how to have a healthy culture, so when they were able to launch their revolution they knew how to re-establish that baseline of mutual respect amongst themselves even while under attack from the Mexican military.[xxx-odoc|ch40]
 
-As just one example, the Zapatistas substantially reduced the sexism that women faced. When women were interviewed 20 years later in 2014, one said "The capitalists had us believing this idea... that women are not valuable." Another woman said, "The [women] suffered a lot before '94: humiliation, mistreatment, rape." But the revolution brought deep change, with one Zapatista woman saying "As women we have the same rights as men, we have the right to decide which duties we can carry out in the communities..." Another woman said, "in those [Mexican] organizations there are many problems of rape and mistreatment, while with us, Zapatistas, it is not that way..."
+As just one example, the Zapatistas substantially reduced the sexism that women faced. When women were interviewed 20 years later in 2014, one said "The capitalists had us believing this idea... that women are not valuable." Another woman said, "The [women] suffered a lot before '94: humiliation, mistreatment, rape." But the revolution brought deep change, with one Zapatista woman saying "As women we have the same rights as men, we have the right to decide which duties we can carry out in the communities..." Another woman said, "in those [Mexican] organizations there are many problems of rape and mistreatment, while with us, Zapatistas, it is not that way..."[xxx-opendemocracy zapatista women law as it is lived today]
 
 The Zapatistas showed me that even people who have lived with sexism, greed, and corruption for centuries can still come together, create a healthy culture, and choose to live without these troubles.
 
@@ -86,7 +86,7 @@ Jesuit Christian missionaries in the 1600s noted that the Huron would never let 
 
 The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
 
-How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, instead gathering wealth so they can give away as much as possible to their neighbors?
+How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, but gather wealth so they can give away as much as possible to their neighbors?
 
 This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
@@ -125,7 +125,7 @@ All these stories showed me that the beauty of the Ashaninka isn't unique. Every
 Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy cultures to make that possible?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
-<div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic If so, what were some of your assumptions about people that you may now question?</div></div>
+<div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>
 
 ### References
 

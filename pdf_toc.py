@@ -46,7 +46,7 @@ def get_page_number(pdf, name, start_page):
   
   print("Name: %s, start page: %s" % (name, start_page))
   for index, page in enumerate(pdf.pages[start_page:]):
-    if index+start_page+1 > 177:
+    if index+start_page+1 > 187:
       import pdb;pdb.set_trace()
     page_text = page.extract_text().strip()
     first_line = page_text.split("\n")[0]
@@ -164,6 +164,7 @@ def merge_pdfs(content_path, book_pdf_path):
 def sample_pdf(book_pdf_path):
   part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  chapter_9_path = book_pdf_path + " - chapter 9.pdf"
 
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
@@ -187,6 +188,11 @@ def sample_pdf(book_pdf_path):
   part_one.append(book_pdf_path, pages=PageRange("5:39"))
   part_one.write(part_one_path)
   part_one.close()
+
+  chapter_9 = PdfWriter()
+  chapter_9.append(book_pdf_path, pages=PageRange("73:88"))
+  chapter_9.write(chapter_9_path)
+  chapter_9.close()
 
   part_one_reader = PdfReader(part_one_path)
   try:

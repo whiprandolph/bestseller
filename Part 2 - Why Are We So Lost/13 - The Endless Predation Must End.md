@@ -70,7 +70,7 @@ Lakota children experienced many years of abuse at the Carlisle Indian Industria
 
 At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for himself and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]**
 
-At Catholic boarding schools, Nootka girls likewise learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
+At Catholic boarding schools, Nootka girls learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 
 Countless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
 
@@ -88,7 +88,7 @@ The differences in adulthood were profound. The war volunteers were aware they o
 
 In contrast, the war-resisters had the spiritual strength to oppose an unjust war even at great personal risk, with almost all of them either having been imprisoned, awaiting sentencing or facing trial at the time of their interviews. Growing up in respectful settings, they cultivated the self-respect to stand for what's right in adulthood. But the differences in these two groups of men go deeper still.[xxx-true americanism|p3]
 
-When children are repeatedly mistreated or deprived, they can learn to "hold back" or "shut down" parts of themselves, ignore parts of their experience, and develop hurtful attitudes in order to numb the pain of continual dissatisfaction. When this is severe enough, it can lead to adults with very disturbing attitudes and behavior. Many adults struggle to feel any pleasure or connection at all, or even find pleasure revolting.
+When children are repeatedly mistreated or deprived, they can learn to "hold back" or "shut down" parts of themselves, ignore parts of their experience, and develop hurtful attitudes in order to numb the pain of continual dissatisfaction. People can then learn to ignore that they're doing these things, making the protective behaviors and attitudes subconscious. When this is severe enough, it can lead to adults with very disturbing attitudes and behavior. Many adults struggle to feel any pleasure or connection at all, or even reject many kinds of affectionate physical pleasure.[xxx-violence.de prescott pleasure touch]<sup>,</sup>[xxx-body pleasure and the origins of violence]**
 
 Interviewers found that most war-volunteers were unable to feel deeply, describing any sort of deepening relationship as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."[xxx-true americanism|p137]
 
@@ -155,6 +155,10 @@ Ending this predation will require creating new healthy cultures. We must create
 You and the people around you can do this. What could help you succeed? Explore paths to creating new healthy cultures in _Part 3 - The Deepest Revolution_.
 
 ### References
+
+[xxx-violence.de prescott pleasure touch]
+
+[xxx-body pleasure and the origins of violence]
 
 [xxx-guardian portugal president knew]-aaa (Tremlett, 2002)
 

@@ -1,5 +1,17 @@
 ## Chapter 14: The Biggest Secret in Human History
 
+There are whole nations, some today and many more in the recent past, that are able to maintain a baseline of mutual respect among the people, and between the people and the Earth. These nations have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.
+
+I live in the United States, which has big problems like corruption, greed, child abuse, sexism, racism, and a few rich and a lot of poor. It's always had these problems, which never seem to go away no matter who people vote for.
+
+And the United States isn't the only one - lots of unhealthy nations have these exact same kinds of problems, like France, Russia, Canada, or Ecuador. Some people think these problems are universal, just part of being human. But that's not true.
+
+This book contains stories and perspectives in the words of people of many of these healthy nations who describe how they maintain this respectful way of life. This is _not_ theoretical.
+
+What would it take to live without endless corruption, greed, and all the other troubles? What will it take to have a nation where integrity, awareness, and generosity are pervasive, and people deeply trust their neighbors and leaders?
+
+It will take _The Deepest Revolution_. That's what this book is about. If you're tired of big political and cultural problems that just keep getting worse, and you're ready for deep change with other strong and caring people, then this book is for you.
+
 What do you think is the biggest secret in human history?
 
 What secret has been kept from billions of people across every continent going back centuries or even millennia?
@@ -74,7 +86,7 @@ All these things you just imagined created a beautiful vision. You could work wi
 
 I want to tell you the story of someone who forgot, because the story showed me how easy it is to forget, and it taught me how to keep a beautiful vision alive.
 
-I know someone who, in the early 1990s, thought about whether it was ok for the US to invade Iraq. She had never engaged in politics much, but as the United States invaded, she wondered, is the US really invading to bring democracy like the politicians say? Or is the real purpose to take oil? Is it ok to kill people to take oil?
+I know someone who, in the early 1990s, thought about whether it was ok for the US to invade Iraq. She had never engaged in politics much, but as the United States invaded, she wondered, is the US really invading to bring democracy like the politicians say? Or is the real purpose to take Iraq's oil? Is it ok to kill people to take oil?
 
 These were very deep questions!
 
@@ -82,13 +94,13 @@ Unfortunately, she was unable to find other people to share her concerns with, a
 
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take antidepressants, which allowed her to numb the feeling of dissatisfaction without responding to it. And she stopped asking such deep questions about her unhealthy culture.
 
-It can be easy to feel trapped and unable to respond to one's frustrations and fears, and many people cope by numbing their feelings with endless distractions, whether through screen addiction, focusing on superficial things, antidepressants, drug and alcohol abuse, studying religious dogma, overworking, and so on. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
+It can be easy to feel trapped and unable to respond to one's frustrations and fears, and many people cope by numbing their feelings with endless distractions, such as screen addiction, focusing on superficial things, antidepressants, drug and alcohol abuse, studying religious dogma, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
 
 This showed me how easy it can be to forget, to stop asking deep questions and stop believing deep change is possible. It also taught me the path to continually remembering and keeping a vision alive: _share your vision with other people_.
 
 So find people that you trust to speak your heart to, and whom you likewise listen to. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy culture that is crazy!
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Find people with whom you can speak your heart**</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Find people with whom you can speak your heart**</div>
 <div class="rev-act-body">Even if you don't know how to respond to your feelings, it can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
 
 ### References

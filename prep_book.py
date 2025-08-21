@@ -32,31 +32,48 @@ BOOK_ADDED_STYLE = """
 
 <style>\n
   p {\n
-    font-size: 11.5pt;
+    font-size: 11.75pt;
     color:black;
+    text-align: justify;
   }\n
   #biblio p {
     font-size: 8.5pt;
     margin: .5em;
   }
-  @page {
+  @page :left {
     size: %sin %sin;
     margin-left: .55in;
+    margin-right: .90in;
+    margin-top: .55in;
+    margin-bottom: .55in
+  }
+    @page :right {
+    size: %sin %sin;
+    margin-left: .90in;
     margin-right: .55in;
-    margin-top: .4in;
-    margin-bottom: .45in
+    margin-top: .55in;
+    margin-bottom: .55in
   }
   table.cite_table td {font-size:9px;}
   blockquote {
     color: black;
   }
   .rev-act {
-    background-color: #F3F3F3;
+    background-color: #e6e6e6;
     padding: 1em;
   }
   h1 {
     /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */
-    font-size: 1.5em;
+    font-size: 1.17em;
+  }
+  h2 {
+    font-size: 1.17em;
+  }
+  h3 {
+    font-size: 1em;
+  }
+  h4 {
+    font-size: 0.83em;
   }
   .rev-act-header {
     text-align: center;
@@ -71,7 +88,7 @@ BOOK_ADDED_STYLE = """
   }
 </style>
 </html>
-""" % (PHYS['width'], PHYS['height'])
+""" % (PHYS['width'], PHYS['height'], PHYS['width'], PHYS['height'])
 
 chap_ids = set()
 
