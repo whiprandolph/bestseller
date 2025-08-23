@@ -1,16 +1,12 @@
 ### Rear Cover
 
-There are whole nations, some today and many more in the recent past, that are able to maintain a baseline of mutual respect among the people, and between the people and the Earth. These nations have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.
+There are whole nations, today and in recent times, where people live respectfully with each other and the Earth. They have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.
 
-I live in the United States, which has big problems like corruption, greed, child abuse, sexism, racism, and a few rich and a lot of poor. It's always had these problems, which never seem to go away no matter who people vote for.
+Many nations, like the United States, Ecuador, or China have similar problems like corruption, discrimination, and needless poverty. These troubles persist no matter how people vote.
 
-And the United States isn't the only one - lots of unhealthy nations have these exact same kinds of problems, like France, Russia, Canada, or Ecuador. Some people think these problems are universal, just part of being human. But that's not true.
+What will it take to make integrity, awareness, and generosity pervasive, so people can trust their neighbors and leaders?
 
-This book contains stories and perspectives in the words of people of many of these healthy nations who describe how they maintain this respectful way of life. This is _not_ theoretical.
-
-What would it take to live without endless corruption, greed, and all the other troubles? What will it take to have a nation where integrity, awareness, and generosity are pervasive, and people deeply trust their neighbors and leaders?
-
-It will take _The Deepest Revolution_. That's what this book is about. If you're tired of big political and cultural problems that just keep getting worse, and you're ready for deep change with other strong and caring people, then this book is for you.
+It will take _The Deepest Revolution._ Based on the words of people of healthy nations, this book is _not_ theoretical. If you're tired of endless political and cultural problems, and you're ready for deep change with strong and caring people, this book is for you.
 
 ### Notes - Cindy call 7.26.25
 

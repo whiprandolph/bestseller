@@ -31,8 +31,8 @@ PHYS = {"width":6, 'height':9}
 BOOK_ADDED_STYLE = """
 
 <style>\n
-  p {\n
-    font-size: 11.75pt;
+  p, .rev-act {\n
+    font-size: 12pt;
     color:black;
     text-align: justify;
   }\n
@@ -61,6 +61,9 @@ BOOK_ADDED_STYLE = """
   .rev-act {
     background-color: #e6e6e6;
     padding: 1em;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.2em;
   }
   h1 {
     /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */

@@ -28,11 +28,11 @@ In healthy cultures, everyone stands for a culture of mutual respect, so they ha
 
 In unhealthy human cultures, one person or a few people rule over everyone else. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid everybody else from taking initiative to hold misbehaving people accountable.
 
-Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal_.
+Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease_ where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal.
 
 Every culture where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" differently in one unhealthy culture compared to another. But they all have some kind of racism, with groups of higher-privilege and lower-privilege. These troubles do not exist in societies where everyone stands for what's right, and everyone agrees on the rules they will live by.
 
-That is very good news! It means there is a way to end all the most terrible troubles we face. There is a way to end discrimination, greed, pollution, and so many other problems. While not easy, our pathway to freedom is simple: work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
+That is very good news! It means there is a way to end all the most terrible troubles we face. There is a way to end discrimination, greed, pollution, and so many other problems. While not easy, our pathway to freedom is clear: work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
 
 In order to find a pathway to freedom and live without these terrible troubles, we must first be clear on what "freedom" even means.
 
@@ -60,13 +60,13 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 Part 3 of this book will explore how you can work with others to create a beautiful way of life, a nation of spiritually strong people living in actual freedom. It will require tremendous hard work, bravery and risk -- and _it's worth it_.
 
-But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similiar to how millions of people have lived in since the dawn of time.**
+But to understand why it's worth the risk, we must confront how deeply sick all unhealthy cultures are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similiar to how millions of people have lived since the dawn of time.**
 
 Healthy cultures are who we really are, but anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 
 The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape the trap, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
 
-Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you can do something?
+Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something?
 
 Most people haven't heard the perspectives and stories that offer a helpful path. The perspectives in Part 2 may feel hard to face alone. So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has. Together, we can uncover aspects of our own spiritual strength, and discover how people can build up each other's spiritual strength on the path to creating new healthy cultures together.
 

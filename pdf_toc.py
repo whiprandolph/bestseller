@@ -212,7 +212,7 @@ def main(content_path, book_pdf_path, dimensions):
 
 css = """
 html {
-  font-size:11.3pt;
+  font-size:11.2pt;
 }
 
 .visually-hidden {
@@ -235,8 +235,8 @@ html {
 }
 
 .toc-list {
-  padding-right: .55in;
-  padding-left: .55in;
+  padding-right: .85in;
+  padding-left: .45in;
 }
 
 .toc-list ol {

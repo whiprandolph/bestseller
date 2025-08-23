@@ -48,7 +48,7 @@ A few months later, my father asked me what I had learned. I told him that I did
 
 The more I looked around in my own culture, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
-For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
+For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of federal prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
 
 I realized that driving past a prison is like driving past a chattel slave plantation from two centuries ago: the slaves didn't "deserve" to be there; they were just captured and enslaved and put to work, or else they'd get punished. How are present-day prisoners in any different situation, if only 2% got a trial by jury where they actually got a chance to defend themselves in court? Prisoners cannot legally refuse to work either, just like chattel slaves of the past. It's like an ancient injustice just changed form, but never really went away.
 
@@ -86,17 +86,17 @@ Part One of this book is about the first lesson: _Integrity, bravery, generosity
 
 Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation.
 
-Part Three calls for _The Deepest Revolution_: our current unhealthy cultures must change, and it will take tremendous integrity, generosity, and bravery to do it.
+Part Three calls for _The Deepest Revolution_: our current way of life isn't working, so we must embrace that ancient way of life where respect is the norm, and it will take tremendous integrity, generosity, and bravery to do it.
 
 In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy cultures themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy cultures, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. Many of these books reference more than one healthy culture.
 
 While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observers.
 
-The next chapter explores how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
+The next chapter shows how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
 
 Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy cultures show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation of caring people</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
 ### References

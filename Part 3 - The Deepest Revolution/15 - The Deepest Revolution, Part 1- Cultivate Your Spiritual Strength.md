@@ -26,10 +26,10 @@ Embrace your curiosity, and open your mind to possibilities that may have seemed
 
 To live in a healthy culture, you will need to embrace a very different way of life than your unhealthy culture trained you for. A way of life without submissive obedience, where justice is normal and pervasive, where neighbors share generously and deeply trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth.**
 
-_Part 3_ addresses these three themes. This chapter uncovers how to cultivate that spiritual strength, and the following two chapters share ways to form deep connections with others and with the Earth.**
+_Part 3_ addresses these three themes. This chapter uncovers how to cultivate that spiritual strength, and the next chapter shares ways to form deep connections with others and with the Earth.**
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Release what isn't working</div>
-<div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
+<div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 ### Cultivating Spiritual Strength, Part 1: Practice Noticing the Gifts You Receive and Feeling Grateful
 
@@ -69,7 +69,7 @@ There may be many ways to cultivate passion and deep connection with others. But
 <div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, or eat wild foods? Or build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make the fire, or forage local foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Give thanks for Earth's intangible gifts</div>
-<div class="rev-act-body">Have you gone on a walk to get fresh air and clear your head? Or gone to the woods for private time away from people?<br/><br/>When I practice noticing gifts I receive and giving thanks, I often feel most grateful for intangible gifts. I'm grateful to forests for giving privacy when I want alone time, or private time with friends. I'm grateful to the birds for their songs that lift my spirit in the morning, and grateful to the moon for its enchanting light. When I imagine life without any trees or birds or the moon, it's easy to think how poorer that life would be, and it's easy to feel grateful for their gifts.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
+<div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head? Or gone to the woods for private time away from people?<br/><br/>When I practice noticing gifts I receive and giving thanks, I often feel most grateful for intangible gifts. I'm grateful to forests for giving privacy when I want alone time, or private time with friends. I'm grateful to the birds for their songs that lift my spirit in the morning, and grateful to the moon for its enchanting light. When I imagine life without any trees or birds or the moon, it's easy to think how poorer that life would be, and it's easy to feel grateful for their gifts.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice the same gratitude with people</div>
 <div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time during a relationship? Notice the gifts you receive and feel grateful for them. Where appropriate, express your gratitude to the people directly so they know the impact they had on you.</div></div>
@@ -90,7 +90,7 @@ Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of be
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
-The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy cultures, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People learn to obediently follow others' direction instead of follow their divine path, or embrace self-centeredness, low self-worth or distrust. People can learn to tolerate meaningless work. People can find ways to distract themeselves from the dissatisfaction of not giving their deepest love in service of the people around.
+The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy cultures, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People learn to obediently follow others' direction instead of follow their divine path, or embrace self-centeredness, low self-worth or distrust. People can learn to tolerate meaningless work. People can find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of the people they love.
 
 In other words, Tubman, King, and Christ only seem special because they gave their deepest love, or their sacred gifts, in unhealthy cultures that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
@@ -108,7 +108,7 @@ I had no great insight during this fast. I just slowly calmed down. I never felt
 
 Finally I ended the fast with some herbal tea. As I savored the tea, I thought about how I would normally read or watch a video while drinking, and I was filled with revulsion. The thought of distracting myself from my own meaningful experience was terrible, even though just four days earlier it had seemed entirely normal.
 
-This fast showed me how much I distracted myself from my own feelings, and how disconnected I was from that inner voice. Instead of walking a meaningful path, I was walking a comfortable path that didn't feel deeply meaningful, and I had learned to distract myself from the resulting dissatisfaction. And the fast showed me how transformative it could be to simply release all distractions and connect with that inner divine voice.
+This fast showed me how much I distracted myself from my own feelings, and how disconnected I was from that inner voice. Instead of walking a meaningful path, I was walking a comfortable path that didn't feel deeply meaningful, and I had learned to distract myself from the resulting dissatisfaction. The fast showed me how transformative it could be to simply release all distractions and connect with that inner divine voice.
 
 In a sense, it felt like I was just "being myself," but I wasn't just "doing whatever I felt like." I was being my deepest self, connected with that inner voice that would never tolerate meaningless distractions as I walk a meaningful path.
 
@@ -118,11 +118,11 @@ It is essential to get rid of all distractions so that you can hear that divine 
 
 You matter, and there's a reason you're alive. You have sacred gifts, special ways of making the world a better place that only you can give. Any moment you're not giving your gifts, the world becomes poorer.
 
-Commit to discovering and giving your own sacred gifts, and walking the most meaningful life imaginable in service of the people and nonhumans you love.
+Commit to discovering and giving your own sacred gifts, and living the most meaningful life imaginable in service of the people and nonhumans you love.
 
 There are many ways to discover and give your gifts, as Chapter 3 described: you could learn how to fast safely and spend time away from people without distraction. Notice what sparks special joy or curiosity in your life. Ask friends to tell you when they've seen you be the most joyful and engaged. Notice your anger, and let that anger show you what you care about, and how you might act in service. If you choose to fast, I recommend the book _Fasting Can Save Your Life_ by Herbert Shelton.
 
-In unhealthy cultures that train people for distraction, any of these practices can help reconnect you with that divine voice within you so that you can give your own sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
+In unhealthy cultures that train people for distraction, any of these practices can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with gratitude, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
@@ -147,13 +147,15 @@ When you're grateful to other people and nonhumans, and you feel an unstoppable 
 
 _Everything matters._
 
-Harriet Tubman faced extreme risk as she worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. Not only was she fully present and aware of the risks, she conveyed this importance to the people she rescued. She couldn't let babies cry and give away the escaping group, so she brought opiate drugs to keep them asleep.
+Harriet Tubman faced extreme risk as she worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. Not only was she fully present and aware of the risks, she conveyed this importance to the people she rescued.[xxx-harriet moses of her people]
 
-Tubman brought along a pistol, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would point her revolver at the head of the exhausted man and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody could betray the group, even accidentally, and everyone escaped safely.[xxx-harriet moses of her people]
+For example, Tubman brought along a pistol, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would point her revolver at the head of the exhausted man and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody could betray the group, even accidentally, and everyone escaped safely.
 
 Can you imagine pointing a gun at someone whose life you wanted to save, and telling them to find their composure, or you'd have to kill them to protect the group?
 
-A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your joyful presence can lift others' spirits, any anxiety, stress, or unawareness can likewise affect other people. Okhi Forest and her young daughter visited the Zapatistas, and at one point her daughter dropped a broom on the ground without thinking about it. A Mayan woman told Okhi's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"
+A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your joyful presence can lift others' spirits, any disconnection, stress, or unawareness can likewise affect other people. Okhi Forest and her young daughter visited the Zapatistas, and at one point her daughter dropped a broom on the ground without thinking about it. A Mayan woman told Okhi's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
+
+It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift, and not to be missed. Whether or not you give your deepest love matters, and the world and people around you expect nothing less.**
 
 Your love could light up the world, but it's hard to keep giving alone. And it's hard to give if you don't feel very grateful.
 
@@ -173,21 +175,9 @@ When you can cultivate deep relationships with people and nonhumans, they will g
 
 A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to walking that most meaningful path, cultivating that practical aware gratitude, and living in reciprocity, I believe you'll find that spiritual strength that seems so elusive in unhealthy cultures.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Serve the Earth**</div>
-<div class="rev-act-body">Any relationship involves both giving and receiving, so to have a rich relationship with the Earth, it's important to learn to give to it.<br/><br/>
-Consider how you would like to serve the nonhumans around you. You could enrich the Earth, such as by planting trees, planting an organic garden where you feed the soil, or removing trash. You could also protect the Earth, such as by slowing or stopping destructive practices such as logging or dumping toxins into rivers. Let your curiosity and interests guide you in choosing how to serve the Earth where you live.</div></div>
-
-### Heal Ancient Traumas Today
-
-Every person in every unhealthy culture has ancestors that lived in healthy cultures years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on these three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
-
-At some point, our ancestors suffered something terrible, and eventually the unhealthy culture started to seem "just the way life is."
-
-It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from cultivating your spiritual strength with others as they cultivate theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
-
-Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating spiritual strength, and find others to walk it with, you'll begin the Deepest Revolution. That path will be beautiful no matter what happens, and it's a necessary part of that larger path leading to new healthy cultures where respect is the norm among the people, and between people and the Earth.
-
 ### References
+
+[xxx-original instructions|return ancient council]
 
 [xxx-bible|matthew 4:1-11]-aaa (Matthew 4:1-11, English Standard Version Bible)
 

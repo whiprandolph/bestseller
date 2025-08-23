@@ -27,7 +27,7 @@ chapters = {
     (1, 1, "Part Introduction.md"),
     (1, 1, "The Biggest Secret in Human History.md"),
     (1, 1, "The Deepest Revolution, Part 1- Cultivate Your Spiritual Strength.md"),
-    (1, 1, "The Deepest Revolution, Part 2- Build Healthy Subcultures by Holding Yourself and Others to High Standards.md"),
+    (1, 1, "The Deepest Revolution, Part 2- Build Healthy Subcultures by Building Spiritual Strength with Others.md"),
     (1, 1, "The Deepest Revolution, Part 3- We Are the Promised Land.md"),
   ],
   "Part 4 - Closing Notes": [

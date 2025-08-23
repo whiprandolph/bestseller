@@ -1,6 +1,6 @@
 ### 01 - This is Who We Really Are
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation where people cared about each other</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation of caring people</div>
 </b><div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>
 
 
@@ -8,7 +8,7 @@
 ### 02 - How Can a Whole Nation Embrace Generosity and Integrity
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
-</b><div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic If so, what were some of your assumptions about people that you may now question?</div></div>
+</b><div class="rev-act-body">Are you surprised to learn that healthy cultures have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>
 
 
 
@@ -25,7 +25,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Give first**</div>
-</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start that relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, or mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Don't have any expectation of return, but just give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything from someone, and just see what happens.</div></div>
+</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start that relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, or mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Don't have any expectation of return, but just give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
 
 
 
@@ -42,7 +42,7 @@
 ### 04 - Imagine If Pervasive Generosity Was Normal
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Join or create a sharing group</div>
-</b><div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or a meaningful cause.</div></div>
+</b><div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 
 
@@ -120,7 +120,7 @@
 ### 15 - The Deepest Revolution, Part 1- Cultivate Your Spiritual Strength
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Release what isn't working</div>
-</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
+</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 
 
@@ -130,7 +130,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Give thanks for Earth's intangible gifts</div>
-</b><div class="rev-act-body">Have you gone on a walk to get fresh air and clear your head? Or gone to the woods for private time away from people?<br/><br/>When I practice noticing gifts I receive and giving thanks, I often feel most grateful for intangible gifts. I'm grateful to forests for giving privacy when I want alone time, or private time with friends. I'm grateful to the birds for their songs that lift my spirit in the morning, and grateful to the moon for its enchanting light. When I imagine life without any trees or birds or the moon, it's easy to think how poorer that life would be, and it's easy to feel grateful for their gifts.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
+</b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head? Or gone to the woods for private time away from people?<br/><br/>When I practice noticing gifts I receive and giving thanks, I often feel most grateful for intangible gifts. I'm grateful to forests for giving privacy when I want alone time, or private time with friends. I'm grateful to the birds for their songs that lift my spirit in the morning, and grateful to the moon for its enchanting light. When I imagine life without any trees or birds or the moon, it's easy to think how poorer that life would be, and it's easy to feel grateful for their gifts.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 
 
 
@@ -144,15 +144,20 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Serve the Earth**</div>
+### 16 - The Deepest Revolution, Part 2- Build Healthy Subcultures by Building Spiritual Strength with Others
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Hold yourself and others to a high standard</div>
+</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.**</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
+</b><div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need the best you could.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Serve the Earth**</div>
 </b><div class="rev-act-body">Any relationship involves both giving and receiving, so to have a rich relationship with the Earth, it's important to learn to give to it.<br/><br/>
-
-
-
-### 16 - The Deepest Revolution, Part 2- Build Healthy Subcultures by Holding Yourself and Others to High Standards
-
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Remember when you were held to a high standard</div>
-</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you for messing up, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Now imagine being part of a group where everybody supported each other this way continually, in all areas of life. No one imposes their ideology on you, but they hold you to a high standard of excellent and beautiful behavior in your job, family life, social groups, and activism work, bringing out the best in you every day. And imagine you get to support others in the same way. How would that feel?</div></div>
 
 
 

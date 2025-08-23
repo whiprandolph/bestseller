@@ -1,6 +1,10 @@
 # Citations
 
-<table class="cite_table"><tr><td><b>Chapter 1: This Is Who We Really Are</b></td></tr><tr><td><a href="#cite_Chapter_1_1_src" id="cite_Chapter_1_1_dest" style="text-decoration:none">1</a>. (Johnson, 2023)<br/>
+<table class="cite_table"><tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_2_src" id="cite_Important_Notes_on_Sensitive_Topics_2_dest" style="text-decoration:none">2</a>. (Prechtel, 1999, 209)<br/>
+</td></tr>
+
+<tr><td><b>Chapter 1: This Is Who We Really Are</b></td></tr><tr><td><a href="#cite_Chapter_1_1_src" id="cite_Chapter_1_1_dest" style="text-decoration:none">1</a>. (Johnson, 2023)<br/>
 </td><td><a href="#cite_Chapter_1_2_src" id="cite_Chapter_1_2_dest" style="text-decoration:none">2</a>. (Matthews, 2020)<br/>
 </td></tr>
 
@@ -32,33 +36,36 @@
 </td><td><a href="#cite_Chapter_2_8_src" id="cite_Chapter_2_8_dest" style="text-decoration:none">8</a>. (Randolph, 2024, "Chapter 40: Enough! - The Zapatistas' Successful Revolution")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_9_src" id="cite_Chapter_2_9_dest" style="text-decoration:none">9</a>. (N. Basket, personal communication, August 5, 2023)<br/>
-</td><td><a href="#cite_Chapter_2_10_src" id="cite_Chapter_2_10_dest" style="text-decoration:none">10</a>. (Eastman (Ohiyesa), 1916, "College Life in the East")<br/>
+<tr><td><a href="#cite_Chapter_2_9_src" id="cite_Chapter_2_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_2_10_src" id="cite_Chapter_2_10_dest" style="text-decoration:none">10</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_11_src" id="cite_Chapter_2_11_dest" style="text-decoration:none">11</a>. (Barrett, 2010, "Introductory")<br/>
-</td><td><a href="#cite_Chapter_2_12_src" id="cite_Chapter_2_12_dest" style="text-decoration:none">12</a>. (Vestal, 1955, "Introduction")<br/>
+<tr><td><a href="#cite_Chapter_2_11_src" id="cite_Chapter_2_11_dest" style="text-decoration:none">11</a>. (Eastman (Ohiyesa), 1916, "College Life in the East")<br/>
+</td><td><a href="#cite_Chapter_2_12_src" id="cite_Chapter_2_12_dest" style="text-decoration:none">12</a>. (Barrett, 2010, "Introductory")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_13_src" id="cite_Chapter_2_13_dest" style="text-decoration:none">13</a>. (Trigger, 1969, 40)<br/>
-</td><td><a href="#cite_Chapter_2_14_src" id="cite_Chapter_2_14_dest" style="text-decoration:none">14</a>. (Prechtel, 1999, 275)<br/>
+<tr><td><a href="#cite_Chapter_2_13_src" id="cite_Chapter_2_13_dest" style="text-decoration:none">13</a>. (Vestal, 1955, "Introduction")<br/>
+</td><td><a href="#cite_Chapter_2_14_src" id="cite_Chapter_2_14_dest" style="text-decoration:none">14</a>. (Trigger, 1969, 40)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_15_src" id="cite_Chapter_2_15_dest" style="text-decoration:none">15</a>. (Prechtel, 1999, 210)<br/>
-</td><td><a href="#cite_Chapter_2_16_src" id="cite_Chapter_2_16_dest" style="text-decoration:none">16</a>. (Notes, 2005, 104)<br/>
+<tr><td><a href="#cite_Chapter_2_15_src" id="cite_Chapter_2_15_dest" style="text-decoration:none">15</a>. (Prechtel, 1999, 275)<br/>
+</td><td><a href="#cite_Chapter_2_16_src" id="cite_Chapter_2_16_dest" style="text-decoration:none">16</a>. (Prechtel, 1999, 210)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_17_src" id="cite_Chapter_2_17_dest" style="text-decoration:none">17</a>. (Loewen, 2007, 107)<br/>
-</td><td><a href="#cite_Chapter_2_18_src" id="cite_Chapter_2_18_dest" style="text-decoration:none">18</a>. (Loewen, 2007, 108)<br/>
+<tr><td><a href="#cite_Chapter_2_17_src" id="cite_Chapter_2_17_dest" style="text-decoration:none">17</a>. (Notes, 2005, 104)<br/>
+</td><td><a href="#cite_Chapter_2_18_src" id="cite_Chapter_2_18_dest" style="text-decoration:none">18</a>. (Loewen, 2007, 107)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_19_src" id="cite_Chapter_2_19_dest" style="text-decoration:none">19</a>. (Turner, 1994, "Possession")<br/>
-</td><td><a href="#cite_Chapter_2_20_src" id="cite_Chapter_2_20_dest" style="text-decoration:none">20</a>. (Loewen, 2007, 107)<br/>
+<tr><td><a href="#cite_Chapter_2_19_src" id="cite_Chapter_2_19_dest" style="text-decoration:none">19</a>. (Loewen, 2007, 108)<br/>
+</td><td><a href="#cite_Chapter_2_20_src" id="cite_Chapter_2_20_dest" style="text-decoration:none">20</a>. (Turner, 1994, "Possession")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_21_src" id="cite_Chapter_2_21_dest" style="text-decoration:none">21</a>. (Eastman (Ohiyesa), 2013, "Sitting Bull")<br/>
-</td><td><a href="#cite_Chapter_2_22_src" id="cite_Chapter_2_22_dest" style="text-decoration:none">22</a>. (Linderman, 1932, 173)<br/>
+<tr><td><a href="#cite_Chapter_2_21_src" id="cite_Chapter_2_21_dest" style="text-decoration:none">21</a>. (Loewen, 2007, 107)<br/>
+</td><td><a href="#cite_Chapter_2_22_src" id="cite_Chapter_2_22_dest" style="text-decoration:none">22</a>. (Eastman (Ohiyesa), 2013, "Sitting Bull")<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_2_23_src" id="cite_Chapter_2_23_dest" style="text-decoration:none">23</a>. (Linderman, 1932, 173)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 3: Healthy Cultures Share Three Core Spiritual Practices</b></td></tr><tr><td><a href="#cite_Chapter_3_1_src" id="cite_Chapter_3_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
 </td><td><a href="#cite_Chapter_3_2_src" id="cite_Chapter_3_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
@@ -97,16 +104,19 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_4_3_src" id="cite_Chapter_4_3_dest" style="text-decoration:none">3</a>. (Rong, 2008, Chapter 2)<br/>
-</td><td><a href="#cite_Chapter_4_4_src" id="cite_Chapter_4_4_dest" style="text-decoration:none">4</a>. (N. Basket, personal communication, August 5, 2023)<br/>
+</td><td><a href="#cite_Chapter_4_4_src" id="cite_Chapter_4_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_4_5_src" id="cite_Chapter_4_5_dest" style="text-decoration:none">5</a>. (Anderson, 1985)<br/>
-</td><td><a href="#cite_Chapter_4_6_src" id="cite_Chapter_4_6_dest" style="text-decoration:none">6</a>. (Kimmerer, 2013, "Windigo Footprints")<br/>
+<tr><td><a href="#cite_Chapter_4_5_src" id="cite_Chapter_4_5_dest" style="text-decoration:none">5</a>. (N. Basket, personal communication, August 5, 2023)<br/>
+</td><td><a href="#cite_Chapter_4_6_src" id="cite_Chapter_4_6_dest" style="text-decoration:none">6</a>. (Anderson, 1985)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_4_7_src" id="cite_Chapter_4_7_dest" style="text-decoration:none">7</a>. (Notes, 2005, 105)<br/>
-</td><td><a href="#cite_Chapter_4_8_src" id="cite_Chapter_4_8_dest" style="text-decoration:none">8</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+<tr><td><a href="#cite_Chapter_4_7_src" id="cite_Chapter_4_7_dest" style="text-decoration:none">7</a>. (Kimmerer, 2013, "Windigo Footprints")<br/>
+</td><td><a href="#cite_Chapter_4_8_src" id="cite_Chapter_4_8_dest" style="text-decoration:none">8</a>. (Notes, 2005, 105)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_4_9_src" id="cite_Chapter_4_9_dest" style="text-decoration:none">9</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 5: Why Doesn't Everybody Live in This Beautiful Way?</b></td></tr><tr><td><a href="#cite_Chapter_5_1_src" id="cite_Chapter_5_1_dest" style="text-decoration:none">1</a>. ("Dunbar's Number: Why the Theory That Humans Can Only Maintain 150 Friendships Has Withstood 30 Years of Scrutiny," 2021)<br/>
 </td><td><a href="#cite_Chapter_5_2_src" id="cite_Chapter_5_2_dest" style="text-decoration:none">2</a>. (Malinowski et al., 1999, 244)<br/>
@@ -633,7 +643,8 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
-</td><td></td></tr>
+</td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Building Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
@@ -656,7 +667,8 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
-</td><td></td></tr>
+</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
 </td><td></td></tr>

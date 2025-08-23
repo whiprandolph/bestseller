@@ -32,7 +32,7 @@ In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shep
 
 These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any healthy society where everybody encourages generosity and strongly discourages selfishness. When everybody in a nation bases their lives on the three core spiritual practices of gratitude, gift-giving, and reciprocity, generosity naturally becomes pervasive, including their generous leaders. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the culture, they maintain generosity as a normal way of life.
 
-Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because my family and I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.
+Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because my family and I live in an unhealthy culture that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy cultures.[xxx-from deep woods to civilization|civ preached practiced]
 
 Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.[xxx-basket interview]
 
@@ -52,7 +52,7 @@ Even in healthy cultures, someone may occasionally not get along with others, or
 
 Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.[xxx-braiding sweetgrass|windigo footprints]
 
-Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to be in a culture with pervasive selfishness and greed? 
+Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their culture. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to live in a culture with pervasive selfishness and greed?
 
 The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their culture. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-a basic call to consciousness|p105]
 
@@ -62,13 +62,13 @@ Jeannette Armstrong's description of Okanagan decision-making shows how beautifu
 
 ### What Do These Stories Mean?
 
-I started life bright and hopeful, thinking that things in the United States weren't so bad, and troubles with corruption, crime and pollution could be fixed. But then I kept reading about endless corruption, and I didn't see a way out. Every political party seemed to be more part of the problem than part of a solution. Politicians kept getting corrupted after they were elected, and incorruptible politicians were killed. And the more I studied, the more I realized it had always been this way throughout America's history. 
+I started life bright and hopeful, thinking that things in the United States weren't so bad, and troubles with corruption, crime and pollution could be fixed. But then I kept reading about endless corruption, and I didn't see a way out. Every political party seemed to be more part of the problem than part of a solution. Politicians kept getting corrupted after they were elected, and incorruptible politicians were killed or driven out. And the more I studied, the more I realized it had always been this way throughout America's history. 
 
 I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy culture, from Peru to North Korea to Russia, similar to the USA.
 
 Over time I got jaded -- it seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories showed me that these hurtful troubles aren't inevitable. They showed me that it really is possible to live in a beautiful way with other people -- not just within a nuclear family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
 
-For most of my life, I _just did not know what a healthy culture looked like._ I'd never found any "experts" in school or on TV who had any idea what a healthy culture looked like either.
+For most of my life, I just did not know what a healthy culture looked like. I'd never found any "experts" in school or on TV who had any idea what a healthy culture looked like either.
 
 Plenty of people can see there are problems like greed and discrimination, and plenty of people have opinions about what to do, but without knowing what healthy cultures are like, it's all just speculation.
 
@@ -86,6 +86,8 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 <div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy cultures, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 ### References
+
+[xxx-from deep woods to civilization|civ preached practiced]
 
 [xxx-indian heroes and great chieftains|crazy horse]-aaa (Eastman (Ohiyesa), 2013, "Crazy Horse")
 

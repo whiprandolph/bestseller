@@ -2,7 +2,7 @@
 
 Your unhealthy culture might seem like it has countless big problems, including racism, sexism, greed, privilege, corruption, pollution, and poverty in the midst of abundance. These troubles exist in any society where people can neither choose their own laws nor uphold them.
 
-All these countless different political issues boil down to one root problem: we're not free. We're expected to obey laws we're given, and we're punished for standing for what's right and directly seeking justice. As long as we ignore that root problem, all these other troubles will continue endlessly.
+All these countless different political issues boil down to one root problem: we're not free. We're expected to obey laws we're given, and we're punished for standing for what's right and directly seeking justice. As long as we ignore that root problem, all the other troubles will continue endlessly.
 
 Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating a symptom will never lead to deep healing because the underlying disease persists.
 
@@ -22,7 +22,7 @@ I'm telling you I've BEEN to the promised land. I've lived with a whole healthy 
 
 The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our messiahs, one of our liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.**
 
-As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have proven, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.**
+As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.**
 
 Kings and billionaires of unhealthy cultures threaten, bribe, trick, and trap countless people to support all these terrible things and more. The only solution is to create new nations where people maintain a baseline of mutual respect with each other and the Earth.
 

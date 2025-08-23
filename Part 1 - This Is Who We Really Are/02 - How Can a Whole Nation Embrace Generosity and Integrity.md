@@ -129,6 +129,8 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 
 ### References
 
+[xxx-opendemocracy zapatista women law as it is lived today]
+
 [xxx-huron farmers of the north|p71]-aaa (Trigger, 1969, 71)
 
 [xxx-a basic call to consciousness|p49]-aaa (Notes, 2005, 49)

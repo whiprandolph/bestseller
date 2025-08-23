@@ -24,14 +24,14 @@ In socialist Venezuela, when students came together to seek better conditions at
 <img src="./images/venezuelan_riot_police.jpg" width="370px" alt="Riot Police in Venezuela"/><br/>
 _Riot Police in Venezuela_</center>
 
-<div style="break-after:page"></div>
-
 In communist China, when people came together to stop corporations from polluting their rivers in 2012, they saw this:[xxx-chinese riot]**
 
 <center>
 <img src="./images/chinese_riot_police.jpg" width="370px" alt="Riot Police in China"/><br/>
 _Riot Police in China_
 </center>
+
+<div style="break-after:page"></div>
 
 And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]**
 
