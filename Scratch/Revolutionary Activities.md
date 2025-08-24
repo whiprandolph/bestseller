@@ -147,17 +147,32 @@
 ### 16 - The Deepest Revolution, Part 2- Build Healthy Subcultures by Building Spiritual Strength with Others
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Hold yourself and others to a high standard</div>
-</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.**</div></div>
+</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
-</b><div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need the best you could.</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Receive feedback graciously by looking for the lesson</div>
+</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Do what you can to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Serve the Earth**</div>
-</b><div class="rev-act-body">Any relationship involves both giving and receiving, so to have a rich relationship with the Earth, it's important to learn to give to it.<br/><br/>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>
+</b><div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. [xxx-FINISH]</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
+</b><div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice bravery</div>
+</b><div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
+</b><div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important it is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 
 

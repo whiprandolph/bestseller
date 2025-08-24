@@ -102,7 +102,7 @@ This may seem like a stretch for many people to believe, but it sure looks to me
 
 Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.[xxx-vridhamma first discourse]
 
-Of course, conquered people are not likely to feel deep pleasure much of the time, feeling afraid, nervous, dissatisfied, or miserable instead. Thus encouraging people to avoid pleasure trains them to accept their dissatisfaction as legitimate and normal.
+Of course, conquered people are not likely to feel deep pleasure much of the time, feeling afraid, nervous, dissatisfied, or miserable instead. Thus encouraging people to avoid pleasure trains them to accept their dissatisfaction as legitimate and normal. Sharing sexual pleasure outside the nuclear family has also helped many healthy cultures build solidarity and gratitude within and across communities, so when pleasure and especially sexual pleasure is discouraged, this way of building solidarity is also discouraged.[xxx-odoc|ch25]**
 
 Religion is a major way that rulers have imposed sexism. Authoritarian religions commonly discourage solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible|kjb 1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
 
@@ -238,6 +238,8 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 [xxx-indian child life|faithfulness long ears]
 
 [xxx-black elk life of an american visionary|black robe days]
+
+[xxx-odoc|ch25]
 
 [xxx-tgc jesus obed]-aaa (McCormick, n.d.)
 

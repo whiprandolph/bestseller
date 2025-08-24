@@ -106,7 +106,7 @@ This is _not_ to say that "warriors are bad" or "war resistance is good." A nati
 
 Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are countless hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
 
-Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful culture.
+Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. When adults are not allowed to set good boundaries by standing for what's right, many people never learn to set healthy boundaries even in their personal lives, and thus struggle to set kind and firm boundaries with their children, which causes them to struggle. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful culture.**
 
 This shows how conquering is not a single event, but a continual process, and it involves lots of child abuse. Child abuse is a core characteristic of every unhealthy culture that allows it to persist, generation after generation. And that means _treating children respectfully is essential to creating healthy cultures._
 
@@ -124,7 +124,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Selfishness instead of generosity_: Profit economies reward selfish, profit-seeking behavior rather than generosity.
 
-* _Resentment instead of gratitude_: When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to not feel deep gratitude for the gifts of life.
+* _Resentment instead of gratitude_: When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to feel reesentment instead of gratitude for the gifts of life.
 
 * _Disconnection instead of connection with people_: When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have deep, trusting, meaningful connections with many other people.
 

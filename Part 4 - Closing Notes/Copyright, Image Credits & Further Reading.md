@@ -8,21 +8,11 @@ Nothing in this book is intended to substitute for personalized advice from trus
 
 Digital version ISBN: [xxx-need-isbn]; Print ISBN: [xxx-need-other-isbn]
 
-_Image Credits_
+_Image Credits_: Cover: _Sophia Mueller_; Chapter 3: "Hawks Hunting": _Chelsea Spitzer_; Chapter 6: "Riot Police in Venezuela": _(AP Photo/Ariana Cubillos)_.[xxx-venezuelan riot] "Riot Police in China": _AP Photo/Eugene Hoshiko_.[xxx-chinese riot] "Riot Police in the United States": _J Kearney_.[xxx-american riot];  Chapter 8: "Sabotaging Efforts at Deep Cultural Healing": _Chelsea Spitzer_; Chapter 10: "When People Fall for Scams like Racism": _Chelsea Spitzer_; All reproduced with permission.
 
-Cover: _Sophia Mueller_
+_Further Reading:_ _One Disease One Cure_ offers a more comprehensive, detailed exploration of healthy and unhealthy cultures. It includes many themes which were not included in _The Deepest Revolution_, including sexuality, privilege, entitlement, stories of creating healthy subcultures, nutrition, ancient religious misunderstandings, cultivating bravery, and much more.
 
-Chapter 3: Hawks Hunting: _Chelsea Spitzer_
-
-Chapter 8: Sabotaging Efforts at Deep Cultural Healing: _Chelsea Spitzer_
-
-Chapter 10: When People Fall for Scams like Racism: _Chelsea Spitzer_
-
-Chapter 6: Riot Police in Venezuela: _(AP Photo/Ariana Cubillos)_.[xxx-venezuelan riot] Riot Police in China: _AP Photo/Eugene Hoshiko_.[xxx-chinese riot] Riot Police in the United States: _J Kearney_.[xxx-american riot] All reproduced with permission.
-
-_Further Reading:_ _One Disease One Cure_ offers a more comprehensive, detailed exploration of healthy and unhealthy cultures. It includes many themes which were not included in _The Deepest Revolution_, including themes of sexuality, privilege, entitlement, creating healthy subcultures, nutrition, ancient religious misunderstandings, cultivating bravery, and much more.
-
-Both _The Deepest Revolution_ and _One Disease One Cure_ are free to download and have a physical version available. All profits will be donated to protect people and the Earth from exploitation.
+Both _The Deepest Revolution_ and _One Disease One Cure_ are free to download and have a physical version available. Both books are available at http://thedeepestrevolution.com. All profits will be donated to protect people and the Earth from exploitation.
 
 ### References
 

@@ -41,7 +41,10 @@ You could hold yourself and others to a high standard of integrity. You and the 
 This is the path to building a culture of deep trust. Have high expectations for yourself and the people around you so that qualities like integrity, bravery, awareness, and generosity are simply normal and expected.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Hold yourself and others to a high standard</div>
-<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.**</div></div>
+<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Receive feedback graciously by looking for the lesson</div>
+<div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Do what you can to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
 
 #### When People Develop Low Standards
 
@@ -73,11 +76,11 @@ When children are trained for obedience, is it any wonder that cowardice is comm
 
 When boys are trained for cowardly obedience instead of bravely protecting their people from any threat or abuse, is it any surprise that so many women wonder where all the good men are? And when so many men are lost, is it any surprise that most men don't know what the women are talking about?
 
-For years, I didn't understand this question myself -- what do you mean where are all the good men? I didn't know what a good man was until I studied healthy cultures where boys are consistenty raised to be good men who stand for what's right and protect their people from any threat. Stories of profoundly trustworthy men and trusting women from the Crow, Cheyenne, and Lakota showed me that all the men of a nation can be trustworthy.[xxx-odoc|ch47]
+For years, I didn't understand this question myself -- what do you mean where are all the good men? I didn't know what a good man was until I studied healthy cultures where boys are consistenty raised to be good men who stand for what's right and bravely protect their people from any threat. Stories of profoundly trustworthy men and trusting women from the Crow, Cheyenne, and Lakota showed me that all the men of a nation can be trustworthy.[xxx-odoc|ch47]
 
 Of course, women can become spiritually lost too, such as those who believe women can be "liberated" by becoming well-paid wage slaves, selfish executives and corrupt politicians, just like spiritually lost men.
 
-Instead of seeking real freedom where everyone stands for what's right as a normal way of life, authorities in unhealthy cultures trick everyone into thinking that "freedom" just means being able to do whatever you want without financial or cultural restraint, and so the way to be free is to get rich. But this is the faux-freedom of kings who don't have to care about anyone else or follow any laws.
+Instead of seeking real freedom, authorities in unhealthy cultures trick everyone into thinking that "freedom" just means being able to do whatever you want without financial or cultural restraint, and so the way to be free is to get rich. But this is the faux-freedom of kings who don't have to care about anyone else or follow any laws.
 
 Real freedom comes when everyone stands for what's right as a normal way of life, so that everyone can enjoy justice and deep respect from their neighbors. When people forget this and just look after themselves, it's easy to become spiritually lost and let selfishness take over.
 
@@ -87,68 +90,15 @@ Revolutionaries like the Black Panthers and Zapatistas often kept working their 
 
 When you know what to look for, you will see how low our expectations are for each other in unhealthy cultures. But it doesn't need to be this way. To create healthy subcultures and eventually sovereign healthy cultures, we need to raise our standards!
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Support people in moments of "little need"</div>
-<div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. cvssdfsdf</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>
+<div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. [xxx-FINISH]</div></div>
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
 <div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need.</div></div>
-
-#### Build a Healthy Subculture with Others
-
-If you've completed the revolutionary activities so far, you're well on your way to building a healthy subculture with others. You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
-
-You've practiced noticing the Earth's gifts, and giving back to the Earth. You've questioned your assumptions and channeled your anger in productive ways.
-
-You've joined with other people into groups that continually share with each other, and where people can safely speak their heart.
-
-
-
-Building a healthy subculture with others can be challenging. I've failed several times, mostly due to my own blind spots. 
-
-
-MAKE THIS AN EPIC RANT. IT's TIME to END THIS BULLSHIT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-In order for humans to have a culture, there have to be agreements on appropriate or inappropriate behavior, and systems of accountability.
-
-In unhealthy cultures, governments impose laws that define good and bad behavior. In subcultures, it's normal for an authority figure to impose the rules. For example, in a kids' sports team, the coach defines the rules for the kids. In corporations, the CEO defines the rules for the employees. The enforcement of these rules form the structure of the culture or subculture; the rules and their enforcement form the boundaries of what is acceptable or unacceptable.
-
-These "laws" or "rules" are simply descriptions or agreements of behavior that that the group accepts or doesn't accept. When you and others form a group where people commit to high standards of behavior, you're effectively creating your own law within your subculture.
-
-This is the ancient and instinctive source of natural law in human societies: when everyone embraces integrity and stands for what's right, people's high standards for good behavior become the laws they live by.
-
-"Integrity" is consistently recognized as the essence of something's structure. One engineering company defines _structural integrity_ as "the ability of a structure to withstand its intended load without experiencing failure."[xxx-arch struxure integrity] When a bridge or building "loses integrity," this means it is close to collapse. In psychology, integrity is related to someone's balance, wholeness, or solid sense of self.
-
-Integrity is likewise the essence of a healthy culture's structure. People can agree to live in a respectful way, but will they keep their agreements and actually uphold respectful boundaries? When integrity is widespread and people uphold their agreements for how to live, they can relax into that deep trust.
-
-Integrity is the complement of trust. For every way that people want to trust each other, there's a  kind of integrity. "Speaking the truth" and "keeping promises" are two forms of integrity, which are essential to forming trusting relationships. However, people in the same culture also expect each other to act in service even without promising to do so, and this is an essential aspect of trust. An infant trusts her mother to act in service without making any promise. Students trust their teacher to act in service. Patients expect their doctor to heal them instead of maximizing their profit. Leaders are expected to serve the people instead of corruptly serving themselves. I call this "integrity of service."
-
-When everyone stands for what's right as a normal way of life -- when that integrity of service is common -- then people can maintain that baseline of mutual respect, even in situations that their past agreements didn't foresee. I believe this explains the Haudenosaunee writer's statement that their "society was founded on concepts of moral justice, not statute law."
-
-When the law and justice are in conflict, which should a culture prioritize? When everyone stands for what's right continuously, they will consistently seek justice instead of mindlessly following their law. "Laws" or "rules" are simply agreements people make to help live in a good way, but in a healthy culture if the law and justice are in conflict, past agreements are never allowed to prevent justice when someone is threatened or attacked.
-
-This explains why deep integrity is so rare in unhealthy cultures. When authorities impose law, and forbid people from upholding the law they live by, they're actually forbidding integrity of service -- the deepest form of integrity. People may still be allowed to have some kinds of integrity, such as speaking the truth, or keeping promises, but in unhealthy cultures people are not allowed to act in service by confronting authorities' injustices. This aspect of integrity is forbidden.
-
-Thus the path to creating a healthy subculture involves holding yourself and others to a high standard of integrity, in secret if you must. Find like-minded people willing to commit to deep spiritual growth, and make agreements for how to relate to each other and the Earth in a respectful way. When you can hold each other to a high standard of integrity so that people consistently uphold the agreements and act in service, you'll be able to relax into that deep trust knowing you're surrounded by trustworthy people.
 
 #### Everything is a Skill, and Everything Can Be Practiced Without Guilt or Shame
 
-Feelings like shame or guilt are some of the biggest obstacles to deep personal growth. People can be very resistant to feedback because they don't want to be unfairly shamed or made to feel guilty by others. Even if the feedback is respectful, people can have subconscious shame or guilt from their childhood that gets triggered, and they can become defensive.
+Feelings like shame or guilt are some of the biggest obstacles to deep personal growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People can resist feedback because they don't want to be unfairly shamed or made to feel guilty. Even if the feedback is respectful, people can have subconscious shame or guilt from their childhood that gets triggered, and they can become defensive.
 
 Thus, to really hold yourself and others to a high standard and help people grow when they make a mistake, it is crucial to learn how to have personal growth without shame or guilt.
 
@@ -160,80 +110,84 @@ With this attitude of trusting in a person's inherent goodness, it helps me to r
 
 Think back to a skill you learned as a child. Imagine, for example, that you learned to play soccer. You learned lots of smaller skills such as how to dribble or pass the ball. To get better at passing, what did you do?
 
-You practiced: you tried your best to kick the soccer ball to someone, and sometimes the ball went where you intended and sometimes it didn't. When you kicked the ball in the wrong direction, you figured out what lesson to learn, hopefully without any shame, and then practiced passing the ball with those new lessons in mind. The more you practiced, the more lessons you learned, and the better you got at passing the ball. When you approached all aspects of soccer this way, eventually you became a skilled soccer player.
+You practiced: you tried your best to kick the soccer ball to someone, and sometimes the ball went where you intended and sometimes it didn't. When you kicked the ball in the wrong direction, you figured out what lesson to learn, hopefully without any shame, and then practiced passing the ball with those new lessons in mind. The more you practiced, the more lessons you learned, and the more proper technique became normal and engrained. If you approached all aspects of soccer this way, eventually you became a skilled soccer player.
 
-Qualities like integrity, awareness, gratitude, and generosity are simply skills too, and you can practice them intentionally just like any other skill. Practice approaching life with these qualities, and then notice when you up with them and when you don't. Perhaps sometime you don't have the awareness you want, or you are afraid to tell the truth and so you lie to someone.
+Qualities like integrity, awareness, gratitude, and generosity are simply skills too, and you can practice them intentionally just like any other skill. Practice approaching life with these qualities, and then notice when you up with them and when you don't. Perhaps sometimes you don't have the awareness you want, or you are afraid to tell the truth and so you lie instead.
 
 Cultivating these qualities is just like learning to kick a soccer ball. When you mess up, avoid any sense of guilt or shame. Just recognize that you made a mistake, and you can learn from it and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual fear, guilt, or shame, just let it go.
 
-Deep spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. So long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
+And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. Take bravery for example, which is simply the ability to remain conscious and do what you know in your heart is right even if you feel uncomfortable or afraid. To practice bravery, you intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, go dancing. If cold water feels uncomfortable, practice being in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
-When I really embraced this attitude, my rate of growth increased. In other words, I started learning life lessons faster than before, because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes and learned from them.
+The book _One Disease One Cure_ contains many more suggestions for cultivating bravery, integrity, and other qualities.[xxx-odoc]
+
+Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. So long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
+
+When I really embraced this attitude, my rate of growth increased. In other words, I started learning life lessons faster than before, because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice bravery</div>
+<div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 #### Build a Healthy Subculture by Building Spiritual Strength Together
 
-It's not easy to learn a new way of life. 
+If you've completed the revolutionary activities so far, you're well on your way to building a healthy subculture with others. You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
 
+You've practiced receiving the Earth's gifts with gratitude, and giving back to the Earth. You've questioned your assumptions, practiced bravery, and channeled your anger in productive ways.
 
+You've joined with other people into groups that continually share with each other, and where people can safely speak their heart. You've practiced holding others to high standards, and making it easy for others to do the same for you.
 
+Ultimately, I believe the path to building healthy subcultures is to find others who also want this beautiful way of life, and practice the revolutionary activities together. Practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery.
 
+Build up each other's dignity, and help each other remember what's important in life -- taking care of each other and the Earth.
 
+Ultimately, you'll be building spiritual strength together with other people, with each person bringing out the best in everyone else. If you can do this, you'll actually be creating your own law -- that is, your own standards of appropriate behavior based on justice and mutual aid, not punitive rules.
 
+The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new groups and networks of groups where people cultivate that spiritual strength is the path to building new healthy subcultures.
 
+For as long as these groups are trapped in unhealthy cultures, they will be healthy subcultures where people stand for each other and for the Earth, while living under unhealthy-culture laws. When an opportunity arises for that Deepest Revolution, like the Zapatistas in 1994 after 10 years' preparation, healthy subcultures will have the cohesion and vision to take a full stand and finally free themselves to become fully sovereign healthy nations.
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
+<div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important it is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
-It's crucial to learn life lessons efficiently without guilt and shame, because there are many skills needed to have a healthy culture.
+#### Building a Healthy Culture is Hard -- But We Are Healthy Cultures
 
-When someone acts dishonestly, what would it take to begin trusting them again? It's crucial to have a _path back to grace_ so people know that if they make a mistake, there're not shunned forever, but there's a way to prove that they've really grown and can be trusted again.
+Building a healthy culture with others is challenging. We have a way of life that encourages things like superficiality, ineffective political movements, division, deceit, and selfishness. A lot of people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear, legal path of deep change.
 
-When someone makes a mistake, when is it most helpful to offer unconditional acceptance, and when would it be more helpful to show them their own unmet potential and accept nothing less than excellent behavior?
+It would already be hard to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
-How can you recognize when someone else is fully giving their sacred gifts and when they're holding back, and when you see they're holding back, how could you help them give themselves fully again?
+The only way to change this is to form new subcultures with real solidarity despite all the challenges, where it's safe to give generously and stand for what's right, knowing each person has the others' backs no matter what. Where people stand for the needs of the nonhumans to ensure the Earth remains a healthy place for all its inhabitants.
 
-All these are skills, and all these can be practiced without guilt or shame.
+Despite the centuries of oppression, the truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. And it feels so incredibly wonderful because this is who we really are.
 
-Ultimately, this is a key way to build spiritual strength with others. Hold yourself and others to a high standard of excellent and beautiful behavior. When someone struggles, help them grow without shame or guilt. People commonly rise or fall to the level of expectations set for them. To create a healthy subculture with pervasive trust, hold yourself and others to a high standard as a gift of love.
+We are healthy cultures; each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities explored in this book, even if some people have learned to ignore those urges to survive in their unhealthy culture. Every one of us has deep love to give. Every one of us can embrace and live these qualities at any time, generating healthy subcultures everywhere we go.
 
-#### Serve the Earth Together
+So spread the good news. Healthy cultures exist, and for those of us trapped in unhealthy cultures, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth. Perhaps you will someday be part of a nation that lives in freedom, or perhaps you will lay the groundwork so that a future generation can.
 
-* Can serve the Earth either by enriching it (ie planting trees, tending the soil) or protecting it from further destruction
-
-* Rev-act: one way or another, as a group, serve the Earth where you live. Cultivate a sense of place and gratitude for the specific gifts all around you.
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Serve the Earth**</div>
-<div class="rev-act-body">Any relationship involves both giving and receiving, so to have a rich relationship with the Earth, it's important to learn to give to it.<br/><br/>
-Consider how you would like to serve the nonhumans around you. You could enrich the Earth, such as by planting trees, planting an organic garden where you feed the soil, or removing trash. You could also protect the Earth, such as by slowing or stopping destructive practices such as logging or dumping toxins into rivers. Let your curiosity and interests guide you in choosing how to serve the Earth where you live.</div></div>
-
-### Heal Ancient Traumas Now
-
-Everybody has ancestors that lived in healthy cultures years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
-
-At some point, our ancestors suffered something terrible, and eventually the unhealthy culture started to seem "just the way life is."
-
-It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from building your spiritual strength with others as they build theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
-
-Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating spiritual strength, and find others to walk it with, you'll begin the Deepest Revolution. That path will be beautiful no matter what happens, and it's a necessary part of that larger path leading to new healthy cultures where respect is the norm among the people, and between people and the Earth.
+As countless spiritual leaders like Tubman, Christ, and King show, giving your sacred gifts may not always be a comfortable path. Authorities might even make it dangerous. But at least it will be a path worth walking.
 
 ### References
 
 [xxx-red mother|p84]
 
-[xxx-from deep woods to civilization|civ preached practiced]
-
-[xxx-arch struxure integrity]
+[xxx-braiding sweetgrass|wisgaak gokpenagen]
 
 [xxx-original instructions|armstrong]
 
-[xxx-braveheart every man]
-
-[xxx-braiding sweetgrass|wisgaak gokpenagen]
-
-[xxx-indian heroes and great chieftains|rain-in-the-face]
+[xxx-FINISH]
 
 [xxx-walden]
 
+[xxx-odoc]
+
 [xxx-odoc|ch47]
+
+[xxx-from deep woods to civilization|civ preached practiced]
 
 [xxx-geronimo autobio|Unwritten Laws of the Apaches]
 
+[xxx-a basic call to consciousness|p38]
+
 [xxx-the vision|p80]
+
+[xxx-braveheart every man]
+
+[xxx-indian heroes and great chieftains|rain-in-the-face]

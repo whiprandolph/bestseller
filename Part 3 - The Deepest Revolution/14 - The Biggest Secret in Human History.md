@@ -14,9 +14,9 @@ When you know what to look for, the history books show this vividly.
 
 Just as the American, German, and other authorities are calling anti-genocide protesters "antisemitic" and punishing them for opposing their rulers' genocide today, for centuries European colonial authorities likewise have called people of healthy cultures "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy cultures instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy cultures.
 
-Why would ruling classes work so hard to spread propaganda against healthy cultures? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."
+Why would ruling classes work so hard to spread propaganda against healthy cultures? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."[xxx-true americanism|p27]
 
-In other words, ruling classes try to keep people in despair, not knowing that another way of life is possible without the endless troubles like corruption and greed.
+In other words, ruling classes try to keep people in despair, not knowing that another way of life is possible without endless troubles like corruption and greed.
 
 But now, you know the secret: healthy cultures do exist, whole nations that maintain a baseline of respect internally because everybody stands for what's right, and nobody rules over anybody else. And that is proof that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."
 
@@ -40,7 +40,7 @@ Instead of engaging in endless political debates that have never helped people f
 
 Imagine a life where every moment felt alive, you were surrounded by people you trusted, and you were free to contribute to your community in the most meaningful ways without worrying if it pays well.
 
-Imagine a world where there are no police or prisons, but you're not at all worried about crime because you know that if anyone misbehaved or threatened you, all your friends and neighbors would come to your aid. Just like you would help them if they needed it.
+Imagine a world where there are no police or prisons, and you're not at all worried about crime because you know that if anyone misbehaved or threatened you, all your friends and neighbors would come to your aid. Just like you would help them if they needed it.
 
 Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day was meaningful and engaging for them. Imagine training children for qualities like deep generosity, awareness, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your culture.
 
@@ -64,7 +64,7 @@ Imagine feeling indebted because your neighbors give you so much that you consta
 
 Imagine befriending animals like the deer and bear, trees like the chestnuts and hickories, and herbs like stinging nettle and chickweed, and learning how to feed their communities just as they could feed yours. Imagine knowing the plants and animals so intimately that you could increase their populations even as you respectfully harvest some to eat.
 
-No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..." 
+No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..."[xxx-original instructions|armstrong]
 
 _I didn't make these up. Every scene here came from a story or observation from real people like you and me in an actual healthy culture. These don't need to be fantasies. You and other people could bring this vision to life._
 
@@ -92,5 +92,9 @@ So find people that you trust to speak your heart to, and whom you likewise list
 <div class="rev-act-body">Even if you don't know how to respond to your feelings, it can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
 
 ### References
+
+[xxx-original instructions|armstrong]
+
+[xxx-true americanism|p27]
 
 [xxx-churchill democracy]-aaa (Churchill, 1947)
