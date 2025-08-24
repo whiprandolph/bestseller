@@ -1,10 +1,6 @@
 # Citations
 
-<table class="cite_table"><tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>
-</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_2_src" id="cite_Important_Notes_on_Sensitive_Topics_2_dest" style="text-decoration:none">2</a>. (Prechtel, 1999, 209)<br/>
-</td></tr>
-
-<tr><td><b>Chapter 1: This Is Who We Really Are</b></td></tr><tr><td><a href="#cite_Chapter_1_1_src" id="cite_Chapter_1_1_dest" style="text-decoration:none">1</a>. (Johnson, 2023)<br/>
+<table class="cite_table"><tr><td><b>Chapter 1: This Is Who We Really Are</b></td></tr><tr><td><a href="#cite_Chapter_1_1_src" id="cite_Chapter_1_1_dest" style="text-decoration:none">1</a>. (Johnson, 2023)<br/>
 </td><td><a href="#cite_Chapter_1_2_src" id="cite_Chapter_1_2_dest" style="text-decoration:none">2</a>. (Matthews, 2020)<br/>
 </td></tr>
 
@@ -36,7 +32,7 @@
 </td><td><a href="#cite_Chapter_2_8_src" id="cite_Chapter_2_8_dest" style="text-decoration:none">8</a>. (Randolph, 2024, "Chapter 40: Enough! - The Zapatistas' Successful Revolution")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_2_9_src" id="cite_Chapter_2_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_2_9_src" id="cite_Chapter_2_9_dest" style="text-decoration:none">9</a>. (Marcos, 2014)<br/>
 </td><td><a href="#cite_Chapter_2_10_src" id="cite_Chapter_2_10_dest" style="text-decoration:none">10</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
@@ -104,7 +100,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_4_3_src" id="cite_Chapter_4_3_dest" style="text-decoration:none">3</a>. (Rong, 2008, Chapter 2)<br/>
-</td><td><a href="#cite_Chapter_4_4_src" id="cite_Chapter_4_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_4_4_src" id="cite_Chapter_4_4_dest" style="text-decoration:none">4</a>. (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_4_5_src" id="cite_Chapter_4_5_dest" style="text-decoration:none">5</a>. (N. Basket, personal communication, August 5, 2023)<br/>
@@ -322,8 +318,8 @@
 </td><td><a href="#cite_Chapter_9_12_src" id="cite_Chapter_9_12_dest" style="text-decoration:none">12</a>. (Denova, 2022)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_13_src" id="cite_Chapter_9_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_9_14_src" id="cite_Chapter_9_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_9_13_src" id="cite_Chapter_9_13_dest" style="text-decoration:none">13</a>. (Luke 23:2, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_14_src" id="cite_Chapter_9_14_dest" style="text-decoration:none">14</a>. (Matthew 27:12, King James Version Bible)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_15_src" id="cite_Chapter_9_15_dest" style="text-decoration:none">15</a>. (Denova, 2022)<br/>
@@ -359,7 +355,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_31_src" id="cite_Chapter_9_31_dest" style="text-decoration:none">31</a>. (The First Discourse of the Buddha, n.d.)<br/>
-</td><td><a href="#cite_Chapter_9_32_src" id="cite_Chapter_9_32_dest" style="text-decoration:none">32</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_32_src" id="cite_Chapter_9_32_dest" style="text-decoration:none">32</a>. (Randolph, 2024, "Chapter 25: Sexual Freedom vs Sexual Repression")<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_33_src" id="cite_Chapter_9_33_dest" style="text-decoration:none">33</a>. (The Quran, 4:34, Translated by Mustafa Khattab)<br/>
@@ -386,7 +382,7 @@
 </td><td><a href="#cite_Chapter_9_44_src" id="cite_Chapter_9_44_dest" style="text-decoration:none">44</a>. (Barrett, 2010, "Preparation of a Warrior")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_45_src" id="cite_Chapter_9_45_dest" style="text-decoration:none">45</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_9_45_src" id="cite_Chapter_9_45_dest" style="text-decoration:none">45</a>. (Jackson, 2016, "Black Robe Days")<br/>
 </td><td><a href="#cite_Chapter_9_46_src" id="cite_Chapter_9_46_dest" style="text-decoration:none">46</a>. (War is Boring, 2014)<br/>
 </td></tr>
 
@@ -395,11 +391,11 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Liedloff, 2004, "Growing Up")<br/>
-</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Linderman, 1932, 21)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Eastman (Ohiyesa), 2013, "Chief Joseph")<br/>
+</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Messiah, n.d.)<br/>
@@ -553,28 +549,29 @@
 </td><td><a href="#cite_Chapter_12_28_src" id="cite_Chapter_12_28_dest" style="text-decoration:none">28</a>. (Rodríguez, 1994)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_29_src" id="cite_Chapter_12_29_dest" style="text-decoration:none">29</a>. (Mujeres 45% de Las Bases Zapatistas, 2011)<br/>
-</td><td><a href="#cite_Chapter_12_30_src" id="cite_Chapter_12_30_dest" style="text-decoration:none">30</a>. ("Interview with Mayor Ana María (Google Translate, Trans.)," 1995)<br/>
+<tr><td><a href="#cite_Chapter_12_29_src" id="cite_Chapter_12_29_dest" style="text-decoration:none">29</a>. (Marcos, 2014)<br/>
+</td><td><a href="#cite_Chapter_12_30_src" id="cite_Chapter_12_30_dest" style="text-decoration:none">30</a>. (Mujeres 45% de Las Bases Zapatistas, 2011)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_31_src" id="cite_Chapter_12_31_dest" style="text-decoration:none">31</a>. (Marcos, 2014)<br/>
-</td><td><a href="#cite_Chapter_12_32_src" id="cite_Chapter_12_32_dest" style="text-decoration:none">32</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
+<tr><td><a href="#cite_Chapter_12_31_src" id="cite_Chapter_12_31_dest" style="text-decoration:none">31</a>. ("Interview with Mayor Ana María (Google Translate, Trans.)," 1995)<br/>
+</td><td><a href="#cite_Chapter_12_32_src" id="cite_Chapter_12_32_dest" style="text-decoration:none">32</a>. (Marcos, 2014)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_33_src" id="cite_Chapter_12_33_dest" style="text-decoration:none">33</a>. ("Ley Revolucionaria de Mujeres," 1993)<br/>
-</td><td><a href="#cite_Chapter_12_34_src" id="cite_Chapter_12_34_dest" style="text-decoration:none">34</a>. ("Revolutionary Agriculture Law (Google Translate, Trans.)," 1993)<br/>
+<tr><td><a href="#cite_Chapter_12_33_src" id="cite_Chapter_12_33_dest" style="text-decoration:none">33</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
+</td><td><a href="#cite_Chapter_12_34_src" id="cite_Chapter_12_34_dest" style="text-decoration:none">34</a>. ("Ley Revolucionaria de Mujeres," 1993)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_35_src" id="cite_Chapter_12_35_dest" style="text-decoration:none">35</a>. ("Urban Reform Law (Google Translate, Trans.)," 1993)<br/>
-</td><td><a href="#cite_Chapter_12_36_src" id="cite_Chapter_12_36_dest" style="text-decoration:none">36</a>. ("Law on the Rights and Obligations of Peoples in Struggle (Google Translate, Trans.)," 1993)<br/>
+<tr><td><a href="#cite_Chapter_12_35_src" id="cite_Chapter_12_35_dest" style="text-decoration:none">35</a>. ("Revolutionary Agriculture Law (Google Translate, Trans.)," 1993)<br/>
+</td><td><a href="#cite_Chapter_12_36_src" id="cite_Chapter_12_36_dest" style="text-decoration:none">36</a>. ("Urban Reform Law (Google Translate, Trans.)," 1993)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_37_src" id="cite_Chapter_12_37_dest" style="text-decoration:none">37</a>. ("Justice Law (Google Translate, Trans.)," 1993)<br/>
-</td><td><a href="#cite_Chapter_12_38_src" id="cite_Chapter_12_38_dest" style="text-decoration:none">38</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+<tr><td><a href="#cite_Chapter_12_37_src" id="cite_Chapter_12_37_dest" style="text-decoration:none">37</a>. ("Law on the Rights and Obligations of Peoples in Struggle (Google Translate, Trans.)," 1993)<br/>
+</td><td><a href="#cite_Chapter_12_38_src" id="cite_Chapter_12_38_dest" style="text-decoration:none">38</a>. ("Justice Law (Google Translate, Trans.)," 1993)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_12_39_src" id="cite_Chapter_12_39_dest" style="text-decoration:none">39</a>. (Rull, 2021)<br/>
-</td><td></td></tr>
+<tr><td><a href="#cite_Chapter_12_39_src" id="cite_Chapter_12_39_dest" style="text-decoration:none">39</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+</td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 13: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
 </td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
@@ -612,8 +609,8 @@
 </td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 3)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Prescott, 1977)<br/>
+</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Prescott, 1975)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Mantell, 1974, 137)<br/>
@@ -624,11 +621,11 @@
 </td><td><a href="#cite_Chapter_13_24_src" id="cite_Chapter_13_24_dest" style="text-decoration:none">24</a>. (Assange, 2007)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+<tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (Mantell, 1974, 27)<br/>
 </td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (Churchill, 1947)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_14_3_src" id="cite_Chapter_14_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_14_3_src" id="cite_Chapter_14_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 15: The Deepest Revolution, Part 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
@@ -648,38 +645,48 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
-</td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
 </td></tr>
 
-<tr><td><b>Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Building Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+<tr><td><b>Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Building Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_3_src" id="cite_Chapter_16_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_4_src" id="cite_Chapter_16_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_3_src" id="cite_Chapter_16_3_dest" style="text-decoration:none">3</a>. (Linderman, 1932, 84)<br/>
+</td><td><a href="#cite_Chapter_16_4_src" id="cite_Chapter_16_4_dest" style="text-decoration:none">4</a>. (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_5_src" id="cite_Chapter_16_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_5_src" id="cite_Chapter_16_5_dest" style="text-decoration:none">5</a>. (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")<br/>
+</td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (Brown Jr, 1988, 81)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (Thoreau, 2021, "Economy")<br/>
+</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (Gibson, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
+</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Eastman (Ohiyesa), 2013, "Rain-In-The-Face")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
+</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
-</td></tr>
+<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (Notes, 2005, 38)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
+</td><td></td></tr>
+
+<tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_2_src" id="cite_Important_Notes_on_Sensitive_Topics_2_dest" style="text-decoration:none">2</a>. (Prechtel, 1999, 209)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_3_src" id="cite_Important_Notes_on_Sensitive_Topics_3_dest" style="text-decoration:none">3</a>. ("Sioux"/Lakota, n.d.)<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_4_src" id="cite_Important_Notes_on_Sensitive_Topics_4_dest" style="text-decoration:none">4</a>. (Standing Rock Sioux Reservation, n.d.)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
 <tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>

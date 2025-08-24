@@ -177,7 +177,7 @@ A person has spiritual strength if they give their deepest love in each moment w
 
 ### References
 
-[xxx-original instructions|return ancient council]
+[xxx-original instructions|return ancient council]-aaa (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")
 
 [xxx-bible|matthew 4:1-11]-aaa (Matthew 4:1-11, English Standard Version Bible)
 

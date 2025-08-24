@@ -156,9 +156,9 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 ### References
 
-[xxx-violence.de prescott pleasure touch]
+[xxx-body pleasure and the origins of violence]-aaa (Prescott, 1975)
 
-[xxx-body pleasure and the origins of violence]
+[xxx-violence.de prescott pleasure touch]-aaa (Prescott, 1977)
 
 [xxx-guardian portugal president knew]-aaa (Tremlett, 2002)
 

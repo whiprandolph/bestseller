@@ -27,3 +27,9 @@ Below are practices that I associate with healthy cultures, as well as the chapt
 * Respect for children
 
 <div style="break-after:page"></div>
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>
+<div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. [xxx-FINISH]</div></div>
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
+<div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need.</div></div>

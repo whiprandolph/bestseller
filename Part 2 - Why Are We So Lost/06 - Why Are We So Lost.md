@@ -4,7 +4,7 @@ Everybody is born with a sense of dignity, meaning that we each have a _natural 
 
 As I studied healthy cultures, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
-People born and raised in healthy cultures would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while many people went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
+People born and raised in healthy cultures would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while others went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
 
 And they would be shocked if they were threatened with severe violence for trying to end these injustices.
 
@@ -39,7 +39,7 @@ And in the capitalist United States, when protesters confronted illegal police v
 <img src="./images/american_riot_police.jpg" width="370px" alt="Riot Police in the United States"/><br/>
 _Riot Police in the United States_
 </center>
-<br/>
+
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
 
 And who are the police protecting the rich and powerful from? Of course, they are protecting the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy cultures. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.

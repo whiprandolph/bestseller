@@ -1,4 +1,5 @@
 import os
+import csv
 import toc
 import time
 import shutil
@@ -7,6 +8,7 @@ import subprocess
 import traceback
 from progress import chapters
 from pprint import pprint as pp
+from collections import Counter
 
 source_dir = r"C:\Users\whip\tdr"
 md_dir = r"C:\Users\whip\tdr-md-publish"
@@ -198,7 +200,7 @@ def is_main_body(chapter_name, directory):
 def migrate_citations(file_path):
     blob = open(file_path, 'r', encoding='utf-8').read().strip()
     if ref_header not in blob:
-        return 0,0,0
+        return [],[],[],[]
     body, ref_section = blob.split(ref_header)
     unchecked_refs = []
     checked_but_unmatched_refs = []
@@ -227,7 +229,8 @@ def migrate_citations(file_path):
     open(file_path, 'w', encoding='utf-8').write(new_blob)
     if unchecked_refs:
         print("UNCHECKED: %s" % str(unchecked_refs))
-    return [len(a) for a in (unchecked_refs, checked_but_unmatched_refs, ref_finished_list)]
+    return unchecked_refs, checked_but_unmatched_refs, ref_finished_list, final_ref_list
+
 
 def get_odoc_refs():
     odoc_refs = {}
@@ -240,6 +243,20 @@ def get_odoc_refs():
             new_refs = [odoc_ref.strip().split("-aaa ") for odoc_ref in ref_section.split("\n") if odoc_ref.strip() and "-aaa" in odoc_ref]
             odoc_refs.update({a:b for a, b in new_refs})
     return odoc_refs
+
+
+def get_exported_refs():
+  cites = []
+  with open(r"C:\Users\whip\tdr\Scratch\TDR.csv", 'r', encoding='utf-8') as csvfile:
+    lines = csv.reader(csvfile, delimiter=',', quotechar='"')
+    next(lines, None)
+    for pieces in lines:
+      if pieces[35]:
+        cites.append(pieces[35])
+      else:
+        print("BIBLIO entry w/o [xxx-cite]: %s" % pieces)
+        breakpoint()
+  return cites
 
 
 def odoc_is_chapter_name(chapter_name, chapter_path):
@@ -280,24 +297,52 @@ def odoc_get_file_list():
   return full_list
 
 
+def verify_no_extras(total_cites):
+    cite_set = set()
+    for cite in total_cites:
+        if "|" in cite:
+            assert cite.count("|") == 1, cite
+            cite = cite[:cite.index("|")]+"]"
+        if "xxx-bible]" not in cite and "xxx-torah" not in cite and "xxx-quran" not in cite:
+            cite_set.add(cite.split("]", 1)[0] + "]")
+    exported = get_exported_refs()
+    if len(cite_set) != len(exported):
+        print("in TDR: %s" % len(cite_set))
+        print("in zot: %s" % len(exported))
+    for cite in cite_set:
+        if cite not in exported:
+            print("Ref not in zotero:  %s" % cite)
+
+    for ref in exported:
+        if ref not in cite_set:
+            print("Ref only in zotero: %s" % ref)
+
+    exp_dupes = [k for k,v in Counter(exported).items() if v>1]
+    if exp_dupes:
+        print("exported dupes: %s" % exp_dupes)
+
 
 def main():
     file_list = get_file_list()
     total_unchecked = 0
     total_checked = 0
     total_formatted = 0
+    all_refs_set = set()
     for file_path in file_list:
         if '.md' in file_path:
             toc.insert_and_return_toc(file_path)
             rev_act_count_fixup(file_path)
-            unchecked, checked, formatted = migrate_citations(file_path)
-            total_unchecked += unchecked
-            total_checked += checked
-            total_formatted += formatted
-    cite_count = total_unchecked + total_checked + total_formatted
-    print("unchecked: %s (%s%%)" % (total_unchecked, str(round(100*total_unchecked/cite_count,2))))
-    print("checked: %s (%s%%)" % (total_checked, str(round(100*total_checked/cite_count,2))))
-    print("formatted: %s (%s%%)" % (total_formatted, str(round(100*total_formatted/cite_count,2))))
+            unchecked_refs, checked_but_unmatched_refs, ref_finished_list, all_refs_chapter = migrate_citations(file_path)
+            unchecked_len, checked_len, formatted_len = [len(a) for a in (unchecked_refs, checked_but_unmatched_refs, ref_finished_list)]
+            total_unchecked += unchecked_len
+            total_checked += checked_len
+            total_formatted += formatted_len
+            all_refs_set.update(all_refs_chapter)
+    total_cites = total_unchecked + total_checked + total_formatted
+    print("unchecked: %s (%s%%)" % (total_unchecked, str(round(100*total_unchecked/total_cites,2))))
+    print("checked: %s (%s%%)" % (total_checked, str(round(100*total_checked/total_cites,2))))
+    print("formatted: %s (%s%%)" % (total_formatted, str(round(100*total_formatted/total_cites,2))))
+    verify_no_extras(all_refs_set)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
     

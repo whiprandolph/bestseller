@@ -156,22 +156,12 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>
-</b><div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. [xxx-FINISH]</div></div>
-
-
-
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
-</b><div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need.</div></div>
-
-
-
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice bravery</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Practice bravery</div>
 </b><div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important it is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 

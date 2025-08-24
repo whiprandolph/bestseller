@@ -72,7 +72,7 @@ But he also said why they do this: "As Zapatistas, we have been declared terrori
 
 The Zapatistas knew they could create a respectful society if they could just free themselves from Mexican rule. They did not wait until the war was over either. Consider many of the ways they embraced a respectful way of life, right from the beginning.
 
-No one was forced into military service. Each person chose for themselves if they would risk their life in fighting.[xxx-on the reasons for the general red alert] Women played key roles from the beginning. Commander Ramona led the Zapatistas in taking the town of San Cristóbal de las Casas in Chiapas and played a major part in the resulting peace dialog.[xxx-ezln ramona san crist] As of 2004, 45% of Zapatista army members were women.[xxx-cimacnoticias ezln women percent]
+No one was forced into military service. Each person chose for themselves if they would risk their life in fighting.[xxx-on the reasons for the general red alert] Women played key roles from the beginning. Commander Ramona led the Zapatistas in taking the town of San Cristóbal de las Casas in Chiapas and played a major part in the resulting peace dialog.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today] As of 2004, 45% of Zapatista army members were women.[xxx-cimacnoticias ezln women percent]
 
 They practiced a deep humility, not letting anyone feel like they were special or better than the rest because of their position. When describing their top military leader, Ana María said, "Marcos, like all the members of the [core planning committee], knows nothing and is nothing. Marcos is just another representative..."[xxx-interview with major ana maría: on the atrocities]
 

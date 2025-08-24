@@ -66,9 +66,9 @@ Healthy cultures are who we really are, but anytime a ruling class takes hold, d
 
 The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape the trap, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
 
-Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something?
+Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something? Most people just haven't heard the perspectives and stories that offer a helpful path.
 
-Most people haven't heard the perspectives and stories that offer a helpful path. The perspectives in Part 2 may feel hard to face alone. So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has. Together, we can uncover aspects of our own spiritual strength, and discover how people can build up each other's spiritual strength on the path to creating new healthy cultures together.
+The perspectives in Part 2 may feel hard to face alone. So let's be brave together, and face the truth of unhealthy cultures so we can see clearly why our current way of life isn't working, and why it never has. Together, we can uncover aspects of our own spiritual strength, and discover how people can build up each other's spiritual strength on the path to creating new healthy cultures together.
 
 To confront the deep sickness in every unhealthy culture and learn ways to build our spiritual strength, join me in _Part 2 - Why Are We So Lost?_
 

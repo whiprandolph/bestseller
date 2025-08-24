@@ -16,7 +16,7 @@ In contrast, integrity was so pervasive among the traditional Apache that they d
 
 Can you imagine if there was no need for an oath to tell the truth, because people in your group already expected total honesty from each other as a normal way of life?
 
-_Physical resilience:_: Crow woman Pretty Shield described how physically resilient her people were when they lived in a traditional way. She said, "Ahh, my people were tough in those days... [W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet. Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
+_Physical resilience:_: Crow woman Pretty Shield described how physically resilient her people were when they lived in a traditional way. She said, "Ahh, my people were tough in those days... [W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
 Can you imagine if the people around you were so physically resilient that even being soaking wet in winter was nothing to worry about, but just a little trouble to fix?
 
@@ -28,7 +28,7 @@ _Meaningful Education for Young People:_ One Nootka storyteller described how th
 
 Could you imagine if adults took young people's education seriously, offering them the most meaningful mentorship they could every day?
 
-_Benefitting the Earth:_ Stories abound of people of healthy cultures actually benefitting the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a bow in such a way that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p80]
+_Benefitting the Earth:_ Stories abound of people of healthy cultures actually benefitting the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a bow in such a way that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p81]
 
 Can you imagine if your normal way of life benefitted the Earth around you, increasing the natural abundance that you depended on?
 
@@ -60,15 +60,15 @@ As a result, abusive cultures raise boys not to honor their innate spiritual cal
 
 When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy cultures wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?"
 
-This ultimately is the spiritual reality behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their love and not stand for what's right is deeply unsatisfying.
+This ultimately is the spiritual reality behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their love and not stand for what's right is deeply unsatisfying.
 
-This also explains why women in unhealthy cultures around the world keep asking, "Where are all the good men?" Whether in feminist literature from the Americas, Europe, or Asia, this is a common question going back to the dawn of unhealthy cultures.[xxx-odoc|ch47]
+This also explains why women in unhealthy cultures around the world keep asking, "Where are all the good men?" In feminist literature around the world, this is a common question going back to the dawn of unhealthy cultures.[xxx-odoc|ch47]
 
 Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy cultures, a core masculine gift is rejected and many men become spiritually lost.
 
 People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy cultures do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this. Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or distract themselves from their meaningless life with things like alcohol, drugs, superficial hobbies, or overwork.
 
-Every transition into unhealthy cultures requires deep spiritual wounding where people are expected to hold back their love and not protect their people from the biggest threats. Sioux man Rain-In-The-Face described it vividly, saying his "spirit was gone then; only his poor body lived on..." He could at least recognize his spiritual wound because he had grown up in a culture that welcomed his deepest love. He knew what giving his love and setting protective boundaries was like, so he knew something was wrong when these gifts were unwelcome in the American unhealthy culture.[xxx-indian heroes and great chieftains|rain-in-the-face]
+Every transition into unhealthy cultures requires deep spiritual wounding where people are expected to hold back their love and not protect their people from the biggest threats. Sioux man Rain-In-The-Face described his wounding vividly after finally submitting to American authorities, saying his "spirit was gone then; only his poor body lived on..." He could at least recognize his spiritual wound because he had grown up in a culture that welcomed his deepest love. He knew what giving his love and setting protective boundaries was like, so he knew something was wrong when these gifts were unwelcome in the American unhealthy culture.[xxx-indian heroes and great chieftains|rain-in-the-face]
 
 Most boys in unhealthy cultures never learn what it's like to give their deepest love because they're trained for obedience instead of standing for what's right. Training children for obedience actually trains them for cowardice, as they learn to take the comfortable and safe path (ie doing what they're told to stay out of trouble) instead of bravely standing for what's right.
 
@@ -89,12 +89,6 @@ I certainly do _not_ suggest anyone quit their job. Just realize that individual
 Revolutionaries like the Black Panthers and Zapatistas often kept working their jobs to support themselves as they sought to free their people. Black Panther Don Cox put it well: "use what you got to get what you need." Making money and getting rich shouldn't be the end-goal. Just like the Tzutujil Mayans and Huron who liked to get rich so they could give it all away, or Harriet Tubman who saved up money so she could return South to help others escape chattel slavery, I support people in making money so they can do the most good in service of the people and nonhumans they love.
 
 When you know what to look for, you will see how low our expectations are for each other in unhealthy cultures. But it doesn't need to be this way. To create healthy subcultures and eventually sovereign healthy cultures, we need to raise our standards!
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>
-<div class="rev-act-body">Daily life can be challenging and stressful for many people, making it difficult to join social movements, find time to reflect and grow, and enjoy life. [xxx-FINISH]</div></div>
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Tell someone that you care about them and will show up for them in moments of big need</div>
-<div class="rev-act-body">One of the biggest causes of self-centeredness is the belief that a person is on their own, and can't trust others to come to their aid in times of need. Think of a friend or family member that you care about, and with whom you already have a mutually nourishing relationship.  and whom you would definitely help in moments of need -- whether they get sick, get in a car accident, get arrested, or lose their job. Find a private moment or invite them to a private conversation, look them in the eye, and tell them you care about them and would support them in moments of need.</div></div>
 
 #### Everything is a Skill, and Everything Can Be Practiced Without Guilt or Shame
 
@@ -124,7 +118,7 @@ Spiritual growth can be joyful rather than stressful when you approach it withou
 
 When I really embraced this attitude, my rate of growth increased. In other words, I started learning life lessons faster than before, because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice bravery</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 #### Build a Healthy Subculture by Building Spiritual Strength Together
@@ -145,7 +139,7 @@ The Haudenosaunee writers described how their "society was founded on concepts o
 
 For as long as these groups are trapped in unhealthy cultures, they will be healthy subcultures where people stand for each other and for the Earth, while living under unhealthy-culture laws. When an opportunity arises for that Deepest Revolution, like the Zapatistas in 1994 after 10 years' preparation, healthy subcultures will have the cohesion and vision to take a full stand and finally free themselves to become fully sovereign healthy nations.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important it is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 #### Building a Healthy Culture is Hard -- But We Are Healthy Cultures
@@ -166,28 +160,28 @@ As countless spiritual leaders like Tubman, Christ, and King show, giving your s
 
 ### References
 
-[xxx-red mother|p84]
-
-[xxx-braiding sweetgrass|wisgaak gokpenagen]
-
-[xxx-original instructions|armstrong]
-
 [xxx-FINISH]
 
-[xxx-walden]
+[xxx-braiding sweetgrass|wisgaak gokpenagen]-aaa (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")
 
-[xxx-odoc]
+[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
-[xxx-odoc|ch47]
+[xxx-walden|economy]-aaa (Thoreau, 2021, "Economy")
 
-[xxx-from deep woods to civilization|civ preached practiced]
+[xxx-odoc]-aaa (Randolph, 2024)
 
-[xxx-geronimo autobio|Unwritten Laws of the Apaches]
+[xxx-odoc|ch47]-aaa (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")
 
-[xxx-a basic call to consciousness|p38]
+[xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
-[xxx-the vision|p80]
+[xxx-a basic call to consciousness|p38]-aaa (Notes, 2005, 38)
 
-[xxx-braveheart every man]
+[xxx-braveheart every man]-aaa (Gibson, n.d.)
 
-[xxx-indian heroes and great chieftains|rain-in-the-face]
+[xxx-indian heroes and great chieftains|rain-in-the-face]-aaa (Eastman (Ohiyesa), 2013, "Rain-In-The-Face")
+
+[xxx-geronimo autobio|Unwritten Laws of the Apaches]-aaa (Barrett, 2010, "Unwritten Laws of the Apaches")
+
+[xxx-the vision|p81]-aaa (Brown Jr, 1988, 81)
+
+[xxx-red mother|p84]-aaa (Linderman, 1932, 84)

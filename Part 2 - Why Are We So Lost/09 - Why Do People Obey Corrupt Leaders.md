@@ -32,13 +32,13 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _Healed people illegally:_ Christ illegally healed people on the Sabbath. (Matthew 12:10, Mark 3:2)[xxx-bible|matthew 12:10]<sup>,</sup>[xxx-bible|mark 3:2]
 
-* _Prioritized doing the right thing over following the law:_ When religious and legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. 
+* _Prioritized doing the right thing over following the law:_ When religious and legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. 
 
 * _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible|esv mark 11:15-18]
 
 * _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
 
-* _At trial, Jesus was accused of challenging Roman authority:_ At his trial, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible|kjb luke 23:2] He did not deny the charges.[xxx-bible|esv mark 14:56-64]
+* _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible|kjb luke 23:2] He did not deny the charges.[xxx-bible|esv matthew 27:12]
 
 * _Christ was killed like a revolutionary:_ Crucifixion was a punishment that the Romans used especially for revolutionaries. Christ and two other revolutionaries were nailed to a cross and left to die in a public place to scare others away from revolutionary activities.[xxx-worldhistory jewish zealots]
 
@@ -102,7 +102,7 @@ This may seem like a stretch for many people to believe, but it sure looks to me
 
 Have you noticed that authoritarian religions also tend to discourage deep sensual pleasure? Buddhism offers a clear example. The Buddha laid out the Four Noble Truths. Of these, the second is the Noble Truth of the Cause of Suffering, which is "craving that causes rebirth and is bound up with pleasure and lust and finds delight now here, now there. That is, the craving for sensual pleasures." The third is the "Noble Truth of the Cessation of Suffering" which "is the complete fading away and destruction of this very craving... the liberation from it, leaving no place for it." Thus Buddhism equates desire with suffering, and especially the desire for sensual pleasures. Renouncing one's desire for sensual pleasures is supposedly the path to ending suffering.[xxx-vridhamma first discourse]
 
-Of course, conquered people are not likely to feel deep pleasure much of the time, feeling afraid, nervous, dissatisfied, or miserable instead. Thus encouraging people to avoid pleasure trains them to accept their dissatisfaction as legitimate and normal. Sharing sexual pleasure outside the nuclear family has also helped many healthy cultures build solidarity and gratitude within and across communities, so when pleasure and especially sexual pleasure is discouraged, this way of building solidarity is also discouraged.[xxx-odoc|ch25]**
+Of course, conquered people are not likely to feel deep pleasure much of the time, feeling afraid, nervous, dissatisfied, or miserable instead. Thus encouraging people to avoid pleasure trains them to accept their dissatisfaction as legitimate and normal. Sharing sexual pleasure outside the nuclear family has also helped many healthy cultures build solidarity and deep friendships within and across communities, so when pleasure and especially sexual pleasure is discouraged, this way of building solidarity is also discouraged.[xxx-odoc|ch25]**
 
 Religion is a major way that rulers have imposed sexism. Authoritarian religions commonly discourage solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible|kjb 1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
 
@@ -227,19 +227,19 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 ### References
 
-[xxx-bible|esv mark 14:56-64]
+[xxx-bible|esv matthew 27:12]-aaa (Matthew 27:12, King James Version Bible)
 
-[xxx-red mother|p21]
+[xxx-odoc|ch25]-aaa (Randolph, 2024, "Chapter 25: Sexual Freedom vs Sexual Repression")
 
-[xxx-bible|kjb luke 23:2]
+[xxx-bible|kjb luke 23:2]-aaa (Luke 23:2, King James Version Bible)
 
-[xxx-indian heroes and great chieftains|chief joseph]
+[xxx-indian child life|faithfulness long ears]-aaa (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")
 
-[xxx-indian child life|faithfulness long ears]
+[xxx-black elk life of an american visionary|black robe days]-aaa (Jackson, 2016, "Black Robe Days")
 
-[xxx-black elk life of an american visionary|black robe days]
+[xxx-indian heroes and great chieftains|chief joseph]-aaa (Eastman (Ohiyesa), 2013, "Chief Joseph")
 
-[xxx-odoc|ch25]
+[xxx-red mother|p21]-aaa (Linderman, 1932, 21)
 
 [xxx-tgc jesus obed]-aaa (McCormick, n.d.)
 
@@ -265,7 +265,7 @@ Only by tapping into our own power to choose for ourselves what to believe and w
 
 [xxx-islam freedom]-aaa (Khan, 2019)
 
-[xxx-bible mark 2:27]-aaa (Mark 2:27, King James Version Bible)
+[xxx-bible|mark 2:27]-aaa (Mark 2:27, King James Version Bible)
 
 [xxx-bible|niv 1 peter 2:13]-aaa (Mark 1 Peter 2:13, New International Version Bible)
 

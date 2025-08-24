@@ -64,7 +64,7 @@ Of course, there are many stories of individual Americans or small groups pullin
 
 And yet as I read more about various healthy cultures, I kept finding stories in which whole towns and even whole nations routinely acted with kindness and respect toward every member.
 
-Nancy Basket, a woman of Cherokee descent described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.[xxx-basket interview]
+Nancy Basket, a woman of Cherokee descent, described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.[xxx-basket interview]
 
 People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
 
@@ -82,7 +82,7 @@ I remember first reading about Geronimo's integrity, and my mind went to all the
 
 And it's not just trustworthiness. I kept finding stories of incredible generosity -- not just occasionally, but as a normal way of life for whole nations.
 
-Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. They did not have markets for trading or bartering, but instead embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
+Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. Instead of having markets for trading or bartering, they embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
 
 The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
 
@@ -98,7 +98,7 @@ All this could easily seem too good to be true, except for another kind of story
 
 Benjamin Franklin also noticed this, saying "No European who has tasted Savage Life can afterwards bear to live in our societies."[xxx-lies my teacher told me|p107] "Savage" has been a common European label for people of healthy cultures, which will be discussed later. Many enslaved people who escaped British or American bondage also ran away to live with healthy cultures.[xxx-lies my teacher told me|p108]
 
-Even when people of unhealthy cultures were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee Confederacy engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French prisoners didn't want to return home after experiencing life in a healthy culture: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
+Even when people of unhealthy cultures were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French didn't want to return home after experiencing life in a healthy culture: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
 
 In other words, French prisoners of war had lived in a non-abusive culture and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."
 
@@ -106,7 +106,7 @@ This was obviously humiliating for colonial leaders who pretended not to abusive
 
 In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy culture they'd been able to experience!
 
-These healthy cultures were a major threat to colonial leaders, because their existence showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.[xxx-lies my teacher told me|p107]
+These healthy cultures were a major threat to colonial leaders, because they showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy cultures always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy cultures devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy cultures.[xxx-lies my teacher told me|p107]
 
 ### Deep Respect, Even when Capturing Prisoners of War
 
@@ -114,7 +114,7 @@ For a while I wondered how healthy cultures could keep prisoners of war if they 
 
 There are three ways to deal with captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. 
 
-People of healthy cultures have openly acknowledged that they treat their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Sioux man Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
+People of healthy cultures openly acknowledged that they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the culture. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
 Pretty Shield, a woman of the Crow culture, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
 
@@ -129,7 +129,7 @@ Still... how do all these nations maintain such a beautiful way of life? If a gr
 
 ### References
 
-[xxx-opendemocracy zapatista women law as it is lived today]
+[xxx-opendemocracy zapatista women law as it is lived today]-aaa (Marcos, 2014)
 
 [xxx-huron farmers of the north|p71]-aaa (Trigger, 1969, 71)
 

@@ -93,8 +93,8 @@ So find people that you trust to speak your heart to, and whom you likewise list
 
 ### References
 
-[xxx-original instructions|armstrong]
+[xxx-true americanism|p27]-aaa (Mantell, 1974, 27)
 
-[xxx-true americanism|p27]
+[xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
 [xxx-churchill democracy]-aaa (Churchill, 1947)

@@ -37,8 +37,7 @@ BOOK_ADDED_STYLE = """
     text-align: justify;
   }\n
   #biblio p {
-    font-size: 8.5pt;
-    margin: .5em;
+    font-size: 7pt;
   }
   @page :left {
     size: %sin %sin;
@@ -54,7 +53,11 @@ BOOK_ADDED_STYLE = """
     margin-top: .55in;
     margin-bottom: .55in
   }
-  table.cite_table td {font-size:9px;}
+  table.cite_table td {
+    font-size:6.5pt;
+    padding-left: 0em;
+
+  }
   blockquote {
     color: black;
   }

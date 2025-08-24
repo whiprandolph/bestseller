@@ -87,7 +87,7 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 
 ### References
 
-[xxx-from deep woods to civilization|civ preached practiced]
+[xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
 [xxx-indian heroes and great chieftains|crazy horse]-aaa (Eastman (Ohiyesa), 2013, "Crazy Horse")
 
