@@ -28,9 +28,9 @@ As I became more empathetic and observant, I started treating everyone around me
 
 Ultimately, I can only know my own experience, but this doesn't have to limit me when I cultivate deep awareness. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's point of view, but I can at least understand their perspective which helps me understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 
-I strongly believe that these nature connection practices are key to generating unity among people and nonhumans in any culture. Once I started really noticing the perspectives of insects, bears and plants, it became easier to notice and understand other people's perspectives.
+I strongly believe that these nature connection practices are key to generating unity among people and nonhumans in any nation. Once I started really noticing the perspectives of insects, bears and plants, it became easier to notice and understand other people's perspectives.
 
-When everybody embraces these deep awareness practices, mutual understanding and empathy become common, helping any group find and maintain deep unity -- even in unhealthy cultures.
+When everybody embraces these deep awareness practices, mutual understanding and empathy become common, helping any group find and maintain deep unity -- even in unhealthy nations.
 
 These practices also helped me make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When I continuously pay attention to what I observe, I notice what I know and what I don't know. There's little room for unexamined beliefs.
 
@@ -48,13 +48,13 @@ The Haudenosaunee open every gathering with the Thanksgiving Address, calling it
 
 > Now our minds are one.
 
-Healthy cultures generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
+Healthy nations generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
-This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a culture's leaders can encourage unity and awareness rather than division and ignorance.
+This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a nations's leaders can encourage unity and awareness rather than division and ignorance.
 
-When I began giving thanks to the nonhumans for their divine gifts, I realized that God is not off in the sky; Creator is alive in Creation. I believe that's what it means to recognize the Great Spirit That Moves Through All Beings, a perspective I've found in many healthy cultures. In Christianity, this is called the Holy Spirit. And since Creator is alive in Creation, when people stand in solidarity with the Earth, they're standing in solidarity with Creator.
+When I began giving thanks to the nonhumans for their divine gifts, I realized that God is not off in the sky; Creator is alive in Creation. I believe that's what it means to recognize the Great Spirit That Moves Through All Beings, a perspective I've found in many healthy nations. In Christianity, this is called the Holy Spirit. And since Creator is alive in Creation, when people stand in solidarity with the Earth, they're standing in solidarity with Creator.
 
-Being in solidarity with life means being in solidarity with God. Being One with the Earth and being One with God are the same thing. The same three core spiritual practices that generate solidarity among people in healthy cultures also generate solidarity between people and all life, and with divinity itself.
+Being in solidarity with life means being in solidarity with God. Being One with the Earth and being One with God are the same thing. The same three core spiritual practices that generate solidarity among people in healthy nations also generate solidarity between people and all life, and with divinity itself.
 
 Racism and other kinds of discrimination do not have to exist. Whole nations are capable of incredible unity when they base their way of life on the three core spiritual practices.
 

@@ -7,7 +7,7 @@ chapters = {
     (1, 1, "Part Introduction.md"),
     (3, 1, "This is Who We Really Are.md"),
     (3, 1, "How Can a Whole Nation Embrace Generosity and Integrity.md"),
-    (3, 1, "Healthy Cultures Share Three Core Spiritual Practices.md"),
+    (3, 1, "Healthy Nations Share Three Core Spiritual Practices.md"),
     (3, 1, "Imagine If Pervasive Generosity Was Normal.md"),
     (3, 1, "Why Doesn't Everybody Live in This Beautiful Way.md"),
   ],

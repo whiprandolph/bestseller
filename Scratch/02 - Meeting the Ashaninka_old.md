@@ -10,7 +10,7 @@ I also had no idea where I might find a healthier, more caring culture -- somepl
 
 Did such a place even exist?
 
-A year earlier, I had met a woman at the Age of Limits conference who invited me to join a worktrade program at her shared home at a large intentional community deep in the beautiful Appalachian mountains of Western North Carolina. Could this be the sort of healthy culture I was looking for? I decided to find out.
+A year earlier, I had met a woman at the Age of Limits conference who invited me to join a worktrade program at her shared home at a large intentional community deep in the beautiful Appalachian mountains of Western North Carolina. Could this be the sort of healthy nation I was looking for? I decided to find out.
 
 At the community, I suddenly was surrounded by people willing to question conventional narratives and to live in alignment with their values. We might disagree about some things, but at least we could talk about our concerns. What a relief to feel so free! Whether or not this community was my final home, I knew I had made the right choice to embark on this journey.
 
@@ -34,13 +34,13 @@ Listening to these elders' private concerns, I imagined myself in their shoes, f
 
 How could I even know what unconscious patterns I had?
 
-Though I had a lot to be grateful for at this village, this wasn't the healthy culture I wanted to learn from. I still wondered: do healthy cultures exist?
+Though I had a lot to be grateful for at this village, this wasn't the healthy nation I wanted to learn from. I still wondered: do healthy nations exist?
 
-So I had a crazy idea. Instead of looking for a small village that was already part of an unhealthy culture like the United States, what if I looked for an entire nation of people that lived together in a beautiful way? I had just read _Black Elk Speaks_ and for the first time, I learned of the Lakota and how different their traditional way of life seemed compared to mine. I hadn't yet thought of the term "healthy culture," but in November 2014, I set off looking for one.
+So I had a crazy idea. Instead of looking for a small village that was already part of an unhealthy nation like the United States, what if I looked for an entire nation of people that lived together in a beautiful way? I had just read _Black Elk Speaks_ and for the first time, I learned of the Lakota and how different their traditional way of life seemed compared to mine. I hadn't yet thought of the term "healthy nation," but in November 2014, I set off looking for one.
 
 I spent almost a year searching for such a group in Ecuador, Bolivia, and Peru while studying Spanish intensively. I got robbed a few times and I almost died a few times. Once someone told me I would be killed if I kept searching, making a gesture of shooting me with blowdarts and my body then floating down the river. Along the way, friends joined me and left again, and I had various adventures, but through it all I was always looking for some entire culture living in a way I wanted to emulate.
 
-By July 2015, I was worn out. I decided to rest and do an extended water-only fast in Satipo, Peru.  Eleven days into that fast, I finally gave up my search. Every hope had been followed by disappointment. I still wanted to find a healthy culture, but I had no ideas and no leads.
+By July 2015, I was worn out. I decided to rest and do an extended water-only fast in Satipo, Peru.  Eleven days into that fast, I finally gave up my search. Every hope had been followed by disappointment. I still wanted to find a healthy nation, but I had no ideas and no leads.
 
 Exhausted, I had done my best and I had failed.
 
@@ -110,6 +110,6 @@ Mike had told me something else before we arrived at the Ashaninkas' villages:
 
 Mike was right about that too. A few months later, when I was talking with my father in Los Angeles, he asked me what I had learned. I teared up, as I still do today whenever I think about my time with the Ashaninka. I told my dad, "I don't know everything I learned. I'm still figuring it out. But I know this: people can live differently. We can treat each other well. I know it is possible, and I will never doubt it again because I saw it with my own eyes."
 
-I knew humans could live in a healthy culture -- the Ashaninka had proven it's possible! But what else could I learn? Did they just get lucky and stumble on a pleasant way of life by chance? Are there other cultures that live or lived in similarly beautiful ways that I could learn from? 
+I knew humans could live in a healthy nation -- the Ashaninka had proven it's possible! But what else could I learn? Did they just get lucky and stumble on a pleasant way of life by chance? Are there other cultures that live or lived in similarly beautiful ways that I could learn from? 
 
 <div style="break-after:page"></div>

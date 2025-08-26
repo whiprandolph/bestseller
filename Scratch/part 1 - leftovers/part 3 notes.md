@@ -1,4 +1,4 @@
-I've never been part of a deep revolution, but I've found stories of people who have. where people created new healthy cultures in the midst of violence so they could live in a good way again.
+I've never been part of a deep revolution, but I've found stories of people who have. where people created new healthy nations in the midst of violence so they could live in a good way again.
 
 Pull from Basic Call to Consciousness / Chap 31 and Zapatistas / Chap 40.
 
@@ -29,7 +29,7 @@ we have a way of life that results in all these things - results in the death of
 *********
 What is purpose of the book?
 
-* Healthy cultures exist - seek wisdom from people who have it
+* Healthy nations exist - seek wisdom from people who have it
 
 * 
 

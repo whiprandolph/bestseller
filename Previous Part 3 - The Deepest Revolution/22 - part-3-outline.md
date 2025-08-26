@@ -124,7 +124,7 @@ In other words, a brave person "does what's right" or "does the right thing" no 
 
 ##### Protect Each Other
 
-* Standing up for one's self and others is the ultimate act of self-respect. The fact that so many people tolerate so much abuse indicates how little self-respect there is in unhealthy cultures. 
+* Standing up for one's self and others is the ultimate act of self-respect. The fact that so many people tolerate so much abuse indicates how little self-respect there is in unhealthy nations. 
 
 #### Commit to Personal Growth with Others
 
@@ -198,17 +198,17 @@ I believe the only way to end abuse is to stop tolerating it. That's what deep r
 
 The night before his assassination, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
 
-I'm telling you I've BEEN to the promised land. I've lived with a whole healthy culture where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
+I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
 
 The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our messiahs, one of our liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. _Living with rulers is a catastrophe. Now is the time to end it._
 
 As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have proven, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist. Genocides and hate continue, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers. And nuclear apocalypse threatens all of us.
 
-Kings and billionaires of unhealthy cultures threaten, bribe, trick, and trap countless people to support all these terrible things and more. I believe the only solution is to create new healthy cultures -- new nations, where everybody bravely stands for what's right as a normal way of life.
+Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap countless people to support all these terrible things and more. I believe the only solution is to create new healthy nations -- new nations, where everybody bravely stands for what's right as a normal way of life.
 
 I don't know how to achieve the transformation I want, but I know where I stand. I stand with the Earth, and I stand for a culture of mutual respect. And I'm not the only one.
 
-Millions of people are standing for the Earth and standing for cultures of mutual respect right now. Some of us were born into healthy cultures, and some of us were born into unhealthy cultures. In countless different ways, all around the world, we are taking this stand together.
+Millions of people are standing for the Earth and standing for cultures of mutual respect right now. Some of us were born into healthy nations, and some of us were born into unhealthy nations. In countless different ways, all around the world, we are taking this stand together.
 
 And I'd love for you to join us.
 

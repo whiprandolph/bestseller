@@ -1,8 +1,8 @@
 ## they remember life when everyone held each other to high standards
 
-Even if the oppressive poverty, government schools, land theft, child kidnapping, and other troubles have made it difficult, they carry a memory of how to live properly with each other and the Earth. That means that if there is ever an opportunity for a successful Deep Revolution, people of healthy cultures are most likely to succeed, as they carry that cultural memory of how to live in a good way. The Zapatistas showed that people can pass this memory down for 500 years so that when it's time for revolution, that wisdom is available and the people are ready.
+Even if the oppressive poverty, government schools, land theft, child kidnapping, and other troubles have made it difficult, they carry a memory of how to live properly with each other and the Earth. That means that if there is ever an opportunity for a successful Deep Revolution, people of healthy nations are most likely to succeed, as they carry that cultural memory of how to live in a good way. The Zapatistas showed that people can pass this memory down for 500 years so that when it's time for revolution, that wisdom is available and the people are ready.
 
-But if you're like me, you don't know anything about your healthy-culture ancestors. For me, some time in the distant past, my ancestors stopped passing down that ancient wisdom as they adjusted to life in their unhealthy culture.
+But if you're like me, you don't know anything about your healthy-culture ancestors. For me, some time in the distant past, my ancestors stopped passing down that ancient wisdom as they adjusted to life in their unhealthy nation.
 
 * Find Mentors With Higher Standards Than You
 
@@ -14,13 +14,13 @@ What is the biggest difference between a present-day Haudenosaunee, Cherokee, or
 
 All of them live under ruling-class laws, so none of them are free. Any of them can get a job or start families. What is the difference?
 
-I believe the key difference is this: people of healthy cultures, even when recently forced to live under ruling-class laws, _remember what it is like when everyone in a nation has spiritual strength._ They remember how to live with integrity and bravery, how to cultivate deep awareness, and how to live in a way that enriches the Earth instead of trashing it. They remember how to cultivate that practical, aware gratitude, help each other give their sacred gifts, and live in reciprocity with each other and the Earth.
+I believe the key difference is this: people of healthy nations, even when recently forced to live under ruling-class laws, _remember what it is like when everyone in a nation has spiritual strength._ They remember how to live with integrity and bravery, how to cultivate deep awareness, and how to live in a way that enriches the Earth instead of trashing it. They remember how to cultivate that practical, aware gratitude, help each other give their sacred gifts, and live in reciprocity with each other and the Earth.
 
-In other words, people of healthy cultures remember how to live where people have high standards for each other, or high expectations. In traditional times, people did not just expect each other to be pretty honest, but totally honest. People did not expect occasional generosity, but continual generosity. Even if many healthy cultures cannot fully live in a traditional way today, they carry that cultural memory that a beautiful way of life is possible, and many people live those ancient values as much as they can.
+In other words, people of healthy nations remember how to live where people have high standards for each other, or high expectations. In traditional times, people did not just expect each other to be pretty honest, but totally honest. People did not expect occasional generosity, but continual generosity. Even if many healthy nations cannot fully live in a traditional way today, they carry that cultural memory that a beautiful way of life is possible, and many people live those ancient values as much as they can.
 
 For the average American, Russian, or German, sometime in the past our ancestors stopped passing down those stories, so most of us don't carry that cultural memory of how to live in a good way, where people have high expectations of each other, and hold each other to a high standard of excellent and beautiful behavior.
 
-Stories from healthy cultures show just how high our standards could be for each other.
+Stories from healthy nations show just how high our standards could be for each other.
 
 #### A High Standard of Integrity
 
@@ -38,7 +38,7 @@ Can you imagine if the people around you were so physically resilient that even 
 
 #### A High Standard of Generosity and Service
 
-(Jesus Christ just seemed normal to people of healthy cultures)
+(Jesus Christ just seemed normal to people of healthy nations)
 
 Can you imagine if a missionary came to you with stories of an amazing man who gave away everything he had and dedicated his life to feeding the hungry, healing the sick, confronting injustice, and if your reponse was "Yeah, that's just how my people are. Jesus Christ sounds like just a normal good man."
 
@@ -50,7 +50,7 @@ Could you imagine if adults took young people's education seriously, offering th
 
 #### A High Standard of Benefitting the Earth
 
-Stories abound of people of healthy cultures actually _benefitting_ the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how traditional Potawatomi and Mohawk basket makers would respectfully harvest Black Ash trees to make their baskets, and Black Ash actually became _more abundant_ in regions where it was respectfully harvested, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described in detail how he respectfully harvested a sapling to make a bow in such a way that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p80]
+Stories abound of people of healthy nations actually _benefitting_ the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how traditional Potawatomi and Mohawk basket makers would respectfully harvest Black Ash trees to make their baskets, and Black Ash actually became _more abundant_ in regions where it was respectfully harvested, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described in detail how he respectfully harvested a sapling to make a bow in such a way that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p80]
 
 Can you imagine if your normal way of life benefitted the Earth around you, increasing the natural abundance that you depended on?
 
@@ -65,13 +65,13 @@ You could hold yourself and the people around you to a high standard of integrit
 
 ### When People are discouraged from developing high standards and are rewarded for low standards, the outcome is dismal
 
-Once people are conquered, and they accept being ruled in their unhealthy culture as normal and legitimate, _people's standards for themselves and each other drops a lot._ In other words, when a person or group finally considers it legitimate and ok to submit to authorities, they stop expecting very much of themselves or each other. People don't really expect life to be deeply meaningful, don't deeply trust others, or learn to focus mostly on themselves or pleasing others to keep life comfortable.
+Once people are conquered, and they accept being ruled in their unhealthy nation as normal and legitimate, _people's standards for themselves and each other drops a lot._ In other words, when a person or group finally considers it legitimate and ok to submit to authorities, they stop expecting very much of themselves or each other. People don't really expect life to be deeply meaningful, don't deeply trust others, or learn to focus mostly on themselves or pleasing others to keep life comfortable.
 
 The underlying attitudes are things like, "Why bother cultivating deep integrity and bravery if I just want to keep my comfortable, predictable life and not rock the boat?" or "Why confront injustice if I don't trust others to stand with me, and if it wouldn't do any good anyway?"
 
-As Part 2 showed, unhealthy cultures reward and encourage all our worst qualities, such as selfishness, cowardice, disconnection from each other and the Earth, ignorance, and superficiality. When people stop standing for what's right, and instead focus on keeping their job or wealth while staying out of trouble, these qualities can become widespread.
+As Part 2 showed, unhealthy nations reward and encourage all our worst qualities, such as selfishness, cowardice, disconnection from each other and the Earth, ignorance, and superficiality. When people stop standing for what's right, and instead focus on keeping their job or wealth while staying out of trouble, these qualities can become widespread.
 
-If a group of people wanted to form the seed of a new healthy culture, what would they need to do? In other words, what is a crucial early step on the path to the Deepest Revolution?
+If a group of people wanted to form the seed of a new healthy nation, what would they need to do? In other words, what is a crucial early step on the path to the Deepest Revolution?
 
 I believe one thing is crucial: _Hold yourself and others to the highest standards of excellent and beautiful behavior._
 
@@ -98,15 +98,15 @@ Many parents spend vast amounts of time and energy on their children. They care 
 
 Imagine caring just as much about people around you that you aren't related to, or caring just as much about the local population of deer, or a nearby river.
 
-This is actually the normal depth of caring in healthy cultures, where people see divinity in every creature, and feel grateful for each creature's gifts. That's why Jenu Kuruba shaman JK Thimma said "who do you think will take care of the forest better? Us, who worship the animals, or you, who see the animals as wild and are frightened of them?"
+This is actually the normal depth of caring in healthy nations, where people see divinity in every creature, and feel grateful for each creature's gifts. That's why Jenu Kuruba shaman JK Thimma said "who do you think will take care of the forest better? Us, who worship the animals, or you, who see the animals as wild and are frightened of them?"
 
 Many adults lack deep connections with others where they can feel deeply invested and meaningfully act in service, and often their children become the only outlet for this attitude of service.
 
-Parenting is one aspect of life where people can strongly influence someone else's life path (their kids') both for better or worse. But I believe in healthy cultures, adults feel as invested in each other as many parents do in their kids.     
+Parenting is one aspect of life where people can strongly influence someone else's life path (their kids') both for better or worse. But I believe in healthy nations, adults feel as invested in each other as many parents do in their kids.     
 
-Imagine being surrounded by people and nonhumans you cared about, and who cared about you, and you were really invested in their wellbeing. I think this is the normal way of life in a healthy culture.
+Imagine being surrounded by people and nonhumans you cared about, and who cared about you, and you were really invested in their wellbeing. I think this is the normal way of life in a healthy nation.
 
-The tragedy of unhealthy cultures is that, when they conquer healthy cultures, they do their best to destroy these deeply caring relationships between the people, and between the people and the Earth. Whether by forcing people out of the region entirely, as with the Cherokee Trail of Tears or Potawatomi Trail of Death, or imposing land ownership and then making land too expensive for most to own, or a thousand other ways, unhealthy cultures make it hard for people to form deep connections with each other and the Earth.
+The tragedy of unhealthy nations is that, when they conquer healthy nations, they do their best to destroy these deeply caring relationships between the people, and between the people and the Earth. Whether by forcing people out of the region entirely, as with the Cherokee Trail of Tears or Potawatomi Trail of Death, or imposing land ownership and then making land too expensive for most to own, or a thousand other ways, unhealthy nations make it hard for people to form deep connections with each other and the Earth.
 
 And with all the divisiveness, the racism and sexism, the lazy thinking and foolish assumptions, the police that oppress solidarity movements and attack our spiritual leaders, and economies that reward selfishness, they make it hard for people to connect in ways where each person is deeply grateful for the other.
 
@@ -140,11 +140,11 @@ And when you're giving your gifts from a place of gratitude for the people and n
 
 ### When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?
 
-* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy cultures. Just lacking freedom... hmm...
+* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy nations. Just lacking freedom... hmm...
 
 * still big problems -- but people would figure it out.
 
-  * could study other healthy cultures -- how do they pick leaders? How do they maintain culture of generous sharing over time?
+  * could study other healthy nations -- how do they pick leaders? How do they maintain culture of generous sharing over time?
 
   * and trust in your own ability to make mistakes and learn from them
 
@@ -154,9 +154,9 @@ And when you're giving your gifts from a place of gratitude for the people and n
 
 ### Integrity and Natural Law
 
-* integrity as structure in psychology, engineering -- and healthy cultures
+* integrity as structure in psychology, engineering -- and healthy nations
 
-* everyone's collective integrity is the structure of a healthy culture -- the source of law when no one imposes law on anyone else
+* everyone's collective integrity is the structure of a healthy nation -- the source of law when no one imposes law on anyone else
 
 Law is just the standard of behaviors people agree on. When Law is imposed, people are unable to uphold their own law.
 
@@ -190,11 +190,11 @@ In practice, that means when standards of behavior are imposed, people don't uph
 
 ### When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?
 
-* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy cultures. Just lacking freedom... hmm...
+* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy nations. Just lacking freedom... hmm...
 
 * still big problems -- but people would figure it out.
 
-  * could study other healthy cultures -- how do they pick leaders? How do they maintain culture of generous sharing over time?
+  * could study other healthy nations -- how do they pick leaders? How do they maintain culture of generous sharing over time?
 
   * and trust in your own ability to make mistakes and learn from them
 

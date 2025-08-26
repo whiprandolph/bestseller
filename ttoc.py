@@ -102,6 +102,8 @@ def get_file_list(ignore_images = False):
 
 def get_md(md_path):
     md_contents = open(md_path, 'r', encoding='utf-8').read()
+    assert "healthy culture" not in md_contents.lower(), "'healthy culture' in %s" % md_path
+    assert "healthy-culture" not in md_contents.lower(), "'healthy-culture' in %s" % md_path
     if not PUBLISH:
         return md_contents
     

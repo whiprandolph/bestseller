@@ -17,7 +17,7 @@
   * [Decide What's Worth Dying For](#decide-whats-worth-dying-for)
 <toc/>
 
-Countless people have been trapped in unhealthy cultures for centuries or even millennia.
+Countless people have been trapped in unhealthy nations for centuries or even millennia.
 
 What do you think is the biggest trouble that keeps people trapped, generation after generation?
 
@@ -28,7 +28,7 @@ Sioux man Ohiyesa said, "while Indians unqualifiedly say what they mean, the whi
 
 
 
-* the depth of love and courage that would make you an excellent spiritual leader in the Deepest Revolution is the same depth of love and courage that would get you killed in your unhealthy culture.
+* the depth of love and courage that would make you an excellent spiritual leader in the Deepest Revolution is the same depth of love and courage that would get you killed in your unhealthy nation.
 
 * but now you know the risk! You can still give your deepest love, knowing what's even worth dying for like Christ and MLK, but going in eyes wide open instead of having the rug pulled out from underneath you when the police and judges disregard the law to to persecute you.
 
@@ -127,7 +127,7 @@ Focus your attention on the most meaningful things -- joyful times with loved on
 
 #### Protect Each Other
 
-* Standing up for one's self and others is the ultimate act of self-respect. The fact that so many people tolerate so much abuse indicates how little self-respect there is in unhealthy cultures. 
+* Standing up for one's self and others is the ultimate act of self-respect. The fact that so many people tolerate so much abuse indicates how little self-respect there is in unhealthy nations. 
 
 Awareness, integrity, bravery -- these are skills that can be practiced.
 
@@ -152,7 +152,7 @@ Prechtel in _Secrets of the Talking Jaguar_: "thugs, gangs, rape, murder, guns, 
 
 * sometimes people make agreements about proper behavior that do not account for everything that could happen, and so 
 
-* In unhealthy cultures, when the law and justice are in conflict, the legal systems enforce the law, justice be damned. In healthy cultures, when justice and their agreements are somehow in conflict, they choose justice -- and they have the spiritual strength to make this choice with wisdom.
+* In unhealthy nations, when the law and justice are in conflict, the legal systems enforce the law, justice be damned. In healthy nations, when justice and their agreements are somehow in conflict, they choose justice -- and they have the spiritual strength to make this choice with wisdom.
 
 
 #### Decide What's Worth Dying For

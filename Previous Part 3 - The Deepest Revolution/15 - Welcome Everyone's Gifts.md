@@ -1,85 +1,85 @@
 ## Chapter 15: Welcome Everyone's Gifts
 
-Some people have more money or privilege than others, but no one is doing well in their unhealthy culture.
+Some people have more money or privilege than others, but no one is doing well in their unhealthy nation.
 
 Each of us has sacred gifts to give, life purposes or ways of making the world a better place. Giving one's gifts is how a person gives their love in life, and if a person's gifts are rejected, their love is rejected.
 
 While each person has their own unique gifts, there are common masculine and feminine gifts too. While everybody has both masculine and feminine energies, most humans align more closely with one or the other.
 
-It turns out that both masculine and feminine gifts are unwelcome in unhealthy cultures, and so it is common for both men and women to feel unsatisfied. 
+It turns out that both masculine and feminine gifts are unwelcome in unhealthy nations, and so it is common for both men and women to feel unsatisfied. 
 
 ### Welcome the Feminine Gifts
 
-Women suffer dramatically in unhealthy cultures. Sexism exists in every unhealthy culture, and the sexism universally favors men over women. In some times and places, wives have been treated as the property of their husbands, having no independent legal rights at all. This was true in 19th century United States and present-day Saudi Arabia.
+Women suffer dramatically in unhealthy nations. Sexism exists in every unhealthy nation, and the sexism universally favors men over women. In some times and places, wives have been treated as the property of their husbands, having no independent legal rights at all. This was true in 19th century United States and present-day Saudi Arabia.
 
-A report from the Organization of American States found that every court system in North, Central, and South America propagates rape myths.[xxx-ohchr americas violence women] Rape myths are widely believed falsehoods about rape. Common examples include, "it didn't really happen, or the woman lied to cover up infidelity," "no harm was done, or sex between partners can't be rape," "women secretly want to be forced, and they could prevent rape if they chose," and "women who get raped deserve it somehow."[xxx-boys will be boys] As the report summarizes, "This combination of factors leaves the victims with a sense of insecurity, defenselessness and mistrust in the administration of justice..."[xxx-ohchr americas violence women] The report found that this was true in every court system in North, Central, and South America, and I believe it is true in every unhealthy culture.
+A report from the Organization of American States found that every court system in North, Central, and South America propagates rape myths.[xxx-ohchr americas violence women] Rape myths are widely believed falsehoods about rape. Common examples include, "it didn't really happen, or the woman lied to cover up infidelity," "no harm was done, or sex between partners can't be rape," "women secretly want to be forced, and they could prevent rape if they chose," and "women who get raped deserve it somehow."[xxx-boys will be boys] As the report summarizes, "This combination of factors leaves the victims with a sense of insecurity, defenselessness and mistrust in the administration of justice..."[xxx-ohchr americas violence women] The report found that this was true in every court system in North, Central, and South America, and I believe it is true in every unhealthy nation.
 
-Many women have resisted this mistreatment and worked to get their unhealthy culture to treat them respectfully and welcome their gifts. Unfortunately, unhealthy cultures often do not appreciate women's feminine gifts, including nurturing, caretaking, and bringing people together. Many feminist women have fallen into a trap where they feel the need to prove they are "as good as" men to deserve equal respect, instead of insisting on equal respect while celebrating our differences.
+Many women have resisted this mistreatment and worked to get their unhealthy nation to treat them respectfully and welcome their gifts. Unfortunately, unhealthy nations often do not appreciate women's feminine gifts, including nurturing, caretaking, and bringing people together. Many feminist women have fallen into a trap where they feel the need to prove they are "as good as" men to deserve equal respect, instead of insisting on equal respect while celebrating our differences.
 
-As a result, many women in unhealthy cultures have aspired to a life of wage slavery, trying to find meaningless jobs just like male wage slaves who've had meaningless jobs for centuries.
+As a result, many women in unhealthy nations have aspired to a life of wage slavery, trying to find meaningless jobs just like male wage slaves who've had meaningless jobs for centuries.
 
 Unfortunately, when women only aspire to having the same roles as men, they simply take on exploitative jobs that men have traditionally held. Women engineers design nuclear power plants that produce toxic waste which will pollute the Earth for millennia. Women business executives oversee the production of plastics and other chemicals causing endless health problems. Women police officers abuse protesters who are standing for what's right and seeking justice. Women politicians like Margaret Thatcher or Hillary Clinton implement laws that benefit the rich.[xxx-odoc|chp39]<sup>,</sup>[xxx-conversation thatcher]
 
-For as long as I live in an unhealthy culture, I will support women in finding meaningful paid work. Women are equally capable as men in many areas of life and equally deserving of respect. However, encouraging girls to become female wage slaves, selfish female business executives, and corrupt female politicians is clearly not what earlier feminists had in mind.**
+For as long as I live in an unhealthy nation, I will support women in finding meaningful paid work. Women are equally capable as men in many areas of life and equally deserving of respect. However, encouraging girls to become female wage slaves, selfish female business executives, and corrupt female politicians is clearly not what earlier feminists had in mind.**
 
 When I think about having a job, I look to the Zapatistas and Black Panthers for inspiration. They didn't necessarily stop working normal jobs while they sought deep change; they just knew that each person individually "getting a better job" in an exploitative economy was not the path to collective freedom.
 
 #### Honor the Feminine Strengths
 
-Authorities in unhealthy cultures often label many feminine qualities as weaknesses rather than strengths.
+Authorities in unhealthy nations often label many feminine qualities as weaknesses rather than strengths.
 
 I once shared my perspective on gift economies with a mother, and she said that mothers already know about gift economies. Children can never repay their mothers for all the energy and resources mothers give them. Embracing that beautiful gift economy attitude, many mothers recognize that the gifts they give their children will keep passing on. This is one way many women create healthy subcultures in their lives.
 
 Feminine qualities of nurturing and deep inclusiveness show up not just in many families, but also social movements where women play a prominent role. Many women activists have been clear that they're not just fighting for their own betterment, but they're working to make things better for everybody -- that is, they're standing for everybody's needs.
 
-Women's nurturing and tending qualities are strengths, not weaknesses. These qualities are part of every healthy culture there has ever been. A woman's radiant beauty is a blessing everywhere she goes, not an invitation to assault. Women's sensitivity is a gift that shows when things are not quite right and something needs addressing; it is not a sign of irrationality. Women's anger is likewise a core part of healthy cultures, as anger can point to trouble that needs addressing.
+Women's nurturing and tending qualities are strengths, not weaknesses. These qualities are part of every healthy nation there has ever been. A woman's radiant beauty is a blessing everywhere she goes, not an invitation to assault. Women's sensitivity is a gift that shows when things are not quite right and something needs addressing; it is not a sign of irrationality. Women's anger is likewise a core part of healthy nations, as anger can point to trouble that needs addressing.
 
-Embracing the sacred feminine in an unhealthy culture is an act of courage, healing, and love. It is strong to embrace being female, not weak. There is nothing more powerful or revolutionary than being yourself and giving your deepest love.
+Embracing the sacred feminine in an unhealthy nation is an act of courage, healing, and love. It is strong to embrace being female, not weak. There is nothing more powerful or revolutionary than being yourself and giving your deepest love.
 
 The Haudenosaunee showed me how a whole nation can value women's sensitivity and wisdom. Chief Oren Lyons described how, whenever there is a vacant leadership role, a clan mother is trusted to choose a candidate to fill the position. Her choice must be approved by her clan, and then by the grand council of chiefs, and finally by all the people. If a candidate does not receive approval at any stage, the clan matriarch must start over and find someone else, sending another man through the process till he has the full support needed to be recognized as a leader. In this way, no man becomes leader without the support of the trusted woman elder, other leaders, and the community.[xxx-original instructions|a democracy based on peace]
 
-The Haudenosaunee and Zapatista men and women founders knew they needed strong women to play a strong role in their healthy culture. The founding of both these healthy cultures involved women playing a key role in determining their laws and customs, and the men recognized and welcomed the women's contributions.[xxx-odoc|ch31]<sup>,</sup>[xxx-odoc|ch40]
+The Haudenosaunee and Zapatista men and women founders knew they needed strong women to play a strong role in their healthy nation. The founding of both these healthy nations involved women playing a key role in determining their laws and customs, and the men recognized and welcomed the women's contributions.[xxx-odoc|ch31]<sup>,</sup>[xxx-odoc|ch40]
 
-Women who try to be "like men" or "as good as men" are not simply being themselves. Yet this is where real strength comes from -- from _being yourself, by giving your deepest love_. Healthy cultures need strong women being themselves.
+Women who try to be "like men" or "as good as men" are not simply being themselves. Yet this is where real strength comes from -- from _being yourself, by giving your deepest love_. Healthy nations need strong women being themselves.
 
 Whether a particular woman sees her role as tending children or being a military commander, healer, teacher, engineer, administrator, or something else or a mix, women who give their deepest love can contribute in countless ways.
 
-But sexism will not end and freedom will not come just because women succeed in holding the same exploitative jobs as men. Sexism and male privilege are universal features of every unhealthy culture there has ever been. Deep freedom and the end of sexism will come when everybody stands for a culture of mutual respect, and nobody rules over anybody else.
+But sexism will not end and freedom will not come just because women succeed in holding the same exploitative jobs as men. Sexism and male privilege are universal features of every unhealthy nation there has ever been. Deep freedom and the end of sexism will come when everybody stands for a culture of mutual respect, and nobody rules over anybody else.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Welcome the feminine gifts</div>
 <div class="rev-act-body">Think of a way that you've seen or heard women treated hurtfully. For example, perhaps someone claimed a woman deserved to be assaulted because she dressed in a beautiful way, or a mother hardly had any maternity leave after giving birth and struggled to rest and eat well. Maybe someone said that tending to her family and community without expectation of payment is less valuable than having a paying job.<br/><br/>Find a way to honor the feminine gifts around you, so that it is easier for women to give them.</div></div>
 
 ### Welcome the Masculine Gifts
 
-Men suffer dramatically as well, as key masculine gifts are likewise unwelcome in unhealthy cultures.
+Men suffer dramatically as well, as key masculine gifts are likewise unwelcome in unhealthy nations.
 
-A core masculine gift is that of setting boundaries, especially protecting one's people from threats. In all cultures, few things inspire men more than the need to protect their people from danger. And yet, in unhealthy cultures, the rulers are the greatest threat to the people. The greatest threat is not from outside; it is within the culture itself.
+A core masculine gift is that of setting boundaries, especially protecting one's people from threats. In all cultures, few things inspire men more than the need to protect their people from danger. And yet, in unhealthy nations, the rulers are the greatest threat to the people. The greatest threat is not from outside; it is within the culture itself.
 
 As a result, abusive cultures raise boys not to honor their innate spiritual calling to protect their people from threats as a gift of love, without any compensation or orders. Instead, men commonly grow up learning to tolerate, ignore, or perpetuate abuse.
 
-_It is not legal to be a good man in an unhealthy culture_, because good men stand up against any injustice or threat to their people, and authorities forbid this. Thus many men learn to tolerate, ignore, or perpetuate abuse to our neighbors, against all our natural instincts.
+_It is not legal to be a good man in an unhealthy nation_, because good men stand up against any injustice or threat to their people, and authorities forbid this. Thus many men learn to tolerate, ignore, or perpetuate abuse to our neighbors, against all our natural instincts.
 
-When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy cultures wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?"
+When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy nations wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?"
 
-Recall that spirituality is simply how a person relates to themselves and the world. When a man's deep gift of protective boundary-setting is not welcome in their unhealthy culture, it is difficult for a man to know how to relate to himself and the world.
+Recall that spirituality is simply how a person relates to themselves and the world. When a man's deep gift of protective boundary-setting is not welcome in their unhealthy nation, it is difficult for a man to know how to relate to himself and the world.
 
 This ultimately is the spiritual reality behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their love and not stand for what's right is deeply unsatisfying.
 
-This also explains why women in unhealthy cultures around the world keep asking, "Where are all the good men?" In feminist literature, popular music and movies, this is a common question going back to the dawn of unhealthy cultures.
+This also explains why women in unhealthy nations around the world keep asking, "Where are all the good men?" In feminist literature, popular music and movies, this is a common question going back to the dawn of unhealthy nations.
 
-Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy cultures, a core masculine gift is rejected, and many men become spiritually lost.
+Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, a core masculine gift is rejected, and many men become spiritually lost.
 
-People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy cultures do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this. Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or distract themselves from their meaningless life with things like alcohol, drugs, superficial hobbies, or overwork.
+People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this. Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or distract themselves from their meaningless life with things like alcohol, drugs, superficial hobbies, or overwork.
 
 Rain-in-the-Face was a Sioux warrior who fought to protect his people from the encroaching American military. Finally, after much fighting, his people decided to submit and move onto an Indian reservation. He described what happened to his spirit when he finally gave up protecting his people and standing for what's right: "I fought for my people and my country... Rain-In-The-Face was killed when he put down his weapons before the Great Father [US president]. His spirit was gone then; only his poor body lived on..."[xxx-indian heroes and great chieftains|rain-in-the-face]
 
-Every transition into unhealthy cultures required this deep spiritual wounding in men where they are expected to hold back their love and not protect their people from the biggest threats. Rain-In-The-Face could at least recognize his wound because he had grown up in a culture that welcomed his deepest love. He knew what giving his love and setting protective boundaries was like, so he knew something was wrong when these gifts were unwelcome in the unhealthy culture.
+Every transition into unhealthy nations required this deep spiritual wounding in men where they are expected to hold back their love and not protect their people from the biggest threats. Rain-In-The-Face could at least recognize his wound because he had grown up in a culture that welcomed his deepest love. He knew what giving his love and setting protective boundaries was like, so he knew something was wrong when these gifts were unwelcome in the unhealthy nation.
 
-Most boys in unhealthy cultures never learn what it's like to give their deepest love because they're trained for obedience instead of standing for what's right. Training children for obedience actually trains them for cowardice, as they learn to take the comfortable and safe path (of doing what they're told to stay out of trouble) instead of bravely standing for what's right, even contrary to the authorities. When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
+Most boys in unhealthy nations never learn what it's like to give their deepest love because they're trained for obedience instead of standing for what's right. Training children for obedience actually trains them for cowardice, as they learn to take the comfortable and safe path (of doing what they're told to stay out of trouble) instead of bravely standing for what's right, even contrary to the authorities. When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
 
 #### Brave Men Inspire Women's Trust, and Trusting Women Inspire Men's Bravery
 
-When I first heard women asking, "where are all the good men?" I didn't understand the question because I didn't know what a good man was. It wasn't until I found stories of healthy cultures that I learned what it's like when every man in the nation is deeply trustworthy, because every man cultivates the spiritual strength to stand for what's right and protect his people whenever it's needed.
+When I first heard women asking, "where are all the good men?" I didn't understand the question because I didn't know what a good man was. It wasn't until I found stories of healthy nations that I learned what it's like when every man in the nation is deeply trustworthy, because every man cultivates the spiritual strength to stand for what's right and protect his people whenever it's needed.
 
 As I kept finding stories of good men, two themes repeatedly came up: bravery and integrity. Nez Perce chief Joseph led his people on an epic journey to escape American military subjugation and very nearly succeeded. Later his advice to a young American boy was simple: "Be brave and tell the truth."[xxx-joseph brave truth|p336]
 
@@ -89,7 +89,7 @@ Other men showed me how far they took integrity and bravery. Apache man Geronimo
 
 Can you imagine living in a society where all boys are raised to have full integrity and unquestionable bravery, so that every man was fully trustworthy?
 
-Stories from healthy cultures don't just show men's bravery, they show how trusting women can be when they're surrounded by fully trustworthy men.
+Stories from healthy nations don't just show men's bravery, they show how trusting women can be when they're surrounded by fully trustworthy men.
 
 Pretty Shield was a Crow woman, and she described what it was like when the men were absolutely trustworthy, taking deep responsibility for themselves and the wellbeing of their people. She described how her village would move between sites with all their homes and gear packed on horses. They could be attacked at any time, so male Crow scouts would travel ahead, around and behind the main group to give warning if enemies approached. They called these Crow scouts "wolves," and she said, "we women visited while we traveled... The men were ever watching these wolves, and we women constantly watched the men."[xxx-red mother|p22] The women trusted the men to organize themselves into a protection force and pay attention to each other to collectively protect the village, all without pay or threat of punishment by a commanding officer.
 
@@ -103,7 +103,7 @@ Women's beauty and trust can be deeply inspirational to men who have trained to 
 
 These and many other stories show me that it's possible for all the men of a culture to live with integrity and bravery. The women would not have sung for untrustworthy men. These stories showed me what men are capable of when every man embraces deep integrity and bravery in service of the people they love, and how women's trust in men need not be misplaced.
 
-Not just a few individual men, but all the men in a nation can be trustworthy. Unfortunately, unhealthy cultures forbid people from standing for what's right, so they encourage and even require low-integrity and low-bravery in their men, or only allow bravery in limited ways, for example in the military where soldiers still have to submissively follow authorities' orders.
+Not just a few individual men, but all the men in a nation can be trustworthy. Unfortunately, unhealthy nations forbid people from standing for what's right, so they encourage and even require low-integrity and low-bravery in their men, or only allow bravery in limited ways, for example in the military where soldiers still have to submissively follow authorities' orders.
 
 Obviously, women can fight too, and underestimating a woman fighter is a quick path to defeat. Women can likewise cultivate integrity and bravery, so I do _not_ mean to suggest that these are only masculine qualities. 
 

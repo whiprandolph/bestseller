@@ -16,7 +16,7 @@ Imagine what would happen if you woke up and started reading or watching the new
 
 * _Still not free_: Because we're still expected to obey laws we didn't choose, and punished for standing for what's right, we are trained to excuse or ignore that so much abuse and injustice continues. Thus we are still not free today.
 
-* _It doesn't have to be this way_: It is possible to live without these troubles, if people could only form new healthy cultures where everyone agrees on their laws and upholds them with integrity, taking the humans' and nonhumans' needs into account.
+* _It doesn't have to be this way_: It is possible to live without these troubles, if people could only form new healthy nations where everyone agrees on their laws and upholds them with integrity, taking the humans' and nonhumans' needs into account.
 
 Of course, it would be hard to watch these reminders every day! Imagine if news sources consistently reminded viewers of the most beautiful truths too:
 
@@ -26,15 +26,15 @@ Of course, it would be hard to watch these reminders every day! Imagine if news 
 
 * _The Earth loves us and wants to be in a mutually nourishing relationship with us_: 
 
-If the news covered the most important topics, this is what viewers would see every day. In unhealthy cultures, _there is only one political problem: that people are not free_. We suffer endless abuse, confusion, threats, injustice, and isolation, different people in different ways.
+If the news covered the most important topics, this is what viewers would see every day. In unhealthy nations, _there is only one political problem: that people are not free_. We suffer endless abuse, confusion, threats, injustice, and isolation, different people in different ways.
 
 Propaganda takes many forms, but ultimately its goal is to train people to ignore these deep truths and tolerate widespread injustice. The news encourages people to focus on distractions such as professional sports, support ineffective political movements and parties, see fellow citizens as a threat instead of the rich and powerful, focus on this or that aspect of corruption while ignoring the worst injustices, and more.
 
-This shows the importance of where you put your attention. I'm not suggesting you dwell on terrible things all the time -- that would quickly lead to depression! But anytime you consider the political and social situation in your unhealthy culture, keep those bullet points in mind. 
+This shows the importance of where you put your attention. I'm not suggesting you dwell on terrible things all the time -- that would quickly lead to depression! But anytime you consider the political and social situation in your unhealthy nation, keep those bullet points in mind. 
 
 ### Nature Connection Practices: My Personal Journey to Greater Connection and Empathy
 
-Born and raised in unhealthy cultures, what can people do to release any sexist, racist, or hateful cultural training, and instead cultivate deep awareness and understanding of others?**
+Born and raised in unhealthy nations, what can people do to release any sexist, racist, or hateful cultural training, and instead cultivate deep awareness and understanding of others?**
 
 I was pleasantly surprised to discover how much the nature connection practices described in Chapter 3 helped me connect more deeply with people than I ever had before. After practicing for years, it's clear to me that if a whole group of people regularly embraced these practices, they could feel closely connected indeed, leaving no place for sexism, racism and hatred.
 
@@ -54,7 +54,7 @@ This is training in deep empathy, and I noticed it also helped me with people. F
 
 The more I practiced, the more deeply I could see. For example, when black Americans complain about police brutality, it shows me where my society isn't as healthy or fair as it seems in my experience. When children complain about being forced to sit through boring classes at school, they show me where adults can behave hurtfully without knowing it. I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust anyone, but I take care to notice what lessons I can learn from others.
 
-I've had women tell me "you're not a woman, so you can't know what it's like." In a sense, that's true. I'm a man, so I can't know what a woman's experience is like. But by the same logic, I cannot know other men's experiences either. I'm not a black man, so I can't know what a black man's experience is like. I'm neither rich nor impoverished, so I can't know what the rich or poor men's experiences are like. I wasn't born into a healthy culture, so I can't know what that experience is like. And I can't know the experiences of birds or trees.
+I've had women tell me "you're not a woman, so you can't know what it's like." In a sense, that's true. I'm a man, so I can't know what a woman's experience is like. But by the same logic, I cannot know other men's experiences either. I'm not a black man, so I can't know what a black man's experience is like. I'm neither rich nor impoverished, so I can't know what the rich or poor men's experiences are like. I wasn't born into a healthy nation, so I can't know what that experience is like. And I can't know the experiences of birds or trees.
 
 Ultimately, I can only know my own experience, but this doesn't have to limit me when I practice deep empathy. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's perspectives, but I can at least understand them and understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 

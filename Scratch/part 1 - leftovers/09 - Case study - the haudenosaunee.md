@@ -30,7 +30,7 @@ First, healthy boundaries are essential, which are brought to life with shared a
 
 Before they founded the Confederacy, the nations were at war with each other, meaning they were not honoring each other's boundaries. That's simply what war is: actions like theft and killing are violations of other people's boundaries.
 
-Healthy cultures could be at war because what makes a culture healthy is that it maintains an _internal_ baseline of respect. Within each culture's boundaries, they maintained a baseline of respect, but towards other nations who were outside those boundaries, they were at war.
+Healthy nations could be at war because what makes a culture healthy is that it maintains an _internal_ baseline of respect. Within each culture's boundaries, they maintained a baseline of respect, but towards other nations who were outside those boundaries, they were at war.
 
 Regardless of why the wars started, over time, each nation probably had good reason to be upset with the others, as each nation was violating the other nations' boundaries. That's the trouble with war. The more people die, the more the survivors may feel angry at the adversaries who have killed so many of the survivors' friends and family. Thus, it is easy for bad feelings and conflict to go on for a long time.
 
@@ -78,7 +78,7 @@ _Internal boundaries_ are agreements about rules and systems of accountability t
 
 5. avoiding conquering other people.
 
-It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for centuries. But I believe these five elements have many lessons to teach. Let's look at each.
+It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for centuries. But I believe these five elements have many lessons to teach. Let's look at each.
 
 ##### 1. The Haudenosaunee Studied Past Conflicts and Created Agreements to Avoid Repeating Them
 

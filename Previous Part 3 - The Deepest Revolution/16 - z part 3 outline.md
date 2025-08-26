@@ -40,7 +40,7 @@
 
 ### Difference between average people of healthy/unhealthy -- they have high standards
 
-What is the key difference between average people of healthy/unhealthy? People in healthy cultures, past and present, hold themselves to high standards
+What is the key difference between average people of healthy/unhealthy? People in healthy nations, past and present, hold themselves to high standards
 
 ### How high can our standards be?
 
@@ -50,7 +50,7 @@ What is the key difference between average people of healthy/unhealthy? People i
 
 ### When People are discouraged from developing high standards and are rewarded for low standards, the outcome is dismal
 
-* people having low expectations/standards for themselves/others is key symptom of unhealthy cultures
+* people having low expectations/standards for themselves/others is key symptom of unhealthy nations
 
 ### How to Cultivate Your Spiritual Strength, Regardless Your Unhealthy Culture
 
@@ -66,15 +66,15 @@ What is the key difference between average people of healthy/unhealthy? People i
 * Expect challenges and grow beyond them by holding yourself and others to high standards
 
 ### High Standards: Our Only Way to Collectively Be Who We Really Are
-* No healthy culture is possible without high standards
+* No healthy nation is possible without high standards
 * No hope of defeating powerful rulers without high standards
 * The deepest revolution requires integrity
 
 ### Integrity and Natural Law
 
-* integrity as structure in psychology, engineering -- and healthy cultures
+* integrity as structure in psychology, engineering -- and healthy nations
 
-* everyone's collective integrity is the structure of a healthy culture -- the source of law when no one imposes law on anyone else
+* everyone's collective integrity is the structure of a healthy nation -- the source of law when no one imposes law on anyone else
 
 ### Everything is a Skill
 
@@ -112,11 +112,11 @@ What is the key difference between average people of healthy/unhealthy? People i
 
 ### When People Have High Expectations for Themselves and Each Other, What Kind of Culture Will They Create?
 
-* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy cultures. Just lacking freedom... hmm...
+* all the beautiful things -- awareness of each other and Earth, integrity, generosity, mutual respect -- all the qualities of healthy nations. Just lacking freedom... hmm...
 
 * still big problems -- but people would figure it out.
 
-  * could study other healthy cultures -- how do they pick leaders? How do they maintain culture of generous sharing over time?
+  * could study other healthy nations -- how do they pick leaders? How do they maintain culture of generous sharing over time?
 
   * and trust in your own ability to make mistakes and learn from them
 
@@ -128,7 +128,7 @@ What is the key difference between average people of healthy/unhealthy? People i
 
 ### Give Your Sacred Gifts
 
-* As you recognize your sacred gifts and build your spiritual strength, you'll start feeling an urge to give those gifts. Will you find a way to raise & educate children in respectful ways -- unconditional love while holding them to a high standard? Or protect the Earth where you live? Study healthy cultures so you have more models for good ways to live? Or host training camps to prepare for the Deepest Revolution?
+* As you recognize your sacred gifts and build your spiritual strength, you'll start feeling an urge to give those gifts. Will you find a way to raise & educate children in respectful ways -- unconditional love while holding them to a high standard? Or protect the Earth where you live? Study healthy nations so you have more models for good ways to live? Or host training camps to prepare for the Deepest Revolution?
 
 ### We Only Have One Political Problem, and There's Only One Solution
 

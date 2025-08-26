@@ -6,9 +6,9 @@ One universal consequence of being conquered is that _people's standards for the
 
 The underlying attitudes are things like, "Why bother cultivating deep integrity and bravery if I just want to keep my comfortable, predictable life and not rock the boat?" or "Why confront injustice if I don't trust others to stand with me, and if it wouldn't do any good anyway?"
 
-As Part 2 showed, unhealthy cultures reward and encourage all our worst qualities, such as selfishness, cowardice, disconnection from each other and the Earth, ignorance, and superficiality. When people stop standing for what's right, and instead focus on keeping their job or wealth while staying out of trouble, these qualities can become widespread.
+As Part 2 showed, unhealthy nations reward and encourage all our worst qualities, such as selfishness, cowardice, disconnection from each other and the Earth, ignorance, and superficiality. When people stop standing for what's right, and instead focus on keeping their job or wealth while staying out of trouble, these qualities can become widespread.
 
-If a group of people wanted to form the seed of a new healthy culture, what would they need to do? In other words, what is a crucial first step on the path to the Deepest Revolution?
+If a group of people wanted to form the seed of a new healthy nation, what would they need to do? In other words, what is a crucial first step on the path to the Deepest Revolution?
 
 I believe one thing is crucial: _Hold each other to the highest standards of excellent and beautiful behavior._
 
@@ -32,9 +32,9 @@ Imagine how much easier it would be to tackle life's challenges with others' sup
 
 Perhaps this group could help you with technical questions, such as about navigating the legal system or gardening. Or perhaps they can help you see when you're acting out of integrity and didn't even notice, and help you return to full integrity.
 
-Your ancestors lived in a culture where people had close relationships with each other and the Earth. Unhealthy cultures try to break those connections, so part of the path of healing is to form new close connections with other people and the Earth where people bring out the best in each other and hold each other to a high standard.
+Your ancestors lived in a culture where people had close relationships with each other and the Earth. Unhealthy nations try to break those connections, so part of the path of healing is to form new close connections with other people and the Earth where people bring out the best in each other and hold each other to a high standard.
 
-Do not start or join such a group hoping to be part of a fully sovereign healthy culture or fantasizing about living in a utopia someday. This would be a sure path to disappointment. Simply help each other live a life of excellence and beauty right now, in service of each other and the Earth.
+Do not start or join such a group hoping to be part of a fully sovereign healthy nation or fantasizing about living in a utopia someday. This would be a sure path to disappointment. Simply help each other live a life of excellence and beauty right now, in service of each other and the Earth.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #18<br/>Co-found or join a group committed to deep personal and collective growth</div>
 <div class="rev-act-body">Co-found or join a group committed to deep personal and collective growth. This requires at least one other person besides yourself, such as a spouse or close friend. Have each person commit to holding themselves and each other to a high standard, helping each other find a meaningful life path and walk it, standing for what's right if anyone misbehaves, helping each other if anyone is threatened, sharing with each other, and cultivating a mutually enriching relationship with the Earth.</div></div>
@@ -49,7 +49,7 @@ When people really expect the best out of each other, they end up deciding for t
 
 In other words, when everyone stands for what's right as a normal way of life and expects others to do the same, the peope come to an understanding of what's ok and what's not ok.
 
-Ultimately, I believe this is the source of rules in healthy cultures: when everyone in a group expects everyone else to give their deepest love and stand for what's right as a normal way of life, they end up with high standards of excellent behavior that let them live with a baseline of mutual respect.
+Ultimately, I believe this is the source of rules in healthy nations: when everyone in a group expects everyone else to give their deepest love and stand for what's right as a normal way of life, they end up with high standards of excellent behavior that let them live with a baseline of mutual respect.
 
 I believe this is what it means to have a society founded on moral justice instead of statute law. People can obviously still make agreements with each other, and should have high standards of integrity to keep those agreements. But it's hard to make agreements that cover every possible future situation, and sometimes a situation arises where a past agreement is out of place. If by some strange circumstance a past agreement would keep people from seeking justice, or from helping each other during a difficult time, prioritize justice and mutual aid.
 
@@ -67,9 +67,9 @@ If you want to accomplish anything meaningful, you have to commit to your goal b
 
 * Commit to sharing with each other and supporting each other if anyone is in need or under threat
 
-If you and even a small group of people could make and keep these commitments to each other, consider what aspects of healthy cultures your group would embody:
+If you and even a small group of people could make and keep these commitments to each other, consider what aspects of healthy nations your group would embody:
 
-* _baseline of mutual respect_: Your group would have a baseline of mutual respect internally, like healthy cultures.
+* _baseline of mutual respect_: Your group would have a baseline of mutual respect internally, like healthy nations.
 
 * _close, reciprocal relationship with the Earth_
 
@@ -81,7 +81,7 @@ Almost every organization does this, including militaries, corporations, governm
 
 * _trust_: when people commit to that high standard of integrity, trust will become common. People can trust each other to speak the truth and keep promises. Likewise with integrity of service: when people in your group show up for each other in times of need, whether in times of joblessness, legal persecution, or other trouble, you can really relax knowing people in your group will take care of each other no matter what comes.
 
-    You won't have full freedom yet, as your unhealthy culture still imposes its laws. But your group will have its own laws, its own standards of excellent behavior, and people will expect you to uphold them rather than punishing you for it. 
+    You won't have full freedom yet, as your unhealthy nation still imposes its laws. But your group will have its own laws, its own standards of excellent behavior, and people will expect you to uphold them rather than punishing you for it. 
 
 * _spiritual strength_: as the group helps each person learn to give their sacred gifts and stand for what's right, people will really cultivate a deep spiritual strength.
 
@@ -93,7 +93,7 @@ After the Deepest Revolution, there isn't a ruling class anymore. The people agr
 
 If there is any kind of revolution or civil war, and people have not cultivated their spiritual strength and unity, then the revolution will be shallow, and little good will come of it.
 
-So cultivate your spiritual strength and support others in growing as well. No one can know the future. But if you work with others to build a foundation of spiritual strength now, you can protect the Earth and each other for as long as your unhealthy culture lasts. And when the time is ripe, you will be ready for the Deepest Revolution.
+So cultivate your spiritual strength and support others in growing as well. No one can know the future. But if you work with others to build a foundation of spiritual strength now, you can protect the Earth and each other for as long as your unhealthy nation lasts. And when the time is ripe, you will be ready for the Deepest Revolution.
 
 ****
 

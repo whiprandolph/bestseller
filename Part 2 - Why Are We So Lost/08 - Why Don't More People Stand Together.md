@@ -1,18 +1,18 @@
 ## Chapter 8: Why Don't More People Stand Together?
 
-A human culture is a living organism. And just like a tree or lion or ant colony, a human culture can become injured.
+A human nation is a living organism. And just like a tree or lion or ant colony, a human nation can become injured.
 
 Any disrespect between two people is a type of cultural injury, not just a personal concern. Nancy Basket, a woman of Cherokee descent, says, "If there is trouble in a family, the whole nation suffers."[xxx-basket interview] Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."[xxx-letterfromjail.com]
 
-Like all living organisms, injured human cultures try to heal themselves. Healthy human cultures heal their wounds of disrespectful behavior by deeply addressing the trouble and bringing back a baseline of mutual respect. This is the essence of cultural healing.
+Like all living organisms, injured human nations try to heal themselves. Healthy human nations heal their wounds of disrespectful behavior by deeply addressing the trouble and bringing back a baseline of mutual respect. This is the essence of cultural healing.
 
-Human cultures become unhealthy when they are blocked from healing by rich and powerful people who benefit from disrespecting and exploiting their neighbors. These people selfishly resist returning to that respectful baseline that humans find so fundamentally satisfying.
+Human nations become unhealthy when they are blocked from healing by rich and powerful people who benefit from disrespecting and exploiting their neighbors. These people selfishly resist returning to that respectful baseline that humans find so fundamentally satisfying.
 
-Rulers and other authorities in positions of power would clearly lose their current ability to dominate and exploit everyone else if their unhealthy culture were to change. Thus they use their wealth and power to make sure the unhealthy culture and all its deep disrespect continue.
+Rulers and other authorities in positions of power would clearly lose their current ability to dominate and exploit everyone else if their unhealthy nation were to change. Thus they use their wealth and power to make sure the unhealthy nation and all its deep disrespect continue.
 
-What are common ways that rulers and lower authorities prevent cultural healing, blocking people from standing together in solidarity to collectively stop injustices? And what can people do to intentionally generate a culture that maximizes solidarity and encourages deep respect for all?
+What are common ways that rulers and lower authorities prevent cultural healing, blocking people from standing together in solidarity to collectively stop injustices? And what can people do to intentionally generate a nation that maximizes solidarity and encourages deep respect for all?
 
-### Sabotaging Solidarity in Unhealthy Cultures
+### Sabotaging Solidarity in Unhealthy Nations
 
 Authorities and wealthy people sabotage solidarity in countless ways.
 
@@ -22,7 +22,7 @@ Authorities and wealthy people sabotage solidarity in countless ways.
 
 The modern-day term for spiritual leader is "social activist." Whether they are called "social activists" or "spiritual leaders," they are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.
 
-Authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy culture.
+Authorities around the world have found many ways to attack social activists, the spiritual leaders most willing to confront injustice in their unhealthy nation.
 
 In the mid-1900s, East German police developed a practice called _Zersetzung_, meaning disintegration or decomposition. This police practice drove activists to mentally, emotionally, and socially disintegrate without any explicit use of force. The police arranged for various government bureaucracies to lose citizens' forms, take longer than usual to respond to citizens' inquiries or requests, or otherwise seriously frustrate the lives of activists. East German police would sabotage people's reputation. They fabricated and circulated love letters or evidence of illegal behavior among an activist's friends and family in order to sabotage relationships, and they often succeeded.[xxx-moving things around]
 
@@ -107,26 +107,26 @@ Black Lives Matter organizers proclaim they are anti-white supremacy and anti-ca
 
 Black Lives Matter isn't the only astroturf movement in the United States. For example, the multibillionaire Koch brothers have spent over $160 million to fund at least 90 "independent" research and opinion organizations to trick people into thinking climate change is fake -- all to protect their investment in their oil and chemical company.[xxx-greenpeace koch]
 
-Creating and controlling astroturf social movements is common in unhealthy cultures where a few powerful people control vast wealth and work to keep it at any cost.
+Creating and controlling astroturf social movements is common in unhealthy nations where a few powerful people control vast wealth and work to keep it at any cost.
 
-Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a culture without this deep selfishness, how might they do this?
+Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a nation without this deep selfishness, how might they do this?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Channel your anger</div>
-<div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy culture, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy culture where people would never tolerate such abuses.</div></div>
+<div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
 
 ### A Case Study in Creating a Society that Chooses Generous Servant-Leaders: The Haudenosaunee
 
 Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of being punished.
 
-This is not a fantasy, but the normal way people live in healthy cultures. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-a basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-a basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
 What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? Fortunately, the Haudenosaunee offer an example.
 
-Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy culture for over 900 years.
+Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
 
 In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth for over nine centuries.
 
-It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy culture for so long, but I believe these elements have many lessons to teach: 
+It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
 1. _Solidarity_: As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-a basic call to consciousness|p35]<sup>,</sup>[xxx-a basic call to consciousness|p37]
 
@@ -140,7 +140,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."[xxx-a basic call to consciousness|p104] They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38]
 
-5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their culture. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-a basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-a basic call to consciousness|p38]
+5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their nation. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-a basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-a basic call to consciousness|p38]
 
     Since the Haudenosaunee also avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
 
@@ -148,9 +148,9 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 7. _Leaders Serve the People_: They specifically avoided factions,[xxx-a basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-a basic call to consciousness|p104]
 
-What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy cultures, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
+What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
 
-Countless people have dreamed of revolution, but too few revolutionaries have studied healthy cultures and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
+Countless people have dreamed of revolution, but too few revolutionaries have studied healthy nations and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 
 ### References
 

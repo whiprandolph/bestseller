@@ -2,7 +2,7 @@
 
 ### Chapter X: Train Awareness, Integrity, and Bravery
 
-* Integrity is structure of healthy culture
+* Integrity is structure of healthy nation
 
 * Bravery can be trained; surround yourself with bravery
 
@@ -61,10 +61,10 @@
 
 * You may feel scared of modern weapons and surveillance, and dealing with these requires special care.
 
-European colonialism kicked off in earnest over 500 years ago, and for 400 years they didn't have electricity, vehicles, airplanes, computers, missiles, or satellites. In most cases, I believe many healthy cultures simply didn't know what they were up against -- huge number of people with a variety of emotional troubles, whose leaders had filled them with shame, greed, lazy thinking, and entitlement for centuries. People who tolerate abuse and exploitation as a normal way of life, falling for the same manipulative tricks generation after generation.
+European colonialism kicked off in earnest over 500 years ago, and for 400 years they didn't have electricity, vehicles, airplanes, computers, missiles, or satellites. In most cases, I believe many healthy nations simply didn't know what they were up against -- huge number of people with a variety of emotional troubles, whose leaders had filled them with shame, greed, lazy thinking, and entitlement for centuries. People who tolerate abuse and exploitation as a normal way of life, falling for the same manipulative tricks generation after generation.
 
 The security situation is definitely the most challenging. In the 1700s, the Haudenosaunee 
 
 ## cut 
 
-* leadership stability in healthy/unhealthy cultures
+* leadership stability in healthy/unhealthy nations

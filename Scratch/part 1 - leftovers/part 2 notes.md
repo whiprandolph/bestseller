@@ -14,7 +14,7 @@ More you give, the less you have, the less security you have - health issues can
 
 * sabotaging efforts at cultural healing (Black Lives Matter, Russian secretly police-sponsored labor unions, etc)
 
-* tricking people into not knowing healthy cultures exist - savages, etc.
+* tricking people into not knowing healthy nations exist - savages, etc.
 
 
 vs solidarity: Cherokee town story
@@ -36,11 +36,11 @@ vs solidarity: Cherokee town story
 
 * normalize abuse / adopt authoritarian ideologies (chap 21)
 
-* vs... what from healthy cultures?
+* vs... what from healthy nations?
 
 
 ### Endless predation
 
-Other kinds of predation are common, with different kinds more or less common in different unhealthy cultures. 
+Other kinds of predation are common, with different kinds more or less common in different unhealthy nations. 
 
 Even soldiers are not safe from predatory behavior. Decades after scientists had established the harmful effects of nuclear radiation, the Soviet Union, United States, France, and Great Britain all knowingly exposed their soldiers to radiation without their consent. Reports from all these countries show that soldiers were expected to remain silent, even as they were left to face terrible injuries, and even as their children were born with deformities that were clearly traceable to radiation poisoning. Soldiers widely understood the risks as well. One French soldier said, "we knew these things," but authorities demanded that soldiers "obey and shut up."

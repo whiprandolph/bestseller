@@ -1,10 +1,10 @@
 ## Chapter 7: Why Are People So Selfish?
 
-Elders in every healthy culture I've studied consistently train children to be generous, and to see selfishness as a threat to their way of life.
+Elders in every healthy nation I've studied consistently train children to be generous, and to see selfishness as a threat to their way of life.
 
 Sioux man Sitting Bull said, "Love of possessions is a disease,"[xxx-indian heroes and great chieftains|sitting bull] and Sioux man Ohiyesa described his upbringing: "I was trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant."[xxx-from deep woods to civilization|the way opens] Potawatomi woman Robin Kimmerer described how traditional Potawatomi elders would tell their children scary stories of what might happen if they act selfishly, and if selfishness were allowed to take hold in their society.[xxx-braiding sweetgrass|windigo footprints]
 
-When one or a few people act selfishly, the culture can respond by helping them feel comfortable sharing again, or if necessary, evict them if they continue to behave selfishly.
+When one or a few people act selfishly, the nation can respond by helping them feel comfortable sharing again, or if necessary, evict them if they continue to behave selfishly.
 
 But what happens when a ruling class forces laws on the rest, protecting their own wealth at all costs and forbidding people from standing for what's right? What happens when selfishness is allowed to fester, and people can no longer maintain a way of life based on sharing?
 
@@ -14,7 +14,7 @@ Tragically, ruling classes consistently impose a way of life that rewards selfis
 
 Capitalism, socialism, and communism are all examples of profit economies. The main difference is simply whether wealthy individuals and corporations control most property (capitalism) or whether the ruling government controls a larger share (socialism and communism).
 
-I see two major kinds of profit economies: market economies and command economies. Most unhealthy cultures have some mix of both.
+I see two major kinds of profit economies: market economies and command economies. Most unhealthy nations have some mix of both.
 
 Command economies are simple: an authority figure gives an order, and a trapped person obeys the order or gets severely punished. Militaries, chattel slave plantations, and prisons are all command economies. Workers don't choose their bosses, and if workers choose not to work, they receive direct, severe abuse.
 
@@ -32,7 +32,7 @@ Many people in 2025 recognize chattel slave plantations or forced prison labor a
 
 Soviet East German minister for state security Erich Milke once said, "The [German Democratic Republic] is a state that guarantees its citizens freedom, democracy, and basic human rights."[xxx-stasi east german secret police|the sword of repression] On Human Rights Day, Canadian prime minister Justin Trudeau noted that, "defending human rights and democracy has always been, and will continue to be, a priority for Canada..."[xxx-statement canada prime minister rights] Whether socialist or capitalist, these are simply different forms of market economy that allow politicians to pretend that the workers are free.
 
-People of healthy cultures -- who currently or in recent times lived in actual freedom -- recognize the truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people are forced to work for others to survive, not allowed to choose their own laws, and not allowed to uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
+People of healthy nations -- who currently or in recent times lived in actual freedom -- recognize the truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people are forced to work for others to survive, not allowed to choose their own laws, and not allowed to uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
 
 #### Maintaining Financial Desperation in Market Economies
 
@@ -48,7 +48,7 @@ Authorities may make the drawbacks of poverty arbitrarily terrible, including pu
 
 Authorities may allow crime and drugs in the poor parts of town, have the police mistreat poor people in a variety of ways, routinely underfund schools in the poor districts, and allow factory pollution to be worse in poor areas.
 
-The financial desperation that powers most market economies also compels poor people to fight the wars of the rich. In unhealthy cultures around the world, plenty of people join the police or military as a way to escape poverty or dangerous neighborhoods.
+The financial desperation that powers most market economies also compels poor people to fight the wars of the rich. In unhealthy nations around the world, plenty of people join the police or military as a way to escape poverty or dangerous neighborhoods.
 
 Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour, or for nothing at all. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
 
@@ -75,7 +75,7 @@ What would it be like to live in a nation without selfishness, where sharing was
 ### Gift Economies Generate and Spread Abundance
 Gift economies reward sharing. They ensure everyone is taken care of, moving resources to where they're most needed or where they serve the greatest good. 
 
-I experienced a gift economy among the Ashaninka where sharing was clearly the norm. Plenty of other people living in other healthy cultures, past and present, show that this is not particularly unusual.
+I experienced a gift economy among the Ashaninka where sharing was clearly the norm. Plenty of other people living in other healthy nations, past and present, show that this is not particularly unusual.
 
 Nancy Basket, a woman of Cherokee descent, summarized the traditional Cherokee culture of sharing this way: "If we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot."[xxx-basket interview]
 
@@ -87,11 +87,11 @@ Amazingly, when people born into profit economies encounter people born into gif
 
 One of my earliest childhood memories involves giving somebody a gift and noticing that they didn't use it. When I tried to take it back, I was called an "Indian giver." I was told that to be a generous gift-giver, I was supposed to release all interest in what happens to my gift after I give it. I was told that the gift becomes someone else's property and therefore is no longer any of my business.
 
-Wanting to avoid the scorn of being called an Indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian cultures. I was amazed to learn that my younger self had the healthier attitude to gift-giving.
+Wanting to avoid the scorn of being called an Indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian nations. I was amazed to learn that my younger self had the healthier attitude to gift-giving.
 
 All of life is simply divine beings giving their gifts. This is the recognition behind the first core spiritual practice of cultivating the practical, aware gratitude for the gifts of life. Chestnut trees give tasty chestnuts, stinging nettle plants heal joint pain, stars provide guidance, and the soil accepts and recycles us back after we die. All these beings give divine gifts that make life possible and beautiful. No one makes them do this. Humans play their role by giving their own sacred gifts too -- the second core spiritual practice.
 
-In gift economies, people figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy cultures (known as Indians) sometimes gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
+In gift economies, people figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy nations (known as Indians) sometimes gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
 
 Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
 
@@ -103,13 +103,13 @@ A person in a gift economy may feel upset if a person accepts a gift, doesn't us
 
 Potawatomi woman Robin Kimmerer noted the consequences when she wrote, "If all the world is a commodity, how poor we grow. When all the world is a gift in motion, how wealthy we become."[xxx-braiding sweetgrass|the gift of strawberries]
 
-This healthy-culture attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
+This healthy-nation attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
 
 Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever a big challenge arises.
 
 In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"[xxx-original instructions|armstrong]
 
-In cultures that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy culture. Widespread selfishness is the result.
+In nations that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy nation. Widespread selfishness is the result.
 
 But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 

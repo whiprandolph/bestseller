@@ -1,6 +1,6 @@
 ## Chapter 15: Cultivate Your Spiritual Strength
 
-So many aspects of our way of life in unhealthy cultures keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are conditioned in countless ways about what to care about and what to ignore, and where to put our attention, time, and money. And so often in unhealthy cultures, many "conventional" or "mainstream" values are somehow superficial or misguided.
+So many aspects of our way of life in unhealthy nations keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are conditioned in countless ways about what to care about and what to ignore, and where to put our attention, time, and money. And so often in unhealthy nations, many "conventional" or "mainstream" values are somehow superficial or misguided.
 
 Growing up, I learned that the United States was the best country in the world, and I felt proud to live in a capitalist democracy. I looked forward to contributing to the United States' progress and growth throughout my life. As a church-going Christian, I bowed my head every night before dinner and prayed.
 
@@ -14,9 +14,9 @@ Bogaletch Gebre described her own powerful transformation. As a young adult, she
 
 ### Finding the Courage to Release What Doesn't Work
 
-Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the desert before he could fully confront the urge to seek wealth and power that his unhealthy culture instilled in him, and instead choose a path of service. After his transformation, he began a ministry that went on to inspire others for 2,000 years.
+Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the desert before he could fully confront the urge to seek wealth and power that his unhealthy nation instilled in him, and instead choose a path of service. After his transformation, he began a ministry that went on to inspire others for 2,000 years.
 
-This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy culture, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 13), or that you live in a free society (Chapter 6).
+This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 13), or that you live in a free society (Chapter 6).
 
 But in order for Jesus Christ, Don Cox, Bogaletch Gebre, and many other spiritual leaders to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
@@ -24,7 +24,7 @@ Giving up old beliefs is hard, but it becomes so much easier when you begin to s
 
 Embrace your curiosity, and open your mind to possibilities that may have seemed impossible before. As you free your mind from beliefs that don't work, and make space for perspectives that do, you will feel more empowered to make a difference for the people and nonhumans around you.
 
-To live in a healthy culture, you will need to embrace a very different way of life than your unhealthy culture trained you for. A way of life without submissive obedience, where justice is normal and pervasive, where neighbors share generously and deeply trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth.**
+To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, where justice is normal and pervasive, where neighbors share generously and deeply trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth.**
 
 _Part 3_ addresses these three themes. This chapter uncovers how to cultivate that spiritual strength, and the next chapter shares ways to form deep connections with others and with the Earth.**
 
@@ -90,9 +90,9 @@ Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of be
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
-The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy cultures, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work. People can find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
+The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work. People can find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
 
-Tubman, King, and Christ only seem special because they gave their deepest love in unhealthy cultures that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
+Tubman, King, and Christ only seem special because they gave their deepest love in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
 This is one universal spiritual truth behind the teachings of religions like Christianity, Islam, and Buddhism: everyone has sacred gifts to give, a divine purpose that only they can fulfill. And the divine voice inside you already knows that purpose, whether you consciously know it or not.
 
@@ -118,7 +118,7 @@ Ohiyesa described how, among the traditional Sioux, praying alone in the wildern
 
 Apache man Stalking Wolf described how the vision quest "provides all the answers to life, to spirit," and it "brings forth the pure self untainted by any and all outside distractions," and ultimately "gives us a Vision, a command from the Creator, and a grand purpose to life."[xxx-the vision|p126]
 
-"Command from Creator," "divine voice," "sacred gifts," and "deepest love" are all ways of saying the same thing. That divine voice is inside you right now, and it's waiting for you to listen so you can walk your divine path and offer your own sacred gifts, or your deepest love. All it takes is the courage to release distractions and feel that deepest part of you that others in your unhealthy culture haven't always welcomed.
+"Command from Creator," "divine voice," "sacred gifts," and "deepest love" are all ways of saying the same thing. That divine voice is inside you right now, and it's waiting for you to listen so you can walk your divine path and offer your own sacred gifts, or your deepest love. All it takes is the courage to release distractions and feel that deepest part of you that others in your unhealthy nation haven't always welcomed.
 
 You matter, and there's a reason you're alive. You have sacred gifts, special ways of making the world a better place that only you can give. Any moment you're not giving your gifts, the world becomes poorer.
 
@@ -126,7 +126,7 @@ Commit to discovering and giving your own sacred gifts, and living the most mean
 
 There are many ways to discover and give your gifts, as Chapter 3 described: you could learn how to fast safely in nature and spend time away from people without distraction, including without news and digital entertainments. Notice what sparks special joy or curiosity in your life. Ask friends to tell you when they've seen you be the most joyful and engaged. Notice your anger, and let that anger show you what you care about, and how you might act in service. If you choose to fast, I recommend the book _Fasting Can Save Your Life_ by Herbert Shelton.
 
-In unhealthy cultures that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
+In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with gratitude, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
@@ -177,16 +177,16 @@ When you practice noticing the gifts of the nonhumans and develop mutual relatio
 
 When you can cultivate deep relationships with people and nonhumans, they will give life a deep meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give your gifts when there are grateful people and nonhumans to receive them.
 
-A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to walking that most meaningful path, cultivating that practical aware gratitude, and living in reciprocity, I believe you'll find that spiritual strength that seems so elusive in unhealthy cultures.
+A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to walking that most meaningful path, cultivating that practical aware gratitude, and living in reciprocity, I believe you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
 ### Healing Ancient Traumas Today
-Every person in every unhealthy culture has ancestors that lived in healthy cultures years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on these three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
+Every person in every unhealthy nation has ancestors that lived in healthy nations years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on these three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
 
-At some point, our ancestors suffered something terrible, and eventually the unhealthy culture started to seem "just the way life is."
+At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is."
 
 It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from building your spiritual strength with others as they build theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
 
-Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating your spiritual strength, and you find others to walk it with, you'll begin the Deepest Revolution. That shared path will be beautiful no matter what happens, and it's a necessary part of the collective path leading to new healthy cultures where respect is the norm among the people, and between people and the Earth.
+Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating your spiritual strength, and you find others to walk it with, you'll begin the Deepest Revolution. That shared path will be beautiful no matter what happens, and it's a necessary part of the collective path leading to new healthy nations where respect is the norm among the people, and between people and the Earth.
 
 ### References
 

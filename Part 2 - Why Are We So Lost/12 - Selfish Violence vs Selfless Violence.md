@@ -4,9 +4,9 @@ Growing up in the United States, I heard a lot of people say that nonviolence is
 
 Even though I desire peace, I don't see violence as inherently good or bad -- it's a question of how a person or group uses violence. Do they use violence selfishly, hurting others for their own personal benefit and lying about it? Or do people use violence selflessly in service of the group, in a way that benefits the people and nonhumans they love?
 
-### Selfish Violence in Unhealthy Cultures
+### Selfish Violence in Unhealthy Nations
 
-In unhealthy cultures where people are not able to hold their leaders accountable, selfish violence is common. Often the leaders want to go to war for selfish reasons that would never motivate the public to go along.
+In unhealthy nations where people are not able to hold their leaders accountable, selfish violence is common. Often the leaders want to go to war for selfish reasons that would never motivate the public to go along.
 
 After all, who would want to risk their lives just to help rich people become a little richer? Knowing this, politicians will make up all sorts of fake motivations for the war, and peace activists will notice the lies and try to point out the truth. Then politicians will accuse the peace activists of being traitors spreading enemy propaganda to keep the country from uniting in support of the military. As Nazi German leader Hermann Goering said after World War II, "whether it is a democracy or a fascist dictatorship or a parliament or a communist dictatorship... It works the same way in any country."[xxx-goering]
 
@@ -20,13 +20,13 @@ Likewise, in the United States the government blamed Osama bin Laden for the 9/1
 
 Plenty of other evidence casts doubt on official explanations of the 9/11 attacks.[xxx-ae911truth witnesses explosion]<sup>,</sup>[xxx-ae911truth explosives] Somehow, the Saudis and Bush family escaped any investigation of their involvement. Like the Russian government, the American government leaders got the war they wanted.
 
-Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any other unhealthy culture, the core problem is the same: when rulers or ruling classes exist they always exploit the people in their own society, and this can happen in very disturbing ways.
+Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any other unhealthy nation, the core problem is the same: when rulers or ruling classes exist they always exploit the people in their own society, and this can happen in very disturbing ways.
 
 Many people hesitate to believe these stories, because it is so repugnant to imagine people of one's own country lying and acting so deeply selfishly. It's even more disturbing when it is the unaccountable leaders themselves acting so hurtfully.
 
-This is simply a typical problem in cultures that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior simply continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary, selfish violence. 
+This is simply a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior simply continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars. 
 
-### Selfless Violence in Healthy Cultures and Subcultures
+### Selfless Violence in Healthy Nations
 
 Stories of collective self-defense show how people can use violence responsibly, in service of their communities and the common good.
 
@@ -50,7 +50,7 @@ Finally they tracked down the Mexicans, including two companies of infantry and 
 
 #### Selfless Violence, Example 3: The Zapatistas
 
-The Zapatistas are a healthy culture in southern North America, many of whose members are from local indigenous groups. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy culture where everyone upholds their laws. 
+The Zapatistas are a healthy nation in southern North America, many of whose members are from local indigenous groups. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy nation where everyone upholds their laws. 
 
 The Mexican military and the Zapatista military, known as the EZLN, clashed almost immediately in the Zapatistas' home region of Chiapas, Mexico in the south east. Police and military attacked them with dozens of helicopters and many thousands of soldiers.[xxx-interview with major ana maría: on the atrocities]
 
@@ -80,7 +80,7 @@ Immediately the Zapatistas put into effect laws which they had prepared in advan
 
 They passed laws preserving the seas, rivers, and forests. People could keep enough land to sustain their family, but no one was allowed to hoard land or property. When individuals owned more than a certain number of acres, the extra was redistributed for communal farming. Hoarding land or productive equipment was outlawed.[xxx-ezln ag law]
 
-_Redistributing wealth was a crucial part of creating a healthy culture_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will remain selfish.
+_Redistributing wealth was a crucial part of creating a healthy nation_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will remain selfish.
 
 By redistributing wealth early on and outlawing hoarding, the Zapatistas essentially removed deep selfishness in their society. This explains why they could have leaders who actually served the people instead of the rich: they didn't have any rich people constantly trying to corrupt their leadership because they didn't allow anyone to be rich.
 
