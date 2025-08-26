@@ -51,7 +51,7 @@ The political, military and business leaders wanted to avoid accountability for 
 A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was just a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.
 
 <center><img src="./images/polkas_vs_stripes.png" alt="When People Fall for Scams like Racism" height="311" width="597"/><br/>
-<i>When people fall for scams like racism, they see their neighbors as a threat and argue about nonsense while ignoring the real problems.**</i></center>
+<i>When people fall for scams like racism, they see their neighbors as a threat and argue about nonsense while ignoring the real problems.</i></center>
 
 ### And It Continues Today
 
@@ -95,14 +95,14 @@ This isn't the only dynamic that leads to racism and hate in unhealthy cultures,
 
 Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.[xxx-odoc|ch20]
 
-Authorities impose systemic sexism in similar ways. One investigation by the Organization of American States found that every legal system of every unhealthy culture in North and South America, from the United States and Canada to Ecuador and Brazil, widely discriminates against women in cases of sexual assault and domestic violence.[xxx-ohchr americas violence women] Stories from around the world show that this is universal in unhealthy cultures, as authorities impose sexism while pretending to treat everyone equally in the so-called "justice" system.**
+Authorities impose systemic sexism in similar ways. One investigation by the Organization of American States found that every legal system of every unhealthy culture in North and South America, from the United States and Canada to Ecuador and Brazil, widely discriminates against women in cases of sexual assault and domestic violence.[xxx-ohchr americas violence women] Stories from around the world show that this is universal in unhealthy cultures, as authorities impose sexism while pretending to treat everyone equally in the so-called "justice" system.[xxx-odoc|ch24]
 
 None of this excuses anyone's behavior, but it does explain where troubles like racism, hatred and even sexism come from: authorities impose discrimination by treating different groups differenty and propagate hurtful attitudes to justify this, rewarding those who go along and punishing those who don't. Many people sadly follow along to protect their privilege and teach their children to do the same. Eventually, it all seems quite normal. Just the way life is.
 
 When people are trapped with selfish and unaccountable leaders, the results are always tragic. What would it take for a group of people to select the most selfless and honest leaders instead?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Protect yourself from adopting racist or hateful beliefs</div>
-<div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you know someone from that group that you admire, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, go to the library and look for stories there. If you live in the United States, I suggest finding someone from Russia, Iran or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working in a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of countless people.<br/><br/>Finding a person to learn from does not mean you need to support any of these countries' governments. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're just people too, probably stuck in an unhealthy culture like you.</div></div>
+<div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you know someone from that group that you admire, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, go to the library and look for stories there. If you live in the United States, I suggest finding someone from Russia, Iran or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working in a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of countless people.[xxx-arkhipov]<br/><br/>Finding a person to learn from does not mean you need to support any of these countries' governments. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're just people too, probably stuck in an unhealthy culture like you.</div></div>
 
 ### Healthy Cultures Choose Leaders Who Serve the People
 
@@ -136,6 +136,8 @@ This is the power of that practical, aware gratitude to encourage more good beha
 <div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
 
 ### References
+
+[xxx-arkhipov]-aaa ("Vasili Arkhipov: The Unsung Hero Who Saved the World from Nuclear Annihilation," 2024)
 
 [xxx-boys will be boys]-aaa (Weiss, 2009)
 
@@ -204,3 +206,5 @@ This is the power of that practical, aware gratitude to encourage more good beha
 [xxx-when buffalo ran|the way to live]-aaa (Grinnell, 2005, "The Way to Live")
 
 [xxx-daughters of copper woman|112]-aaa (Cameron, 1981, 112)
+
+[xxx-odoc|ch24]-aaa (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")

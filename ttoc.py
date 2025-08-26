@@ -342,6 +342,7 @@ def main():
     print("unchecked: %s (%s%%)" % (total_unchecked, str(round(100*total_unchecked/total_cites,2))))
     print("checked: %s (%s%%)" % (total_checked, str(round(100*total_checked/total_cites,2))))
     print("formatted: %s (%s%%)" % (total_formatted, str(round(100*total_formatted/total_cites,2))))
+    print("Unique citations: %s" % len(all_refs_set))
     verify_no_extras(all_refs_set)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))

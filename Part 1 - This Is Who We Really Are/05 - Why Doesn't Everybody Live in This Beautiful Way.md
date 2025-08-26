@@ -64,7 +64,7 @@ But to understand why it's worth the risk, we must confront how deeply sick all 
 
 Healthy cultures are who we really are, but anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 
-The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape the trap, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
+The truth is that _your unhealthy culture is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
 
 Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something? Most people just haven't heard the perspectives and stories that offer a helpful path.
 

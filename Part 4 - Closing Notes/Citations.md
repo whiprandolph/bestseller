@@ -483,11 +483,15 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_10_33_src" id="cite_Chapter_10_33_dest" style="text-decoration:none">33</a>. (General Secretariat Organization of American States, 2007)<br/>
-</td><td><a href="#cite_Chapter_10_34_src" id="cite_Chapter_10_34_dest" style="text-decoration:none">34</a>. (Prechtel, 1999, 210)<br/>
+</td><td><a href="#cite_Chapter_10_34_src" id="cite_Chapter_10_34_dest" style="text-decoration:none">34</a>. (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_10_35_src" id="cite_Chapter_10_35_dest" style="text-decoration:none">35</a>. (Grinnell, 2005, "The Way to Live")<br/>
-</td><td><a href="#cite_Chapter_10_36_src" id="cite_Chapter_10_36_dest" style="text-decoration:none">36</a>. (Cameron, 1981, 112)<br/>
+<tr><td><a href="#cite_Chapter_10_35_src" id="cite_Chapter_10_35_dest" style="text-decoration:none">35</a>. ("Vasili Arkhipov: The Unsung Hero Who Saved the World from Nuclear Annihilation," 2024)<br/>
+</td><td><a href="#cite_Chapter_10_36_src" id="cite_Chapter_10_36_dest" style="text-decoration:none">36</a>. (Prechtel, 1999, 210)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_10_37_src" id="cite_Chapter_10_37_dest" style="text-decoration:none">37</a>. (Grinnell, 2005, "The Way to Live")<br/>
+</td><td><a href="#cite_Chapter_10_38_src" id="cite_Chapter_10_38_dest" style="text-decoration:none">38</a>. (Cameron, 1981, 112)<br/>
 </td></tr>
 
 <tr><td><b>Chapter 11: How Can a Whole Nation Embrace Awareness and Unity?</b></td></tr><tr><td><a href="#cite_Chapter_11_1_src" id="cite_Chapter_11_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
@@ -628,7 +632,7 @@
 <tr><td><a href="#cite_Chapter_14_3_src" id="cite_Chapter_14_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 15: The Deepest Revolution, Part 1: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
+<tr><td><b>Chapter 15: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
 </td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")<br/>
 </td></tr>
 
@@ -648,7 +652,7 @@
 </td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
 </td></tr>
 
-<tr><td><b>Chapter 16: The Deepest Revolution, Part 2: Build Healthy Subcultures by Building Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+<tr><td><b>Chapter 16: Build Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
 </td></tr>
 
@@ -660,22 +664,30 @@
 </td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (Brown Jr, 1988, 81)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (Thoreau, 2021, "Economy")<br/>
-</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (Gibson, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
+</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
-</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Eastman (Ohiyesa), 2013, "Rain-In-The-Face")<br/>
+<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (Thoreau, 2021, "Economy")<br/>
+</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Gibson, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
-</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024)<br/>
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Randolph, 2024)<br/>
+</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Notes, 2005, 38)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (Notes, 2005, 38)<br/>
+<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_15_src" id="cite_Chapter_16_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_16_src" id="cite_Chapter_16_16_dest" style="text-decoration:none">16</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><b>Chapter 17: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 17: The Deepest Revolution, Part 3: We Are the Promised Land</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
+<tr><td><b>Acknowledging Contradictions</b></td></tr><tr><td><a href="#cite_Acknowledging_Contradictions_1_src" id="cite_Acknowledging_Contradictions_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>
@@ -689,15 +701,11 @@
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
-<tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+<tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (Chinese City Kills Project after Protest, 2012)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
-</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_4_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_4_dest" style="text-decoration:none">4</a>. (Chinese City Kills Project after Protest, 2012)<br/>
-</td></tr>
-
-<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_5_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
+<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
 </td><td></td></tr>
 
 </table><div style="break-after:page"></div>

@@ -74,7 +74,7 @@ Plenty of people can see there are problems like greed and discrimination, and p
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 
-This is essentially what happens when most people debate about political and cultural problems in their country. People who have never even heard of healthy cultures, much less experienced one, are trying to diagnose social and political problems without knowing what a healthy culture even looks like. People speculate and argue endlessly, and the political troubles just continue.
+This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy cultures, much less experienced one, are trying to diagnose social and political problems without knowing what a healthy culture even looks like. People speculate and argue endlessly, and the political troubles just continue.
 
 But we don't need to speculate about how to deal with our biggest political problems.
 

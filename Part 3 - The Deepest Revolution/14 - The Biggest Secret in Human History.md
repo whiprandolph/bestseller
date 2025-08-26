@@ -18,7 +18,7 @@ Why would ruling classes work so hard to spread propaganda against healthy cultu
 
 In other words, ruling classes try to keep people in despair, not knowing that another way of life is possible without endless troubles like corruption and greed.
 
-But now, you know the secret: healthy cultures do exist, whole nations that maintain a baseline of respect internally because everybody stands for what's right, and nobody rules over anybody else. And that is proof that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."
+But now, you know the secret: healthy cultures do exist, whole nations that maintain a baseline of respect internally because everybody stands for what's right, and nobody rules over anybody else. And their existence is proof that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."
 
 Most people either haven't heard of healthy cultures or they misunderstand them, so they have no standard of comparison, and they're likely to accept their unhealthy culture as "good enough." British prime minister Winston Churchill even said, "democracy is the worst form of government except for all those other forms that have been tried..."[xxx-churchill democracy]
 
@@ -48,13 +48,13 @@ Imagine no boring classes, no unaccountable school authorities, and no meaningle
 
 Imagine going through a process where your nation chooses a leader, and people like Jesus Christ or Martin Luther King Jr are selected!
 
-Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence. When people embrace shame, low self-worth, selfishness, and other hurtful qualities, and learn to hold back their deepest love, _people forget their innocence_.
+Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence. When people embrace hurtful qualities like shame, low self-worth, or selfishness, and learn to hold back their deepest love, _people forget their innocence_.
 
 And anything that's been forgotten can be remembered again...
 
 Can you imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live?
 
-Imagine working with your neighbors to take care of everybody's needs together, so you need not worry about health care, retirement, having enough to eat or having shelter?
+Imagine working with your neighbors to take care of everybody's needs together, so you need not worry about health care, retirement, having enough to eat or having shelter.
 
 And you wouldn't need to work an unsatisfying job to maybe have enough money to pay for it all!
 
@@ -78,7 +78,7 @@ I know someone who, in the early 1990s, thought about whether it was ok for the 
 
 These were very deep questions!
 
-Unfortunately, she was unable to find other people to share her concerns with, and speak her heart. Her husband and many friends were involved with the war and seemed unwilling to question it. She was surrounded by people but still felt alone, unable to discuss her concerns and fears, and unable to consider how to respond with others.
+Unfortunately, she was unable to find other people to share her concerns with and speak her heart. Her husband and many friends were involved with the war and seemed unwilling to question it. She was surrounded by people but still felt alone, unable to discuss her concerns and fears, and unable to consider how to respond with others.
 
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take antidepressants, which allowed her to numb the feeling of dissatisfaction without responding to it. And she stopped asking such deep questions about her unhealthy culture.
 

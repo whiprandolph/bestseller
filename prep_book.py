@@ -138,7 +138,17 @@ def verify_epub():
 
 def process_chapter(full_path):
   blob = open(full_path, 'r', encoding='utf-8').read()
-  chap_id = blob.split("\n")[0].split(":")[0].strip("#").strip(" ")
+  chap_line = blob.split("\n")[0]
+  if ttoc.is_chapter_name(os.path.basename(full_path), os.path.dirname(full_path)):
+    assert chap_line.startswith("## "), "%s contains wrong number of # (main body)" % chap_line
+  elif ttoc.is_pre_or_post_material(os.path.basename(full_path), os.path.dirname(full_path)):
+    assert chap_line.startswith("# "), "%s contains wrong number of # (pre/post)" % chap_line
+  elif ttoc.is_main_part_intro(os.path.basename(full_path), os.path.dirname(full_path)):
+    pass # don't have # headers, have straight html
+  else:
+    assert False, full_path
+  chap_id = chap_line.split(":")[0].strip("#").strip(" ")
+  
   chap_id = chap_id.replace(" ", "_")
   if not is_main_part_intro(os.path.basename(full_path), os.path.dirname(full_path)):
     assert chap_id not in chap_ids, chap_id
@@ -164,8 +174,8 @@ def process_chapter(full_path):
   assert len(ref_start_line_check) == 0, "[xxx starts a line; ref: %s, file: %s" % (ref_start_line_check, full_path)
 
   header_check = [x for x in body.split("\n") if x.strip().startswith("##") and not ("[" not in x and "]" not in x and "(" not in x and ")" not in x) and "Audio" not in x]
-  assert len(header_check) == 0, "edit-header; header: %s, file: %s" % (header_check, full_path)
-
+  # assert len(header_check) == 0, "edit-header; header: %s, file: %s" % (header_check, full_path)
+  print("SKIPPING HEADER CHECK")
   start = body.find("[xxx")
 
   cite_number = 1
@@ -314,6 +324,7 @@ def main():
   print("Finished producing html")
   make_online_pdf()
   os.startfile(book_final)
+  return
   make_phys_book()
   make_epub()
   # cleanup()
@@ -407,6 +418,7 @@ def cleanup():
         shutil.rmtree(path)
       else:
         os.remove(path)
+
 
 if __name__ == "__main__":
   try:

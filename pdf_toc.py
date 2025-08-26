@@ -89,12 +89,10 @@ def prep_pdf_toc(content_path, dimensions):
 def verify(toc_data, pdf):
   # sanity checks
   try:
-    print("*** Add sanity checks! ***")
-    #assert 'Chapter 10' in toc_data["Part 03 - Gift Economy vs Profit Economy"][2][0] and 94 == toc_data["Part 03 - Gift Economy vs Profit Economy"][2][1], "gift/profit"
-    #assert 'Chapter 18' in toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][0] and 170 == toc_data["Part 05 - Heart-Opening vs Heart-Closing"][2][1], "heart"
-    #assert 'Chapter 34' in toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][0] and 351 == toc_data["Part 08 - Unhealthy Cultures Sabotage Relationships"][2][1], "sabotage"
-    #assert 'Appendix 2' in toc_data["Part 11 - Appendices"][2][0] and 543 == toc_data["Part 11 - Appendices"][2][1], "appendices"
-    #assert len(pdf.pages) == 605 or len(pdf.pages) == 562, len(pdf.pages)
+    assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and 11 == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
+    assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and 63 == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
+    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and 140 == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off"
+    assert len(pdf.pages) == 185, len(pdf.pages) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
     print("ERROR in ToC Validation: %s" % exc)

@@ -170,6 +170,7 @@ Tsering, T., Goldstein, M., & Siebenschuh, W. (1997). The Struggle for Modern Ti
 Turner, F. (1994). Beyond Geography. Rutgers University Press.
 Unger, C. (2018, December 4). Bush’s sordid Saudi ties set template for Trump – he was just more subtle. The Guardian. https://www.theguardian.com/us-news/2018/dec/04/george-hw-bush-saudi-arabia-donald-trump
 Urban Reform Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-de-reforma-urbana/
+Vasili Arkhipov: The Unsung Hero Who Saved the World from Nuclear Annihilation. (2024, May 26). History Tools. https://www.historytools.org/stories/vasili-arkhipov-the-unsung-hero-who-saved-the-world-from-nuclear-annihilation
 Vestal, S. (with Grinnell, G.). (1955). The Fighting Cheyennes. University of Oklahoma Press.
 Wall Street’s Ongoing Crime Spree. (2022). Better Markets. https://bettermarkets.org/wp-content/uploads/2022/05/BetterMarkets_Wall_Street_RAP_Sheet_Report_052022.pdf
 War is Boring. (2014, July 8). The U.S. Names Lots of Weapons After Native Americans. Medium. https://medium.com/war-is-boring/twenty-u-s-weapons-named-after-native-americans-8b88e2c7ed12

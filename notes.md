@@ -30,22 +30,12 @@ It will take _The Deepest Revolution._ Based on the words of people of healthy n
 * make sure all _ and * and ** become bold/underlined
 * remove all ** edit marks
 * make all riot police images the same size
-* add hawks hunting pic?
 * rename ODOC Zap chapter? would they have said it was successful at any time? Or not humble/too triumphant?
-* verify all citations copied from odoc to tdr as needed.
-* verify all cites in book are in zotero
-* verify all subheadings are #### (or smaller) not ###
 * verify capitalization of god/God at each point: God when it's a meaningful reference, "god" when people are having "faith" in bullshit
-* fix formatting of part intro pages - need visible title centered w/newline between part x and title.
-* play with page margins to get more text on a page, shrink page count. 
-* play with font size slightly - small changes can have big efffect on page count due to whole paragraphs getting shifted around
 * verify part/chapter formatting is correct in epub, esp preface material and post-material
-* scan for common phrases and ensure they're not overused too close to each other - stand for what's right, healthy culture / unhealthy culture, etc.
-* vertical center the part names
 * Chapter number fixup: Scan for "Chapter" and verify all references are correct, including within a couple chapters
 * make sure there aren't any pages with just 2-5 lines. Word-craft as needed.
 * scan for 'integrity of service' and ensure any explanations are after definition
-* add check to verify all chapters start at "##" depth
 * A few places where I end statements with "and more" or "countless others" - can seem ambiguous, making expanding on this with more specific statements would be more strong, "plenty of "and so on"
 * scan for common phrases and ensure they're not repeated too close to each other.
   * healthy culture
@@ -57,6 +47,21 @@ It will take _The Deepest Revolution._ Based on the words of people of healthy n
 
 "Many healthy cultures referenced in this book have not been able to maintain a traditional way of life since being conquered by unhealthy cultures in recent centuries. However, unlike people who've forgotten their healthy-culture ancestors, they still remember..."
 
+### Cindy's -- Can We Really Transform Our Unhealthy Culture?
+
+Given the extent of the core problem in unhealthy cultures (a few ruling over the many), the challenge of creating and maintaining a healthy culture is mammoth. 
+
+But here’s the good news: creating a health culture is doable! If it wasn’t doable, why were millions of people over millions of years able to do it? 
+
+Healthy cultures represent who we really are. We don’t have to reinvent ourselves, we simply have to return to who we really are.
+
+So, where do we begin? Like Jesus and so many others have shown again and again, we begin with ourselves. Many of this book’s earlier chapters offer ideas about what we can do on our own. The next step is building our collective spiritual strength with other people.
+
+Building with other people will not be an easy path because, just like myself and probably just like you, those of us raised from birth in unhealthy cultures have unwittingly absorbed many of its abuses along the way. 
+
+Even those of us who have worked on our own spiritual and personal growth still live our lives to various degrees embedded in the broader dominant unhealthy culture where we continue to need to fend for ourselves, sometimes at the expense of others, whether we like it or not.
+
+So I am not saying that change will be easy. I am saying we can.  And I am saying we should.
 
 ### Early Reader Feedback
 
