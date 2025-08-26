@@ -16,7 +16,7 @@ My short time with the Ashaninka in 2015 was utterly magical and changed my life
 
 ### Meet the Ashaninka
 
-Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, and a chance to join their feasts and entertainment, and generally invited into their culture as if I weren't a strange white American man who didn't even speak their language. They just welcomed me without asking anything in return.
+Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, and a chance to join their feasts and entertainment, and generally invited into their nation as if I weren't a strange white American man who didn't even speak their language. They just welcomed me without asking anything in return.
 
 For example, whenever my host and I traveled around the region and needed to rest, we would stop at the next house and the hostess would bring us a fermented pink drink called peorentsi, along with some simple and filling food. They didn't do this because I was a special guest. Every traveler who needed to rest received food and drink with no expectation of trading or paying.
 
@@ -46,7 +46,7 @@ I left the Ashaninka feeling both elated and confused.
 
 A few months later, my father asked me what I had learned. I told him that I didn't know yet, and I was still figuring it out. But I knew this: people can live differently. We can treat each other well. I knew it was possible, and I would never doubt it again because I saw it with my own eyes.
 
-The more I looked around in my own culture, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
+The more I looked around in my own nation, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
 For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of federal prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
 
@@ -62,7 +62,7 @@ The Ashaninka don't have corruption like this. What lessons could I possibly lea
 
 I drive past all the major banks every day -- the same banks that keep getting "caught" every few years laundering money for drug cartels and human trafficking organizations, or forging legal paperwork to defraud homeowners, cheating their own customers, or whatever the next scam-of-the-day is.[xxx-bettermarkets bank rap sheet]
 
-These pharmaceutical companies and banks get dinged with little "cost of doing business" fines by the government, and nothing much changes. The predatory and selfish behavior continues -- not by outsiders, but mostly people within my own culture! How come the Ashaninka are able to maintain respectful relations between everyone, and in America, it seems like rich Americans are the biggest threat that the poor Americans face?
+These pharmaceutical companies and banks get dinged with little "cost of doing business" fines by the government, and nothing much changes. The predatory and selfish behavior continues -- not by outsiders, but mostly people within my own nation! How come the Ashaninka are able to maintain respectful relations between everyone, and in America, it seems like rich Americans are the biggest threat that the poor Americans face?
 
 Almost all of America's drinking water is now toxic, with different regions having their own mix of heavy metals, microplastics, and other chemicals. Chemical and fossil fuel companies don't seem to care about the long term effects of the products they sell.[xxx-ewg state drinking water]
 
@@ -84,17 +84,17 @@ What I've learned is nothing short of revolutionary for those of us not living t
 
 Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans_. Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them.
 
-Part Two explores _how we lost our way_, why some cultures are stuck with these troubles generation after generation.
+Part Two explores _how we lost our way_, why some nations are stuck with these troubles generation after generation.
 
 Part Three calls for _The Deepest Revolution_: our current way of life isn't working, so we must embrace that ancient way of life where respect is the norm, and it will take tremendous integrity, generosity, and bravery to do it.
 
-In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy cultures themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy cultures, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. Many of these books reference more than one healthy culture.
+In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy nations themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy nations, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow.
 
-While each healthy culture is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy cultures or respectful observers.
+While each healthy nation is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy nations or respectful observers.
 
-The next chapter shows how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy cultures that now dominate much of the Earth are _not_ the norm. 
+The next chapter shows how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy nations that now dominate much of the Earth are _not_ the norm. 
 
-Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy cultures show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
+Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy nations show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation of caring people</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>

@@ -92,7 +92,7 @@ def verify(toc_data, pdf):
     assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and 11 == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
     assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and 63 == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
     assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and 140 == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off"
-    assert len(pdf.pages) == 185, len(pdf.pages) # excludes title/toc pages
+    assert len(pdf.pages) == 189, len(pdf.pages) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
     print("ERROR in ToC Validation: %s" % exc)

@@ -1,12 +1,12 @@
 ## Chapter 3: Healthy Cultures Share Three Core Spiritual Practices
 
-I kept finding more stories of cultures that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, and Lakota. Due to centuries of violence from unhealthy cultures, not all these nations can live in a traditional way today like the Ashaninka. While these cultures have their differences, during traditional times they all live or lived in a similarly beautiful way with each other and the Earth.**
+I kept finding more stories of cultures that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, and Lakota. Due to centuries of violence from unhealthy nations, not all these nations can live in a traditional way today like the Ashaninka. While these cultures have their differences, during traditional times they all live or lived in a similarly beautiful way with each other and the Earth.**
 
 Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the cultures I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawks within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man.
 
 The Kamana program seemed like a synthesis of what Jon Young had learned from people of all these cultures with the goal for the student to develop a deep, personal connection with the Earth.
 
-Little did I know that Kamana would introduce me to spiritual practices which are common in all healthy cultures. I believe that many of the other shared characteristics of healthy cultures, past and present, flow from this spiritual foundation.
+Little did I know that Kamana would introduce me to spiritual practices which are common in all healthy nations. I believe that many of the other shared characteristics of healthy nations, past and present, flow from this spiritual foundation.
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
@@ -18,7 +18,7 @@ The more I learned how every creature and plant contributes to the web of life, 
 
 All these things are gifts! No one makes the trees offer their gifts of shade or firewood. I can plant an apple tree and tend it, but I cannot make it bear fruit -- that is its gift.
 
-The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy culture has its own ways of expressing gratitude, but they all have _some_ way.
+The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy nation has its own ways of expressing gratitude, but they all have _some_ way.
 
 The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one.[xxx-kamana 2 nat|p1] Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters.[xxx-original instructions|armstrong] Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.[xxx-braiding sweetgrass|skywoman falling]
 
@@ -39,7 +39,7 @@ I looked up through the forest canopy just in time to notice a second, silent ha
 
 Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we humans are divine creatures like everything else in Creation.
 
-Once again, every single healthy culture I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
+Once again, every single healthy nation I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." Ten Fingers' elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
 
 Nancy Basket, a woman of Cherokee descent, said "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
 
@@ -57,7 +57,7 @@ These two spiritual practices of gratitude and gift-giving are both so beautiful
 
 ### The Third Core Spiritual Practice: Living in Reciprocity
 
-Healthy cultures like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy cultures standing in solidarity with the land.
+Healthy nations like the Ashaninka, Cherokee, and Potawatomi remain alive around the world, even if many are not able to fully live in their traditional ways. One day I noticed something interesting: they keep showing up in the news. Often when some environmental catastrophe occurs or a selfish corporation threatens to pollute the Earth, I notice people of healthy nations standing in solidarity with the land.
 
 The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seeking to protect the water from oil spills.[xxx-cultural survival standing rock] In 2010, the Indian government evicted many Jenu Kuruba people from their ancestral land, supposedly to protect local populations of endangered tigers. The Jenu Kuruba noted that the tiger population was so high where they lived precisely because they worship the tigers, as well as the other nonhumans. "To worship" means the same as "to respect," so the Jenu Kuruba simply live in a way that respects the tigers and takes their needs into account.[xxx-basket interview] The Jenu Kuruba demanded to be allowed to return and that the Indian government stop giving mining companies leases on their homeland.[xxx-cnapa concept note]<sup>,</sup>[xxx-the best guardians of the forest]
 
@@ -65,11 +65,11 @@ In Africa, the Mbuti likewise rejected a government so-called "conservation" eff
 
 In South America, the Yuracares, Tchimanes and other cultures work to prevent the destruction of their forests in the TIPNIS region of Bolivia, where the government wants to allow illegal road development, monocrop farming, and deforestation.[xxx-counterpunch tipnis] In northern Asia, the Evenk, Nivkh, and other cultures work to stop destructive Russian oil and gas extraction activities.[xxx-cultural survival sakhalin island]
 
-Everywhere I looked, I noticed healthy cultures were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their neighbors, both human and nonhuman.
+Everywhere I looked, I noticed healthy nations were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means I have a responsibility to give back to all the beings who give so much to me. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their neighbors, both human and nonhuman.
 
 In her book _Braiding Sweetgrass_, Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If I receive meat from an animal, I am bound to support the animal or its family. When I eat corn, I have a responsibility to take care of the soil it grows in. When I receive a river's gift of clear water, I am responsible for caring for the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-braiding sweetgrass|allegiance to gratitude]
 
-In other words, people of healthy cultures do not just avoid polluting the Earth; they actively support the nonhuman communities where they live.
+In other words, people of healthy nations do not just avoid polluting the Earth; they actively support the nonhuman communities where they live.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Give from gratitude**</div>
 <div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, lifting someone's spirits when they're feeling down, or helping them find a job. Practice feeling gratitude for what they've given you, or if they're a stranger, practice feeling thankful for what other strangers have given you, and give from that place of gratitude. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving to someone just for the joy of giving.</div></div>
@@ -86,7 +86,7 @@ I believe that a person's spirituality is simply how they relate to themselves a
 
 These three core spiritual practices are core to who we are as humans. You are the giving of your deepest love, just like I'm the giving of my love. Giving to others in gratitude for what we receive is who we are as humans.
 
-People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy culture, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, dignity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
+People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy nation, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, dignity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
 
 Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among their people, and between people and the Earth?
 
