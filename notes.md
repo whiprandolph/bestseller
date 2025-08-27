@@ -1,3 +1,7 @@
+### Rev-Act Ideas
+
+* create private spaces -- surveillance-free (or minimized...) -- end of Chap 14
+
 ### Rear Cover
 
 There are whole nations, today and in recent times, where people live respectfully with each other and the Earth. They have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.

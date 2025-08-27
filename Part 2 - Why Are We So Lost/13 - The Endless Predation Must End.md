@@ -100,6 +100,8 @@ Even if ruling classes didn't manipulate elections, how are people supposed to a
 
 Child abuse or deprivation isn't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.**
 
+These emotional troubles can also make it difficult to connect with partners in romantic and spousal relationships, limiting the depth of connection and trust many people can experience even in their family.**
+
 The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep spiritual strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself when needed. The question is whether or not people have the emotional capacity to have the integrity and deep relationships needed to stand for what's right. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.

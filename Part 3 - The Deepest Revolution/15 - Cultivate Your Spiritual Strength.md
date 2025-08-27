@@ -24,9 +24,7 @@ Giving up old beliefs is hard, but it becomes so much easier when you begin to s
 
 Embrace your curiosity, and open your mind to possibilities that may have seemed impossible before. As you free your mind from beliefs that don't work, and make space for perspectives that do, you will feel more empowered to make a difference for the people and nonhumans around you.
 
-To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, where justice is normal and pervasive, where neighbors share generously and deeply trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth.**
-
-_Part 3_ addresses these three themes. This chapter uncovers how to cultivate that spiritual strength, and the next chapter shares ways to form deep connections with others and with the Earth.**
+To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, where justice is normal and respect is pervasive, where neighbors share generously and deeply trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth. _Part 3_ addresses these three themes.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Release what isn't working</div>
 <div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
@@ -159,7 +157,7 @@ Can you imagine pointing a gun at someone whose life you were risking your own l
 
 A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your joyful presence can lift others' spirits, any disconnection, stress, or unawareness can likewise affect other people. Okhi Forest and her young daughter visited the Zapatistas, and at one point her daughter dropped a broom on the ground without thinking about it. A Mayan woman told Okhi's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
 
-It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift, and not to be missed. Whether or not you give your deepest love matters, and the world and people around you expect nothing less.**
+It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift not to be missed or taken for granted. Whether or not you give your deepest love matters, and the world and people around you expect nothing less.
 
 Your love could light up the world, but it's hard to keep giving alone. And it's hard to give if you don't feel very grateful.
 

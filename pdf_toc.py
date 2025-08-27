@@ -162,6 +162,8 @@ def merge_pdfs(content_path, book_pdf_path):
 def sample_pdf(book_pdf_path):
   part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  part_3_path = book_pdf_path + " - part 3 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+
   chapter_9_path = book_pdf_path + " - chapter 9.pdf"
 
   print("  == Sampling PDF\n")
@@ -170,6 +172,12 @@ def sample_pdf(book_pdf_path):
   part_two.append(book_pdf_path, pages=PageRange("39:116"))
   part_two.write(part_two_path)
   part_two.close()
+
+  part_3 = PdfWriter()
+  part_3.append(book_pdf_path, pages=PageRange("1"))
+  part_3.append(book_pdf_path, pages=PageRange("134:174"))
+  part_3.write(part_3_path)
+  part_3.close()
 
   part_two_reader = PdfReader(part_two_path)
   try:
@@ -205,12 +213,12 @@ def sample_pdf(book_pdf_path):
 def main(content_path, book_pdf_path, dimensions):
   prep_pdf_toc(content_path, dimensions)
   merge_pdfs(content_path, book_pdf_path)
-  # sample_pdf(book_pdf_path)
+  sample_pdf(book_pdf_path)
 
 
 css = """
 html {
-  font-size:11.2pt;
+  font-size:11.5pt;
 }
 
 .visually-hidden {

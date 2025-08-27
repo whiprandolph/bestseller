@@ -1,0 +1,40 @@
+## Chapter 17: The Deepest Revolution
+
+Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, greed, privilege, corruption, pollution, child abuse, and poverty in the midst of abundance. So many problems to solve!
+
+But all these different issues stem from one root problem: _we're not free._ We are not free to choose our laws nor uphold them. Instead, we are expected to obey laws we are given, and we are punished for standing for what's right and directly seeking justice. As long as we ignore this one root problem, all the other issues will persist.
+
+Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating a symptom will never lead to deep healing because the underlying disease persists.
+
+There is a cure to this one disease and all its symptoms: create new healthy nations where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account.
+
+### We Are the Promised Land
+
+Some people say the arc of history bends towards justice. I say the arc of history bends whichever way people bend it.
+
+Ultimately, we remain in an abusive nation because we tolerate it. Yes, there has been a massive amount of shame, violence, broken promises, lies, and spiritual wounding that make deep change really hard. Rulers and their servants use so many tricks and traps to get us to continue to tolerate our own abuse, to accept our own humiliating submissiveness as legitimate and "just the way life is."
+
+The only way to end abuse is to stand up for ourselves. That's the Deepest Revolution: when enough people stand together and take care of each other even at great personal risk in order to create a new way of life. The arc of history bends when enough people give their divine love fully, right now, rather than holding back hoping to avoid abuse for another day.
+
+The night before his murder, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
+
+I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
+
+The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our messiahs, one of our liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
+
+As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.
+
+Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support all these terrible things and more. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
+
+So cultivate your spiritual strength and support others in cultivating theirs. Stand for what's right together, protecting each other and the Earth. And I promise you will not stand alone.
+
+Millions of people are standing for the Earth and standing for cultures of mutual respect right now. Many of us were born into healthy nations, and many of us were not. In countless different ways, all around the world, we are taking this stand together.
+
+And I'd love for you to join us.
+
+
+<center>For future updates, opportunities, and connections, sign up here:<br/><a href="https://thedeepestrevolution.com/signup">https://thedeepestrevolution.com/signup</a></center>
+
+### References
+
+[xxx-mlk final speech afscmd]-aaa (King Jr, 1968)

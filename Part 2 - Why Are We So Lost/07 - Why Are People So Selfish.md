@@ -60,6 +60,16 @@ Insecurity is common at all levels of wealth. The poor have little money, and th
 
 Of course, rulers do not need to force bankers, politicians, and individual bosses to play their part. All they need to do is create a profit-based economic system that consistently rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, doing their part to maintain their profit economy.
 
+Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think none of this pertains to you? Perhaps you like your job, have adequate money to survive, and even extra money to enjoy your days off. Maybe you also have money in the bank for a rainy day or for your kids or retirement. Maybe you are sitting pretty. 
+
+But let me ask you this. Can you stop? Can you step off your treadmill and quit working for money whenever you please to focus on more meaningful work? And if you did, how long could you keep it up? Unless you have megawealth, at some point you would have to return to some kind of paid work or face the culture-created consequences of financial desperation. Maybe your friends or family would help you out for a while, but sooner or later, you'd likely be in trouble. Unlike those in healthy nations, in the profit economies of an unhealthy nation, you're not surrounded by people who will feed you, shelter you, and make sure your survival needs are met during difficult moments.
+
+And even if you do have megawealth, you know deep down that you'd better not lose it, or you'll really learn what financial desperation is like.
+
+Perhaps you think that wouldn't happen to you, but the fact that you do not dare step off your job treadmill for very long is evidence enough that you don't want to risk it. Whether we think much about it or not, we are all aware that we must work for money in order to survive and advance in our profit economy. 
+
+And therefore the well-off are as trapped as anyone else. Our paychecks may vary but the nature of our entrapment is the same. Yes, in a market economy you can choose your job, your boss, and your potential advancement. But the one thing you cannot choose is to not participate. You, just like me and everyone else, are trapped.
+
 ### Command Economies: When Your Master Chooses You
 
 Authorities' underlying attitude in market economies is "find a way to serve us, or enjoy your poverty." Workers don't legally have to have a job, but they face poverty if they don't serve some master somewhere. However, in market economies the worst punishment for disobedience is usually just being fired. In command economies, the approach is more direct: "Obey my order, or I will punish you." Workers in these situations generally do not choose their boss and are physically punished if they do not follow orders.

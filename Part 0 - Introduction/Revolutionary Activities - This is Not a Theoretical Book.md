@@ -1,4 +1,4 @@
-# Revolutionary Activities -- Because This is Not a Theoretical Book
+# Revolutionary Activities -- This is Not a Theoretical Book
 
 This is a book about The Deepest Revolution -- proof that it's possible to live in a nation without injustice and corruption, why our current way of life isn't working, and inspirational stories from healthy nations to help guide the way to creating new ones.
 

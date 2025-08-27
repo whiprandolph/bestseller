@@ -16,7 +16,7 @@
 </td><td><a href="#cite_Chapter_1_8_src" id="cite_Chapter_1_8_dest" style="text-decoration:none">8</a>. (Deforestation and Forest Degradation: The Causes, Effects, and Solutions, 2025)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 2: How Can a Whole Nation Embrace Generosity and Integrity?</b></td></tr><tr><td><a href="#cite_Chapter_2_1_src" id="cite_Chapter_2_1_dest" style="text-decoration:none">1</a>. (Trigger, 1969, 71)<br/>
+<tr><td><b>Chapter 2: How Can Whole Nations Embrace Generosity and Integrity?</b></td></tr><tr><td><a href="#cite_Chapter_2_1_src" id="cite_Chapter_2_1_dest" style="text-decoration:none">1</a>. (Trigger, 1969, 71)<br/>
 </td><td><a href="#cite_Chapter_2_2_src" id="cite_Chapter_2_2_dest" style="text-decoration:none">2</a>. (Price, 1939, "Physical, Mental, and Moral Degeneration")<br/>
 </td></tr>
 
@@ -63,7 +63,7 @@
 <tr><td><a href="#cite_Chapter_2_23_src" id="cite_Chapter_2_23_dest" style="text-decoration:none">23</a>. (Linderman, 1932, 173)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 3: Healthy Cultures Share Three Core Spiritual Practices</b></td></tr><tr><td><a href="#cite_Chapter_3_1_src" id="cite_Chapter_3_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
+<tr><td><b>Chapter 3: Healthy Nations Share Three Core Spiritual Practices</b></td></tr><tr><td><a href="#cite_Chapter_3_1_src" id="cite_Chapter_3_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
 </td><td><a href="#cite_Chapter_3_2_src" id="cite_Chapter_3_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td></tr>
 
@@ -494,7 +494,7 @@
 </td><td><a href="#cite_Chapter_10_38_src" id="cite_Chapter_10_38_dest" style="text-decoration:none">38</a>. (Cameron, 1981, 112)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 11: How Can a Whole Nation Embrace Awareness and Unity?</b></td></tr><tr><td><a href="#cite_Chapter_11_1_src" id="cite_Chapter_11_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
+<tr><td><b>Chapter 11: How Can Whole Nations Embrace Awareness and Unity?</b></td></tr><tr><td><a href="#cite_Chapter_11_1_src" id="cite_Chapter_11_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 12: Selfish Violence vs Selfless Violence</b></td></tr><tr><td><a href="#cite_Chapter_12_1_src" id="cite_Chapter_12_1_dest" style="text-decoration:none">1</a>. (Gilbert, n.d.)<br/>

@@ -1,10 +1,10 @@
 ## Chapter 16: Build Spiritual Strength with Others
 
-Can you imagine your life if you deeply trusted everyone to take care of each other and to stand for what's right no matter what?
+Can you imagine your life if you deeply trusted everyone around you to take care of each other and to stand for what's right no matter what?
 
 Okanagan woman Jeannette Armstrong called this deep trust of knowing your community is there to sustain you "the most secure feeling in the world."[xxx-original instructions|armstrong]
 
-People in healthy nations create and maintain this deep trust by consistently holding themselves and each other to high standards of respectful, generous, and cooperative behavior that benefits each individual because it benefits the community. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, personal growth and bravery. When qualities like deep integrity and generosity become widespread, it's easy to see how deep trust becomes widespread too.
+People in healthy nations create and maintain this deep trust by consistently holding themselves and each other to high standards of respectful, generous, and cooperative behavior that benefits each individual because it benefits the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, personal growth and bravery. When qualities like deep integrity and generosity become widespread, it's easy to see how deep trust becomes widespread too.
 
 So if those of us in unhealthy nations want to begin creating a new healthy nation, we must remember or relearn how to hold ourselves and each other to high standards too.
 
@@ -72,13 +72,13 @@ Of course, women in unhealthy nations may become spiritually lost too, such as t
 
 When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
 
-Instead of seeking real freedom, authorities in unhealthy nations trick men and women into thinking that "freedom" means being able to do whatever you want without financial restraint, and so the way to become free is to get rich. But this is the faux-freedom of kings who don't care about anything.
+Instead of seeking real freedom, authorities in unhealthy nations trick men and women into thinking that "freedom" means being able to do whatever you want without financial restraint, and so the way to become free is to get rich. But this is the faux-freedom of kings who don't care about anyone.
 
 Real freedom comes when everyone cares for and protects each other and stands for what's right as a normal way of life, so that everyone can enjoy justice and deep respect with their neighbors. When people forget this and just look after themselves, it's easy to become spiritually lost and let selfishness take over.
 
 I certainly do _not_ suggest anyone quit their job. Just realize that individuals trying to get better-paying jobs is not the path to collective freedom. 
 
-Revolutionaries like the Black Panthers and Zapatistas often kept working their jobs to support themselves as they sought to free their people. Black Panther Don Cox put it well: "use what you got to get what you need." Making money and getting rich shouldn't be the end-goal. Just like the Tzutujil Mayans and Huron who liked to get rich so they could give it all away, or Harriet Tubman who saved up money so she could return South to help others escape chattel slavery, I support people in making money so they can do the most good in service of the people and nonhumans they love.
+Revolutionaries like the Black Panthers and Zapatistas often kept working their jobs to support themselves as they sought to free their people. Black Panther Don Cox put it well: "use what you got to get what you need."[xxx-just another nigger|use what you got] Making money and getting rich shouldn't be the end-goal. Just like the Tzutujil Mayans and Huron who liked to get rich so they could give it all away, or Harriet Tubman who saved up money so she could return South to help others escape chattel slavery, I support people in making money so they can do the most good in service of the people and nonhumans they love.
 
 When you know what to look for, you will see how low our expectations are for each other in unhealthy nations. But it doesn't need to be this way. To create healthy communities and eventually sovereign healthy nations, we need to raise our standards!
 
@@ -115,21 +115,27 @@ In my personal life, when I really embraced this attitude, my rate of growth inc
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
-#### Build a Healthy Community by Building Spiritual Strength with Others
+#### Building a Healthy Community Starts with You
 
-If you've completed the revolutionary activities so far, you're well on your way to building a healthy community with others. You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
+Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. If you've completed the revolutionary activities so far, you're well on your way to building a healthy community with others.
+
+You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
 
 You've practiced receiving the Earth's gifts with gratitude, and giving back to the Earth. You've questioned your assumptions, practiced bravery, and channeled your anger in productive ways.
 
-You've joined with other people into groups that continually share with each other, and where people can safely speak their heart. Practicing holding yourself and others to high standards makes it easy for others to do the same for you.
+You've joined with other people into groups that continually share with each other, and where people can safely speak their heart. You've practiced holding yourself and others to high standards and making it easy for others to do the same for you.
 
-And if you haven't completed all the activities on the first read-through of this book, that's ok! They are life-long practices. It's ok to read this book again ;)
+And if you haven't completed all the activities on the first read-through of this book, that's ok! These are life-long practices, meant to be done over and over till they become a way of life. If you haven't started, that's ok too. Go back through the book and start now.
 
-One approach to building healthy community is to build the _most amazing friendships ever._ What kinds of friends do you want to have? Do you want friends who have your back no matter what, who share and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
+#### Build a Healthy Community by Building Spiritual Strength with Others
 
-Many people like this exist. Whether you meet people online, at shops, at political events, anarchist spaces, in your neighborhood, or just by chance, many people long for such beautiful relationships, and they will be glad to meet you.
+A great way to begin building a healthy community, and eventually a healthy nation, is to build the _most amazing friendships ever._
 
-Find others who also want such rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice purposely creating surveillance-free spaces without any recording devices present so you can have privacy.
+What kinds of friends do you want to have? Do you want friends who have your back no matter what, who share and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
+
+There are so many people that want friendships like this. Whether you meet people online, at shops, at political events, anarchist spaces, in your neighborhood, or just by chance, many people long for such beautiful relationships, and they will be glad to meet you.
+
+Find others who also want rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice purposely creating surveillance-free spaces without any recording devices present so you can have privacy.
 
 Many people have little time and energy to develop deep friendships due to all kinds of stressors, such as keeping their job, rearing children, and worrying about politics. Find ways to share your time and energy so that overworked parents can have some time away from kids without resorting to electronic "babysitters," or so people can feel resilient if their job goes away. If someone lives in a food desert, help them get fresh produce. If someone can't afford fresh produce, help them find a worktrade opportunity so they don't need to pay to eat well.
 
@@ -137,11 +143,13 @@ Have fun together -- go on camping trips and ask each person to bring a story to
 
 Build up each other's dignity. Help each other remember what's important in life -- taking care of each other and the Earth. Being around excellent and beautiful people is the best antidote I know for the endless superficiality and corruption in the news and entertainment shows.
 
-Build spiritual strength together, with each person bringing out the best in everyone else. When you help each other and the Earth, living with high standards for yourself and each other, you will become more than a group of friends. You will become a healthy community, choosing your own beautiful way of life despite the laws and pressures of your unhealthy nation.
+Build spiritual strength together, with each person bringing out the best in everyone else. When you help each other and the Earth, living with high standards for yourself and each other, you will become more than a group of friends. You will become a healthy community, choosing your own beautiful way of life together despite the laws and pressures of your unhealthy nation.
+
+This is the difference between a friend group or collection of neighbors and a healthy community. Friends and neighbors may enjoy each other's company, but they may not have the same values and usually don't have their own high standards of behavior for each other. In healthy communities, whether people are neighbors or they're more spread out, people do share many of the same values and, most importantly, they hold themselves and each other to high standards.
 
 As a healthy community of people holding each other to high standards, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, respect, generosity, dignity, kindness, and bravery.
 
-The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new communities where people cultivate that spiritual strength together is part of the path to building new healthy nations.
+The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people cultivate that spiritual strength together is part of the path to building new healthy nations.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
@@ -152,7 +160,7 @@ Healthy nations are built on healthy communities where people have deep relation
 
 Instead of instituting a new overarching government, even after their revolution, they said clearly that the communities are "the core of all autonomy." They created higher levels of committees to help the communities communicate, protect each other and share resources, but no "higher ups" interfere in the communities' business.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
 
-In order for this way of life to work, healthy communities needed to exist in the first place where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns already existed, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to have a new healthy nation.
+In order for this way of life to work, healthy communities needed to exist in the first place where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns already existed before the revolution, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to have a new healthy nation.
 
 To help form new healthy communities, the Zapatistas traveled around to meet face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
 
@@ -164,43 +172,47 @@ If the communities of receptive people didn't exist, there would have been no on
 
 These healthy communities are simply groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, deep connection with the Earth, and generosity.
 
-The Zapatistas described how these healthy communities were absolutely essential for their ability to eventually have their revolution.
+The Zapatistas described how these healthy communities were absolutely essential for their revolution.
 
-Zapatista Major Ramona went to live in the jungle with dedicated revolutionaries in the 1980s, where she learned key skills like hunting and fighting and gained political consciousness. She and the others lived entirely apart from their families, dedicating their whole life to revolution. Ramona and a female friend joined around the age of 12 or 13, but were treated like they were 18 and were obviously held to very high standards. At the age of 25, she successfully lead about a thousand people in a military assault to free a town from Mexican rule and directed the resulting peace negotiations.[xxx-ezln ramona san crist]
+Zapatista Major Ramona went to live in the jungle with dedicated revolutionaries in the 1980s, where she learned key skills like hunting and fighting and gained political consciousness. Ramona and a female friend joined around the age of 12 or 13, but were treated like they were 18 and were obviously held to very high standards. At the age of 25, she successfully lead about a thousand people in a military assault to free a town from Mexican rule and directed the resulting peace negotiations.[xxx-ezln ramona san crist]
 
 Many other Zapatistas didn't change their lives as radically as she did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ramona said these people were absolutely essential. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had deep relationships with each other and the Earth, the revolution would have failed.
 
 What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating deep relationships with each other and the Earth, and they already know they want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would the representative move on, seeking more receptive people to collaborate with?
 
-It might seem hopeless to just gather a group of 5 or 10 people willing to build a different way of life together, adopting the healthy-nation perspectives in this book. Sure, you could be good to each other and serve the Earth locally, but maybe it seems impossible to form the trust relationships needed to really build a nation of many thousands or more.
+It might seem hopeless to just gather a group of 5 or 10 people willing to build a different way of life together, adopting the healthy-nation perspectives in this book. Sure, you could be good to each other and serve the Earth locally, but maybe it seems impossible to form enough trust relationships to build a nation of many thousands or more.
 
-But if you can help create a community of 5, 10, or 50 people, it will be part of the fertile ground from which the Deepest Revolution will sprout. When organizers come around to recruit, offer training, give and receive mutual aid, and seek input on what the new nation's laws should be, any community you help build will have an important role to play. And that community has to exist first.
+But if you can help create a community of 5, 10, or 50 people, it will be part of the fertile ground from which the Deepest Revolution will sprout. When organizers come around to recruit, offer training, give and receive mutual aid, and seek input on what the new nation's laws should be, any community you help build will play an important role. And that community must exist first.
 
 This is what it means to _build a healthy nation one community at a time_. When you can form deep friendships with other people around you, who are committed to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity and mutual aid are normal too.
 
-When people feel isolated and scared, even if they don't like the corruption, greed, and discrimination of their unhealthy nation, they will go along with and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. If a revolution occurred, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
+When people feel isolated and scared, even if they don't like the corruption, greed, and discrimination of their unhealthy nation, they will go along with and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
 
 If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that "most secure feeling in the world" when they trust their community to protect them.
 
-And over time if we can form enough healthy communities, perhaps someday they will unite to form a healthy nation.
+And over time if we can form enough healthy communities, perhaps someday they will unite to form a healthy nation. 
 
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
 
 #### Building a Healthy Nation is Hard -- But We Are Healthy Nations
 
-Building a healthy nation with others is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. A lot of people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear, legal path of deep change.
+Building a healthy nation with others is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. Many people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear, legal path of deep change.
 
 It would already be hard to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
-The only way to change this is to form new healthy communities with real solidarity despite all the challenges, where it's safe to give generously and stand for what's right, knowing each person has the others' backs no matter what. Where people stand for the needs of the nonhumans to ensure the Earth remains a healthy place for all its inhabitants.
+The only way to change this is to form new healthy communities with real solidarity despite all the challenges, where people share generously and stand for what's right for each other and the Earth, knowing each person has the others' backs no matter what.
 
-Despite the centuries of oppression, the truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. And it feels so incredibly wonderful because this is who we really are.
+Don't be surprised if you and your friends sometimes fall short. That is to be expected given how we have been raised and all the new skills and perspectives we must learn and practice. When somebody behaves in ways that miss the high standards, practice forgiveness -- and then aim higher!
 
-We are healthy nations; each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities explored in this book, even if some people have learned to ignore those urges to survive in their unhealthy nation. Every one of us has deep love to give. Every one of us can embrace and live these qualities at any time, generating healthy communities as we move through life.
+Aiming high will be joyful, because despite centuries of oppression, this truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. And it feels so incredibly wonderful because _this is who we really are._
 
-So spread the good news. Healthy nations exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
+We are healthy nations; each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation.
 
-Perhaps you will someday be part of a nation that lives in freedom, or perhaps you will lay the groundwork so that a future generation can. Or maybe you will just be good to the Earth and the people around you right now. No matter what happens in the future, spreading the good news and giving your gifts will make the world a brighter place.
+Every one of us has deep love to give. Every one of us can embrace and live these qualities at any time, finding and attracting like-minded and like-hearted people, and generating healthy communities as we move through life.
+
+So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
+
+Perhaps you will someday be part of a nation that lives in freedom, or perhaps you will lay the groundwork so that a future generation can. Or maybe you will just be good to the Earth and the people around you right now. No matter what happens in the future, spreading the good news, building your spiritual strength, and giving your gifts will make the world a brighter place.
 
 ### References
 
@@ -211,6 +223,8 @@ Perhaps you will someday be part of a nation that lives in freedom, or perhaps y
 [xxx-ezln ramona san crist]
 
 [xxx-everyday heroism makes the sparkles possible]
+
+[xxx-just another nigger|use what you got]
 
 [xxx-braiding sweetgrass|wisgaak gokpenagen]-aaa (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")
 
