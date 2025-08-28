@@ -2,5 +2,5 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<center><span style="font-size:40px">Part 3</span><br/><br/>
-<span style="font-size:40px">The Deepest Revolution</span></center>
+<center><span class="part-intro">Part 3</span><br/><br/>
+<span class="part-intro">The Deepest Revolution</span></center>

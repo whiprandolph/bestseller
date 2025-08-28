@@ -22,7 +22,7 @@ And they share one core difference from all unhealthy nations:
 
 <center>__*In healthy nations, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
-A nation is any group of people with their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.**
+A nation is any group of people with their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
 
 Furthermore, in healthy nations, people expect each other to _uphold_ their law and seek justice. In unhealthy nations, people are expected to _obey_ the laws they're given and they're punished for disobedience. They're also punished for upholding the law themselves and seeking justice directly. After all, enforcing the law is the police's job, though the police have to follow orders too.
 
@@ -46,13 +46,13 @@ To me, a person has _spiritual strength_ if they give their deepest love in each
 
 Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. In difficult moments you may sometimes feel uncertain or scared or angry, but regardless how you feel or what's going on around you, you give your deepest love, and you stand for what's right no matter what.
 
-_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by as a normal way of life. Your neighbors expect nothing less than your deepest bravery and integrity as you uphold the laws everybody lives by so that justice becomes normal. _In a free society, your neighbors expect you to offer your deepest love and stand for what's right, rather than punishing you for it._ In a free society, everyone is expected to cultivate the spiritual strength to have this level of integrity, no matter what.
+_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by as a normal way of life. Your neighbors expect nothing less than your deepest bravery and integrity as you uphold the laws everybody lives by so that justice becomes normal. _In a free society, your neighbors expect you to offer your deepest love and stand for what's right, rather than punishing you for it._ Everyone is expected to cultivate the necessary spiritual strength for this way of life.
 
 However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy nation punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy nations, no one has that freedom to uphold their own laws -- not even the rich.
 
 To survive in unfree nations, people learn to "hold back" or "shut down" parts of themselves and not even notice it just to get by, developing all sorts of emotional or spiritual wounds as explored in Part 2. These troubles represent a loss of that spiritual strength.
 
-However, you can still give your deepest love no matter what, even if you're trapped in an unhealthy nation that punishes people for seeking justice. In other words, _you can have that spiritual strength even if you don't have freedom._
+However, you can still stand for what's right and give your deepest love no matter what, even if you're trapped in an unhealthy nation that doesn't always welcome it. In other words, _you can have that spiritual strength even if you don't have freedom._
 
 This clarifies why _freedom is built on spiritual strength_: when everyone in a nation gives their love and seeks justice in solidarity with others, then each person welcomes everyone else to do that too. When spiritual strength is normal in a nation, your neighbors simply expect you to stand in solidarity with others so nobody experiences injustice.
 
@@ -62,11 +62,11 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 Part 3 of this book will explore how you can work with others to create a beautiful way of life, a nation of spiritually strong people living in actual freedom. It will require tremendous hard work, bravery and risk -- and _it's worth it_.
 
-But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similiar to how millions of people have lived since the dawn of time.**
+But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similiar to how millions of people have lived since the dawn of time.
 
 Healthy nations are who we really are, but anytime a ruling class takes hold, deep selfishness and predatory behavior become widespread and normalized. And since "selfishness" and "corruption" are the same, that means widespread corruption also becomes normalized.
 
-The truth is that _your unhealthy nation is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.**
+The truth is that _your unhealthy nation is a trap_ that keeps you and the people around you stuck in an unsatisfying way of life, generation after generation. It is possible to escape the trap. If we want to escape, we must confront the deepest patterns of manipulation that have kept people trapped in unfree societies for centuries or even millennia -- even in so-called "democracies." Only with this deep understanding can we free ourselves and build truly healthy, free nations.
 
 Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something? Most people just haven't heard the perspectives and stories that offer a helpful path.
 

@@ -169,7 +169,7 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("39:116"))
+  part_two.append(book_pdf_path, pages=PageRange("45:134"))
   part_two.write(part_two_path)
   part_two.close()
 
@@ -191,20 +191,15 @@ def sample_pdf(book_pdf_path):
 
   part_one = PdfWriter()
   part_one.append(book_pdf_path, pages=PageRange("1"))
-  part_one.append(book_pdf_path, pages=PageRange("5:39"))
+  part_one.append(book_pdf_path, pages=PageRange("4:44"))
   part_one.write(part_one_path)
   part_one.close()
-
-  chapter_9 = PdfWriter()
-  chapter_9.append(book_pdf_path, pages=PageRange("73:88"))
-  chapter_9.write(chapter_9_path)
-  chapter_9.close()
 
   part_one_reader = PdfReader(part_one_path)
   try:
     assert "Table of Contents" in part_one_reader.pages[0].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (ToC)"
     assert "This Is Who We Really Are" in part_one_reader.pages[1].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (title page)"
-    assert "spiritual strength, join me in Part 2 - Why Are We So Lost?" in part_one_reader.pages[-1].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (ending)"
+    assert "Many people avoid watching" in part_one_reader.pages[-1].extract_text(), "Part 1 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()

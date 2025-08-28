@@ -98,7 +98,9 @@ Abusive or deprived childhoods profoundly affect people's capacity for pleasure 
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others consistently embrace superficiality and allow themselves to be cogs in a machine? 
 
-Child abuse or deprivation isn't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.**
+When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
+
+Child abuse or deprivation aren't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.**
 
 These emotional troubles can also make it difficult to connect with partners in romantic and spousal relationships, limiting the depth of connection and trust many people can experience even in their family.**
 
@@ -148,7 +150,7 @@ For millions of years, every child was trained for beautiful qualities, in part 
 
 And what is the result? Endless predation!
 
-To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions encourage all the worst qualities. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Pollution and economic "development" poison and scar the environment that we're all part of. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
+To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions train people to obey corrupt leaders. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Pollution and economic "development" poison and scar the environment that we're all part of. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
 
 ### It is Time to End this Endless Predation
 

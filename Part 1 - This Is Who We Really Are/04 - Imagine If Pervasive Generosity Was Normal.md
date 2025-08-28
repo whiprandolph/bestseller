@@ -1,6 +1,6 @@
 ## Chapter 4: Imagine If Pervasive Generosity Was Normal
 
-Take a moment and picture yourself living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in time of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
+Take a moment and picture yourself living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
 Hard to imagine, isn't it?
 

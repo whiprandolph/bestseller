@@ -1,6 +1,6 @@
 ## Chapter 17: The Deepest Revolution
 
-Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, greed, privilege, corruption, pollution, child abuse, and poverty in the midst of abundance. So many problems to solve!
+Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, greed, privilege, corruption, pollution, child abuse, and poverty in the midst of abundance. So many challenges to solve!
 
 But all these different issues stem from one root problem: _we're not free._ We are not free to choose our laws nor uphold them. Instead, we are expected to obey laws we are given, and we are punished for standing for what's right and directly seeking justice. As long as we ignore this one root problem, all the other issues will persist.
 

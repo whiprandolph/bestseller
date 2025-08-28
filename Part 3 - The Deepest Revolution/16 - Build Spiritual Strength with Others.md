@@ -40,10 +40,10 @@ Regardless of the unhealthy nation in which you may now live, you can hold yours
 
 This is the path to building a culture of deep trust. Have high expectations for yourself and the people around you so that qualities like integrity, bravery, awareness, and generosity are simply normal and expected.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Hold yourself and others to a high standard</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Hold yourself and others to a high standard</div>
 <div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Receive feedback graciously by looking for the lesson</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Receive feedback graciously by looking for the lesson</div>
 <div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Do what you can to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
 
 #### Seeing the Trap of Low Standards
@@ -64,13 +64,11 @@ When boys are raised to deny or twist this deep love-gift of boundary-setting an
 
 This explains the spiritual meaning behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their deepest love, afraid to stand for what's right, is deeply unsatisfying.
 
-Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to know how to live in a good and deeply satisfying way.
+Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to know how to live in a deeply satisfying way.
 
 People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this. Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or distract themselves from their meaningless life with things like alcohol, drugs, superficial hobbies, or overwork.
 
-Of course, women in unhealthy nations may become spiritually lost too, such as those who believe women can be "liberated" by becoming well-paid wage slaves, selfish executives and corrupt politicians, just like spiritually lost men.
-
-When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
+Women in unhealthy nations may become spiritually lost too, such as those who believe women can be "liberated" by becoming well-paid wage slaves, selfish executives and corrupt politicians, just like spiritually lost men.
 
 Instead of seeking real freedom, authorities in unhealthy nations trick men and women into thinking that "freedom" means being able to do whatever you want without financial restraint, and so the way to become free is to get rich. But this is the faux-freedom of kings who don't care about anyone.
 
@@ -90,9 +88,9 @@ Thus, to really hold yourself and others to a high standard and help people grow
 
 The first requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being themselves. Trust that they want to show up in a good way and just don't know how -- there's something they're missing, but if they could see it, they would grow and show up well.
 
-Some people are so stuck that they don't grow even with constructive feedback, and you may need to set boundaries and not allow their hurtful behavior in your life anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
+Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 
-Trusting in a person's inherent goodness helps me recognize that everything in life is a skill that can be practiced without guilt or shame.
+Trusting in people's inherent goodness helps me see that everything in life is a skill that can be practiced without guilt or shame.
 
 #### Practice Makes Progress
 
@@ -102,7 +100,7 @@ You practiced: you tried your best to kick the soccer ball to someone, and somet
 
 Living with integrity, awareness, gratitude, and generosity are skills too, and you can practice each of these intentionally just like any other skill. Practice approaching life with these qualities, and notice when you show up with them and when you don't. Perhaps sometimes you don't have the awareness you want, or you are afraid to tell the truth and so you lie instead.
 
-Cultivating these qualities is just like learning to kick a soccer ball. When you mess up, avoid any sense of guilt or shame. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual fear, guilt, or shame, let it go. You are just a person practicing and learning.
+Cultivating these qualities is just like learning to kick a soccer ball. When you mess up, avoid any sense of guilt or shame. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual guilt, or shame, let it go. You are just practicing and learning.
 
 And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. Take bravery for example, which is simply the ability to remain conscious and do what you know in your heart is right even if you feel uncomfortable or afraid. To practice bravery, you can intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
@@ -112,7 +110,7 @@ Spiritual growth can be joyful rather than stressful when you approach it withou
 
 In my personal life, when I really embraced this attitude, my rate of growth increased. I started learning life lessons faster than before because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Practice bravery</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 #### Building a Healthy Community Starts with You
@@ -125,21 +123,25 @@ You've practiced receiving the Earth's gifts with gratitude, and giving back to 
 
 You've joined with other people into groups that continually share with each other, and where people can safely speak their heart. You've practiced holding yourself and others to high standards and making it easy for others to do the same for you.
 
-And if you haven't completed all the activities on the first read-through of this book, that's ok! These are life-long practices, meant to be done over and over till they become a way of life. If you haven't started, that's ok too. Go back through the book and start now.
+If you haven't completed all the activities yet, that's ok! These are life-long practices, meant to be done over and over until they become a way of life. If you haven't started, that's ok too. Now is a good time to start.
 
 #### Build a Healthy Community by Building Spiritual Strength with Others
 
 A great way to begin building a healthy community, and eventually a healthy nation, is to build the _most amazing friendships ever._
 
-What kinds of friends do you want to have? Do you want friends who have your back no matter what, who share and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
+What kind of friends do you want to have? Do you want friends who have your back no matter what, who share and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
+
+Of course -- you'd need to be that kind of friend too.
 
 There are so many people that want friendships like this. Whether you meet people online, at shops, at political events, anarchist spaces, in your neighborhood, or just by chance, many people long for such beautiful relationships, and they will be glad to meet you.
 
 Find others who also want rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice purposely creating surveillance-free spaces without any recording devices present so you can have privacy.
 
+Deep friendships usually take time to grow, but they will grow a lot faster if you have a clear intention for the kind of friendship you want to have, and the kind of friend you want to be.
+
 Many people have little time and energy to develop deep friendships due to all kinds of stressors, such as keeping their job, rearing children, and worrying about politics. Find ways to share your time and energy so that overworked parents can have some time away from kids without resorting to electronic "babysitters," or so people can feel resilient if their job goes away. If someone lives in a food desert, help them get fresh produce. If someone can't afford fresh produce, help them find a worktrade opportunity so they don't need to pay to eat well.
 
-Have fun together -- go on camping trips and ask each person to bring a story to share around the fire, make music in someone's living room, and have parties to celebrate milestones in kids' lives, like their first step or first successful hunt.
+Have fun together -- go on camping trips and ask each person to bring a story to share around the fire, make music in someone's living room, train self-defense and bravery, and celebrate milestones in kids' lives, like their first step or first successful hunt.
 
 Build up each other's dignity. Help each other remember what's important in life -- taking care of each other and the Earth. Being around excellent and beautiful people is the best antidote I know for the endless superficiality and corruption in the news and entertainment shows.
 
@@ -149,16 +151,16 @@ This is the difference between a friend group or collection of neighbors and a h
 
 As a healthy community of people holding each other to high standards, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, respect, generosity, dignity, kindness, and bravery.
 
-The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people cultivate that spiritual strength together is part of the path to building new healthy nations.
+The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Serve the Earth Together</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 #### To Build a Nation One Community at a Time, Build a Community One Person at a Time
 
 Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas showed me how to build a nation one community at a time.
 
-Instead of instituting a new overarching government, even after their revolution, they said clearly that the communities are "the core of all autonomy." They created higher levels of committees to help the communities communicate, protect each other and share resources, but no "higher ups" interfere in the communities' business.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
+Instead of instituting a new overarching government, even after their revolution, they said clearly that the communities are "the core of all autonomy." They created higher levels of councils to help the communities protect each other, communicate, and share resources, but no "higher ups" interfere in the communities' business.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
 
 In order for this way of life to work, healthy communities needed to exist in the first place where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns already existed before the revolution, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to have a new healthy nation.
 
@@ -168,7 +170,7 @@ One Zapatista woman named Susana traveled to dozens of communities where she rea
 
 How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
 
-If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with, to build a nation with. The communities of people had to exist before they could be united into a respectful nation.
+If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with, to build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
 
 These healthy communities are simply groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, deep connection with the Earth, and generosity.
 
@@ -176,7 +178,7 @@ The Zapatistas described how these healthy communities were absolutely essential
 
 Zapatista Major Ramona went to live in the jungle with dedicated revolutionaries in the 1980s, where she learned key skills like hunting and fighting and gained political consciousness. Ramona and a female friend joined around the age of 12 or 13, but were treated like they were 18 and were obviously held to very high standards. At the age of 25, she successfully lead about a thousand people in a military assault to free a town from Mexican rule and directed the resulting peace negotiations.[xxx-ezln ramona san crist]
 
-Many other Zapatistas didn't change their lives as radically as she did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ramona said these people were absolutely essential. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had deep relationships with each other and the Earth, the revolution would have failed.
+Many other Zapatistas didn't change their lives as radically as she did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ramona said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had deep relationships with each other and the Earth, the revolution would have failed.
 
 What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating deep relationships with each other and the Earth, and they already know they want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would the representative move on, seeking more receptive people to collaborate with?
 
@@ -186,19 +188,19 @@ But if you can help create a community of 5, 10, or 50 people, it will be part o
 
 This is what it means to _build a healthy nation one community at a time_. When you can form deep friendships with other people around you, who are committed to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity and mutual aid are normal too.
 
-When people feel isolated and scared, even if they don't like the corruption, greed, and discrimination of their unhealthy nation, they will go along with and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
+When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
 
-If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that "most secure feeling in the world" when they trust their community to protect them.
+If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that most secure feeling in the world when they trust their community to protect them.
 
-And over time if we can form enough healthy communities, perhaps someday they will unite to form a healthy nation. 
+And over time if we can form enough healthy communities, perhaps someday they will unite to form a healthy nation, or even many healthy nations. 
 
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
 
 #### Building a Healthy Nation is Hard -- But We Are Healthy Nations
 
-Building a healthy nation with others is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. Many people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear, legal path of deep change.
+Building a healthy nation is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. Many people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear path of deep change.
 
-It would already be hard to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
+It would be hard enough to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
 The only way to change this is to form new healthy communities with real solidarity despite all the challenges, where people share generously and stand for what's right for each other and the Earth, knowing each person has the others' backs no matter what.
 
@@ -212,7 +214,7 @@ Every one of us has deep love to give. Every one of us can embrace and live thes
 
 So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
 
-Perhaps you will someday be part of a nation that lives in freedom, or perhaps you will lay the groundwork so that a future generation can. Or maybe you will just be good to the Earth and the people around you right now. No matter what happens in the future, spreading the good news, building your spiritual strength, and giving your gifts will make the world a brighter place.
+Perhaps you will someday live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, it'll be worth it. No matter what happens, spreading the good news, building your spiritual strength, and giving your gifts will make the world a brighter place.
 
 ### References
 

@@ -2,5 +2,5 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<center><span style="font-size:40px">Part 2</span><br/><br/>
-<span style="font-size:40px">Why Are We So Lost?</span></center>
+<center><span class="part-intro">Part 2</span><br/><br/>
+<span class="part-intro">Why Are We So Lost?</span></center>

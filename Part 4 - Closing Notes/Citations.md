@@ -672,17 +672,20 @@
 </td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Gibson, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Randolph, 2024)<br/>
-</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Notes, 2005, 38)<br/>
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (Notes, 2005, 38)<br/>
 </td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_16_15_src" id="cite_Chapter_16_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_16_16_src" id="cite_Chapter_16_16_dest" style="text-decoration:none">16</a>. (author, date)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_16_17_src" id="cite_Chapter_16_17_dest" style="text-decoration:none">17</a>. (author, date)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 17: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
 </td><td></td></tr>

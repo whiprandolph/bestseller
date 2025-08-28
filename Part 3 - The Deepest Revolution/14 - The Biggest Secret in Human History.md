@@ -4,7 +4,7 @@ What do you think is the biggest secret in human history?
 
 What secret has been kept from billions of people across every continent going back centuries or even millennia?
 
-The most widespread and ancient secret is this: you, and everybody else in the whole world, could potentially live in nations that maintain a respectful way of life among all the people, and between the people and the Earth. Many nations around the world, now and in the recent past, show that this is not just possible, but the normal and healthy way for humans to live.
+The most widespread and ancient secret is this: you, and everybody else in the whole world, could potentially live in nations that maintain a respectful way of life among the people, and between the people and the Earth. Many nations around the world, now and in the recent past, show that this is not just possible, but the normal and healthy way for humans to live.
 
 Why has this been such an epic, widely-kept secret? Of course: Ruling classes have done their best -- around the world and throughout history -- to prevent people from learning that free societies exist, so that their conquered subjects will not know what freedom is like, or won't believe in freedom at all.
 
@@ -12,7 +12,7 @@ For thousands of years, wage slaves, chattel slaves, and other slaves have been 
 
 When you know what to look for, the history books show this vividly.
 
-Just as the American, German, and other authorities are calling anti-genocide protesters "antisemitic" and punishing them for opposing their rulers' genocide today, for centuries European colonial authorities likewise have called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy nations.
+Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them for opposing their rulers' genocide, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy nations.
 
 Why would ruling classes work so hard to spread propaganda against healthy nations? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."[xxx-true americanism|p27]
 
@@ -92,6 +92,9 @@ So find people that you trust to speak your heart to, and whom you likewise list
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Find people with whom you can speak your heart</div>
 <div class="rev-act-body">Even if you don't know how to respond to your feelings, it can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Create private spaces</div>
+<div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can be with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
 
 ### References
 

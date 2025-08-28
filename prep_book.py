@@ -39,6 +39,9 @@ BOOK_ADDED_STYLE = """
   #biblio p {
     font-size: 7pt;
   }
+  .part-intro {
+    font-size: 38px;
+  }
   @page :left {
     size: %sin %sin;
     margin-left: .55in;
