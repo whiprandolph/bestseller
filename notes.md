@@ -1,7 +1,3 @@
-### Rev-Act Ideas
-
-* create private spaces -- surveillance-free (or minimized...) -- end of Chap 14
-
 ### Rear Cover
 
 There are whole nations, today and in recent times, where people live respectfully with each other and the Earth. They have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.
@@ -46,8 +42,6 @@ It will take _The Deepest Revolution._ Based on the words of people of healthy n
   * unhealthy nation
   * stand for what's right
   * seek justice
-  * also the end-of-chapter transitions
-
 
 "Many healthy nations referenced in this book have not been able to maintain a traditional way of life since being conquered by unhealthy nations in recent centuries. However, unlike people who've forgotten their healthy-culture ancestors, they still remember..."
 

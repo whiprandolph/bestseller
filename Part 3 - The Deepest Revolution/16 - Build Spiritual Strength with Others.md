@@ -10,7 +10,7 @@ So if those of us in unhealthy nations want to begin creating a new healthy nati
 
 ### Healthy Nations Show How High our Standards Can Be
 
-_Integrity:_ In every legal system around the world, people are required to testify under oath, and they are threatened with severe punishment for lying. The assumption is that participants might lie if they weren't threatened with severe punishment.
+_Integrity:_ In every legal system around the world, people are required to testify under oath, and they are threatened with severe punishment for lying. The assumption is that participants might lie if they weren't scared.
 
 In contrast, integrity was so pervasive among the traditional Apache that they did not compel anyone to take an oath because, according to Geronimo, "it is not believed that they will give false testimony in a matter relating to their own people."[xxx-geronimo autobio|Unwritten Laws of the Apaches]
 
@@ -100,9 +100,9 @@ You practiced: you tried your best to kick the soccer ball to someone, and somet
 
 Living with integrity, awareness, gratitude, and generosity are skills too, and you can practice each of these intentionally just like any other skill. Practice approaching life with these qualities, and notice when you show up with them and when you don't. Perhaps sometimes you don't have the awareness you want, or you are afraid to tell the truth and so you lie instead.
 
-Cultivating these qualities is just like learning to kick a soccer ball. When you mess up, avoid any sense of guilt or shame. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual guilt, or shame, let it go. You are just practicing and learning.
+Cultivating these qualities is just like learning to kick a soccer ball. When you mess up, avoid any sense of guilt or shame. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual guilt or shame, let it go. You are just practicing and learning.
 
-And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. Take bravery for example, which is simply the ability to remain conscious and do what you know in your heart is right even if you feel uncomfortable or afraid. To practice bravery, you can intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
+And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. Take bravery for example, which is the ability to remain conscious and do what you know in your heart is right even if you feel uncomfortable or afraid. To practice bravery, you can intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
 The book _One Disease One Cure_ contains many more suggestions for cultivating bravery, integrity, and other qualities.[xxx-odoc]
 
@@ -129,7 +129,7 @@ If you haven't completed all the activities yet, that's ok! These are life-long 
 
 A great way to begin building a healthy community, and eventually a healthy nation, is to build the _most amazing friendships ever._
 
-What kind of friends do you want to have? Do you want friends who have your back no matter what, who share and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
+What kind of friends do you want to have? Do you want friends who have your back no matter what, who share and support you and always tell the truth, who care about the Earth and enjoy life? If you want friends like that, what kind of friend would you need to be?
 
 Of course -- you'd need to be that kind of friend too.
 
@@ -141,9 +141,9 @@ Deep friendships usually take time to grow, but they will grow a lot faster if y
 
 Many people have little time and energy to develop deep friendships due to all kinds of stressors, such as keeping their job, rearing children, and worrying about politics. Find ways to share your time and energy so that overworked parents can have some time away from kids without resorting to electronic "babysitters," or so people can feel resilient if their job goes away. If someone lives in a food desert, help them get fresh produce. If someone can't afford fresh produce, help them find a worktrade opportunity so they don't need to pay to eat well.
 
-Have fun together -- go on camping trips and ask each person to bring a story to share around the fire, make music in someone's living room, train self-defense and bravery, and celebrate milestones in kids' lives, like their first step or first successful hunt.
+Have fun together -- go on camping trips and ask each person to bring a story to share around the fire, make music in someone's living room, and celebrate milestones in kids' lives, like their first step or first successful hunt.
 
-Build up each other's dignity. Help each other remember what's important in life -- taking care of each other and the Earth. Being around excellent and beautiful people is the best antidote I know for the endless superficiality and corruption in the news and entertainment shows.
+Build up each other's dignity. Train self-defense and bravery together. Help each other remember what's important in life -- taking care of each other and the Earth. Being around excellent and beautiful people is the best antidote I know for the endless superficiality and corruption in the news and entertainment shows.
 
 Build spiritual strength together, with each person bringing out the best in everyone else. When you help each other and the Earth, living with high standards for yourself and each other, you will become more than a group of friends. You will become a healthy community, choosing your own beautiful way of life together despite the laws and pressures of your unhealthy nation.
 
@@ -156,7 +156,7 @@ The Haudenosaunee writers described how their "society was founded on concepts o
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
-#### To Build a Nation One Community at a Time, Build a Community One Person at a Time
+#### Build a Nation One Community at a Time, and Build a Community One Person at a Time
 
 Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas showed me how to build a nation one community at a time.
 
@@ -164,21 +164,21 @@ Instead of instituting a new overarching government, even after their revolution
 
 In order for this way of life to work, healthy communities needed to exist in the first place where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns already existed before the revolution, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to have a new healthy nation.
 
-To help form new healthy communities, the Zapatistas traveled around to meet face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
+To help form new healthy communities, the Zapatistas traveled around to meet people face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
 
-One Zapatista woman named Susana traveled to dozens of communities where she read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted in this process.[xxx-everyday heroism makes the sparkles possible]
+Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted in this process.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
 
 How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
 
-If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with, to build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
+If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with or build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
 
 These healthy communities are simply groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, deep connection with the Earth, and generosity.
 
 The Zapatistas described how these healthy communities were absolutely essential for their revolution.
 
-Zapatista Major Ramona went to live in the jungle with dedicated revolutionaries in the 1980s, where she learned key skills like hunting and fighting and gained political consciousness. Ramona and a female friend joined around the age of 12 or 13, but were treated like they were 18 and were obviously held to very high standards. At the age of 25, she successfully lead about a thousand people in a military assault to free a town from Mexican rule and directed the resulting peace negotiations.[xxx-ezln ramona san crist]
+Commander Ramona and major Ana Maria went to live in the jungle with dedicated revolutionaries in the 1980s, where they learned key skills like hunting and fighting and gained political consciousness. They joined around the age of 12 or 13, but accepted responsibilities as full adults and were obviously held to very high standards. At the age of 25, Ana Maria successfully lead about a thousand people in a military assault to free a town from Mexican rule and Ramona directed the resulting peace negotiations.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
 
-Many other Zapatistas didn't change their lives as radically as she did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ramona said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had deep relationships with each other and the Earth, the revolution would have failed.
+Many other Zapatistas didn't change their lives as radically as these women did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ana Maria said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had deep relationships with each other and the Earth, the revolution would have failed.
 
 What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating deep relationships with each other and the Earth, and they already know they want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would the representative move on, seeking more receptive people to collaborate with?
 
@@ -218,15 +218,17 @@ Perhaps you will someday live in a free nation, or perhaps you will lay the grou
 
 ### References
 
-[xxx-ezln new structure]
+[xxx-bringing women in ezln]-aaa (Padierna Jiménez, 2013)
 
-[xxx-bringing women in ezln]
+[xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 
-[xxx-ezln ramona san crist]
+[xxx-opendemocracy zapatista women law as it is lived today]-aaa (Marcos, 2014)
 
-[xxx-everyday heroism makes the sparkles possible]
+[xxx-everyday heroism makes the sparkles possible]-aaa ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)
 
-[xxx-just another nigger|use what you got]
+[xxx-just another nigger|use what you got]-aaa (Cox, 2019, "Use What You Got to Get What You Need")
+
+[xxx-ezln new structure]-aaa ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)
 
 [xxx-braiding sweetgrass|wisgaak gokpenagen]-aaa (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")
 

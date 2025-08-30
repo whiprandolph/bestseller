@@ -61,7 +61,7 @@ Eventually, I just had to find ways to protect the forest. I couldn't bear to se
 
 I had an urge to protect the forest, an urge I couldn't ignore even if I wanted. I was too full of gratitude, too aware of the nonhumans' gifts to me and to each other, too aware of the divinity that lives in them just as it lives in me and all people -- so I couldn't ignore that urge to stand up for the rivers and forests I loved.
 
-There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. But cultivating this practical, aware gratitude helped me get on a good path.
+There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. Cultivating this practical, aware gratitude helped me get on a good path.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Learn to receive the tangible gifts of the Earth</div>
 <div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, or eat wild foods? Or build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, or forage local foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
@@ -90,7 +90,7 @@ What is this greater power, or divine voice, that moves some people to act so se
 
 The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work. People can find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
 
-Tubman, King, and Christ only seem special because they gave their deepest love in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
+Tubman, King, and Christ only seem unusual because they gave their deepest love in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
 This is one universal spiritual truth behind the teachings of religions like Christianity, Islam, and Buddhism: everyone has sacred gifts to give, a divine purpose that only they can fulfill. And the divine voice inside you already knows that purpose, whether you consciously know it or not.
 
@@ -169,13 +169,13 @@ All the revolutionary activities in this book are meant to help you generate exa
 
 When you practice standing for what's right and supporting others who take a stand, you'll show a courage that inspires deep trust in others -- and who doesn't want to trust their friends?
 
-When you practice giving first and without any expectation in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
+When you practice giving first and without expecting anything in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
 
 When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends than you ever imagined.
 
 When you can cultivate deep relationships with people and nonhumans, they will give life a deep meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give your gifts when there are grateful people and nonhumans to receive them.
 
-A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to walking that most meaningful path, cultivating that practical aware gratitude, and living in reciprocity, I believe you'll find that spiritual strength that seems so elusive in unhealthy nations.
+A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to cultivating a practical aware gratitude, walking the most meaningful path, and living in reciprocity, you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
 ### Healing Ancient Traumas Today
 Every person in every unhealthy nation has ancestors that lived in healthy nations years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on these three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
@@ -184,7 +184,7 @@ At some point, our ancestors suffered something terrible, and eventually the unh
 
 It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from building your spiritual strength with others as they build theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
 
-Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating your spiritual strength, and you find others to walk it with, you'll begin the Deepest Revolution. That shared path will be beautiful no matter what happens, and it's a necessary part of the collective path leading to new healthy nations where respect is the norm among the people, and between people and the Earth.
+Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating your spiritual strength, and you find others to walk it with, you'll begin the Deepest Revolution. Your path will be beautiful no matter what happens, and it's a necessary part of the collective path leading to new healthy nations where respect is the norm among the people, and between people and the Earth.
 
 ### References
 

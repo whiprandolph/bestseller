@@ -15,9 +15,14 @@ online_book_html_path = os.path.join(book_final, "book_online.html")
 book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
 book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
 book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
-toc_pdf_path = os.path.join(book_final, "toc.pdf")
+toc_online_pdf_path = os.path.join(book_final, "toc_online.pdf")
+toc_phys_pdf_path = os.path.join(book_final, "toc_phys.pdf")
 book_cover_path = os.path.join(book_final, "online_front_cover.png")
-toc_html_path = os.path.join(book_final, "toc.html")
+toc_online_html_path = os.path.join(book_final, "toc_online.html")
+toc_phys_html_path = os.path.join(book_final, "toc_phys.html")
+
+PHYS_TOC_MARGIN = '.85'
+ONLINE_TOC_MARGIN = '.45'
 
 images_source = r"C:\Users\whip\tdr-book-html\images"
 images_dest = os.path.join(book_final, "images")
@@ -61,7 +66,7 @@ def get_page_number(pdf, name, start_page):
   a = 5
 
 
-def prep_pdf_toc(content_path, dimensions):
+def prep_pdf_toc(content_path, dimensions, phys):
   pdf = PdfReader(content_path)
 
   chapter_number = 1
@@ -82,20 +87,37 @@ def prep_pdf_toc(content_path, dimensions):
         add_part_name = False
       toc_data[part].append((name, page_number))
   
-  output_table(toc_data, dimensions)
-  verify(toc_data, pdf)
+  output_table(toc_data, dimensions, phys)
+  verify(toc_data, pdf, phys)
 
 
-def verify(toc_data, pdf):
+def verify(toc_data, pdf, phys):
+  phys_checks = {
+    'chap2':11,
+    'chap8':63,
+    'chap15':141,
+    'page_count':191,
+  }
+  online_checks = {
+    'chap2':11,
+    'chap8':61,
+    'chap15':135,
+    'page_count':184,
+  }
+  
+  checks = online_checks
+  if phys:
+    checks = phys_checks
+
   # sanity checks
   try:
-    assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and 11 == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
-    assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and 63 == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
-    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and 140 == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off"
-    assert len(pdf.pages) == 189, len(pdf.pages) # excludes title/toc pages
+    assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and checks['chap2'] == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
+    assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and checks['chap8'] == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
+    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off"
+    assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
-    print("ERROR in ToC Validation: %s" % exc)
+    print("ERROR in ToC Validation (phys=%s): %s" % (phys, exc))
     import pdb;pdb.set_trace()
 
 
@@ -105,10 +127,17 @@ def write_toc_line(md, name, page_number):
   md.write("<span class=\"page\"><span class=\"visually-hidden\">Page</span> %s</span>\n" % page_number)
   md.write("</a>\n")
 
-def output_table(toc_data, dimensions):
+def output_table(toc_data, dimensions, phys):
+  toc_html_path = toc_online_html_path
+  if phys:
+    toc_html_path = toc_phys_html_path
   md = open(toc_html_path, encoding='utf-8', mode='w')
   md.write("<html><title>The Deepest Revolution</title>\n")
-  md.write("<style>\n%s\n</style>\n" % css)
+  if phys:
+    updated_css = css % PHYS_TOC_MARGIN
+  else:
+    updated_css = css % ONLINE_TOC_MARGIN
+  md.write("<style>\n%s\n</style>\n" % updated_css)
   print("pdf_toc: dimensions=%s" % dimensions)
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
@@ -146,9 +175,15 @@ def output_table(toc_data, dimensions):
   md.close()
 
   print("  == Making ToC PDF\n")
-  subprocess.run(['node', r'C:\Users\whip\tdr_js\toc_to_pdf.js'])
+  if phys:
+    subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_toc_to_pdf.js'])
+  else:
+    subprocess.run(['node', r'C:\Users\whip\tdr_js\online_toc_to_pdf.js'])
 
-def merge_pdfs(content_path, book_pdf_path):
+def merge_pdfs(content_path, book_pdf_path, phys):
+  toc_pdf_path = toc_online_pdf_path
+  if phys:
+    toc_pdf_path = toc_phys_pdf_path
   print("  == Merging PDFs (toc path: %s)\n" % toc_pdf_path)
   pdfs = [toc_pdf_path, content_path]
 
@@ -169,15 +204,9 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("45:134"))
+  part_two.append(book_pdf_path, pages=PageRange("42:129"))
   part_two.write(part_two_path)
   part_two.close()
-
-  part_3 = PdfWriter()
-  part_3.append(book_pdf_path, pages=PageRange("1"))
-  part_3.append(book_pdf_path, pages=PageRange("134:174"))
-  part_3.write(part_3_path)
-  part_3.close()
 
   part_two_reader = PdfReader(part_two_path)
   try:
@@ -189,9 +218,25 @@ def sample_pdf(book_pdf_path):
     breakpoint()
     a = 4 
 
+  part_3 = PdfWriter()
+  part_3.append(book_pdf_path, pages=PageRange("1"))
+  part_3.append(book_pdf_path, pages=PageRange("129:167"))
+  part_3.write(part_3_path)
+  part_3.close()
+
+  part_3_reader = PdfReader(part_3_path)
+  try:
+    assert "Table of Contents" in part_3_reader.pages[0].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (ToC)"
+    assert "Deepest Revolution" in part_3_reader.pages[1].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (title page)"
+    assert "for you to join" in part_3_reader.pages[-1].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (ending)"
+  except AssertionError as exc:
+    print(exc)
+    breakpoint()
+    a = 4 
+
   part_one = PdfWriter()
   part_one.append(book_pdf_path, pages=PageRange("1"))
-  part_one.append(book_pdf_path, pages=PageRange("4:44"))
+  part_one.append(book_pdf_path, pages=PageRange("4:42"))
   part_one.write(part_one_path)
   part_one.close()
 
@@ -205,11 +250,11 @@ def sample_pdf(book_pdf_path):
     breakpoint()
     a = 4 
 
-def main(content_path, book_pdf_path, dimensions):
-  prep_pdf_toc(content_path, dimensions)
-  merge_pdfs(content_path, book_pdf_path)
-  sample_pdf(book_pdf_path)
-
+def main(content_path, book_pdf_path, dimensions, phys):
+  prep_pdf_toc(content_path, dimensions, phys)
+  merge_pdfs(content_path, book_pdf_path, phys)
+  if not phys:
+    sample_pdf(book_pdf_path)
 
 css = """
 html {
@@ -218,7 +263,7 @@ html {
 
 .visually-hidden {
     clip: rect(0 0 0 0);
-    clip-path: inset(100%);
+    clip-path: inset(100%%);
     height: 1px;
     overflow: hidden;
     position: absolute;
@@ -236,7 +281,7 @@ html {
 }
 
 .toc-list {
-  padding-right: .85in;
+  padding-right: %sin;
   padding-left: .45in;
 }
 

@@ -61,7 +61,7 @@ The Tsarist Russian secret police provide more examples of police infiltration. 
 These techniques are all devious, but they're still far from ideal for authorities. Ideally activists would never start their own activist groups, but join government-sponsored organizations where they can be most easily surveilled and controlled.
 
 <center><img src="./images/undermining_bridge.png" alt="Sabotaging Efforts at Deep Cultural Healing" height="367" width="469"/><br/>
-<i>People who benefit from exploitation sabotage efforts to stop injustice.**</i></center>
+<i>People who benefit from exploitation sabotage efforts to stop injustice.</i></center>
 
 #### Astroturf Social Movements
 
@@ -149,6 +149,8 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 7. _Leaders Serve the People_: They specifically avoided factions,[xxx-a basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-a basic call to consciousness|p104]
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
+
+These principles taught me the importance of spiritual strength and showed me what it really means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice as needed, then justice and mutual respect become normal and pervasive, and that's what a free nation looks like.**
 
 Countless people have dreamed of revolution, but too few revolutionaries have studied healthy nations and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
 

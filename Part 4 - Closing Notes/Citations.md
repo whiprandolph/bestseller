@@ -383,40 +383,43 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_45_src" id="cite_Chapter_9_45_dest" style="text-decoration:none">45</a>. (Jackson, 2016, "Black Robe Days")<br/>
-</td><td><a href="#cite_Chapter_9_46_src" id="cite_Chapter_9_46_dest" style="text-decoration:none">46</a>. (War is Boring, 2014)<br/>
+</td><td><a href="#cite_Chapter_9_46_src" id="cite_Chapter_9_46_dest" style="text-decoration:none">46</a>. (Rodríguez, 1994)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_47_src" id="cite_Chapter_9_47_dest" style="text-decoration:none">47</a>. (Allen, 1991, 9)<br/>
-</td><td><a href="#cite_Chapter_9_48_src" id="cite_Chapter_9_48_dest" style="text-decoration:none">48</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
+<tr><td><a href="#cite_Chapter_9_47_src" id="cite_Chapter_9_47_dest" style="text-decoration:none">47</a>. (War is Boring, 2014)<br/>
+</td><td><a href="#cite_Chapter_9_48_src" id="cite_Chapter_9_48_dest" style="text-decoration:none">48</a>. (Allen, 1991, 9)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Liedloff, 2004, "Growing Up")<br/>
-</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Linderman, 1932, 21)<br/>
+<tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
+</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Liedloff, 2004, "Growing Up")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Eastman (Ohiyesa), 2013, "Chief Joseph")<br/>
-</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")<br/>
+<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Linderman, 1932, 21)<br/>
+</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Eastman (Ohiyesa), 2013, "Chief Joseph")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Messiah, n.d.)<br/>
-</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Kim, 2025)<br/>
+<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")<br/>
+</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Messiah, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_56_src" id="cite_Chapter_9_56_dest" style="text-decoration:none">56</a>. (Mark 3:2, King James Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Kim, 2025)<br/>
+</td><td><a href="#cite_Chapter_9_56_src" id="cite_Chapter_9_56_dest" style="text-decoration:none">56</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_57_src" id="cite_Chapter_9_57_dest" style="text-decoration:none">57</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_58_src" id="cite_Chapter_9_58_dest" style="text-decoration:none">58</a>. (Mark 10:32-34, King James Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_57_src" id="cite_Chapter_9_57_dest" style="text-decoration:none">57</a>. (Mark 3:2, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_58_src" id="cite_Chapter_9_58_dest" style="text-decoration:none">58</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_59_src" id="cite_Chapter_9_59_dest" style="text-decoration:none">59</a>. (Kirk, 2020)<br/>
-</td><td><a href="#cite_Chapter_9_60_src" id="cite_Chapter_9_60_dest" style="text-decoration:none">60</a>. (King Jr, 1968)<br/>
+<tr><td><a href="#cite_Chapter_9_59_src" id="cite_Chapter_9_59_dest" style="text-decoration:none">59</a>. (Mark 10:32-34, King James Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_60_src" id="cite_Chapter_9_60_dest" style="text-decoration:none">60</a>. (Kirk, 2020)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_61_src" id="cite_Chapter_9_61_dest" style="text-decoration:none">61</a>. (Douglass, 2000)<br/>
-</td><td><a href="#cite_Chapter_9_62_src" id="cite_Chapter_9_62_dest" style="text-decoration:none">62</a>. (Hoover, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_9_61_src" id="cite_Chapter_9_61_dest" style="text-decoration:none">61</a>. (King Jr, 1968)<br/>
+</td><td><a href="#cite_Chapter_9_62_src" id="cite_Chapter_9_62_dest" style="text-decoration:none">62</a>. (Douglass, 2000)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_9_63_src" id="cite_Chapter_9_63_dest" style="text-decoration:none">63</a>. (Hoover, n.d.)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 10: Why Are People So Racist And Hateful?</b></td></tr><tr><td><a href="#cite_Chapter_10_1_src" id="cite_Chapter_10_1_dest" style="text-decoration:none">1</a>. (Cartwright, 1851)<br/>
 </td><td><a href="#cite_Chapter_10_2_src" id="cite_Chapter_10_2_dest" style="text-decoration:none">2</a>. (Bradford, 2020)<br/>
@@ -672,25 +675,29 @@
 </td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Gibson, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Cox, 2019, "Use What You Got to Get What You Need")<br/>
 </td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (Notes, 2005, 38)<br/>
-</td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_15_src" id="cite_Chapter_16_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_16_16_src" id="cite_Chapter_16_16_dest" style="text-decoration:none">16</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_15_src" id="cite_Chapter_16_15_dest" style="text-decoration:none">15</a>. (Padierna Jiménez, 2013)<br/>
+</td><td><a href="#cite_Chapter_16_16_src" id="cite_Chapter_16_16_dest" style="text-decoration:none">16</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_17_src" id="cite_Chapter_16_17_dest" style="text-decoration:none">17</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_17_src" id="cite_Chapter_16_17_dest" style="text-decoration:none">17</a>. (Marcos, 2014)<br/>
+</td><td><a href="#cite_Chapter_16_18_src" id="cite_Chapter_16_18_dest" style="text-decoration:none">18</a>. (Rodríguez, 1994)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_19_src" id="cite_Chapter_16_19_dest" style="text-decoration:none">19</a>. (Marcos, 2014)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 17: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Acknowledging Contradictions</b></td></tr><tr><td><a href="#cite_Acknowledging_Contradictions_1_src" id="cite_Acknowledging_Contradictions_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+<tr><td><b>Acknowledging Contradictions</b></td></tr><tr><td><a href="#cite_Acknowledging_Contradictions_1_src" id="cite_Acknowledging_Contradictions_1_dest" style="text-decoration:none">1</a>. (Padierna Jiménez, 2013)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>

@@ -1,6 +1,6 @@
 ## Chapter 9: Why Do People Obey Corrupt Leaders?
 
-The common experience of living in a nation dominated by a ruling class comes down to this: you must obey their laws whether you like them or not. And even if you like their laws, you must not do anything yourself when someone violates those laws. Responding to bad behavior can only be done by enforcement agents chosen by the ruling class, called the police. If you take action on your own to ensure justice when someone behaves badly, you will be punished. Like it or not, you must follow the rulers and their lower authorities, even if you don't trust them or like their leadership. You must obey.
+The common experience of living in a nation dominated by a ruling class comes down to this: you must obey their laws whether you like them or not. And even if you like their laws, you must not do anything yourself to enforce those laws when someone else violates them. Responding to bad behavior can only be done by enforcement agents chosen by the ruling class, called the police. If you take action on your own to pursue justice when someone behaves badly, you will be punished. Like it or not, you must follow the rulers and their lower authorities, even if you don't trust them or like their leadership. Whether you like the leadership or not, you must obey.
 
 Obeying corrupt, unaccountable leaders is considered normal in unhealthy nations: people don't choose their bosses at work, don't choose their commanders in the military, and don't really choose their political leaders, because even in democracies politicians run and win based primarily on money, and therefore they are effectively chosen by the rich.
 
@@ -10,7 +10,7 @@ Nearly all religious and political authorities insist on and promote obedience. 
 
 No example better reveals how this distortion works than the real story of history's most misunderstood spiritual leader: Jesus Christ.
 
-### What Would Jesus Do? We Have Been Trained Not To Know
+### What Would Jesus Do? We Have Been Purposely Trained Not To Know
 
 For almost 2,000 years, Christian authorities have taught Christian followers to be obedient, and to see Jesus Christ as an example of righteous obedience.
 
@@ -122,7 +122,11 @@ And what are the results of these hurtful religions and ideologies? Unhealthy na
 
 People learn to accept their obedience as normal. When people demand more jobs, less taxes, or more funding for schools or hospitals, what they're essentially demanding is that their authorities please rule them better or more efficiently, and please oppress us a little less. Instead of accepting that they are not free and considering what to do about it, people may believe that they are "losing their rights" or "becoming less free" when their ruling class decides to restrict what speech or actions are allowed.
 
+If you live in an unhealthy nation, you're not free. Only privileged people who don't stand for anything and just try to have a comfortable life could believe they're "free." But if they ever get angry at corrupt leaders and try to do something about it, they'll find out how free they are.**
+
 Most citizens may think they are "good," or trying to "do their part." They may take all sorts of unproductive actions, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, praying intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy nations_.
+
+Even many "left," "progressive," or "liberal" talking points miss the most important truths. For example, colonialism is real, but "decolonizing" is not enough to create healthy nations as India has shown. India was an unhealthy nation for thousands of years before the British colonized them, and they have been an unhealthy nation ever since the British left. In India, "decolonizing" just replaced a foreign ruling class with a local one. As long as people accept their submissive obedience as legitimate and ignore lessons of actually-free nations, these sorts of confused political perspectives will persist.**
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But it helped me to remember that there is wisdom in every nation and religion. I can keep the wisdom I've found by studying Jesus Christ, Buddha, and Mohammad, and I am free to leave the hurtful or unhelpful aspects of these religions behind.
 
@@ -143,7 +147,7 @@ As long as people embrace submissive obedience, this sort of deep confusion will
 
 Muslims recognize Jesus Christ as a prophet, and Christians recognize Christ as the only Son of God. I urge everybody to be more like Jesus Christ, and stop being so obedient. _Be like Jesus Christ, and cultivate the spiritual strength to stand for what's right_ instead of passively tolerating needless suffering and corruption.
 
-Christians, Muslims, and others endlessly debate when it's appropriate to be obedient, and how authorities can use their power "properly." But healthy nations show the truth: to have a way of life with no corruption, no greed, and no discrimination, where respect is normal, there should be _no authorities_ and _no obedience_.
+Christians, Muslims, and others endlessly debate when it's appropriate to be obedient, and how authorities can use their power "properly." But healthy nations show the truth: to have a way of life with no corruption, no greed, and no discrimination, where respect is normal, there should be _no unaccountable authorities_ and _no submissive obedience_.
 
 This is actually the root truth behind the _golden rule_, that ancient wisdom which authorities around the world have done their best to obscure. Jesus Christ said, "Do unto others as you would have others do unto you."[xxx-bible|luke 6:31] Buddhist scripture says, "Hurt not others with what pains yourself."[xxx-udanavarga|p252] A core Islamic Hadith (guidance) states "None of you will believe until you love for your brother what you love for yourself."[xxx-13th hadith]
 
@@ -167,7 +171,7 @@ So how can a nation have leadership if no one obeys? It's simple: they _choose_ 
 
 Thus people in healthy nations _choose whom to follow, and only follow as long as they value the leader's direction._ This allows them to have strong leaders, but no rulers.
 
-Consider a military setting. In unhealthy nations, militaries are very strict hierarchies where each soldier is expected to follow orders or be severely punished. Soldiers do not choose which commander or which orders to follow.
+Consider a military setting. In unhealthy nations, militaries are very strict hierarchies where each soldier is expected to follow orders of unaccountable leaders or be severely punished. Soldiers do not choose which commander or which orders to follow.
 
 Contrast that with a healthy-nation military. Apache man Geronimo said that warriors would assume various positions of leadership by common consent, and would only keep those positions as long as they led well.[xxx-geronimo autobio|preparation of a warrior]
 
@@ -176,6 +180,8 @@ That is, each person accepted _personal responsibility_ to help choose excellent
 In this way, lower-ranked warriors would accept their leader's directions, but they _chose_ to accept his directions because they valued his leadership. "Choosing to follow" a leader and "being forced to obey" may superficially look similar to outsiders. But when the warriors knew that the bravest and most selfless warrior among them was their leader, they didn't need to be threatened with punishment because they wanted to follow.
 
 This is normal in healthy-nation militaries: the warriors choose the best leaders and willingly follow them as long as they lead well, but there is zero submissive obedience. This explains why Sioux man Red Cloud said that, before colonization, "We were as free as the winds and like the eagle, heard no man's commands. We fought our enemies and feasted our friends."[xxx-black elk life of an american visionary|black robe days]
+
+Major Ana Maria described the clear heirarchy in the Zapatista military, and how she even needed permission to have sexual partners or get married. The military had strict rules to ensure they maintained cohesion and safety as they prepared and carried out their revolution. And yet, because they chose the best servant-leaders and avoided corruption, even this strict heirarchy and its rules were in service of the greater good, and Ana Maria willingly followed them.[xxx-ezln ramona san crist]**
 
 When each person accepted personal responsibility to _choose who to follow,_ the Apache wound up selecting incredibly capable military leaders. In fact, healthy-nation militaries were formidable opponents for the United States until the late 1800s, which explains why the US army named so much military equipment after them, including the UH-72 Lakota utility helicopter, AH-64 Apache attack helicopter, and C-12 Huron transport aircraft.[xxx-medium weapon names]
 
@@ -228,6 +234,8 @@ It is critically important to choose for yourself what to believe. Ancient spiri
 Only by tapping into your own power to choose for yourself what to believe and what principles to uphold can you help build a healthy nation without these deep troubles.
 
 ### References
+
+[xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 
 [xxx-bible|esv matthew 27:12]-aaa (Matthew 27:12, King James Version Bible)
 

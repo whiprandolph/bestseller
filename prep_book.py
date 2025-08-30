@@ -28,9 +28,8 @@ book_final = r"C:\Users\whip\tdr_published_files"
 
 PHYS = {"width":6, 'height':9}
 
-BOOK_ADDED_STYLE = """
+BOOK_ADDED_STYLE_BASE = """
 
-<style>\n
   p, .rev-act {\n
     font-size: 12pt;
     color:black;
@@ -42,20 +41,7 @@ BOOK_ADDED_STYLE = """
   .part-intro {
     font-size: 38px;
   }
-  @page :left {
-    size: %sin %sin;
-    margin-left: .55in;
-    margin-right: .90in;
-    margin-top: .55in;
-    margin-bottom: .55in
-  }
-    @page :right {
-    size: %sin %sin;
-    margin-left: .90in;
-    margin-right: .55in;
-    margin-top: .55in;
-    margin-bottom: .55in
-  }
+
   table.cite_table td {
     font-size:6.5pt;
     padding-left: 0em;
@@ -97,7 +83,39 @@ BOOK_ADDED_STYLE = """
   }
 </style>
 </html>
-""" % (PHYS['width'], PHYS['height'], PHYS['width'], PHYS['height'])
+""" 
+
+# no left/right margin differences online
+BOOK_ADDED_STYLE_PHYS = """
+  <style>\n
+  @page :left {
+    size: %sin %sin;
+    margin-left: .55in;
+    margin-right: .90in;
+    margin-top: .55in;
+    margin-bottom: .55in
+  }
+    @page :right {
+    size: %sin %sin;
+    margin-left: .90in;
+    margin-right: .55in;
+    margin-top: .55in;
+    margin-bottom: .55in
+  }
+  %s
+""" % (PHYS['width'], PHYS['height'], PHYS['width'], PHYS['height'], BOOK_ADDED_STYLE_BASE)
+
+BOOK_ADDED_STYLE_ONLINE = """
+    <style>\n
+    @page {
+    size: %sin %sin;
+    margin-left: .55in;
+    margin-right: .55in;
+    margin-top: .55in;
+    margin-bottom: .55in
+  }
+  %s
+""" % (PHYS['width'], PHYS['height'], BOOK_ADDED_STYLE_BASE)
 
 chap_ids = set()
 
@@ -193,7 +211,6 @@ def process_chapter(full_path):
 
   # assert "**" not in blob, full_path
   print("SKIPPING ** CHECK")
-  time.sleep(.25)
 
   print_out = "Back-to-backs for " + os.path.basename(full_path)
   do_print = False
@@ -286,7 +303,6 @@ def main():
 
   print("Starting at %s" % time.ctime())
   start_time = time.time()
-
   shutil.rmtree(book_final)
   os.mkdir(book_final)
 
@@ -295,7 +311,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
@@ -318,7 +334,7 @@ def main():
     book_md.close()
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', online_book_html_path])
-  fixup_html(online_book_html_path)
+  fixup_html(online_book_html_path, phys=False)
   print("About to start PDF...")
   # phys book has bw images
   # online book has color images and for epub, front cover only
@@ -327,7 +343,6 @@ def main():
   print("Finished producing html")
   make_online_pdf()
   os.startfile(book_final)
-  return
   make_phys_book()
   make_epub()
   # cleanup()
@@ -344,14 +359,17 @@ def make_online_pdf():
   try:
     print(" == Creating online content.pdf")
     subprocess.run(['node', r'C:\Users\whip\tdr_js\online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
-    pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS)
+    pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS, phys=False)
   finally:
     server.terminate()
 
 
-def fixup_html(html_path):
+def fixup_html(html_path, phys):
   book_html = open(html_path, 'r', encoding='utf-8').read()
-  book_html = book_html.replace("</html>", BOOK_ADDED_STYLE)
+  ADDED_STYLE = BOOK_ADDED_STYLE_ONLINE
+  if phys:
+    ADDED_STYLE = BOOK_ADDED_STYLE_PHYS
+  book_html = book_html.replace("</html>", ADDED_STYLE)
   book_html = book_html.replace("**", "")
   open(html_path, 'w', encoding='utf-8').write(book_html)
   
@@ -362,7 +380,7 @@ def make_epub():
                             '-o', online_book_html_path,
                             '--metadata', 'title=The Deepest Revolution',
                             '--metadata', 'author=William Randolph'])
-  fixup_html(online_book_html_path)
+  fixup_html(online_book_html_path, phys=False)
   subprocess.run(['ebook-convert', online_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
                                    '--level1-toc', '//h:h1',
@@ -403,10 +421,9 @@ def make_phys_book():
     update_images_bw()
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
-    fixup_html(phys_book_html_path)
+    fixup_html(phys_book_html_path, phys=True)
     subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
-    print("Reusing table of contents...")
-    pdf_toc.merge_pdfs(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path)
+    pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path, dimensions=PHYS, phys=True)
   finally:
     server.terminate()
   pass

@@ -60,9 +60,9 @@ After both sides agreed to a ceasefire, the government promptly began a campaign
 
 Neither the Mexican military nor law enforcement stopped the paramilitary fighters from violating all international laws of war. People fired machine guns into Zapatista villages, cut off people's limbs, and many others were disappeared, executed, or displaced from their homes. The leader of the town of Rosario Ibarra had his arm cut off. Women were told their children would be kidnapped if they did not reveal the organizations to which they belonged.[xxx-interview with major ana maría: on the atrocities]
 
-On December 22, 1997, a paramilitary group called Máscara Roja murdered 45 women, men and children suspected of supporting the Zapatistas. Other organized crime groups also participated in the violence, including some with known links to government officials.[xxx-wagingnonviolence in the face of assassinations]
+On December 22, 1997, a paramilitary group called Máscara Roja murdered 45 women, men and children suspected of supporting the Zapatistas. Organized crime groups also participated in the violence, including some with known links to government officials.[xxx-wagingnonviolence in the face of assassinations]
 
-Why did the Zapatistas stand up to the Mexican government this way? Why was it worth putting themselves through such difficult times?
+Why did the Zapatistas stand up to the Mexican government? Why was it worth going through such difficult times?
 
 The Zapatistas had suffered under Spanish and then Mexican rule for 500 years. Their rallying cry was _Ya Basta!_, _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Despite the facade of elections, they could not choose leaders they actually respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
 
@@ -72,7 +72,7 @@ But he also said why they do this: "As Zapatistas, we have been declared terrori
 
 The Zapatistas knew they could create a respectful society if they could just free themselves from Mexican rule. They did not wait until the war was over either. Consider many of the ways they embraced a respectful way of life, right from the beginning.
 
-No one was forced into military service. Each person chose for themselves if they would risk their life in fighting.[xxx-on the reasons for the general red alert] Women played key roles from the beginning. Commander Ramona led the Zapatistas in taking the town of San Cristóbal de las Casas in Chiapas and played a major part in the resulting peace dialog.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today] As of 2004, 45% of Zapatista army members were women.[xxx-cimacnoticias ezln women percent]
+No one was forced into military service. Each person chose for themselves if they would risk their life in fighting.[xxx-on the reasons for the general red alert] Women played key roles from the beginning. Major Ana Maria led the Zapatistas in taking the town of San Cristóbal de las Casas in Chiapas and commander Ramona played had a central role in the resulting peace dialog.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today] As of 2004, 45% of Zapatista army members were women.[xxx-cimacnoticias ezln women percent]
 
 They practiced a deep humility, not letting anyone feel like they were special or better than the rest because of their position. When describing their top military leader, Ana María said, "Marcos, like all the members of the [core planning committee], knows nothing and is nothing. Marcos is just another representative..."[xxx-interview with major ana maría: on the atrocities]
 
