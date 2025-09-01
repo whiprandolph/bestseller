@@ -1,4 +1,4 @@
-## Chapter 2: How Can Whole Nations Embrace Generosity and Integrity?
+## Chapter 2: Can Whole Nations Embrace Generosity and Integrity?
 
 My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. Countless groups of people around the world, large and small, have lived with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
 
@@ -14,15 +14,15 @@ One striking example of how different healthy nations are compared to what we ge
 
 Can you even imagine living in a nation without crime?
 
-I was amazed to discover that the Ashaninka had no police or prisons, yet they also seemed so relaxed and unconcerned about crime. There were no locked doors. In fact, they didn't have any doors!
+I was amazed to discover that the Ashaninka had no police or prisons, yet they also seemed so relaxed and unconcerned about crime. There were no locked doors. In fact, they didn't have doors!
 
 Avoiding crime may seem impossible in societies numbering in the thousands or more, yet many large healthy human nations have lived this way -- not just occasionally, but for millions of years.
 
 Countless Americans and Europeans, when encountering healthy nations for the first time, have been surprised by the lack of crime or law enforcement. For example, when French Christian missionaries first visited the Huron in North America in the 1600s, they were amazed that thousands of people could get along so well without police or prisons.[xxx-huron farmers of the north|p71]
 
-In the 1930s, when American dentist Weston Price visited many healthy nations around the world, he wrote that "few impressions can be more vivid than that of the absence of prisons and asylums."[xxx-nutr phys gen|phys ment moral deter]
+In the 1930s, when American dentist Weston Price visited many healthy nations around the world, he wrote, "few impressions can be more vivid than that of the absence of prisons and asylums."[xxx-nutr phys gen|phys ment moral deter]
 
-Benjamin Franklin seemed equally surprised by healthy nations he visited in eastern North America in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."[xxx-lies my teacher told me|p108]
+Benjamin Franklin seemed equally surprised by healthy nations he visited in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."[xxx-lies my teacher told me|p108]
 
 Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."[xxx-a basic call to consciousness|p49]
 
@@ -32,7 +32,7 @@ How can some nations live without police and prisons, and also no widespread cri
 
 It's not as if healthy nations don't have some troubles -- in any society, people sometimes don't get along. The difference is that they address disputes in ways that maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior without demanding humiliation or submission. And when mutual respect is the norm, any selfish or hurtful act stands out as something to be immediately addressed so everyone can return to that respectful baseline.
 
-Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them recover their balance.[xxx-original instructions|definition of indigenous knowledge]
+Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them regain their balance.[xxx-original instructions|definition of indigenous knowledge]
 
 The Ju/'hoan San (these punctuation symbols refer to sounds that don't exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."[xxx-original instructions|peace technologies from the san bushmen of africa]
 
@@ -60,7 +60,7 @@ As just one example, the Zapatistas substantially reduced the sexism that women 
 
 The Zapatistas showed me that even people who have lived with sexism, greed, and corruption for centuries can still come together, create a healthy nation, and choose to live without these troubles.
 
-Of course, there are many stories of individual Americans or small groups pulling together in times of crisis or generally acting with kindness toward others. But a whole nation? Or even a whole town? Other than the Ashaninka, I personally have never seen a whole nation or a whole town of honest, giving, respectful people. Have you?
+Of course, there are many stories of individual Americans or small groups pulling together in times of crisis or generally acting with kindness toward others. But a whole nation? Or even a whole town? Besides the Ashaninka, I have never seen a whole nation or town of honest, giving, respectful people. Have you?
 
 And yet as I read more about various healthy nations, I kept finding stories in which whole towns and even whole nations routinely acted with kindness and respect toward every member.
 
@@ -82,11 +82,11 @@ I remember first reading about Geronimo's integrity, and my mind went to all the
 
 And it's not just trustworthiness. I kept finding stories of incredible generosity -- not just occasionally, but as a normal way of life for whole nations.
 
-Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build them a new one. Instead of having markets for trading or bartering, they embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
+Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build a new one. Instead of having markets for trading or bartering, they embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
 
-The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
+The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
 
-How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, but gather wealth so they can give away as much as possible to their neighbors?
+How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, but gather wealth so they can share it with their neighbors?
 
 This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
@@ -96,7 +96,7 @@ Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described 
 
 All this could easily seem too good to be true, except for another kind of story I kept finding: stories of people born in unhealthy nations running away to live in healthy nations.
 
-Benjamin Franklin also noticed this, saying "No European who has tasted Savage Life can afterwards bear to live in our societies."[xxx-lies my teacher told me|p107] "Savage" has been a common European label for people of healthy nations, which will be discussed later. Many enslaved people who escaped British or American bondage also ran away to live with healthy nations.[xxx-lies my teacher told me|p108]
+Benjamin Franklin also noticed this, saying "No European who has tasted [Indian] Life can afterwards bear to live in our societies."[xxx-lies my teacher told me|p107] Many enslaved people who escaped European bondage also ran away to live with healthy nations.[xxx-lies my teacher told me|p108]
 
 Even when people of unhealthy nations were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French didn't want to return home after experiencing life in a healthy nation: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
 
@@ -112,15 +112,15 @@ These healthy nations were a major threat to colonial leaders, because they show
 
 For a while I wondered how healthy nations could keep prisoners of war if they don't have prisons. I also had heard of healthy nations killing their captives -- how does that square with being a culture based on generosity and integrity?
 
-There are three ways to deal with captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. 
+There are three ways to deal with war captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. Some healthy nations have even tortured and released or killed their captives as a way to scare away powerful enemy nations. But once captives are accepted as residents, they are treated respectfully.**
 
-People of healthy nations openly acknowledged that they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the nation. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
+People of healthy nations openly acknowledged that in traditional times they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the nation. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
 Pretty Shield, a woman of the Crow nation, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
 
-In this way, healthy nations do not capture people and treat them abusively, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy nations ensure they keep that internal baseline of mutual respect.
+Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy nations ensure they keep that internal baseline of mutual respect.
 
-All these stories showed me that the beauty of the Ashaninka isn't unique. Every nation is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect. Different nations might do this in different ways, but all healthy nations, one way or another, do or did somehow maintain a respectful way of life. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and the leadership serves everyone instead of a few rich people.
+All these stories showed me that the beauty of the Ashaninka isn't unique. Every nation is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect internally. Different nations might do this in different ways, but all healthy nations, one way or another, do or did somehow maintain a way of life where mutual respect is the norm within the nation. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
 
 Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy nations to make that possible?
 

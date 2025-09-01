@@ -108,7 +108,7 @@ When people are trapped with selfish and unaccountable leaders, the results are 
 
 Selfish rulers who encourage divisive racism and hate contrast vividly with generous servant-leaders of healthy nations. What is it about healthy nations that allows them to have selfless, generous servant-leaders? 
 
-Do they just vote every few years and complain about politicians between elections? Do they believe that "god" chose their leader, and despite the endless corruption, do they have "faith" that "god's will" is being carried out?
+Do they just vote every few years and complain about politicians between elections? Do they believe that "God" chose their leader, and despite the endless corruption, do they have "faith" that "God's will" is being carried out?
 
 It turns out that it is everyone's responsibility to ensure that only the most selfless people become leaders. Can you imagine having leaders who are so humble that they would never campaign for office? How would they even become leaders then?
 

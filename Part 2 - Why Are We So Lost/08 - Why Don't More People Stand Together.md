@@ -18,7 +18,7 @@ Authorities and wealthy people sabotage solidarity in countless ways.
 
 #### Attacking our Spiritual Leaders
 
-"Spirituality" is simply how a person relates to themselves and the world, and spiritual leaders help people relate to the world in a good way. A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, and remind them that they have a proud ancestry, as they bring people together to confront injustices.
+"Spirituality" is simply how a person relates to themselves and the world, and spiritual leaders help people relate to the world in a good way. A spiritual leader is anyone who helps their people confront injustice, corruption, selfishness, confusion, shame, poverty, low self-worth, disconnection from the Earth, and other troubles. Spiritual leaders commonly help people share, build up their self-worth and dignity, help them reconnect with the Earth, and remind them that they have a proud ancestry as they bring people together to confront injustices.
 
 The modern-day term for spiritual leader is "social activist." Whether they are called "social activists" or "spiritual leaders," they are the ones who show the most bravery, wisdom, and generosity as they bring people together to confront injustice. Unfortunately, because spiritual leaders confront the oppression that benefits the wealthy and powerful, selfish authorities commonly attack them and undermine their efforts.
 
@@ -122,7 +122,7 @@ This is not a fantasy, but the normal way people live in healthy nations. The Ha
 
 What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? Fortunately, the Haudenosaunee offer an example.
 
-Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally came together and decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
+Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
 
 In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth for over nine centuries.
 
@@ -144,15 +144,19 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
     Since the Haudenosaunee also avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
 
-6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. The Haudenosaunee committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-a basic call to consciousness|p37]
+6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-a basic call to consciousness|p37]
 
-7. _Leaders Serve the People_: They specifically avoided factions,[xxx-a basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-a basic call to consciousness|p104]
+7. _Leaders Serve the People_: They avoided factions,[xxx-a basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-a basic call to consciousness|p104]
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
 
-These principles taught me the importance of spiritual strength and showed me what it really means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice as needed, then justice and mutual respect become normal and pervasive, and that's what a free nation looks like.**
+Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This taught me that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
 
-Countless people have dreamed of revolution, but too few revolutionaries have studied healthy nations and learned what it takes to generate a society of mutual respect, spiritual strength and courageous solidarity. Without this understanding, too many revolutions merely exchange one ruling class for another.
+These principles taught me the importance of spiritual strength and showed me what it really means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal and pervasive, and that's what a free society looks like.**
+
+Part 3 offers a path that you can begin walking today to build a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and selfishness doesn't take hold.**
+
+Not everyone will want to walk this path, but you can find people who do. When enough healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.**
 
 ### References
 

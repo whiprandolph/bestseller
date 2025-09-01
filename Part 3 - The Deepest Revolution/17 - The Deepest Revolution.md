@@ -6,6 +6,8 @@ But all these different issues stem from one root problem: _we're not free._ We 
 
 Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating a symptom will never lead to deep healing because the underlying disease persists.
 
+Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others.
+
 There is a cure to this one disease and all its symptoms: create new healthy nations where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account.
 
 ### We Are the Promised Land

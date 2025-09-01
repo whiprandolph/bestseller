@@ -16,7 +16,7 @@ In contrast, integrity was so pervasive among the traditional Apache that they d
 
 Can you imagine if there was no need for an oath to tell the truth, because people in your group already expected total honesty from each other as a normal way of life?
 
-_Physical resilience:_: Crow woman Pretty Shield described how physically resilient her people were when they lived in a traditional way. She said, "Ahh, my people were tough in those days... [W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
+_Physical resilience:_ Crow woman Pretty Shield described how physically resilient her people were when they lived in a traditional way. She said, "Ahh, my people were tough in those days... [W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
 Can you imagine if the people around you were so physically resilient that even being soaking wet in winter was nothing to worry about, but just a little trouble to fix?
 
@@ -28,7 +28,7 @@ _Meaningful Education for Young People:_ One Nootka storyteller described how th
 
 Can you imagine if adults took young people's education seriously, offering them the most meaningful mentorship they could every day?
 
-_Benefitting the Earth:_ Stories abound of people of healthy nations actually benefitting the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a bow in such a way that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p81]
+_Benefitting the Earth:_ Stories abound of people of healthy nations actually benefitting the Earth as a normal way of life rather than depleting it. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a bow so that the overall forest benefitted, and the chosen tree yielded a powerful bow.[xxx-the vision|p81]
 
 Can you imagine if your normal way of life benefitted the Earth around you, increasing the natural abundance that you depend on?
 
@@ -62,7 +62,7 @@ Abusive nations raise boys not to honor their innate spiritual calling to protec
 
 When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy nations wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?"
 
-This explains the spiritual meaning behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their deepest love, afraid to stand for what's right, is deeply unsatisfying.
+This explains the spiritual meaning behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the famous statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where a person has learned to hold back their love, afraid to stand for what's right, is deeply unsatisfying.
 
 Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to know how to live in a deeply satisfying way.
 
@@ -92,6 +92,9 @@ Some people are so stuck that they don't grow even with repeated respectful feed
 
 Trusting in people's inherent goodness helps me see that everything in life is a skill that can be practiced without guilt or shame.
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Learn without guilt or shame</div>
+<div class="rev-act-body">Think of a time you made a mistake and someone made you feel guilty or shameful in response. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
+
 #### Practice Makes Progress
 
 Think back to a skill you learned as a child. Imagine, for example, that you learned to play soccer, including smaller skills such as how to dribble or pass the ball. To get better at passing, what did you do?
@@ -110,12 +113,12 @@ Spiritual growth can be joyful rather than stressful when you approach it withou
 
 In my personal life, when I really embraced this attitude, my rate of growth increased. I started learning life lessons faster than before because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Practice bravery</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 #### Building a Healthy Community Starts with You
 
-Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. If you've completed the revolutionary activities so far, you're well on your way to building a healthy community with others.
+Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. When you complete the revolutionary activities, you will be we ll on your way to building a healthy community with others.
 
 You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
 
@@ -153,7 +156,7 @@ As a healthy community of people holding each other to high standards, your grou
 
 The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Serve the Earth Together</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 #### Build a Nation One Community at a Time, and Build a Community One Person at a Time
@@ -166,7 +169,7 @@ In order for this way of life to work, healthy communities needed to exist in th
 
 To help form new healthy communities, the Zapatistas traveled around to meet people face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
 
-Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted in this process.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
+Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
 
 How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
 
@@ -192,9 +195,41 @@ When people feel isolated and scared, even if they don't like the corruption of 
 
 If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that most secure feeling in the world when they trust their community to protect them.
 
-And over time if we can form enough healthy communities, perhaps someday they will unite to form a healthy nation, or even many healthy nations. 
+Over time if we can form enough healthy communities, someday they may unite to form a healthy nation, or even many nations. 
 
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
+
+#### Hold Good Boundaries to Keep Selfishness Out**
+
+Many people don't learn to hold good boundaries in unhealthy nations because their laws are imposed on them and they're not allowed to uphold the laws they live by. People can learn to tolerate inappropriate behavior towards themselves, or act hurtfully towards others and not notice or not care.
+
+For many people, selfishness seems normal and unremarkable, but it is a poison for healthy communities and nations. To avoid selfishness, your community must learn to hold good boundaries.
+
+Many people are not ready to live in healthy community for various reasons. Some people won't see the value in healthy communities. Infiltrators will pretend to want community but actually try to sabotage it. Others will want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they are willing to change their ways.
+
+Other people honestly want to live in a healthy community, but they've learned bad habits and sometimes they act hurtfully. But they are committed to personal growth, and when they are approached respectfully they change their ways and show up better.
+
+Some of the deepest work of building healthy communities is learning when to forgive and when to hold good boundaries and evict someone whose continued misbehavior threatens the whole community's honest and generous way of life.
+
+If you don't hold boundaries and just let anyone participate, selfish people will push out the generous ones and the community will not last. Also, if you commonly evict people for any thoughtless or hurtful act or momentary subconscious selfishness, then everyone will feel vulnerable and afraid to make a mistake and the community will still not last.
+
+It must be ok to make a mistake and trust that people will know you're willing to learn and make amends. At the same time it is important to have high standards of behavior that everybody is continuously striving to meet, and if someone isn't actually committed to those high standards, they must leave for the good of the community.
+
+Plenty of people have lied or broken promises to me, and I had to decide if I would to trust them again. The question I ask is this: "Are they clearly committed to personal growth so that, if they are shown their hurtful behavior and how to show up better, they will grow from it and not make the same mistake again?"
+
+If someone makes a mistake and I respectfully confront them, what happens? If they make excuses or attack me, then I hold a strong boundary and refuse to trust them. If they acknowledge their mistake, apologize, try to make up for it, and truly commit to doing better, then I trust them, maybe even more than before. When this kind of counseling goes well, it helps the person cultivate a deeper self-awareness and integrity, and helps us both trust that we can work through troubles when they arise.
+
+This allows people a _path back to grace._ With so many people in unhealthy nations developing bad habits and subconscious hurtful behaviors, people are going to make a lot of mistakes and act hurtfully without knowing it. You will need to be ready.
+
+People cannot be afraid that any one slip-up will cause them to be kicked out. There has to be a path back to grace so that people who act hurtfully or violate people's trust can return to being trusted if they truly show that they can honor that trust again.
+
+So learn when to forgive and when to hold good boundaries to keep unwelcome people out. This may sound hard, but it is part of the art of being human, and in a healthy community no single person makes these decisions alone.
+
+Even the Zapatistas make mistakes. Major Moisés described their self-governance changes and said that "we are just learning and... it will take a while to get going well."[xxx-ezln new structure]
+
+This is why it's so important to cultivate dignity together -- making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility. You'll make mistakes too as you learn how to have a healthy community.
+
+So commit to that path of deep spiritual growth with other people. Expect that mistakes will happen, and learn to grow from them and forgive. Learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your healthy community.
 
 #### Building a Healthy Nation is Hard -- But We Are Healthy Nations
 
@@ -202,15 +237,13 @@ Building a healthy nation is challenging. In unhealthy nations, we have a way of
 
 It would be hard enough to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
-The only way to change this is to form new healthy communities with real solidarity despite all the challenges, where people share generously and stand for what's right for each other and the Earth, knowing each person has the others' backs no matter what.
+The Zapatistas showed that the path to freedom will be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And you could walk a similar path.**
 
-Don't be surprised if you and your friends sometimes fall short. That is to be expected given how we have been raised and all the new skills and perspectives we must learn and practice. When somebody behaves in ways that miss the high standards, practice forgiveness -- and then aim higher!
+You can help form new healthy communities with real solidarity despite all the challenges, where people share generously and stand for what's right for each other and the Earth, knowing each person has the others' backs no matter what.**
 
-Aiming high will be joyful, because despite centuries of oppression, this truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. And it feels so incredibly wonderful because _this is who we really are._
+Despite centuries of oppression, this truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. It feels so incredibly wonderful because _this is who we really are._**
 
 We are healthy nations; each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation.
-
-Every one of us has deep love to give. Every one of us can embrace and live these qualities at any time, finding and attracting like-minded and like-hearted people, and generating healthy communities as we move through life.
 
 So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
 

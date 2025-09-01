@@ -1,3 +1,10 @@
+### Image License Terms
+
+* Can create black-and-white version for print books and use original color photo online
+* for life of edition
+* worldwide distribution, all languages
+* all book versions (ie digital, print)
+
 ### Rear Cover
 
 There are whole nations, today and in recent times, where people live respectfully with each other and the Earth. They have leaders people trust, no rich and poor, and no discrimination. Integrity and generosity are common.

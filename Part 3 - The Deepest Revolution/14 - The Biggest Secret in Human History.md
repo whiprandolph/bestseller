@@ -38,7 +38,9 @@ Instead of engaging in endless political debates that have never helped people f
 
 ### Imagine...
 
-Imagine a life where every moment feels alive, you are surrounded by people you trust, and you are free to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
+Imagine if you could choose who to live with, and you were surrounded by neighbors you deeply trusted, and who trusted you.
+
+Imagine a life where every moment feels alive, and you are free to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
 
 Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, all your friends and neighbors will come to your aid. Just like you would for them.
 

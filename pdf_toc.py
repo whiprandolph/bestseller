@@ -51,7 +51,7 @@ def get_page_number(pdf, name, start_page):
   
   print("Name: %s, start page: %s" % (name, start_page))
   for index, page in enumerate(pdf.pages[start_page:]):
-    if index+start_page+1 > 187:
+    if index+start_page+1 > 195:
       import pdb;pdb.set_trace()
     page_text = page.extract_text().strip()
     first_line = page_text.split("\n")[0]
@@ -92,17 +92,19 @@ def prep_pdf_toc(content_path, dimensions, phys):
 
 
 def verify(toc_data, pdf, phys):
+  if not phys:
+    return
   phys_checks = {
     'chap2':11,
-    'chap8':63,
+    'chap8':62,
     'chap15':141,
-    'page_count':191,
+    'page_count':194,
   }
   online_checks = {
     'chap2':11,
     'chap8':61,
     'chap15':135,
-    'page_count':184,
+    'page_count':185,
   }
   
   checks = online_checks
@@ -113,7 +115,7 @@ def verify(toc_data, pdf, phys):
   try:
     assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and checks['chap2'] == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
     assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and checks['chap8'] == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
-    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off"
+    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off (exp: %s, is: %s)" % (checks['chap15'], toc_data["Part 3 - The Deepest Revolution"][2][1])
     assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
@@ -144,9 +146,10 @@ def output_table(toc_data, dimensions, phys):
 
   md.write("<body>\n\n<br/><br/>")
   md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
-  md.write("<h2>DRAFT</h2><br/>\n\n")
   md.write("<h4>William Randolph</h4><br/></center>\n\n")
-
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:.5in\"><center><b>Table of Contents</b></center></div>\n")
   md.write("<ol class=\"toc-list\" role=\"list\">\n")

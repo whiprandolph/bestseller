@@ -1,3 +1,12 @@
+### mini-rant items
+
+If you live in an unhealthy nation, you're not free. Only privileged people who don't stand for anything and just try to have a comfortable life could believe they're "free." But if they ever get angry at corrupt leaders and try to do something about it, they'll find out how free they are.**
+
+***
+
+Even many "left," "progressive," or "liberal" talking points miss the most important truths. For example, colonialism is real, but "decolonizing" is not enough to create healthy nations as India has shown. India was an unhealthy nation for thousands of years before the British colonized them, and they have been an unhealthy nation ever since the British left. In India, "decolonizing" just replaced a foreign ruling class with a local one. As long as people accept their submissive obedience as legitimate and ignore lessons of actually-free nations, these sorts of confused political perspectives will persist.**
+
+
 ### Revolutionary Activities
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Support people in moments of "little need"</div>

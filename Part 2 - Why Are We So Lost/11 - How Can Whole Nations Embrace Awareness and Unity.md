@@ -1,4 +1,4 @@
-## Chapter 11: How Can Whole Nations Embrace Awareness and Unity?
+## Chapter 11: Can Whole Nations Embrace Awareness and Unity?
 
 When I first began doing nature-connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. After practicing for years, it's clear to me that if a whole group of people regularly embraced nature connection practices, they could feel closely connected indeed, leaving no place for sexism, racism and hatred.
 

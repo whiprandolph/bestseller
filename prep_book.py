@@ -43,7 +43,7 @@ BOOK_ADDED_STYLE_BASE = """
   }
 
   table.cite_table td {
-    font-size:6.5pt;
+    font-size:7pt;
     padding-left: 0em;
 
   }
@@ -311,7 +311,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
