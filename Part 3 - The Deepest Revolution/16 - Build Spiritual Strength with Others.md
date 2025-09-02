@@ -93,7 +93,7 @@ Some people are so stuck that they don't grow even with repeated respectful feed
 Trusting in people's inherent goodness helps me see that everything in life is a skill that can be practiced without guilt or shame.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Learn without guilt or shame</div>
-<div class="rev-act-body">Think of a time you made a mistake and someone made you feel guilty or shameful in response. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
+<div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
 
 #### Practice Makes Progress
 
@@ -205,7 +205,7 @@ Many people don't learn to hold good boundaries in unhealthy nations because the
 
 For many people, selfishness seems normal and unremarkable, but it is a poison for healthy communities and nations. To avoid selfishness, your community must learn to hold good boundaries.
 
-Many people are not ready to live in healthy community for various reasons. Some people won't see the value in healthy communities. Infiltrators will pretend to want community but actually try to sabotage it. Others will want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they are willing to change their ways.
+Many people are not ready to live in healthy communities for various reasons. Some people won't see the value in them. Infiltrators will pretend to want community but actually try to sabotage it. Others will want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they change their ways.
 
 Other people honestly want to live in a healthy community, but they've learned bad habits and sometimes they act hurtfully. But they are committed to personal growth, and when they are approached respectfully they change their ways and show up better.
 
@@ -213,7 +213,7 @@ Some of the deepest work of building healthy communities is learning when to for
 
 If you don't hold boundaries and just let anyone participate, selfish people will push out the generous ones and the community will not last. Also, if you commonly evict people for any thoughtless or hurtful act or momentary subconscious selfishness, then everyone will feel vulnerable and afraid to make a mistake and the community will still not last.
 
-It must be ok to make a mistake and trust that people will know you're willing to learn and make amends. At the same time it is important to have high standards of behavior that everybody is continuously striving to meet, and if someone isn't actually committed to those high standards, they must leave for the good of the community.
+It must be ok to make a mistake and trust that people know you're willing to learn and make amends. At the same time it is important to have high standards of behavior that everybody is continuously striving to meet, and if someone isn't actually committed to those high standards, they must leave for the good of the community.
 
 Plenty of people have lied or broken promises to me, and I had to decide if I would to trust them again. The question I ask is this: "Are they clearly committed to personal growth so that, if they are shown their hurtful behavior and how to show up better, they will grow from it and not make the same mistake again?"
 

@@ -1,10 +1,10 @@
 ## Chapter 17: The Deepest Revolution
 
-Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, greed, privilege, corruption, pollution, child abuse, and poverty in the midst of abundance. So many challenges to solve!
+Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, poverty, corruption, pollution, child abuse, and more. So many challenges to solve!
 
-But all these different issues stem from one root problem: _we're not free._ We are not free to choose our laws nor uphold them. Instead, we are expected to obey laws we are given, and we are punished for standing for what's right and directly seeking justice. As long as we ignore this one root problem, all the other issues will persist.
+But all these different issues stem from one root problem: _we are not free._ We can neither choose our laws nor enforce them. Instead, we must obey laws imposed on us, and we are punished for standing for what's right and directly seeking justice. As long as we are not free, all the other issues will persist.
 
-Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating a symptom will never lead to deep healing because the underlying disease persists.
+Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating symptoms will never lead to deep healing while the underlying disease persists.
 
 Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others.
 
@@ -14,17 +14,17 @@ There is a cure to this one disease and all its symptoms: create new healthy nat
 
 Some people say the arc of history bends towards justice. I say the arc of history bends whichever way people bend it.
 
-Ultimately, we remain in an abusive nation because we tolerate it. Yes, there has been a massive amount of shame, violence, broken promises, lies, and spiritual wounding that make deep change really hard. Rulers and their servants use so many tricks and traps to get us to continue to tolerate our own abuse, to accept our own humiliating submissiveness as legitimate and "just the way life is."
+Ultimately, we remain in an abusive nation because we tolerate it. Yes, there has been a massive amount of shame, violence, broken promises, lies, and spiritual wounding that make deep change really hard. Rulers and their servants use so many tricks and traps to get us to tolerate our own abuse and accept our submissiveness as legitimate and "just the way life is."
 
-The only way to end abuse is to stand up for ourselves. That's the Deepest Revolution: when enough people   stand together and take care of each other even at great personal risk in order to create a new way of life. The arc of history bends when enough people give their divine love fully, right now, rather than holding back hoping to avoid abuse for another day.
+The only way to end abuse is to stand up for ourselves. That's the Deepest Revolution: when enough people stand together and take care of each other even at great personal risk in order to create a new way of life. The arc of history bends when enough people give their divine love fully, right now, rather than holding back hoping to avoid abuse for another day.
 
 The night before his murder, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
 
 I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
 
-The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our messiahs, one of our liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
+The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
 
-As Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown, this is no easy path. Never has been. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.
+The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change.
 
 Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support all these terrible things and more. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
 

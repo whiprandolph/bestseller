@@ -7,6 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
+SAMPLE = True
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
@@ -207,7 +208,7 @@ def sample_pdf(book_pdf_path):
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("42:129"))
+  part_two.append(book_pdf_path, pages=PageRange("42:130"))
   part_two.write(part_two_path)
   part_two.close()
 
@@ -223,7 +224,7 @@ def sample_pdf(book_pdf_path):
 
   part_3 = PdfWriter()
   part_3.append(book_pdf_path, pages=PageRange("1"))
-  part_3.append(book_pdf_path, pages=PageRange("129:167"))
+  part_3.append(book_pdf_path, pages=PageRange("130:173"))
   part_3.write(part_3_path)
   part_3.close()
 
@@ -231,7 +232,7 @@ def sample_pdf(book_pdf_path):
   try:
     assert "Table of Contents" in part_3_reader.pages[0].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (ToC)"
     assert "Deepest Revolution" in part_3_reader.pages[1].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (title page)"
-    assert "for you to join" in part_3_reader.pages[-1].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (ending)"
+    assert "reciprocity with people and the Earth. (3, 15)" in part_3_reader.pages[-1].extract_text(), "Part 3 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()
@@ -256,7 +257,7 @@ def sample_pdf(book_pdf_path):
 def main(content_path, book_pdf_path, dimensions, phys):
   prep_pdf_toc(content_path, dimensions, phys)
   merge_pdfs(content_path, book_pdf_path, phys)
-  if not phys:
+  if not phys and SAMPLE:
     sample_pdf(book_pdf_path)
 
 css = """

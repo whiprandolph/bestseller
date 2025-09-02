@@ -84,8 +84,6 @@ def line_search(line, input_filename):
 def double_cite_search(line):
   pass
 
-
-
 def insert_and_return_toc(input_filename):
   #print(input_filename)
   need_map = {}
@@ -96,12 +94,18 @@ def insert_and_return_toc(input_filename):
     print("File name: %s" % input_filename)
     import pdb;pdb.set_trace()
     raise
-  file_blob = file_blob[file_blob.find("<toc/>", 1):]
+  start_idx = file_blob.find("<toc/>", 1)
+  if start_idx == -1:
+    start_idx = 0
+  file_blob = file_blob[start_idx:]
   lines = file_blob.split("\n")
   toc_links = []
-  
+  lower_file_name = input_filename.lower()
   for line in lines:
     line = line.strip()
+    if 'biblio' not in lower_file_name:
+      assert line.count("_") %2 == 0 or (line.count('_') %2 == 1 and ('cite_table' in line or 'hawks' in line or 'undermining' in line)), "line '%s' has odd count of underscores, file %s" % (line, input_filename)
+    if start_idx == 0: continue
     if search_terms:
       line_search(line, input_filename)
     pound_count = get_pound_count(line)

@@ -30,6 +30,14 @@ PHYS = {"width":6, 'height':9}
 
 BOOK_ADDED_STYLE_BASE = """
 
+  .title {
+    font-size: 40pt;
+    text-align:center;
+  }
+  .author {
+    font-size: 22pt;
+    text-align:center;
+  }
   p, .rev-act {\n
     font-size: 12pt;
     color:black;
@@ -125,6 +133,7 @@ phys_book_md_path = os.path.join(book_final, "book_phys.md")
 online_book_md_path = os.path.join(book_final, "book_online.md")
 phys_book_html_path = os.path.join(book_final, "book_phys.html")
 online_book_html_path = os.path.join(book_final, "book_online.html")
+epub_book_html_path = os.path.join(book_final, "book_epub.html")
 book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
 book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
 book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
@@ -377,11 +386,14 @@ def fixup_html(html_path, phys):
 def make_epub():
   print(" == Starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
-                            '-o', online_book_html_path,
+                            '-o', epub_book_html_path,
                             '--metadata', 'title=The Deepest Revolution',
                             '--metadata', 'author=William Randolph'])
-  fixup_html(online_book_html_path, phys=False)
-  subprocess.run(['ebook-convert', online_book_html_path, book_epub_path,
+  fixup_html(epub_book_html_path, phys=False)
+  html = open(epub_book_html_path, 'r', encoding='utf-8').read()
+  html = html.replace("</header>", "</header><div style=\"page-break-after:page\"></div><center>Copyright 2025 William Randolph</center><div style=\"page-break-after:page\"></div>")
+  open(epub_book_html_path, 'w', encoding='utf-8').write(html)
+  subprocess.run(['ebook-convert', epub_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
                                    '--level1-toc', '//h:h1',
                                    '--level2-toc', '//h:h2',

@@ -1,5 +1,6 @@
 chapters = {
   "Part 0 - Introduction": [
+    (1, 1, "Words of Gratitude.md"),
     (1, 1, "Revolutionary Activities - This is Not a Theoretical Book.md"),
   ],
   "Part 1 - This Is Who We Really Are": [

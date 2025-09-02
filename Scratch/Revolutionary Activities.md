@@ -162,7 +162,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Learn without guilt or shame</div>
-</b><div class="rev-act-body">Think of a time you made a mistake and someone made you feel guilty or shameful in response. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
+</b><div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
 
 
 

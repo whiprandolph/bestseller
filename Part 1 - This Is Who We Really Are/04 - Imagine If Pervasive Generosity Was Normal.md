@@ -1,6 +1,6 @@
 ## Chapter 4: Imagine If Pervasive Generosity Was Normal
 
-Take a moment and picture yourself living in a world where people routinely look out for the health and safety of each other. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
+Take a moment and picture yourself living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
 Hard to imagine, isn't it?
 
@@ -32,7 +32,7 @@ In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shep
 
 These stories really touched me, even shocked me. But in time I realized this way of life is simply normal in any healthy society where everybody encourages generosity and strongly discourages selfishness. When everybody in a nation bases their lives on the three core spiritual practices of gratitude, gift-giving, and reciprocity, generosity naturally becomes pervasive, including their generous leaders. They aren't necessarily generous to outsiders -- often they have been, and sometimes they haven't. But within the nation, they maintain generosity as a normal way of life.
 
-Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because my family and I live in an unhealthy nation that normalizes greed (just like Rome in Jesus's time). Jesus Christ's generosity would just seem normal in healthy nations.[xxx-from deep woods to civilization|civ preached practiced]
+Growing up in a Christian family, I learned about Jesus Christ's extreme generosity as he gave away all his possessions and encouraged his followers to do the same. Now I know that his generosity only seemed "extreme" because I live in an unhealthy nation that normalizes greed, just like Rome in Jesus's time. Jesus Christ's generosity would just seem normal in healthy nations.[xxx-from deep woods to civilization|civ preached practiced]
 
 Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.[xxx-basket interview]
 
@@ -54,21 +54,21 @@ Kimmerer wrote, "It is a terrible punishment to be banished from the web of reci
 
 The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their nation. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-a basic call to consciousness|p105]
 
-In other words, in healthy nations, it's no accident that they maintain a way of life based on generosity and mutual respect. In every healthy nation I've found, they recognize the profound threat that selfish behavior represents, and they go to great lengths to avoid it.
+In other words, it's no accident that they maintain a way of life based on generosity and mutual respect. In every healthy nation I've found, they recognize the profound threat that selfish behavior represents, and they go to great lengths to avoid it.
 
 Jeannette Armstrong's description of Okanagan decision-making shows how beautiful life can be in nations that embrace generosity and reciprocity, and why people would go to such great lengths to avoid selfishness. When a community includes the perspectives of human relationships and the land in their decision-making, "community changes... the material things don't have a lot of meaning... material wealth and the securing of it or being fearful and being frightened about not having 'things' to sustain you, disappears... The realization that people and community are there to sustain you creates the most secure feeling in the world... When that happens, you're imbued with the hope that others surrounding you in your community can provide."[xxx-original instructions|armstrong]
 
 ### What Do These Stories Mean?
 
-I started life bright and hopeful, thinking that things in the United States weren't so bad, and troubles with corruption, crime and pollution could be fixed. But then I kept reading about endless corruption, and I didn't see a way out. Every political party seemed to be more part of the problem than part of a solution. Politicians kept getting corrupted after they were elected, and incorruptible politicians were killed or driven out. And the more I studied, the more I realized it had always been this way throughout America's history. 
+I started life bright and hopeful, thinking that things in the United States weren't so bad, and troubles with corruption, crime and pollution could be fixed. But I kept reading about endless corruption and didn't see a way out. Every political party seemed to be more part of the problem than part of a solution. Politicians kept getting corrupted after they were elected, and incorruptible politicians were killed or driven out. And the more I studied, the more I realized it had been this way throughout America's history. 
 
 I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy nation, from Peru to North Korea to Russia, similar to the USA.
 
-Over time I got jaded -- it seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories showed me that these hurtful troubles aren't inevitable. They showed me that it really is possible to live in a beautiful way with other people -- not just within a nuclear family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
+Over time I got jaded. It seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these hurtful troubles aren't inevitable. These stories showed me that it really is possible to live in a beautiful way with other people, not just within a nuclear family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
 
 For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" in school or on TV who had any idea what one looked like either.
 
-Plenty of people can see there are problems like greed and discrimination, and plenty of people have opinions about what to do, but without knowing what healthy nations are like, it's all just speculation.
+Anybody can see the greed and discrimination, and there are many opinions about what to do, but without knowing what healthy nations are like, it's all just speculation.
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 

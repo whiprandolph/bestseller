@@ -120,11 +120,9 @@ Imagine living in a society where the leaders are the most generous, and where t
 
 This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-a basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
-What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? Fortunately, the Haudenosaunee offer an example.
+What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
 
 Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
-
-In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to maintain a respectful way of life among the people, and between the people and the Earth for over nine centuries.
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
@@ -152,7 +150,7 @@ What was the end result of a society based in part on these principles? Whereas 
 
 Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This taught me that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
 
-These principles taught me the importance of spiritual strength and showed me what it really means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal and pervasive, and that's what a free society looks like.**
+These principles taught me the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.**
 
 Part 3 offers a path that you can begin walking today to build a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and selfishness doesn't take hold.**
 
