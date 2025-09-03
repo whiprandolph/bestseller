@@ -118,7 +118,7 @@ In my personal life, when I really embraced this attitude, my rate of growth inc
 
 #### Building a Healthy Community Starts with You
 
-Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. When you complete the revolutionary activities, you will be we ll on your way to building a healthy community with others.
+Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. When you complete the revolutionary activities, you will be well on your way to building a healthy community with others.
 
 You've practiced standing for what's right and supporting others when they take a stand. You've practiced giving generously and receiving graciously. You've practiced cultivating gratitude, giving your sacred gifts, and forming relationships of reciprocity where people share with each other over time.
 
@@ -154,7 +154,7 @@ This is the difference between a friend group or collection of neighbors and a h
 
 As a healthy community of people holding each other to high standards, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, respect, generosity, dignity, kindness, and bravery.
 
-The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
+The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
@@ -275,7 +275,7 @@ Perhaps you will someday live in a free nation, or perhaps you will lay the grou
 
 [xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
-[xxx-a basic call to consciousness|p38]-aaa (Notes, 2005, 38)
+[xxx-basic call to consciousness|p38]-aaa (Notes, 2005, 38)
 
 [xxx-braveheart every man]-aaa (Gibson, n.d.)
 

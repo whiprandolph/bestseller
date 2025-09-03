@@ -52,7 +52,7 @@ Robin Kimmerer described how the traditional Potawatomi responded when they noti
 
 Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their nation. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to live in a nation with pervasive selfishness and greed?
 
-The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their nation. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-a basic call to consciousness|p105]
+The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their nation. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-basic call to consciousness|p105]
 
 In other words, it's no accident that they maintain a way of life based on generosity and mutual respect. In every healthy nation I've found, they recognize the profound threat that selfish behavior represents, and they go to great lengths to avoid it.
 
@@ -99,4 +99,4 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 
 [xxx-braiding sweetgrass|windigo footprints]-aaa (Kimmerer, 2013, "Windigo Footprints")
 
-[xxx-a basic call to consciousness|p105]-aaa (Notes, 2005, 105)
+[xxx-basic call to consciousness|p105]-aaa (Notes, 2005, 105)

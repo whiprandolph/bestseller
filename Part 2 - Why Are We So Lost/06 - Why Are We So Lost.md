@@ -36,7 +36,7 @@ _Riot Police in China_
 And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]**
 
 <center>
-<img src="./images/american_riot_police.jpg" width="370px" alt="Riot Police in the United States"/><br/>
+<img src="./images/american_riot_police.png" width="370px" alt="Riot Police in the United States"/><br/>
 _Riot Police in the United States_
 </center>
 
@@ -60,7 +60,7 @@ This shows why so many people of unhealthy nations are lost, with ineffective po
 
 As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates and ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical so long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
-Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated?
+Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated? Few people find stories of how whole villages or nations can stand in solidarity, so let's look at an example so you know what it's like.**
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Practice standing for what's right</div>
 <div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>

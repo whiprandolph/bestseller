@@ -118,35 +118,35 @@ Whether attacking activists, undermining social movements, or sponsoring astrotu
 
 Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of being punished.
 
-This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-a basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
-What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _A Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
+What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
 
 Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
-1. _Solidarity_: As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-a basic call to consciousness|p35]<sup>,</sup>[xxx-a basic call to consciousness|p37]
+1. _Solidarity_: As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
 
-    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society of individuals who accepted responsibility for upholding rules that worked for everybody.[xxx-a basic call to consciousness|p39]
+    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society of individuals who accepted responsibility for upholding rules that worked for everybody.[xxx-basic call to consciousness|p39]
 
-2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.[xxx-a basic call to consciousness|p34]
+2. _Intentionally Avoiding Causes of Past Conflicts_: The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.[xxx-basic call to consciousness|p34]
 
-3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account, embracing strict laws of conservation and carefully avoiding degrading the land.[xxx-a basic call to consciousness|p104]
+3. _Acknowledging the Earth's Needs_: The traditional Haudenosaunee took the nonhumans' needs into account, embracing strict laws of conservation and carefully avoiding degrading the land.[xxx-basic call to consciousness|p104]
 
     As a result, the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."
 
-4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."[xxx-a basic call to consciousness|p104] They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."[xxx-a basic call to consciousness|p38]
+4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."[xxx-basic call to consciousness|p104] They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
 
-5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their nation. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-a basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-a basic call to consciousness|p38]
+5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their nation. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-basic call to consciousness|p38]
 
     Since the Haudenosaunee also avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
 
-6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-a basic call to consciousness|p37]
+6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-basic call to consciousness|p37]
 
-7. _Leaders Serve the People_: They avoided factions,[xxx-a basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-a basic call to consciousness|p104]
+7. _Leaders Serve the People_: They avoided factions,[xxx-basic call to consciousness|p34] and no government imposed laws on anyone. Instead, the traditional Haudenosaunee's political leaders were also their spiritual leaders, and they were expected to be extremely generous.[xxx-basic call to consciousness|p104]
 
-What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-a basic call to consciousness|p104]
+What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-basic call to consciousness|p104]
 
 Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This taught me that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
 
@@ -236,21 +236,21 @@ Not everyone will want to walk this path, but you can find people who do. When e
 
 [xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
 
-[xxx-a basic call to consciousness|p38]-aaa (Notes, 2005, 38)
+[xxx-basic call to consciousness|p38]-aaa (Notes, 2005, 38)
 
-[xxx-a basic call to consciousness|p105]-aaa (Notes, 2005, 105)
+[xxx-basic call to consciousness|p105]-aaa (Notes, 2005, 105)
 
 [xxx-britannica utopia]-aaa (Utopia, 2024)
 
-[xxx-a basic call to consciousness|p34]-aaa (Notes, 2005, 34)
+[xxx-basic call to consciousness|p34]-aaa (Notes, 2005, 34)
 
-[xxx-a basic call to consciousness|p39]-aaa (Notes, 2005, 39)
+[xxx-basic call to consciousness|p39]-aaa (Notes, 2005, 39)
 
-[xxx-a basic call to consciousness|p35]-aaa (Notes, 2005, 35)
+[xxx-basic call to consciousness|p35]-aaa (Notes, 2005, 35)
 
-[xxx-a basic call to consciousness|p104]-aaa (Notes, 2005, 104)
+[xxx-basic call to consciousness|p104]-aaa (Notes, 2005, 104)
 
-[xxx-a basic call to consciousness|p37]-aaa (Notes, 2005, 37)
+[xxx-basic call to consciousness|p37]-aaa (Notes, 2005, 37)
 
 [xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
 

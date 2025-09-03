@@ -6,7 +6,7 @@ _Assumptions:_ Unexamined beliefs. (11)
 
 _Bravery:_ The ability to remain conscious of what you know is right and act in service even if you feel uncomfortable or afraid. (9, 13, 16)
 
-_Cowardice:_ A coward prioritizes their comfort over standing for what's right, the opposite of bravery. Training children for obedience trains them for cowardice, as they learn to protect their comfort by obeying rather than bravely do what's right. (13)
+_Cowardice:_ Prioritizing one's comfort over standing for what's right, the opposite of bravery. Training children for obedience trains them for cowardice, as they learn to protect their comfort by obeying rather than bravely do what's right. (13)
 
 _Freedom:_ A way of life without rulers, where everyone in a nation expects themselves and everyone else to stand for what's right. Everyone agrees on their laws and bravely upholds them so justice, protection, and mutual respect are normal. (5, 8, 16)
 

@@ -4,7 +4,7 @@ This book is copyrighted by William Randolph in 2025 under the Creative Commons 
 
 If you want to use material from this book in a way not supported by the license, please contact me through the book's website: https://thedeepestrevolution.com/contact/
 
-Nothing in this book is intended to substitute for personalized advice from trusted practitioners in health, law, or any field. The author accepts no liability for any consequences of reading this book.**
+Nothing in this book is intended to substitute for personalized advice from trusted practitioners in health, law, or any field. The author accepts no liability for any consequences of reading this book.
 
 ISBNs: 979-8-9920652-3-7 (Digital); 979-8-9920652-2-0 (Print)
 

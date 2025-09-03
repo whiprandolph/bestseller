@@ -21,11 +21,13 @@ why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 
 why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
 odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
 rev_act_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities.md")
+rev_act_sheet_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities Sheet.csv")
 
 PUBLISH = True
 
 had_rev_act_fixup = False
 open(rev_act_path, 'w', encoding='utf-8').write("")
+open(rev_act_sheet_path, 'w', encoding='utf-8').write("")
 odoc_file_list = []
 odoc_refs = {}
 ref_header = '### References'
@@ -53,6 +55,8 @@ def rev_act_count_fixup(md_path):
                    had_rev_act_fixup = True
                 line_list.append(reassembled_line)
                 rev_act_list.append("".join(("<b>%s</b>" % file_lines[idx], file_lines[idx+1] + "\n")))
+                sheet_output = "%s, %s, %s\n" % (os.path.basename(md_path).strip(".md"), REV_ACT_COUNTER, rest_of_line.strip("</div>\n"))
+                open(rev_act_sheet_path, 'a', encoding='utf-8').write(sheet_output)
                 REV_ACT_COUNTER += 1
             elif 'rev-act\"' in line:
                 print("Potential rev-act formatting issue with line:")
@@ -66,14 +70,15 @@ def rev_act_count_fixup(md_path):
     
     if had_rev_act_fixup:
         open(rev_act_path, 'w', encoding='utf-8').write("")
+        open(rev_act_sheet_path, 'w', encoding='utf-8').write("")
     elif rev_act_list:
-        output = "### %s\n\n" % os.path.basename(md_path).strip(".md")
+        doc_output = "### %s\n\n" % os.path.basename(md_path).strip(".md")
         if len(rev_act_list) == 1:
-            output += rev_act_list[0]
+            doc_output += rev_act_list[0]
         else:
-            output += "\n\n".join(rev_act_list)
-        output += "\n\n"
-        open(rev_act_path, 'a', encoding='utf-8').write(output)
+            doc_output += "\n\n".join(rev_act_list)
+        doc_output += "\n\n"
+        open(rev_act_path, 'a', encoding='utf-8').write(doc_output)
 
 
 def get_file_list(ignore_images = False):

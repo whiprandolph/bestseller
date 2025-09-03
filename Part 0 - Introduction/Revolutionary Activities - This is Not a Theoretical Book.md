@@ -6,7 +6,7 @@ But no one will give you a healthy nation to be part of. No one will hand you a 
 
 This book isn't about a "solution" -- it's about a journey. I can't tell you every step needed to have a successful Deep Revolution, but I can tell you the kind of person you'd need to be to take part in it.
 
-After studying many healthy nations and multiple Deep Revolutions, I noticed the people in healthy nations all have certain things in common -- things like deep connection with the Earth, integrity, bravery, joy, respect for children, deep awareness and mutual understanding, generosity, and gratitude. They have the spiritual strength to confront injustice, align their lives with the deepest truth, and live without shame. Each person gives their deepest love each moment as a normal way of life.
+After studying many healthy nations and multiple Deep Revolutions, I noticed that in traditional times people in healthy nations all have certain things in common, such as deep connection with the Earth, integrity, bravery, joy, respect for children, deep awareness and mutual understanding, generosity, and gratitude. They have the spiritual strength to confront injustice, align their lives with the deepest truth, and live without shame. Each person gives their deepest love each moment as a normal way of life.
 
 Sounds like a cool group of people to be around, right? 
 

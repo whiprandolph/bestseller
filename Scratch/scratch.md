@@ -110,7 +110,7 @@ When a community includes the perspectives of human relationships and the land i
 
 ## Chapter 9: Gift Economies
 
-When I first read Mohawk writers describe their traditional way of life as "a kind of utopia," I was skeptical.[xxx-a basic call to consciousness|p104] After all, I had been told my whole life that utopias don't exist. The Encyclopedia Britannica even says, "utopian and utopianism are words used to denote visionary reform that tends to be impossibly idealistic."[xxx-britannica utopia]
+When I first read Mohawk writers describe their traditional way of life as "a kind of utopia," I was skeptical.[xxx-basic call to consciousness|p104] After all, I had been told my whole life that utopias don't exist. The Encyclopedia Britannica even says, "utopian and utopianism are words used to denote visionary reform that tends to be impossibly idealistic."[xxx-britannica utopia]
 
 But I kept reading and hearing about healthy nations where sharing is a normal way of life, or was normal in the past when the people could live in a fully traditional way.
 
@@ -300,7 +300,7 @@ All these stories are beautiful, and they made me wonder: what else might be dif
 
 [xxx-original instructions|we are the environment]
 
-[xxx-a basic call to consciousness|p104]
+[xxx-basic call to consciousness|p104]
 
 [xxx-just another nigger|use what you got]
 

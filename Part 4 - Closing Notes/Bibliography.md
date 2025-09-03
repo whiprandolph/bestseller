@@ -123,9 +123,10 @@ Nelson, M. (Ed.). (2008). Original Instructions. Bear and Company.
 Nelson, S. (2023, May 24). IRS opened probe into Matt Taibbi’s taxes after Twitter dump. New York Post. https://nypost.com/2023/05/24/irs-opened-probe-into-matt-taibbis-taxes-after-twitter-dump/
 Ninth Part: The new structure of Zapastista Autonomy (Google Translate, Trans.). (2023, November 14). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/2023/11/13/ninth-part-the-new-structure-of-zapastista-autonomy/
 North Carolina Lawmakers Approve Mask Bill That Allows Health Exemption After Pushback. (2024, June 11). US News & World Report. http://www.usnews.com/news/best-states/north-carolina/articles/2024-06-11/north-carolina-lawmakers-approve-mask-bill-that-allows-health-exemption-after-pushback
-Notes, A. (Ed.). (2005). A Basic Call To Consciousness. In A Basic Call To Consciousness. Native Voices.
+Notes, A. (Ed.). (2005). Basic Call To Consciousness. Native Voices.
 Offenhartz, J. (2025, March 9). ICE arrests Palestinian activist Mahmoud Khalil. AP. https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8
 Olsen, O. (1962). The Ku Klux Klan: A Study in Reconstruction Politics and Propaganda. North Carolina Office of Archives and History, 39(3).
+Padierna Jiménez, M. del P. (2013). Mujeres Zapatistas: La inclusión de las demandas de género. Argumentos (México, D.F.), 26(73), 133–142.
 PCBS | The International Population Day, 11/07/2023. (n.d.). Palestinian Central Bureau of Statistics. Retrieved August 6, 2025, from https://www.pcbs.gov.ps/post.aspx?lang=en&ItemID=4544
 Perla, S. (2022, September 15). Obedience: Virtue and Counsel. The Catholic Project. https://catholicproject.catholic.edu/obedience-virtue-and-counsel/
 Peter, L., & Vock, I. (2023, October 12). French police break up pro-Palestinian demo after ban. https://www.bbc.com/news/world-europe-67088547
