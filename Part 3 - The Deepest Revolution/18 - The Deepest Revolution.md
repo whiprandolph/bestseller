@@ -1,14 +1,14 @@
 ## Chapter 18: The Deepest Revolution
 
-Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, poverty, corruption, pollution, child abuse, and more. So many challenges to solve!
+Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, poverty, corruption, pollution, and child abuse. So many challenges to solve!
 
 But all these different issues stem from one root problem: _we are not free._ We can neither choose our laws nor enforce them. Instead, we must obey laws imposed on us, and we are punished for standing for what's right and directly seeking justice. As long as we are not free, all the other issues will persist.
 
 Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating symptoms will never lead to deep healing while the underlying disease persists.
 
-Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement has ended racism, no anti-sexism movement has ended sexism. So long as rulers exist, they will make sure these troubles continue.
+Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement in human history has ever ended racism in their unhealthy nation, and no anti-sexism movement has ended sexism. As long a person or group rules your nation, they will make sure these troubles continue.
 
-But there is a cure to this one disease and all its symptoms: create new healthy nations where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account.
+But there is a cure to this one disease and all its symptoms: create a new healthy nation where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account. Some people will not want to walk this path, but many will.
 
 This path starts with you. Learn to hold yourself to a high standard of integrity, generosity, and all the other beautiful qualities in this book. Make amazing friendships with others who are also committed to creating a respectful way of life, and form healthy communities where each person holds themselves and others to a high standard of excellent behavior, collectively creating your own law based on kindness, integrity, respect for the Earth, and pervasive justice.
 

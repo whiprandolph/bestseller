@@ -160,9 +160,9 @@ To maintain this way of life, we are continually reconquered: our bravest, wises
 
 ### It is Time to End this Endless Predation
 
-Ending this predation will require creating new healthy nations where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_.
+Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_.
 
-You and the people around you can do this. What could help you succeed? Explore paths to creating new healthy nations in _Part 3 - The Deepest Revolution_.
+You and the people around you can do this. What could help you succeed? Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution_.
 
 ### References
 

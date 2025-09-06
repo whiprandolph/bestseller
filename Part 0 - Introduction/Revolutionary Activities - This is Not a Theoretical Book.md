@@ -1,6 +1,6 @@
-# Revolutionary Activities -- This is Not a Theoretical Book
+# Revolutionary Activities: This Book is Not Theoretical
 
-This is a book about The Deepest Revolution. It explores what healthy nations are like where justice and mutual respect are pervasive, why unhealthy nations all have terrible troubles like corruption and greed that never go away, and how to create healthy communities and eventually healthy nations.
+This is a book about The Deepest Revolution. It explores what healthy nations are like where justice and mutual respect are pervasive, why unhealthy nations all have terrible troubles like corruption and greed that never go away, and how to create healthy communities and eventually new healthy nations.
 
 But no one will give you a healthy nation to be part of. No one will hand you a beautiful way of life on a silver platter.
 
@@ -12,4 +12,4 @@ Sounds like a cool group of people to be around, right?
 
 This book includes dozens of Revolutionary Activities meant to help you cultivate these qualities. I urge you to complete the activities. Let them challenge you. And don't just do each activity once, but do them repeatedly so they become a way of life. I know from experience that the more you work these activities, the deeper they will take you on a beautiful path of deep meaning and connection.
 
-I believe that if you grew up in a healthy nation, many of these activities would be normal parts of your childhood training. But for people that didn't grow up this way, they'll train us to play a good part in the Deepest Revolution.
+I believe that if you grew up in a healthy nation, many of these activities would be normal parts of your childhood training. But for people who didn't grow up this way, they'll train us to play a good part in the Deepest Revolution.

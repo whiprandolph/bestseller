@@ -98,8 +98,8 @@ def verify(toc_data, pdf, phys):
   phys_checks = {
     'chap2':11,
     'chap8':62,
-    'chap15':141,
-    'page_count':194,
+    'chap15':149,
+    'page_count':201,
   }
   online_checks = {
     'chap2':11,
@@ -152,7 +152,7 @@ def output_table(toc_data, dimensions, phys):
   md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
-  md.write("<div style=\"margin-top:.5in\"><center><b>Table of Contents</b></center></div>\n")
+  md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")
   md.write("<ol class=\"toc-list\" role=\"list\">\n")
 
   for part in toc_data:

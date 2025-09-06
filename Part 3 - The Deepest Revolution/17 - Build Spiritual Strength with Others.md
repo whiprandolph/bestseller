@@ -44,7 +44,11 @@ Build spiritual strength together, with each person bringing out the best in eve
 
 This is the difference between a friend group or collection of neighbors and a healthy community. Friends and neighbors may enjoy each other's company, but they may not have the same values and usually don't have their own high standards of behavior for each other. In healthy communities, whether people are neighbors or they're more spread out, people do share many of the same values and, most importantly, they hold themselves and each other to high standards.
 
-As a healthy community of people holding each other to high standards, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, respect, generosity, dignity, kindness, and bravery.
+Most people struggle to hold each other to high standards for a variety of reasons. Some people demand obedience and impose their personal will, just as obedience was expected of them in childhood. Others reject shared standards that are clearly defined and firmly upheld, thinking that any imposition on an individual is an authoritarian restriction of autonomy, and after all who are they to say what's right and wrong? Unfortunately, these are just different attitudes that both lead to poor boundaries and low standards, leading to different kinds of hurtful behavior that will undermine any community.**
+
+Holding yourself and others to a high standard and expecting others to do the same isn't about one person imposing on another. Also, taking a stand when someone misbehaves is often not "nice" or comfortable. You must cultivate bravery so you can be comfortable in the midst of discomfort. With bravery, you can show a misbehaving person the mistake they're making, invite them to show up better, and hold a clear, healthy boundary if they choose not to change.**
+
+As a healthy community of people with high expectations, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, respect, generosity, dignity, kindness, and bravery.
 
 The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
@@ -53,7 +57,7 @@ The Haudenosaunee writers described how their "society was founded on concepts o
 
 #### Build a Nation One Community at a Time, and Build a Community One Person at a Time
 
-Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas showed me how to build a nation one community at a time.
+Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a nation one community at a time.
 
 Instead of instituting a new overarching government, even after their revolution, the Zapatistas said clearly that the communities are "the core of all autonomy." They created higher levels of councils to help the communities protect each other, communicate, and share resources, but no "higher ups" interfere in the communities' business.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
 
@@ -91,7 +95,7 @@ Over time if we can form enough healthy communities, someday they may unite to f
 
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
 
-#### Hold Good Boundaries to Keep Selfishness Out**
+#### Hold Good Boundaries to Keep Selfishness Out
 
 Many people don't learn to hold good boundaries in unhealthy nations because their laws are imposed on them and they're not allowed to uphold the laws they live by. People can learn to tolerate inappropriate behavior towards themselves, or act hurtfully towards others and not notice or not care.
 
@@ -107,43 +111,53 @@ If you don't hold boundaries and just let anyone participate, selfish people wil
 
 It must be ok to make a mistake and trust that people know you're willing to learn and make amends. At the same time it is important to have high standards of behavior that everybody is continuously striving to meet, and if someone isn't actually committed to those high standards, they must leave for the good of the community.
 
-Plenty of people have lied or broken promises to me, and I had to decide if I would trust them again. The question I ask is this: "Are they clearly committed to personal growth so that, if they are shown their hurtful behavior and how to show up better, they will grow from it and not make the same mistake again?"
+Plenty of people have lied or broken promises to me, and I had to decide if I wanted to trust them again. As you build your healthy community, you will encounter this too. A crucial question to answer is this: "Is the person clearly committed to personal growth so that, if they are shown their hurtful behavior and how to show up better, they will grow from it and not make the same mistake again?"
 
-If someone makes a mistake and I respectfully confront them, what happens? If they make excuses or attack me, then I hold a strong boundary and refuse to trust them. If they acknowledge their mistake, apologize, try to make up for it, and truly commit to doing better, then I trust them, maybe even more than before. When this kind of counseling goes well, it helps the person cultivate a deeper self-awareness and integrity, and helps us both trust that we can work through troubles when they arise.
+It's that willingness to acknowledge one's mistakes and grow as much as possible each time that lets a person cultivate deep integrity.**
 
-This allows people a _path back to grace._ With so many people in unhealthy nations developing bad habits and subconscious hurtful behaviors, people are going to make a lot of mistakes and act hurtfully without knowing it. You will need to be ready.
+If someone makes a mistake and you respectfully confront them, what happens? If they make excuses or attack you, then I suggest you hold a strong boundary and refuse to trust them. If they acknowledge their mistake, apologize, make up for any harm done, and truly commit to doing better, then you may find that you're willing to trust them, perhaps even more than before. When this kind of counseling goes well, it helps both you and the other person cultivate a deeper self-awareness and integrity, and builds mutual trust that you can work through troubles when they arise.
 
-People cannot be afraid that any one slip-up will cause them to be kicked out. There has to be a path back to grace so that people who act hurtfully or violate people's trust can return to being trusted if they truly show that they can honor that trust again.
+No one is perfect. Many people in unhealthy nations have developed bad habits and subconscious hurtful behaviors. You should expect people, including yourself, to make many mistakes and act hurtfully, often without knowing it. As you build your healthy community, you will need to be ready for these challenges and not give up.
 
-The essential truth is this: _everyone is basically good, but some attitudes and behaviors such as dishonesty or cowardice are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can show personal growth and adopt better attitudes and behaviors, or they must leave and take their hurtfulness with them. Either way the community maintains that internal baseline of mutual respect.**
+Since everyone will make mistakes at times, every healthy community needs a _path back to grace._ This is simply a process where the community recognizes when someone has grown from their mistake and returns to trusting them again.
 
-So learn when to forgive and how to hold good boundaries. Learn how to remove unwanted attitudes and behaviors by supporting someone's personal growth, and learn when to remove hurtful qualities by evicting people who refuse to grow. This may sound hard, but it is part of the art of being human, and in a healthy community no single person makes these decisions alone.
+People cannot be afraid that any one slip-up will cause them to be kicked out. There has to be a path back to grace so that people who act hurtfully or violate people's trust can return to being trusted again if they show that they are truly committed to high standards for themselves and others.
+
+And often, a person lies or acts selfishly because they don't trust others to handle the truth gracefully, or to remain friends even after admitting their mistake. Counseling can also be a chance for the community to reflect on ways they unknowingly punish people for telling the truth or otherwise discourage good behavior.**
+
+The essential attitude for holding good boundaries is this: _everyone is basically good, but some attitudes and behaviors such as dishonesty or cowardice are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can show personal growth, or they must leave and take their hurtful attitudes and behaviors with them. Either way the community maintains that internal baseline of mutual respect.**
+
+Learning when to forgive and how to hold good boundaries may sound hard, but it is part of the art of being human, and in a healthy community no single person makes these decisions alone.
 
 Even the Zapatistas make mistakes. Major Moisés described their self-governance changes and said that "we are just learning and... it will take a while to get going well."[xxx-ezln new structure]
 
-This is why it's so important to cultivate dignity together -- making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility. You'll make mistakes too as you learn how to have a healthy community.
+This is why it's so important to cultivate dignity together. Making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility. You will also make mistakes as you learn how to have a healthy community.
 
-So commit to that path of deep spiritual growth with other people. Expect that mistakes will happen, and learn to grow from them and forgive. Learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your healthy community.
+So commit to that path of deep spiritual growth with other people. Expect that mistakes will happen, and learn to grow from them and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your healthy community.
 
-#### Building a Healthy Nation is Hard -- But We Are Healthy Nations
+#### Building a Healthy Nation is Hard -- But This is Who We Really Are
 
 Building a healthy nation is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. Many people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear path of deep change.
 
 It would be hard enough to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
-The Zapatistas showed that the path to freedom will be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And you could walk a similar path.**
+The Zapatistas showed that the path to freedom will be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And you could walk a similar path.
 
-You can help form new healthy communities with real solidarity despite all the challenges, where people share generously and stand for what's right for each other and the Earth, knowing each person has the others' backs no matter what.**
+With strong relationships in place and steady spirital strength, you and your friends may eventually be ready to address difficult questions, such as how to build or acquire the needed weapons for self-defense, and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer a concrete model for anyone willing to read their publications.[xxx-zapatistas]**
 
-Despite centuries of oppression, this truth remains: Being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. It feels so incredibly wonderful because _this is who we really are._**
+Every person in every unhealthy nation has ancestors who lived in healthy nations sometime in the past. For some it was only years or decades ago, for many others it's been centuries or millennia. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.**
 
-We are healthy nations; each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation.
+At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. It feels so incredibly wonderful because _this is who we really are._**
+
+Each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation.**
 
 So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
 
 Perhaps you will someday live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, it'll be worth it. No matter what happens, spreading the good news, building your spiritual strength, and giving your gifts will make the world a brighter place.
 
 ### References
+
+[xxx-zapatistas]
 
 [xxx-bringing women in ezln]-aaa (Padierna Jiménez, 2013)
 

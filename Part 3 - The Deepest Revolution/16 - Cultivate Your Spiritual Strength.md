@@ -16,7 +16,7 @@ Bogaletch Gebre described her own powerful transformation. As a young adult, she
 
 Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the desert before he could fully confront the urge to seek wealth and power that his unhealthy nation instilled in him, and instead choose a path of service. After his transformation, he began a ministry that went on to inspire others for 2,000 years.
 
-This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 13), or that you live in a free society (Chapter 6).
+This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 14), or that you live in a free society (Chapter 6).
 
 But in order for Jesus Christ, Don Cox, Bogaletch Gebre, and many other spiritual leaders to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
@@ -88,7 +88,7 @@ Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of be
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
-The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work. People can find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
+The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a deeply meaningful, dignified path in service of the people and nonhumans they love. The divine voice isn't the endless mental chatter so many people experience; it feels more like a deep knowing, or even an irresistable force that guides you on your own sacred path. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work, and find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
 
 Tubman, King, and Christ only seem unusual because they gave their deepest love in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
@@ -177,16 +177,21 @@ When you can cultivate deep relationships with people and nonhumans, they will g
 
 A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to cultivating a practical aware gratitude, walking the most meaningful path, and living in reciprocity, you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
-### Healing Ancient Traumas Today
-Every person in every unhealthy nation has ancestors that lived in healthy nations years, decades, centuries, or millennia ago. Those ancestors enjoyed a way of life based on these three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
+### You Are a Messiah**
 
-At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is."
+One of the biggest lies in history is that there can only be one Messiah. But "messiah" just means savior or liberator, someone who helps free their people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, so everyone is a messiah.
 
-It is impossible to recreate the past, and there's no "going back." But I believe a profound path of ancient healing comes from building your spiritual strength with others as they build theirs. Cultivate that practical aware gratitude, and give your sacred gifts in reciprocity with others who are giving theirs.
+That means you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- these make it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it difficult to form deep relationships of reciprocity with people and the Earth.
 
-Create the depth of trusting and joyful relationships that once were normal for your ancestors, and could be normal for you now. As you walk this path of cultivating your spiritual strength, and you find others to walk it with, you'll begin the Deepest Revolution. Your path will be beautiful no matter what happens, and it's a necessary part of the collective path leading to new healthy nations where respect is the norm among the people, and between people and the Earth.
+The divine voice is speaking to you right now, as it has been since your birth. This divine voice isn't something separate from you; you are divinity in human form, and if you're like most people, you've only learned to "hold back" or "shut down" parts of your divine self to survive in your unhealthy nation.
+
+So cultivate your spiritual strength. Give your deepest love in life, stand for what's right, and accept nothing less, whatever that means for you. And, as the next chapter explores, build relationships with caring people who will support you on this path, just as you will support them.
+
+The world is waiting to be blessed by the light of your love.
 
 ### References
+
+[xxx-oxford messiah]
 
 [xxx-the vision|p126]-aaa (Brown Jr, 1988, 126)
 

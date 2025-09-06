@@ -68,7 +68,7 @@
 ### 08 - Why Don't More People Stand Together
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Channel your anger</div>
-</b><div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
+</b><div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-### 13 - Why Do People Have Such Low Standards
+### 13 - Why Are People's Standards So Low
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
 </b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
@@ -122,8 +122,8 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty</div>
-</b><div class="rev-act-body"></div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty**</div>
+</b><div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, practice acknowledging the problematic behavior, the impact it had, and what behavior you would rather see without putting the other person down or making any hurtful or dismissive comments towards them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
 
 
 

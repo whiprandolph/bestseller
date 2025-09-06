@@ -36,7 +36,7 @@ _Riot Police in China_
 And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]**
 
 <center>
-<img src="./images/american_riot_police.jpg" width="370px" alt="Riot Police in the United States"/><br/>
+<img src="./images/american_riot_police.png" width="370px" alt="Riot Police in the United States"/><br/>
 _Riot Police in the United States_
 </center>
 

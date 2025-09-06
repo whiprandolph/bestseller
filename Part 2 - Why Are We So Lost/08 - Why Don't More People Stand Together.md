@@ -61,7 +61,7 @@ The Tsarist Russian secret police provide more examples of police infiltration. 
 These techniques are all devious, but they're still far from ideal for authorities. Ideally activists would never start their own activist groups, but join government-sponsored organizations where they can be most easily surveilled and controlled.
 
 <center><img src="./images/undermining_bridge.png" alt="Sabotaging Efforts at Deep Cultural Healing" height="367" width="469"/><br/>
-<i>People who benefit from exploitation sabotage efforts to stop injustice.</i></center>
+<i>People who benefit from injustice sabotage efforts to stop it.</i></center>
 
 #### Astroturf Social Movements
 
@@ -112,11 +112,11 @@ Creating and controlling astroturf social movements is common in unhealthy natio
 Whether attacking activists, undermining social movements, or sponsoring astroturf social groups, authorities selfishly work to undermine solidarity in countless ways to maintain the status quo. If people wanted to create a nation without this deep selfishness, how might they do this?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Channel your anger</div>
-<div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted any legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
+<div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
 
 ### A Case Study in Creating a Society that Chooses Generous Servant-Leaders: The Haudenosaunee
 
-Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of being punished.
+Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of punishment.
 
 This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 

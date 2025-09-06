@@ -581,7 +581,7 @@
 </td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 13: Why Do People Have Such Low Standards?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+<tr><td><b>Chapter 13: Why Are People's Standards So Low?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
 </td></tr>
 
@@ -622,7 +622,8 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (author, date)<br/>
-</td><td></td></tr>
+</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (author, date)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 14: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
 </td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
@@ -702,6 +703,9 @@
 </td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
 </td></tr>
 
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
+</td><td></td></tr>
+
 <tr><td><b>Chapter 17: Build Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td><a href="#cite_Chapter_17_2_src" id="cite_Chapter_17_2_dest" style="text-decoration:none">2</a>. (Notes, 2005, 38)<br/>
 </td></tr>
@@ -719,12 +723,10 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_17_9_src" id="cite_Chapter_17_9_dest" style="text-decoration:none">9</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
-</td><td></td></tr>
+</td><td><a href="#cite_Chapter_17_10_src" id="cite_Chapter_17_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 18: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_18_1_src" id="cite_Chapter_18_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
-</td><td></td></tr>
-
-<tr><td><b>Glossary</b></td></tr><tr><td><a href="#cite_Glossary_1_src" id="cite_Glossary_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>

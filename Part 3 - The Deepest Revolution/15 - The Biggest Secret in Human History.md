@@ -12,7 +12,7 @@ For thousands of years, wage slaves, chattel slaves, and other slaves have been 
 
 When you know what to look for, the history books show this vividly.
 
-Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them for opposing their rulers' genocide, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy nations.
+Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy nations.
 
 Why would ruling classes work so hard to spread propaganda against healthy nations? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."[xxx-true americanism|p27]
 
@@ -28,7 +28,7 @@ But what if you learned what freedom is like by studying actually-free people? A
 
 What if you realized how much your unhealthy nation had trained you and your ancestors to hold back your deepest love and tolerate endless abusive behavior all around you?
 
-And what if you could see that it doesn't need to be this way, that you and people around you could unite to create a new nation where respect is the norm?
+And what if you could see that it doesn't need to be this way, that you and other strong and caring people could unite to create a new nation where respect is the norm?
 
 At that moment, everything changes. _The secret is out!_
 
@@ -38,7 +38,7 @@ Instead of engaging in endless political debates that have never helped people f
 
 ### Imagine...
 
-Imagine if you could choose who to live with, and you were surrounded by neighbors you deeply trusted, and who trusted you.
+Imagine if you could choose who to live with, and you were surrounded by friends you deeply trusted, and who trusted you.
 
 Imagine a life where every moment feels alive, and you are free to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
 
