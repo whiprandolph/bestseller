@@ -20,6 +20,7 @@ chapters = {
     (3, 1, "Why Are People So Racist And Hateful.md"),
     (3, 1, "How Can Whole Nations Embrace Awareness and Unity.md"),
     (3, 1, "Selfish Violence vs Selfless Violence.md"),
+    (3, 1, "Why Do People Have Such Low Standards.md"),
     (3, 1, "The Endless Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [

@@ -251,11 +251,19 @@ def build_ref_map(ref_blob):
       print("ADDING FAKE CITES TILL THEY'RE DONE (%s)" % xxx)
       continue
 
-    xxx, official = line.split("-aaa ")
-    xxx = xxx.strip()
-    official = official.strip()
-    assert xxx.startswith("[xxx") and xxx[-1] == "]", line
-    assert official[0] == "(" and official[-1] == ")", line
+    else:
+      xxx, official = line.split("-aaa ")
+      xxx = xxx.strip()
+      official = official.strip()
+      try:
+        assert xxx.startswith("[xxx") and xxx[-1] == "]", line
+        assert official[0] == "(" and official[-1] == ")", line
+      except Exception as exc:
+        print(exc)
+        print(line)
+        print(xxx)
+        breakpoint()
+        pass
 
     ref_map[xxx] = official
   return ref_map
@@ -320,7 +328,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:

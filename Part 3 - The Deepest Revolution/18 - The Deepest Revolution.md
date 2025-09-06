@@ -1,4 +1,4 @@
-## Chapter 17: The Deepest Revolution
+## Chapter 18: The Deepest Revolution
 
 Your unhealthy nation might seem impossibly stuck with big troubles like racism, sexism, poverty, corruption, pollution, child abuse, and more. So many challenges to solve!
 
@@ -6,9 +6,15 @@ But all these different issues stem from one root problem: _we are not free._ We
 
 Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating symptoms will never lead to deep healing while the underlying disease persists.
 
-Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others.
+Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement has ended racism, no anti-sexism movement has ended sexism. So long as rulers exist, they will make sure these troubles continue.
 
-There is a cure to this one disease and all its symptoms: create new healthy nations where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account.
+But there is a cure to this one disease and all its symptoms: create new healthy nations where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account.
+
+This path starts with you. Learn to hold yourself to a high standard of integrity, generosity, and all the other beautiful qualities in this book. Make amazing friendships with others who are also committed to creating a respectful way of life, and form healthy communities where each person holds themselves and others to a high standard of excellent behavior, collectively creating your own law based on kindness, integrity, respect for the Earth, and pervasive justice.
+
+Then join with other healthy communities to eventually form a new healthy nation, where each community protects the others so that this new nation can endure even while surrounded by unhealthy nations with their endless troubles.
+
+Whether or not you're able to create a new nation, each step of this journey by itself will be transformative and worth the effort.
 
 ### We Are the Promised Land
 
@@ -24,7 +30,7 @@ I'm telling you I've BEEN to the promised land. I've lived with a whole healthy 
 
 The promised land is real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
 
-The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change.
+The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.
 
 Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support all these terrible things and more. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
 

@@ -136,7 +136,13 @@ def get_refs(contents, is_ref_section = False, chapter_name=""):
     return refs
   pieces = contents.split("[xxx")[1:]
   for piece in pieces:
-    ref, rest = piece.split("]", 1)
+    try:
+      ref, rest = piece.split("]", 1)
+    except Exception as exc:
+      print(exc)
+      print(pieces)
+      breakpoint()
+      a=2
     refs.append(ref)
     if is_ref_section and PRINT_BIBLIO_INCOMPLETE_CHAPTERS:
       if not rest.startswith("-aaa"):
@@ -180,6 +186,7 @@ def fill_out_refs(contents, chapter_name):
     body_refs = get_refs(body)
   body_refs = set(body_refs)
 
+  print("CHAP NAME: %s" % chapter_name)
   for body_ref in body_refs:
     if ("[xxx%s]" % body_ref) not in ref_section:
       ref_section = "%s[xxx%s]\n\n" % (ref_section, body_ref)

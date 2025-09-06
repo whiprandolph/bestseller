@@ -391,35 +391,36 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
-</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Liedloff, 2004, "Growing Up")<br/>
+</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Linderman, 1932, 21)<br/>
-</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Eastman (Ohiyesa), 2013, "Chief Joseph")<br/>
+<tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Liedloff, 2004, "Growing Up")<br/>
+</td><td><a href="#cite_Chapter_9_52_src" id="cite_Chapter_9_52_dest" style="text-decoration:none">52</a>. (Linderman, 1932, 21)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")<br/>
-</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Messiah, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_9_53_src" id="cite_Chapter_9_53_dest" style="text-decoration:none">53</a>. (Eastman (Ohiyesa), 2013, "Chief Joseph")<br/>
+</td><td><a href="#cite_Chapter_9_54_src" id="cite_Chapter_9_54_dest" style="text-decoration:none">54</a>. (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Kim, 2025)<br/>
-</td><td><a href="#cite_Chapter_9_56_src" id="cite_Chapter_9_56_dest" style="text-decoration:none">56</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_55_src" id="cite_Chapter_9_55_dest" style="text-decoration:none">55</a>. (Messiah, n.d.)<br/>
+</td><td><a href="#cite_Chapter_9_56_src" id="cite_Chapter_9_56_dest" style="text-decoration:none">56</a>. (Kim, 2025)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_57_src" id="cite_Chapter_9_57_dest" style="text-decoration:none">57</a>. (Mark 3:2, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_58_src" id="cite_Chapter_9_58_dest" style="text-decoration:none">58</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_9_57_src" id="cite_Chapter_9_57_dest" style="text-decoration:none">57</a>. (Mark 2:23-24, English Standard Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_58_src" id="cite_Chapter_9_58_dest" style="text-decoration:none">58</a>. (Mark 3:2, King James Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_59_src" id="cite_Chapter_9_59_dest" style="text-decoration:none">59</a>. (Mark 10:32-34, King James Version Bible)<br/>
-</td><td><a href="#cite_Chapter_9_60_src" id="cite_Chapter_9_60_dest" style="text-decoration:none">60</a>. (Kirk, 2020)<br/>
+<tr><td><a href="#cite_Chapter_9_59_src" id="cite_Chapter_9_59_dest" style="text-decoration:none">59</a>. (Mark 11:15-18, English Standard Version Bible)<br/>
+</td><td><a href="#cite_Chapter_9_60_src" id="cite_Chapter_9_60_dest" style="text-decoration:none">60</a>. (Mark 10:32-34, King James Version Bible)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_61_src" id="cite_Chapter_9_61_dest" style="text-decoration:none">61</a>. (King Jr, 1968)<br/>
-</td><td><a href="#cite_Chapter_9_62_src" id="cite_Chapter_9_62_dest" style="text-decoration:none">62</a>. (Douglass, 2000)<br/>
+<tr><td><a href="#cite_Chapter_9_61_src" id="cite_Chapter_9_61_dest" style="text-decoration:none">61</a>. (Kirk, 2020)<br/>
+</td><td><a href="#cite_Chapter_9_62_src" id="cite_Chapter_9_62_dest" style="text-decoration:none">62</a>. (King Jr, 1968)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_9_63_src" id="cite_Chapter_9_63_dest" style="text-decoration:none">63</a>. (Hoover, n.d.)<br/>
-</td><td></td></tr>
+<tr><td><a href="#cite_Chapter_9_63_src" id="cite_Chapter_9_63_dest" style="text-decoration:none">63</a>. (Douglass, 2000)<br/>
+</td><td><a href="#cite_Chapter_9_64_src" id="cite_Chapter_9_64_dest" style="text-decoration:none">64</a>. (Hoover, n.d.)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 10: Why Are People So Racist And Hateful?</b></td></tr><tr><td><a href="#cite_Chapter_10_1_src" id="cite_Chapter_10_1_dest" style="text-decoration:none">1</a>. (Cartwright, 1851)<br/>
 </td><td><a href="#cite_Chapter_10_2_src" id="cite_Chapter_10_2_dest" style="text-decoration:none">2</a>. (Bradford, 2020)<br/>
@@ -580,122 +581,150 @@
 </td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 13: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
-</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
+<tr><td><b>Chapter 13: Why Do People Have Such Low Standards?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_3_src" id="cite_Chapter_13_3_dest" style="text-decoration:none">3</a>. (Tsering et al., 1997, "Chapter 3")<br/>
-</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (Smith, 2016, 3-4)<br/>
+<tr><td><a href="#cite_Chapter_13_3_src" id="cite_Chapter_13_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (Smith, 2016, 49)<br/>
-</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (Tremlett, 2010)<br/>
+<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (Tremlett, 2002)<br/>
-</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (DeCamp, 1996, 4-12)<br/>
+<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (DeCamp, 1996, xvii)<br/>
-</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (Cameron, 1981, 71)<br/>
+<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (Cameron, 1981, 73-74)<br/>
-</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (Jackson, 2016, "Vanishing Americans")<br/>
+<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (Eastman (Ohiyesa), 1916, "On the White Man's Trail")<br/>
-</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (Cameron, 1981, 62)<br/>
+<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (Mantell, 1974, 50)<br/>
-</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (Mantell, 1974, 25)<br/>
+<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (Mantell, 1974, 151)<br/>
-</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 3)<br/>
+<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Prescott, 1977)<br/>
-</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Prescott, 1975)<br/>
+<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Mantell, 1974, 137)<br/>
-</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (Mantell, 1974, 141)<br/>
-</td></tr>
-
-<tr><td><a href="#cite_Chapter_13_23_src" id="cite_Chapter_13_23_dest" style="text-decoration:none">23</a>. (Mantell, 1974, 147)<br/>
-</td><td><a href="#cite_Chapter_13_24_src" id="cite_Chapter_13_24_dest" style="text-decoration:none">24</a>. (Assange, 2007)<br/>
-</td></tr>
-
-<tr><td><b>Chapter 14: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (Mantell, 1974, 27)<br/>
-</td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (Churchill, 1947)<br/>
-</td></tr>
-
-<tr><td><a href="#cite_Chapter_14_3_src" id="cite_Chapter_14_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (author, date)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 15: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
-</td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")<br/>
+<tr><td><b>Chapter 14: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
+</td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (Bradford, 2020)<br/>
-</td><td><a href="#cite_Chapter_15_4_src" id="cite_Chapter_15_4_dest" style="text-decoration:none">4</a>. (John 6:38, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_14_3_src" id="cite_Chapter_14_3_dest" style="text-decoration:none">3</a>. (Tsering et al., 1997, "Chapter 3")<br/>
+</td><td><a href="#cite_Chapter_14_4_src" id="cite_Chapter_14_4_dest" style="text-decoration:none">4</a>. (Smith, 2016, 3-4)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_5_src" id="cite_Chapter_15_5_dest" style="text-decoration:none">5</a>. (King Jr, 1968)<br/>
-</td><td><a href="#cite_Chapter_15_6_src" id="cite_Chapter_15_6_dest" style="text-decoration:none">6</a>. (Matthew 4:1-11, English Standard Version Bible)<br/>
+<tr><td><a href="#cite_Chapter_14_5_src" id="cite_Chapter_14_5_dest" style="text-decoration:none">5</a>. (Smith, 2016, 49)<br/>
+</td><td><a href="#cite_Chapter_14_6_src" id="cite_Chapter_14_6_dest" style="text-decoration:none">6</a>. (Tremlett, 2010)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_7_src" id="cite_Chapter_15_7_dest" style="text-decoration:none">7</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
-</td><td><a href="#cite_Chapter_15_8_src" id="cite_Chapter_15_8_dest" style="text-decoration:none">8</a>. (Brown Jr, 1988, 126)<br/>
+<tr><td><a href="#cite_Chapter_14_7_src" id="cite_Chapter_14_7_dest" style="text-decoration:none">7</a>. (Tremlett, 2002)<br/>
+</td><td><a href="#cite_Chapter_14_8_src" id="cite_Chapter_14_8_dest" style="text-decoration:none">8</a>. (DeCamp, 1996, 4-12)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_15_9_src" id="cite_Chapter_15_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
-</td><td><a href="#cite_Chapter_15_10_src" id="cite_Chapter_15_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
+<tr><td><a href="#cite_Chapter_14_9_src" id="cite_Chapter_14_9_dest" style="text-decoration:none">9</a>. (DeCamp, 1996, xvii)<br/>
+</td><td><a href="#cite_Chapter_14_10_src" id="cite_Chapter_14_10_dest" style="text-decoration:none">10</a>. (Cameron, 1981, 71)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 16: Build Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
-</td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
+<tr><td><a href="#cite_Chapter_14_11_src" id="cite_Chapter_14_11_dest" style="text-decoration:none">11</a>. (Cameron, 1981, 73-74)<br/>
+</td><td><a href="#cite_Chapter_14_12_src" id="cite_Chapter_14_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_3_src" id="cite_Chapter_16_3_dest" style="text-decoration:none">3</a>. (Linderman, 1932, 84)<br/>
-</td><td><a href="#cite_Chapter_16_4_src" id="cite_Chapter_16_4_dest" style="text-decoration:none">4</a>. (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")<br/>
+<tr><td><a href="#cite_Chapter_14_13_src" id="cite_Chapter_14_13_dest" style="text-decoration:none">13</a>. (Jackson, 2016, "Vanishing Americans")<br/>
+</td><td><a href="#cite_Chapter_14_14_src" id="cite_Chapter_14_14_dest" style="text-decoration:none">14</a>. (Eastman (Ohiyesa), 1916, "On the White Man's Trail")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_5_src" id="cite_Chapter_16_5_dest" style="text-decoration:none">5</a>. (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")<br/>
-</td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (Brown Jr, 1988, 81)<br/>
+<tr><td><a href="#cite_Chapter_14_15_src" id="cite_Chapter_14_15_dest" style="text-decoration:none">15</a>. (Cameron, 1981, 62)<br/>
+</td><td><a href="#cite_Chapter_14_16_src" id="cite_Chapter_14_16_dest" style="text-decoration:none">16</a>. (Mantell, 1974, 50)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
-</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
+<tr><td><a href="#cite_Chapter_14_17_src" id="cite_Chapter_14_17_dest" style="text-decoration:none">17</a>. (Mantell, 1974, 25)<br/>
+</td><td><a href="#cite_Chapter_14_18_src" id="cite_Chapter_14_18_dest" style="text-decoration:none">18</a>. (Mantell, 1974, 151)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (Thoreau, 2021, "Economy")<br/>
-</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Gibson, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_14_19_src" id="cite_Chapter_14_19_dest" style="text-decoration:none">19</a>. (Mantell, 1974, 3)<br/>
+</td><td><a href="#cite_Chapter_14_20_src" id="cite_Chapter_14_20_dest" style="text-decoration:none">20</a>. (Prescott, 1977)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Cox, 2019, "Use What You Got to Get What You Need")<br/>
-</td><td><a href="#cite_Chapter_16_12_src" id="cite_Chapter_16_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024)<br/>
+<tr><td><a href="#cite_Chapter_14_21_src" id="cite_Chapter_14_21_dest" style="text-decoration:none">21</a>. (Prescott, 1975)<br/>
+</td><td><a href="#cite_Chapter_14_22_src" id="cite_Chapter_14_22_dest" style="text-decoration:none">22</a>. (Mantell, 1974, 137)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_13_src" id="cite_Chapter_16_13_dest" style="text-decoration:none">13</a>. (Notes, 2005, 38)<br/>
-</td><td><a href="#cite_Chapter_16_14_src" id="cite_Chapter_16_14_dest" style="text-decoration:none">14</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+<tr><td><a href="#cite_Chapter_14_23_src" id="cite_Chapter_14_23_dest" style="text-decoration:none">23</a>. (Mantell, 1974, 141)<br/>
+</td><td><a href="#cite_Chapter_14_24_src" id="cite_Chapter_14_24_dest" style="text-decoration:none">24</a>. (Mantell, 1974, 147)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_15_src" id="cite_Chapter_16_15_dest" style="text-decoration:none">15</a>. (Padierna Jiménez, 2013)<br/>
-</td><td><a href="#cite_Chapter_16_16_src" id="cite_Chapter_16_16_dest" style="text-decoration:none">16</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
+<tr><td><a href="#cite_Chapter_14_25_src" id="cite_Chapter_14_25_dest" style="text-decoration:none">25</a>. (Assange, 2007)<br/>
+</td><td></td></tr>
+
+<tr><td><b>Chapter 15: The Biggest Secret in Human History</b></td></tr><tr><td><a href="#cite_Chapter_15_1_src" id="cite_Chapter_15_1_dest" style="text-decoration:none">1</a>. (Mantell, 1974, 27)<br/>
+</td><td><a href="#cite_Chapter_15_2_src" id="cite_Chapter_15_2_dest" style="text-decoration:none">2</a>. (Churchill, 1947)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_17_src" id="cite_Chapter_16_17_dest" style="text-decoration:none">17</a>. (Marcos, 2014)<br/>
-</td><td><a href="#cite_Chapter_16_18_src" id="cite_Chapter_16_18_dest" style="text-decoration:none">18</a>. (Rodríguez, 1994)<br/>
+<tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td></td></tr>
+
+<tr><td><b>Chapter 16: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
+</td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_19_src" id="cite_Chapter_16_19_dest" style="text-decoration:none">19</a>. (Marcos, 2014)<br/>
-</td><td><a href="#cite_Chapter_16_20_src" id="cite_Chapter_16_20_dest" style="text-decoration:none">20</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+<tr><td><a href="#cite_Chapter_16_3_src" id="cite_Chapter_16_3_dest" style="text-decoration:none">3</a>. (Bradford, 2020)<br/>
+</td><td><a href="#cite_Chapter_16_4_src" id="cite_Chapter_16_4_dest" style="text-decoration:none">4</a>. (John 6:38, English Standard Version Bible)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 17: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
+<tr><td><a href="#cite_Chapter_16_5_src" id="cite_Chapter_16_5_dest" style="text-decoration:none">5</a>. (King Jr, 1968)<br/>
+</td><td><a href="#cite_Chapter_16_6_src" id="cite_Chapter_16_6_dest" style="text-decoration:none">6</a>. (Matthew 4:1-11, English Standard Version Bible)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_7_src" id="cite_Chapter_16_7_dest" style="text-decoration:none">7</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
+</td><td><a href="#cite_Chapter_16_8_src" id="cite_Chapter_16_8_dest" style="text-decoration:none">8</a>. (Brown Jr, 1988, 126)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_16_9_src" id="cite_Chapter_16_9_dest" style="text-decoration:none">9</a>. (Bradford, 2020)<br/>
+</td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
+</td></tr>
+
+<tr><td><b>Chapter 17: Build Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td><a href="#cite_Chapter_17_2_src" id="cite_Chapter_17_2_dest" style="text-decoration:none">2</a>. (Notes, 2005, 38)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_17_3_src" id="cite_Chapter_17_3_dest" style="text-decoration:none">3</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+</td><td><a href="#cite_Chapter_17_4_src" id="cite_Chapter_17_4_dest" style="text-decoration:none">4</a>. (Padierna Jiménez, 2013)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_17_5_src" id="cite_Chapter_17_5_dest" style="text-decoration:none">5</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
+</td><td><a href="#cite_Chapter_17_6_src" id="cite_Chapter_17_6_dest" style="text-decoration:none">6</a>. (Marcos, 2014)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_17_7_src" id="cite_Chapter_17_7_dest" style="text-decoration:none">7</a>. (Rodríguez, 1994)<br/>
+</td><td><a href="#cite_Chapter_17_8_src" id="cite_Chapter_17_8_dest" style="text-decoration:none">8</a>. (Marcos, 2014)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Chapter_17_9_src" id="cite_Chapter_17_9_dest" style="text-decoration:none">9</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
+</td><td></td></tr>
+
+<tr><td><b>Chapter 18: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_18_1_src" id="cite_Chapter_18_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
+</td><td></td></tr>
+
+<tr><td><b>Glossary</b></td></tr><tr><td><a href="#cite_Glossary_1_src" id="cite_Glossary_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Important Notes on Sensitive Topics</b></td></tr><tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_1_src" id="cite_Important_Notes_on_Sensitive_Topics_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "Peace Technologies from the San Bushmen of Africa")<br/>

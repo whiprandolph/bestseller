@@ -7,7 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
-SAMPLE = True
+SAMPLE = False
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
@@ -52,7 +52,7 @@ def get_page_number(pdf, name, start_page):
   
   print("Name: %s, start page: %s" % (name, start_page))
   for index, page in enumerate(pdf.pages[start_page:]):
-    if index+start_page+1 > 195:
+    if index+start_page+1 > 235:
       import pdb;pdb.set_trace()
     page_text = page.extract_text().strip()
     first_line = page_text.split("\n")[0]

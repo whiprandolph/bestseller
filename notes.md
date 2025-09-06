@@ -231,3 +231,16 @@ Endless predation - lightbulb moment leading into part 3
 ### Quran
 
 Like Basket/MLK, this quran quote (Al-Quran Surah 5: Verse 32):  On the other hand, if one saves the life of a single person it shall be as if he has saved the lives of all mankind
+
+### some of us remember it
+
+One Nootka storyteller described the importance of remembering these kinds of stories and wisdom. She said their secrets were "proof there is another way [to live], a better way, and some of us remember it."[xxx-daughters copper woman|p146]
+
+### Big picture view
+
+* Big picture view:
+  * traditional times
+  * crisis but still sovereign and healthy
+  * conquered but maintain traditions best they can
+  * healthy nation forgotten
+

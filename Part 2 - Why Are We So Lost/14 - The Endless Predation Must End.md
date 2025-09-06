@@ -1,4 +1,4 @@
-## Chapter 13: The Endless Predation Must End
+## Chapter 14: The Endless Predation Must End
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
 
@@ -48,7 +48,7 @@ I knew child rape was bad, but why was it so bad that it would "[shake] the cent
 
 Healthy nations see any disrespect as a cultural wound that affects everybody, and the Nootka recognized that this child rape was a severe disrespect and therefore a severe cultural wound. If this disrespect wasn't fully addressed, everything was at risk, and nothing would be safe.
 
-The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their nation's survival to protect themselves from predators.
+The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their nation's survival to protect themselves from predators.[xxx-daughters of copper woman|p79]
 
 This taught me the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates selfish predators, there is no end to the trouble.
 
@@ -165,6 +165,8 @@ Ending this predation will require creating new healthy nations where _everyone 
 You and the people around you can do this. What could help you succeed? Explore paths to creating new healthy nations in _Part 3 - The Deepest Revolution_.
 
 ### References
+
+[xxx-daughters of copper woman|p79]
 
 [xxx-body pleasure and the origins of violence]-aaa (Prescott, 1975)
 

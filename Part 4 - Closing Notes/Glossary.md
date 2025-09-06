@@ -1,6 +1,6 @@
 # Glossary
 
-Following are key terms and the chapters where they are discussed.
+Following are key terms and the chapters where they are discussed.[xxx-update chapters after adding standards chapter]
 
 _Assumptions:_ Unexamined beliefs. (11)
 
@@ -37,3 +37,7 @@ _Selfish violence:_ When a person commits violence or orders others to commit vi
 _Submissive obedience:_ A way of life where people follow laws they don't choose and often don't like, knowingly obey corrupt leaders, and believe that this is ok. (9)
 
 _The three core spiritual practices:_ The spiritual foundation for living in healthy communities and healthy nations: cultivating a practical, aware gratitude for the gifts of life; giving one's sacred gifts; and living in reciprocity with people and the Earth. (3, 15)
+
+### References
+
+[xxx-update chapters after adding standards chapter]
