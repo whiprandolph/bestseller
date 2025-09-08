@@ -8,7 +8,7 @@ People in healthy nations create and maintain this deep trust by consistently ho
 
 So if those of us in unhealthy nations want to begin creating a new healthy nation, we must remember or relearn how to hold ourselves and each other to high standards too.
 
-#### Building a Healthy Community Starts with You
+### Building a Healthy Community Starts with You
 
 Like a healthy nation, in a healthy community people have high standards for themselves and others so that integrity, generosity, care for the Earth, respect for children, and other beautiful qualities are widespread and normal. If you've completed the revolutionary activities, you are well on your way to building a healthy community with others. Consider all the ways these activities have helped you grow.
 
@@ -20,7 +20,7 @@ You've joined with other people into groups that continually share with each oth
 
 If you haven't completed all the activities yet, that's ok! These are life-long practices, meant to be done over and over until they become a way of life. If you haven't started, that's ok too. Now is a good time to start.
 
-#### Build a Healthy Community by Building Spiritual Strength with Others
+### Build a Healthy Community by Building Spiritual Strength with Others
 
 A great way to begin building a healthy community, and eventually a healthy nation, is to build the _most amazing friendships ever._
 
@@ -53,9 +53,9 @@ As a healthy community of people with high expectations, your group's standards 
 The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
-<div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
+<div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
-#### Build a Nation One Community at a Time, and Build a Community One Person at a Time
+### Build a Nation One Community at a Time, and Build a Community One Person at a Time
 
 Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a nation one community at a time.
 
@@ -71,7 +71,7 @@ How could the women have offered feedback and given their consent if the women's
 
 If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with or build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
 
-These healthy communities are simply groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, deep connection with the Earth, and generosity.
+These healthy communities are simply groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, generosity, and deep connection with the Earth.
 
 The Zapatistas described how these healthy communities were absolutely essential for their revolution.
 
@@ -95,11 +95,13 @@ Over time if we can form enough healthy communities, someday they may unite to f
 
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
 
-#### Hold Good Boundaries to Keep Selfishness Out
+### Hold Good Boundaries to Keep Selfishness Out
 
-Many people don't learn to hold good boundaries in unhealthy nations because their laws are imposed on them and they're not allowed to uphold the laws they live by. People can learn to tolerate inappropriate behavior towards themselves, or act hurtfully towards others and not notice or not care.
+In unhealthy nations, many people don't learn to hold good boundaries in their personal life. People can learn to tolerate inappropriate behavior towards themselves, or act hurtfully towards others and not notice or not care.**
 
-For many people, selfishness seems normal and unremarkable, but it is a poison for healthy communities and nations. To avoid selfishness, your community must learn to hold good boundaries.
+This is because people in unhealthy nations are not allowed to set the boundaries they live by. Laws are imposed on them and they're not allowed to uphold them, meaning most people live within boundaries that others choose and enforce. When children are raised to be obedient, they are trained not to have good personal boundaries and instead accept the boundaries, or rules, that authority figures give them. Much of the spiritual growth required to live in a healthy community involves learning how to hold good boundaries.**
+
+For many people, selfishness seems normal and unremarkable, but it is a poison for healthy communities and nations. To avoid selfishness, your community must learn to hold good boundaries too.
 
 Many people are not ready to live in healthy communities for various reasons. Some people won't see the value in them. Infiltrators will pretend to want community but actually try to sabotage it. Others will want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they change their ways.
 
@@ -135,15 +137,15 @@ This is why it's so important to cultivate dignity together. Making your own law
 
 So commit to that path of deep spiritual growth with other people. Expect that mistakes will happen, and learn to grow from them and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your healthy community.
 
-#### Building a Healthy Nation is Hard -- But This is Who We Really Are
+### Building a Healthy Nation is Hard -- But This is Who We Really Are
 
 Building a healthy nation is challenging. In unhealthy nations, we have a way of life that encourages superficiality, ineffective political movements, division, deceit, and selfishness. Many people learn to feel helpless or not care about anything, as their society seems so sick and there's no clear path of deep change.
 
 It would be hard enough to grow up surrounded by these hurtful qualities and then embrace a way of life based on integrity, generosity, and deep connection instead. It becomes immensely harder when authorities sabotage solidarity, train people for obedience, spread lies, murder spiritual leaders, abuse children, and keep people in poverty.
 
-The Zapatistas showed that the path to freedom will be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And you could walk a similar path.
+The Zapatistas showed that the path to freedom may be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And you could walk a similar path.
 
-With strong relationships in place and steady spirital strength, you and your friends may eventually be ready to address difficult questions, such as how to build or acquire the needed weapons for self-defense, and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer a concrete model for anyone willing to read their publications.[xxx-zapatistas]**
+With strong relationships in place and steady spirital strength, you and your friends may eventually be ready to address difficult questions, such as how to build or acquire the needed weapons for self-defense, and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer a concrete model for anyone willing to read their publications.[xxx-zapatista archive]**
 
 Every person in every unhealthy nation has ancestors who lived in healthy nations sometime in the past. For some it was only years or decades ago, for many others it's been centuries or millennia. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.**
 
@@ -157,40 +159,18 @@ Perhaps you will someday live in a free nation, or perhaps you will lay the grou
 
 ### References
 
-[xxx-zapatistas]
+[xxx-zapatista archive]-aaa (Archivo Histórico, n.d.)
 
 [xxx-bringing women in ezln]-aaa (Padierna Jiménez, 2013)
 
 [xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 
+[xxx-basic call to consciousness|p38]-aaa (Notes, 2005, 38)
+
 [xxx-opendemocracy zapatista women law as it is lived today]-aaa (Marcos, 2014)
-
-[xxx-everyday heroism makes the sparkles possible]-aaa ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)
-
-[xxx-just another nigger|use what you got]-aaa (Cox, 2019, "Use What You Got to Get What You Need")
-
-[xxx-ezln new structure]-aaa ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)
-
-[xxx-braiding sweetgrass|wisgaak gokpenagen]-aaa (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")
 
 [xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 
-[xxx-walden|economy]-aaa (Thoreau, 2021, "Economy")
+[xxx-ezln new structure]-aaa ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)
 
-[xxx-odoc]-aaa (Randolph, 2024)
-
-[xxx-odoc|ch47]-aaa (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")
-
-[xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
-
-[xxx-basic call to consciousness|p38]-aaa (Notes, 2005, 38)
-
-[xxx-braveheart every man]-aaa (Gibson, n.d.)
-
-[xxx-indian heroes and great chieftains|rain-in-the-face]-aaa (Eastman (Ohiyesa), 2013, "Rain-In-The-Face")
-
-[xxx-geronimo autobio|Unwritten Laws of the Apaches]-aaa (Barrett, 2010, "Unwritten Laws of the Apaches")
-
-[xxx-the vision|p81]-aaa (Brown Jr, 1988, 81)
-
-[xxx-red mother|p84]-aaa (Linderman, 1932, 84)
+[xxx-everyday heroism makes the sparkles possible]-aaa ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)

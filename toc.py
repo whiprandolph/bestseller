@@ -186,7 +186,6 @@ def fill_out_refs(contents, chapter_name):
     body_refs = get_refs(body)
   body_refs = set(body_refs)
 
-  print("CHAP NAME: %s" % chapter_name)
   for body_ref in body_refs:
     if ("[xxx%s]" % body_ref) not in ref_section:
       ref_section = "%s[xxx%s]\n\n" % (ref_section, body_ref)

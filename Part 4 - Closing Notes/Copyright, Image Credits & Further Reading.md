@@ -8,7 +8,7 @@ Nothing in this book is intended to substitute for personalized advice from trus
 
 ISBNs: 979-8-9920652-3-7 (Digital); 979-8-9920652-2-0 (Print)
 
-_Image Credits_: Cover: _Sophia Mueller_; Chapter 3: "Hawks Hunting": _Chelsea Spitzer_; Chapter 6: "Riot Police in Venezuela": _(AP Photo/Ariana Cubillos)_.[xxx-venezuelan riot] "Riot Police in China": _AP Photo/Eugene Hoshiko_.[xxx-chinese riot] "Riot Police in the United States": _J Kearney_.[xxx-american riot];  Chapter 8: "Sabotaging Efforts at Deep Cultural Healing": _Chelsea Spitzer_; Chapter 10: "When People Fall for Scams like Racism": _Chelsea Spitzer_; Reproduced with permission.
+_Image Credits_: Cover: _Sophia Mueller;_ Chapter 3: "Hawks Hunting": _Chelsea Spitzer;_ Chapter 6: "Riot Police in Venezuela": _AP Photo/Ariana Cubillos,_[xxx-venezuelan riot] "Riot Police in China": _AP Photo/Eugene Hoshiko,_[xxx-chinese riot] "Riot Police in the United States": _Graeme Sloan/Sipa USA;_[xxx-american riot]  Chapter 8: "Sabotaging Efforts at Deep Cultural Healing": _Chelsea Spitzer;_ Chapter 10: "When People Fall for Scams like Racism": _Chelsea Spitzer._ Reproduced with permission.
 
 _Further Reading:_ _One Disease One Cure_ offers a more comprehensive, detailed exploration of healthy and unhealthy nations (called "healthy and unhealthy cultures" in that book). It includes many themes which were not included in _The Deepest Revolution_, including sexuality, privilege, entitlement, stories of creating healthy communities (called "healthy subcultures"), nutrition, ancient religious misunderstandings, and much more.
 
@@ -16,8 +16,8 @@ Both _The Deepest Revolution_ and _One Disease One Cure_ are free to download an
 
 ### References
 
-[xxx-american riot]
+[xxx-american riot]-aaa (Sloan, 2020)
 
-[xxx-chinese riot]-aaa (Chinese City Kills Project after Protest, 2012)
+[xxx-chinese riot]-aaa (Hoshiko, 2012)
 
-[xxx-venezuelan riot]-aaa (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)
+[xxx-venezuelan riot]-aaa (Cubillos, 2018)

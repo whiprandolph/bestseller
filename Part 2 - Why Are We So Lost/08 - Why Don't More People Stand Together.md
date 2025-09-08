@@ -60,7 +60,7 @@ The Tsarist Russian secret police provide more examples of police infiltration. 
 
 These techniques are all devious, but they're still far from ideal for authorities. Ideally activists would never start their own activist groups, but join government-sponsored organizations where they can be most easily surveilled and controlled.
 
-<center><img src="./images/undermining_bridge.png" alt="Sabotaging Efforts at Deep Cultural Healing" height="367" width="469"/><br/>
+<center><img src="./images/undermining_bridge.png" alt="Sabotaging Efforts at Deep Cultural Healing" height="368" width="469"/><br/>
 <i>People who benefit from injustice sabotage efforts to stop it.</i></center>
 
 #### Astroturf Social Movements
@@ -122,7 +122,7 @@ This is not a fantasy, but the normal way people live in healthy nations. The Ha
 
 What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _Basic Call to Consciousness_, Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
 
-Long ago, several nations in eastern North America were suffering in seemingly endless war when they finally decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.
+Long ago, several nations in eastern North America were suffering from a long period of violence, and eventually they decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.[xxx-encyclopedia haudenosaunee|p265]
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
@@ -157,6 +157,8 @@ Part 3 offers a path that you can begin walking today to build a healthy nation,
 Not everyone will want to walk this path, but you can find people who do. When enough healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.**
 
 ### References
+
+[xxx-encyclopedia haudenosaunee|p265]
 
 [xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
 

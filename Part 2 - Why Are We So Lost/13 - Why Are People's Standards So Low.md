@@ -42,7 +42,7 @@ Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka ar
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
 <div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
-
+<div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
 <div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Do what you can to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
 
@@ -58,11 +58,11 @@ Healthy nations show how incredibly capable and confident children and young adu
 
 Martin Prechtel describes how, among the Tzutujil Maya, both boys and girls were sufficiently mature and skilled to contribute to the family by the age of 12, carrying at least their own weight or more.[xxx-secrets of the talking jaguar|p99-100]
 
-Young Nootka girls were trained to have very strong physical endurance as well as all the skills needed to manage a household. When puberty arrived, the girl would have a rite of passage where she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home."[xxx-daughters of copper women|p102] When children were raised with meaningful mentorship every day, they were ready for adulthood when the time came. When teenagers are treated respectfully, there is nothing to rebel against!
+Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. As one Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young lady would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." When children were raised with meaningful mentorship every day, they were ready for adulthood when the time came and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
 
-When a Mosuo girl grows to womanhood and reaches puberty around 13 or 14, she receives her own bedroom with two doors. One door enters the inner family area and one opens onto the street. In her room, called a flower room, the young woman has complete autonomy. She can easily have lovers visit. There is never an expectation that sexual partners raise the children, as the woman's brothers and other neighbors help raise her children. Every man knows that his sister's children are his primary responsibility, and so both men and women can have many sexual partners without having to worry about who the father is. They created a way of life where men, women and children get their needs met without each partner restricting the other's sexual freedom.
+When a Mosuo girl grows to womanhood and reaches puberty around 13 or 14, she receives her own bedroom with two doors. One door enters the inner family area and one opens onto the street. In her room, called a flower room, the young woman has complete autonomy. She can easily have lovers visit. There is never an expectation that sexual partners raise the children, as the woman's brothers and other neighbors help raise her children. Every man knows that his sister's children are his primary responsibility, and so both men and women can have many sexual partners without having to worry about who the father is. They created a way of life where men, women and children get their needs met without each partner restricting the other's sexual freedom.[xxx-sex at dawn|love lust lagu]
 
-One visitor in 2006 described the profound confidence these young Mosuo women have, calling them "sassy and confident," not fearing shame or persecution for their sexuality. Regardless how long any individual sexual relationship lasts, these young women know they will always have a home, family and support for their children.[xxx-sex at dawn|love lust liberty]
+One visitor in 2006 described the profound confidence these young Mosuo women have, calling them "sassy and confident," not fearing shame or persecution for their sexuality. Regardless how long any individual sexual relationship lasts, these young women know they will always have a home, family and support for their children.
 
 Jean Liedloff acted as a physician among the Yequana, and she noted, "All [their] behaviour contradicted the assumptions I held about how children behave." She encountered a four-year-old with a gaping wound who came to her all alone and kept his composure even through the pain, and a 9-year-old with an abdominal wound after his older brother accidentally shot him with an arrow. There was no animosity or needless worry, and they didn't need sympathy to help them feel ok. Even the mother of the 9-year-old showed no anxiety -- after all, everything that could be done to address the injury was being done, so what good would feeling stress accomplish? The boy recovered just fine.[xxx-continuum concept|growing up]
 
@@ -81,7 +81,7 @@ So many childhood difficulties are unnecessary, and only seem normal or inevitab
 
 Low standards are pervasive everywhere in unhealthy nations, especially in politics. 
 
-Politicians may brag about being "tough on crime," but they never talk about _ending crime._ Ending crime would require people to create a healthy nation like the Mosuo, who have so little crime that their language does not have words for "murder" or "rape."[xxx-sex at dawn|love lust liberty]
+Politicians may brag about being "tough on crime," but they never talk about _ending crime._ Ending crime would require people to create a healthy nation like the Mosuo, who have so little crime that their language does not have words for "murder" or "rape."[xxx-sex at dawn|love lust lagu]
 
 Many citizens in democracies care deeply about their society but knowingly vote for evil candidates anyway, which is what it means to vote for "the lesser evil." How can people think they're free if they can only choose between more or less evil political leaders? Of course, at its root, "evil" just means "corrupt" or "selfish," describing someone who prioritizes their own needs at the expense of the group.
 
@@ -119,7 +119,7 @@ Of course, women can set boundaries and protect their people too. And yet, when 
 
 People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this, meaning _it is illegal to be a good man in an unhealthy nation._ Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or avoid reflecting on their meaningless life with endless distractions.
 
-Boys and men are often held to very low standards, and one classic example is the phrase "boys will be boys." In India[xxx-hrw everyone blames me], the United States[xxx-boys will be boys], and other unhealthy nations around the world, authorities often make excuses for men who sexually assault women by claiming that "boys will be boys," as if sexual assault were normal, expected masculine behavior rather than a sign of severe emotional and spiritual disturbances.
+Boys and men are often held to very low standards, and one classic example is the phrase "boys will be boys." In India[xxx-hrw everyone blames me], the United States[xxx-boys will be boys], and other unhealthy nations around the world, authorities often make excuses for men who sexually assault women with some variation of "boys will be boys," as if sexual assault were normal, expected masculine behavior rather than a sign of severe emotional and spiritual disturbances.
 
 Healthy nations show how people can have a way of life where men consistently show deep integrity and bravery, holding each other to very high standards.
 
@@ -166,7 +166,7 @@ The book _One Disease One Cure_ contains many more suggestions for cultivating b
 
 Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. So long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
 
-In my personal life, when I really embraced this attitude, my rate of growth increased. I started learning life lessons faster than before because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.[xxx-fixup chapter number references elsewhere (ie in transformation section of chap 16)]
+In my personal life, when I really embraced this attitude, my rate of growth increased. I started learning life lessons faster than before because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
 
 Part 3 will share more detail about forming deep relationships, healthy communities and eventually healthy nations based on the stories of others who have done this. These shame-free and guilt-free attitudes to personal growth are foundational so that people can hold themselves and each other to high standards of behavior and grow from their mistakes.
 
@@ -177,52 +177,40 @@ High standards of behavior will allow you and other caring people to create a cu
 
 ### References
 
-[xxx-fixup chapter number references elsewhere - ie in transformation section of chap 16]
+[xxx-red mother|p22]-aaa (Linderman, 1932, 22)
 
-[xxx-walden|economy]
+[xxx-sex at dawn|love lust lagu]-aaa (Ryan & Jethá, 2010, "Love, Lust, and Liberty at Lugu Lake")
 
-[xxx-geronimo autobio|Unwritten Laws of the Apaches]
+[xxx-daughters of copper woman|p101-102]-aaa (Cameron, 1981, 101-102)
 
-[xxx-continuum concept|chapter 6]
+[xxx-secrets of the talking jaguar|p99-100]-aaa (Prechtel, 1999, 99-100)
 
-[xxx-just another nigger|use what you got]
+[xxx-continuum concept|growing up]-aaa (Liedloff, 2004, "Growing Up")
 
-[xxx-braiding sweetgrass|wisgaak gokpenagen]
+[xxx-black elk speaks|walking black road]-aaa (Neihardt, 2014, "Walking the Black Road")
 
-[xxx-braveheart every man]
+[xxx-when buffalo ran|attack on the camp]-aaa (Grinnell, 2005, "The Attack on the Camp")
 
-[xxx-from deep woods to civilization|civ preached practiced]
+[xxx-boys will be boys]-aaa (Weiss, 2009)
 
-[xxx-red mother|p84]
+[xxx-walden|economy]-aaa (Thoreau, 2021, "Economy")
 
-[xxx-odoc|ch47]
+[xxx-geronimo autobio|Unwritten Laws of the Apaches]-aaa (Barrett, 2010, "Unwritten Laws of the Apaches")
 
-[xxx-the vision|p81]
+[xxx-just another nigger|use what you got]-aaa (Cox, 2019, "Use What You Got to Get What You Need")
 
-[xxx-odoc]
+[xxx-braiding sweetgrass|wisgaak gokpenagen]-aaa (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")
 
-[xxx-fixup chapter number references elsewhere (ie in transformation section of chap 16)]
+[xxx-braveheart every man]-aaa (Gibson, n.d.)
 
-[xxx-continuum concept|ch4]
+[xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
-[xxx-secrets of the talking jaguar|p99-100]
+[xxx-red mother|p84]-aaa (Linderman, 1932, 84)
 
-[xxx-deep woods, two diff chapters]
+[xxx-odoc]-aaa (Randolph, 2024)
 
-[xxx-sex at dawn|love lust liberty]
+[xxx-odoc|ch47]-aaa (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")
 
-[xxx-daughters of copper women|p102]
+[xxx-the vision|p81]-aaa (Brown Jr, 1988, 81)
 
-[xxx-continuum concept|growing up]
-
-[xxx-daughters copper woman|p146]
-
-[xxx-black elk speaks|walking black road]
-
-[xxx-boys will be boys]
-
-[xxx-when buffalo ran|attack on the camp]
-
-[xxx-red mother|p22]
-
-[xxx-hrw everyone blames me]
+[xxx-hrw everyone blames me]-aaa (Everyone Blames Me, 2017)

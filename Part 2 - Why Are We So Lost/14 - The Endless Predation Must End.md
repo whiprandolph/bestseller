@@ -18,7 +18,7 @@ How do you think the Portuguese people felt watching these legal proceedings car
 
 Tragically, such disturbing troubles are simply common in unhealthy nations that punish you for seeking justice. Thus similar stories can be found in the United States.
 
-In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found many child sexual abuse victims who described many satanic rituals and named many powerful people as abusers, including judges, politicians, and wealthy business executives. National figures were involved too, including billionaire George HW Bush, who at various times was a billionaire US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the perpetrators faced justice.[xxx-franklin cover up|p4-12]<sup>,</sup>[xxx-franklin cover up|pxvii]
+In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found child sexual abuse victims who described many satanic rituals and named many powerful people as abusers, including judges, politicians, and wealthy business executives. National figures were involved too, including George HW Bush, who at various times was a billionaire US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the perpetrators faced justice.[xxx-franklin cover up|p4-12]<sup>,</sup>[xxx-franklin cover up|pxvii]
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy nations go on about their lives as if this rampant child abuse isn't still happening all around them.
 
@@ -166,7 +166,7 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 ### References
 
-[xxx-daughters of copper woman|p79]
+[xxx-daughters of copper woman|p79]-aaa (Cameron, 1981, 79)
 
 [xxx-body pleasure and the origins of violence]-aaa (Prescott, 1975)
 

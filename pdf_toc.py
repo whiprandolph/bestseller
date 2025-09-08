@@ -98,8 +98,8 @@ def verify(toc_data, pdf, phys):
   phys_checks = {
     'chap2':11,
     'chap8':62,
-    'chap15':149,
-    'page_count':201,
+    'chap15':155,
+    'page_count':202,
   }
   online_checks = {
     'chap2':11,
@@ -116,7 +116,7 @@ def verify(toc_data, pdf, phys):
   try:
     assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and checks['chap2'] == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
     assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and checks['chap8'] == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
-    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][2][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off (exp: %s, is: %s)" % (checks['chap15'], toc_data["Part 3 - The Deepest Revolution"][2][1])
+    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][1][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off (exp: %s, is: %s)" % (checks['chap15'], toc_data["Part 3 - The Deepest Revolution"][1][1])
     assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
@@ -145,11 +145,11 @@ def output_table(toc_data, dimensions, phys):
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
-  md.write("<body>\n\n<br/><br/>")
+  md.write("<body>\n\n<br/><br/><br/><br/><br/>")
   md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
   md.write("<h4>William Randolph</h4><br/></center>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")

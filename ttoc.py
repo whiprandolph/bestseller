@@ -39,7 +39,7 @@ odoc_file_list = []
 def rev_act_count_fixup(md_path):
     global REV_ACT_COUNTER, had_rev_act_fixup
     assert md_path.endswith(".md"), md_path
-    rev_act_html = '<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #'
+    rev_act_html = '<div class="rev-act-header">Revolutionary Activity #'
     line_list = []
     rev_act_list = []    
     with open(md_path, 'r', encoding='utf-8') as file_handle:
@@ -48,9 +48,15 @@ def rev_act_count_fixup(md_path):
             if rev_act_html in line:
                 assert "<br/>" in line, line
                 assert "</div>" in line, line
-                act_count, rest_of_line = line.split(rev_act_html)[1].split("<br/>", 1)
-                assert (len(act_count) == 1 or len(act_count) == 2) and act_count.isdigit(), "Bad rev-act count: %s in %s" % (act_count, os.path.basename(md_path))
-                reassembled_line = f"{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
+                try:
+                    top_div, rest_of_line = line.split(rev_act_html)
+                    act_count, rest_of_line = rest_of_line.split("<br/>", 1)
+                    assert (len(act_count) == 1 or len(act_count) == 2) and act_count.isdigit(), "Bad rev-act count: %s in %s" % (act_count, os.path.basename(md_path))
+                except Exception as exc:
+                   print(exc)
+                   breakpoint()
+                   a=4
+                reassembled_line = f"{top_div}{rev_act_html}{REV_ACT_COUNTER}<br/>{rest_of_line}"
                 if reassembled_line != line:
                    had_rev_act_fixup = True
                 line_list.append(reassembled_line)
@@ -332,6 +338,7 @@ def verify_no_extras(total_cites):
 
 def main():
     file_list = get_file_list()
+    cite_count = 0
     total_unchecked = 0
     total_checked = 0
     total_formatted = 0
@@ -346,11 +353,13 @@ def main():
             total_checked += checked_len
             total_formatted += formatted_len
             all_refs_set.update(all_refs_chapter)
+            cite_count += len(all_refs_chapter)
     total_cites = total_unchecked + total_checked + total_formatted
     print("unchecked: %s (%s%%)" % (total_unchecked, str(round(100*total_unchecked/total_cites,2))))
     print("checked: %s (%s%%)" % (total_checked, str(round(100*total_checked/total_cites,2))))
     print("formatted: %s (%s%%)" % (total_formatted, str(round(100*total_formatted/total_cites,2))))
     print("Unique citations: %s" % len(all_refs_set))
+    print("Total citations: %s" % cite_count)
     verify_no_extras(all_refs_set)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))

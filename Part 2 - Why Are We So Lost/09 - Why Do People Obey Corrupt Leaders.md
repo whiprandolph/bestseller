@@ -183,7 +183,7 @@ Because each person accepts personal responsibility to _choose who to follow,_ h
 
 Even children are not raised to submissively obey their parents in healthy nations. People of healthy nations commonly describe life as a spiraling path, where the process of "growing up" from child to elder is the process taking ever-greater responsibility for oneself and others, continually ensuring the community takes people's and the nonhumans' needs into account.[xxx-grandmothers light|p9]<sup>,</sup>[xxx-braiding sweetgrass|a mothers work]
 
-This explains why young people of healthy nations are often very resilient and capable: instead of blindly obeying authority figures and tolerating meaningless or boring schoolwork, they're raised to take responsibility for themselves and others and they're only given meaningful work. When children are raised respectfully, at each stage of life they're ready for challenges that would seem unthinkable for most similar-aged children in unhealthy nations.[xxx-continuum concept|ch4]
+This explains why young people of healthy nations are often very resilient and capable: instead of blindly obeying authority figures and tolerating meaningless or boring schoolwork, they're raised to take responsibility for themselves and others and they're only given meaningful work. When children are raised respectfully, at each stage of life they're ready for challenges that would seem unthinkable for most similar-aged children in unhealthy nations.[xxx-continuum concept|growing up]
 
 When Jean Liedloff visited the Yequana, she wrote, "I found the complete absence of pressure by persuasion, by the imposition of one individual's will upon another, difficult to believe or understand, despite the Yequana's perseverance in showing me examples of it." She described how five Yequana men and a 10 year old boy joined her and other visitors on an expedition far from their village. After a disagreement, the men chose to stop supporting the expedition and one called to the boy, Anchu, saying, "Come along!" The boy decided to stay with the foreigners far from home, so he responded, "no." The adults just turned and left.[xxx-continuum concept|growing up]
 
@@ -230,8 +230,6 @@ It is critically important to choose for yourself what to believe. Ancient spiri
 Only by tapping into your own power to choose for yourself what to believe and what principles to uphold can you help build a healthy nation without these deep troubles.
 
 ### References
-
-[xxx-continuum concept|ch4]
 
 [xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 

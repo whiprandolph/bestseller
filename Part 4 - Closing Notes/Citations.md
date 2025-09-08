@@ -63,37 +63,40 @@
 <tr><td><a href="#cite_Chapter_2_23_src" id="cite_Chapter_2_23_dest" style="text-decoration:none">23</a>. (Linderman, 1932, 173)<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 3: Healthy Nations Share Three Core Spiritual Practices</b></td></tr><tr><td><a href="#cite_Chapter_3_1_src" id="cite_Chapter_3_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b, 1)<br/>
-</td><td><a href="#cite_Chapter_3_2_src" id="cite_Chapter_3_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+<tr><td><b>Chapter 3: Healthy Nations Share Three Core Spiritual Practices</b></td></tr><tr><td><a href="#cite_Chapter_3_1_src" id="cite_Chapter_3_1_dest" style="text-decoration:none">1</a>. (Young, n.d.-b)<br/>
+</td><td><a href="#cite_Chapter_3_2_src" id="cite_Chapter_3_2_dest" style="text-decoration:none">2</a>. (Young, n.d.-b, 1)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_3_src" id="cite_Chapter_3_3_dest" style="text-decoration:none">3</a>. (Kimmerer, 2013, "Skywoman Falling")<br/>
-</td><td><a href="#cite_Chapter_3_4_src" id="cite_Chapter_3_4_dest" style="text-decoration:none">4</a>. (Young, n.d.-a, 14)<br/>
+<tr><td><a href="#cite_Chapter_3_3_src" id="cite_Chapter_3_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td><a href="#cite_Chapter_3_4_src" id="cite_Chapter_3_4_dest" style="text-decoration:none">4</a>. (Kimmerer, 2013, "Skywoman Falling")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_5_src" id="cite_Chapter_3_5_dest" style="text-decoration:none">5</a>. (N. Basket, personal communication, August 5, 2023)<br/>
-</td><td><a href="#cite_Chapter_3_6_src" id="cite_Chapter_3_6_dest" style="text-decoration:none">6</a>. (Weston, 2017)<br/>
+<tr><td><a href="#cite_Chapter_3_5_src" id="cite_Chapter_3_5_dest" style="text-decoration:none">5</a>. (Young, n.d.-a, 14)<br/>
+</td><td><a href="#cite_Chapter_3_6_src" id="cite_Chapter_3_6_dest" style="text-decoration:none">6</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_7_src" id="cite_Chapter_3_7_dest" style="text-decoration:none">7</a>. (N. Basket, personal communication, August 5, 2023)<br/>
-</td><td><a href="#cite_Chapter_3_8_src" id="cite_Chapter_3_8_dest" style="text-decoration:none">8</a>. (Debunking the Idea of Protected Areas, 2023)<br/>
+<tr><td><a href="#cite_Chapter_3_7_src" id="cite_Chapter_3_7_dest" style="text-decoration:none">7</a>. (Weston, 2017)<br/>
+</td><td><a href="#cite_Chapter_3_8_src" id="cite_Chapter_3_8_dest" style="text-decoration:none">8</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_9_src" id="cite_Chapter_3_9_dest" style="text-decoration:none">9</a>. (Jenu Kuruba, n.d.)<br/>
-</td><td><a href="#cite_Chapter_3_10_src" id="cite_Chapter_3_10_dest" style="text-decoration:none">10</a>. (Gauthier & Pravettoni, 2016)<br/>
+<tr><td><a href="#cite_Chapter_3_9_src" id="cite_Chapter_3_9_dest" style="text-decoration:none">9</a>. (Debunking the Idea of Protected Areas, 2023)<br/>
+</td><td><a href="#cite_Chapter_3_10_src" id="cite_Chapter_3_10_dest" style="text-decoration:none">10</a>. (Jenu Kuruba, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_11_src" id="cite_Chapter_3_11_dest" style="text-decoration:none">11</a>. (Kenyon, 2020)<br/>
-</td><td><a href="#cite_Chapter_3_12_src" id="cite_Chapter_3_12_dest" style="text-decoration:none">12</a>. (Skerk, 2022)<br/>
+<tr><td><a href="#cite_Chapter_3_11_src" id="cite_Chapter_3_11_dest" style="text-decoration:none">11</a>. (Gauthier & Pravettoni, 2016)<br/>
+</td><td><a href="#cite_Chapter_3_12_src" id="cite_Chapter_3_12_dest" style="text-decoration:none">12</a>. (Kenyon, 2020)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_13_src" id="cite_Chapter_3_13_dest" style="text-decoration:none">13</a>. (Solon, 2017)<br/>
-</td><td><a href="#cite_Chapter_3_14_src" id="cite_Chapter_3_14_dest" style="text-decoration:none">14</a>. (Russia: Sakhalin Island Indigenous Peoples Protest Oil Development, 2005)<br/>
+<tr><td><a href="#cite_Chapter_3_13_src" id="cite_Chapter_3_13_dest" style="text-decoration:none">13</a>. (Skerk, 2022)<br/>
+</td><td><a href="#cite_Chapter_3_14_src" id="cite_Chapter_3_14_dest" style="text-decoration:none">14</a>. (Solon, 2017)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_3_15_src" id="cite_Chapter_3_15_dest" style="text-decoration:none">15</a>. (Kimmerer, 2013, "Allegiance to Gratitude")<br/>
-</td><td><a href="#cite_Chapter_3_16_src" id="cite_Chapter_3_16_dest" style="text-decoration:none">16</a>. (Kimmerer, 2013, "The Three Sisters")<br/>
+<tr><td><a href="#cite_Chapter_3_15_src" id="cite_Chapter_3_15_dest" style="text-decoration:none">15</a>. (Russia: Sakhalin Island Indigenous Peoples Protest Oil Development, 2005)<br/>
+</td><td><a href="#cite_Chapter_3_16_src" id="cite_Chapter_3_16_dest" style="text-decoration:none">16</a>. (Kimmerer, 2013, "Allegiance to Gratitude")<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_3_17_src" id="cite_Chapter_3_17_dest" style="text-decoration:none">17</a>. (Kimmerer, 2013, "The Three Sisters")<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 4: Imagine If Pervasive Generosity Was Normal</b></td></tr><tr><td><a href="#cite_Chapter_4_1_src" id="cite_Chapter_4_1_dest" style="text-decoration:none">1</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
 </td><td><a href="#cite_Chapter_4_2_src" id="cite_Chapter_4_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
@@ -134,7 +137,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_6_3_src" id="cite_Chapter_6_3_dest" style="text-decoration:none">3</a>. (Chinese City Kills Project after Protest, 2012)<br/>
-</td><td><a href="#cite_Chapter_6_4_src" id="cite_Chapter_6_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_6_4_src" id="cite_Chapter_6_4_dest" style="text-decoration:none">4</a>. (Sloan, 2020)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_6_5_src" id="cite_Chapter_6_5_dest" style="text-decoration:none">5</a>. (Cameron, 1981, 109)<br/>
@@ -264,35 +267,36 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_45_src" id="cite_Chapter_8_45_dest" style="text-decoration:none">45</a>. (Nelson, 2008, "A Democracy Based On Peace")<br/>
-</td><td><a href="#cite_Chapter_8_46_src" id="cite_Chapter_8_46_dest" style="text-decoration:none">46</a>. (Notes, 2005, 35)<br/>
+</td><td><a href="#cite_Chapter_8_46_src" id="cite_Chapter_8_46_dest" style="text-decoration:none">46</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_47_src" id="cite_Chapter_8_47_dest" style="text-decoration:none">47</a>. (Notes, 2005, 37)<br/>
-</td><td><a href="#cite_Chapter_8_48_src" id="cite_Chapter_8_48_dest" style="text-decoration:none">48</a>. (Notes, 2005, 39)<br/>
+<tr><td><a href="#cite_Chapter_8_47_src" id="cite_Chapter_8_47_dest" style="text-decoration:none">47</a>. (Notes, 2005, 35)<br/>
+</td><td><a href="#cite_Chapter_8_48_src" id="cite_Chapter_8_48_dest" style="text-decoration:none">48</a>. (Notes, 2005, 37)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_49_src" id="cite_Chapter_8_49_dest" style="text-decoration:none">49</a>. (Notes, 2005, 34)<br/>
-</td><td><a href="#cite_Chapter_8_50_src" id="cite_Chapter_8_50_dest" style="text-decoration:none">50</a>. (Notes, 2005, 104)<br/>
+<tr><td><a href="#cite_Chapter_8_49_src" id="cite_Chapter_8_49_dest" style="text-decoration:none">49</a>. (Notes, 2005, 39)<br/>
+</td><td><a href="#cite_Chapter_8_50_src" id="cite_Chapter_8_50_dest" style="text-decoration:none">50</a>. (Notes, 2005, 34)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_51_src" id="cite_Chapter_8_51_dest" style="text-decoration:none">51</a>. (Notes, 2005, 104)<br/>
-</td><td><a href="#cite_Chapter_8_52_src" id="cite_Chapter_8_52_dest" style="text-decoration:none">52</a>. (Notes, 2005, 38)<br/>
+</td><td><a href="#cite_Chapter_8_52_src" id="cite_Chapter_8_52_dest" style="text-decoration:none">52</a>. (Notes, 2005, 104)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_53_src" id="cite_Chapter_8_53_dest" style="text-decoration:none">53</a>. (Notes, 2005, 105)<br/>
-</td><td><a href="#cite_Chapter_8_54_src" id="cite_Chapter_8_54_dest" style="text-decoration:none">54</a>. (Notes, 2005, 38)<br/>
+<tr><td><a href="#cite_Chapter_8_53_src" id="cite_Chapter_8_53_dest" style="text-decoration:none">53</a>. (Notes, 2005, 38)<br/>
+</td><td><a href="#cite_Chapter_8_54_src" id="cite_Chapter_8_54_dest" style="text-decoration:none">54</a>. (Notes, 2005, 105)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_55_src" id="cite_Chapter_8_55_dest" style="text-decoration:none">55</a>. (Notes, 2005, 37)<br/>
-</td><td><a href="#cite_Chapter_8_56_src" id="cite_Chapter_8_56_dest" style="text-decoration:none">56</a>. (Notes, 2005, 34)<br/>
+<tr><td><a href="#cite_Chapter_8_55_src" id="cite_Chapter_8_55_dest" style="text-decoration:none">55</a>. (Notes, 2005, 38)<br/>
+</td><td><a href="#cite_Chapter_8_56_src" id="cite_Chapter_8_56_dest" style="text-decoration:none">56</a>. (Notes, 2005, 37)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_57_src" id="cite_Chapter_8_57_dest" style="text-decoration:none">57</a>. (Notes, 2005, 104)<br/>
-</td><td><a href="#cite_Chapter_8_58_src" id="cite_Chapter_8_58_dest" style="text-decoration:none">58</a>. (Utopia, 2024)<br/>
+<tr><td><a href="#cite_Chapter_8_57_src" id="cite_Chapter_8_57_dest" style="text-decoration:none">57</a>. (Notes, 2005, 34)<br/>
+</td><td><a href="#cite_Chapter_8_58_src" id="cite_Chapter_8_58_dest" style="text-decoration:none">58</a>. (Notes, 2005, 104)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_8_59_src" id="cite_Chapter_8_59_dest" style="text-decoration:none">59</a>. (Notes, 2005, 104)<br/>
-</td><td></td></tr>
+<tr><td><a href="#cite_Chapter_8_59_src" id="cite_Chapter_8_59_dest" style="text-decoration:none">59</a>. (Utopia, 2024)<br/>
+</td><td><a href="#cite_Chapter_8_60_src" id="cite_Chapter_8_60_dest" style="text-decoration:none">60</a>. (Notes, 2005, 104)<br/>
+</td></tr>
 
 <tr><td><b>Chapter 9: Why Do People Obey Corrupt Leaders?</b></td></tr><tr><td><a href="#cite_Chapter_9_1_src" id="cite_Chapter_9_1_dest" style="text-decoration:none">1</a>. (Stapley, 1977)<br/>
 </td><td><a href="#cite_Chapter_9_2_src" id="cite_Chapter_9_2_dest" style="text-decoration:none">2</a>. (Perla, 2022)<br/>
@@ -391,7 +395,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_49_src" id="cite_Chapter_9_49_dest" style="text-decoration:none">49</a>. (Kimmerer, 2013, "A Mother's Work")<br/>
-</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_9_50_src" id="cite_Chapter_9_50_dest" style="text-decoration:none">50</a>. (Liedloff, 2004, "Growing Up")<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_9_51_src" id="cite_Chapter_9_51_dest" style="text-decoration:none">51</a>. (Liedloff, 2004, "Growing Up")<br/>
@@ -581,49 +585,48 @@
 </td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 13: Why Are People's Standards So Low?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (author, date)<br/>
+<tr><td><b>Chapter 13: Why Are People's Standards So Low?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
+</td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (Linderman, 1932, 84)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_3_src" id="cite_Chapter_13_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_3_src" id="cite_Chapter_13_3_dest" style="text-decoration:none">3</a>. (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")<br/>
+</td><td><a href="#cite_Chapter_13_4_src" id="cite_Chapter_13_4_dest" style="text-decoration:none">4</a>. (Kimmerer, 2013, "Wisgaak Gokpenagen: A Black Ash Basket")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_5_src" id="cite_Chapter_13_5_dest" style="text-decoration:none">5</a>. (Brown Jr, 1988, 81)<br/>
+</td><td><a href="#cite_Chapter_13_6_src" id="cite_Chapter_13_6_dest" style="text-decoration:none">6</a>. (Prechtel, 1999, 99-100)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_7_src" id="cite_Chapter_13_7_dest" style="text-decoration:none">7</a>. (Cameron, 1981, 101-102)<br/>
+</td><td><a href="#cite_Chapter_13_8_src" id="cite_Chapter_13_8_dest" style="text-decoration:none">8</a>. (Ryan & Jethá, 2010, "Love, Lust, and Liberty at Lugu Lake")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_9_src" id="cite_Chapter_13_9_dest" style="text-decoration:none">9</a>. (Liedloff, 2004, "Growing Up")<br/>
+</td><td><a href="#cite_Chapter_13_10_src" id="cite_Chapter_13_10_dest" style="text-decoration:none">10</a>. (Ryan & Jethá, 2010, "Love, Lust, and Liberty at Lugu Lake")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_11_src" id="cite_Chapter_13_11_dest" style="text-decoration:none">11</a>. (Cox, 2019, "Use What You Got to Get What You Need")<br/>
+</td><td><a href="#cite_Chapter_13_12_src" id="cite_Chapter_13_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_13_src" id="cite_Chapter_13_13_dest" style="text-decoration:none">13</a>. (Thoreau, 2021, "Economy")<br/>
+</td><td><a href="#cite_Chapter_13_14_src" id="cite_Chapter_13_14_dest" style="text-decoration:none">14</a>. (Gibson, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_15_src" id="cite_Chapter_13_15_dest" style="text-decoration:none">15</a>. (Everyone Blames Me, 2017)<br/>
+</td><td><a href="#cite_Chapter_13_16_src" id="cite_Chapter_13_16_dest" style="text-decoration:none">16</a>. (Weiss, 2009)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_17_src" id="cite_Chapter_13_17_dest" style="text-decoration:none">17</a>. (Neihardt, 2014, "Walking the Black Road")<br/>
+</td><td><a href="#cite_Chapter_13_18_src" id="cite_Chapter_13_18_dest" style="text-decoration:none">18</a>. (Linderman, 1932, 22)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_13_19_src" id="cite_Chapter_13_19_dest" style="text-decoration:none">19</a>. (Grinnell, 2005, "The Attack on the Camp")<br/>
+</td><td><a href="#cite_Chapter_13_20_src" id="cite_Chapter_13_20_dest" style="text-decoration:none">20</a>. (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_13_22_src" id="cite_Chapter_13_22_dest" style="text-decoration:none">22</a>. (author, date)<br/>
-</td></tr>
+<tr><td><a href="#cite_Chapter_13_21_src" id="cite_Chapter_13_21_dest" style="text-decoration:none">21</a>. (Randolph, 2024)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 14: The Endless Predation Must End</b></td></tr><tr><td><a href="#cite_Chapter_14_1_src" id="cite_Chapter_14_1_dest" style="text-decoration:none">1</a>. (kswheeler, 2011)<br/>
 </td><td><a href="#cite_Chapter_14_2_src" id="cite_Chapter_14_2_dest" style="text-decoration:none">2</a>. (The Global Scale of Child Sexual Abuse in the Catholic Church, 2021)<br/>
@@ -646,7 +649,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_14_11_src" id="cite_Chapter_14_11_dest" style="text-decoration:none">11</a>. (Cameron, 1981, 73-74)<br/>
-</td><td><a href="#cite_Chapter_14_12_src" id="cite_Chapter_14_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_14_12_src" id="cite_Chapter_14_12_dest" style="text-decoration:none">12</a>. (Cameron, 1981, 79)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_14_13_src" id="cite_Chapter_14_13_dest" style="text-decoration:none">13</a>. (Jackson, 2016, "Vanishing Americans")<br/>
@@ -703,7 +706,7 @@
 </td><td><a href="#cite_Chapter_16_10_src" id="cite_Chapter_16_10_dest" style="text-decoration:none">10</a>. (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_16_11_src" id="cite_Chapter_16_11_dest" style="text-decoration:none">11</a>. (Messiah, n.d.)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Chapter 17: Build Spiritual Strength with Others</b></td></tr><tr><td><a href="#cite_Chapter_17_1_src" id="cite_Chapter_17_1_dest" style="text-decoration:none">1</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
@@ -723,7 +726,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_17_9_src" id="cite_Chapter_17_9_dest" style="text-decoration:none">9</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
-</td><td><a href="#cite_Chapter_17_10_src" id="cite_Chapter_17_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_17_10_src" id="cite_Chapter_17_10_dest" style="text-decoration:none">10</a>. (Archivo Histórico, n.d.)<br/>
 </td></tr>
 
 <tr><td><b>Chapter 18: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_18_1_src" id="cite_Chapter_18_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
@@ -740,11 +743,11 @@
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
-<tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)<br/>
-</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (Chinese City Kills Project after Protest, 2012)<br/>
+<tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (Cubillos, 2018)<br/>
+</td><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_2_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_2_dest" style="text-decoration:none">2</a>. (Hoshiko, 2012)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (author, date)<br/>
+<tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_3_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_3_dest" style="text-decoration:none">3</a>. (Sloan, 2020)<br/>
 </td><td></td></tr>
 
 </table><div style="break-after:page"></div>

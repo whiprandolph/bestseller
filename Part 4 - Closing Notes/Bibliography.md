@@ -26,12 +26,12 @@ Brown Jr, T. (2003). The Vision. One Spirit.
 Cameron, A. (1981). Daughters of Copper Woman. Press Gang Publishers.
 Cartwright, S. (1851). Report on the Diseases and Physical Peculiarities of the Negro Race. New Orleans Medical and Surgical Journal, 691–715.
 Catechism of the Catholic Church. (1997). Doubleday.
-Chinese city kills project after protest. (2012, July 28). CTV News. https://www.ctvnews.ca/world/chinese-city-kills-project-after-protest-1.896147
 Churchill, W. (1947, November 11). The Worst Form of Government. International Churchill Society. https://winstonchurchill.org/resources/quotes/the-worst-form-of-government/
 Conkar, Z. (2024, October 7). TRT Global—Repression and resistance: How Germany is stifling pro-Palestinian voices. TRT Global. https://trt.global/world/article/18216880
 Cook, J. (2020, September 2). For years, journalists cheered Assange’s abuse. Now they’ve paved his path to a US gulag. Jonathan Cook Blog. https://www.jonathan-cook.net/blog/2020-09-02/media-assange-persecution/
 Copp, T. (2023, October 13). Here’s what military assistance the US is providing Israel since Hamas assault. The Times of Israel. https://www.timesofisrael.com/heres-what-military-assistance-the-us-is-providing-israel-since-hamas-assault/
 Cox, D. (2019). Just Another Nigger. Heyday.
+Cubillos, A. (2018, November 21). Venezuela Student Protest. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=4216e2db097e4a4384950ed63e068a37&mediatype=photo
 Daly, J. (2004). The Watchful State. Northern Illinois University Press.
 Daniszewski, J. (2020, July 20). Why we will lowercase white. AP. https://blog.ap.org/announcements/why-we-will-lowercase-white
 Debunking the idea of Protected Areas. (2023, March 22). Community Networks Against Protected Areas. https://assets.survivalinternational.org/documents/2471/CNAPA_Concept_Note.docx
@@ -70,6 +70,7 @@ Hertzgerg, M. (2021, November 28). Stasi Tactics – Zersetzung. Max Hertzberg. 
 Hingley, R. (2021). The Russian Secret Police. Routledge.
 Ho-de-no-sau-nee-ga (Haudenosaunee). (n.d.). Native Land Digital. Retrieved July 2, 2024, from https://native-land.ca/maps/territories/haudenosauneega-confederacy/
 Hoover, J. E. (n.d.). The FBI Sets Goals for COINTELPRO. SHEC. Retrieved August 4, 2024, from https://shec.ashp.cuny.edu/items/show/814
+Hoshiko, E. (2012, July 28). APTOPIX China Protest Plant. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=2f230e39a6274de7aa94e6a5361be7cc&mediatype=photo
 Impact. (n.d.). Black Lives Matter Impact Report. Retrieved August 4, 2024, from https://impact.blacklivesmatter.com/
 Indigenous Clandestine Revolutionary Committee. (2005, June 20). On the Reasons for the General Red Alert (Google Translate, Trans.). EZLN. https://palabra.ezln.org.mx/comunicados/2005/2005_06_20_b.htm
 Interview with Mayor Ana María: About the atrocities and the dirty war of the federal government (Google Translate, Trans.). (1995, February 13). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1995/02/13/entrevista-a-la-mayor-ana-maria-sobre-las-barbaridades-y-la-guerra-sucia-del-gobierno-federal/
@@ -118,7 +119,6 @@ Morgan, T. (2018, March 22). The NRA Supported Gun Control When the Black Panthe
 Mujeres 45% de las bases zapatistas. (2011, November 30). Cimacnoticias.Com.Mx. https://cimacnoticias.com.mx/2003/11/19/mujeres-45-de-las-bases-zapatistas/
 Myers, I. (2025, March 18). EWG’s Dirty Dozen Guide to Food Chemicals: The top 12 to avoid | Environmental Working Group. EWG. https://www.ewg.org/consumer-guides/ewgs-dirty-dozen-guide-food-chemicals-top-12-avoid
 Nawawi. (n.d.). 40HadithNawawi: Hadith 13. 40HadithNawawi. Retrieved August 7, 2025, from https://40hadithnawawi.com/hadith/13-love-for-your-brother-what-you-love-for-yourself
-Neal, J. (2020, June 9). Pulaski native Dalton’s KSP Post 11 riot squad helps in Louisville. Commonwealth Journal. https://www.somerset-kentucky.com/kentucky/pulaski-native-daltons-ksp-post-11-riot-squad-helps-in-louisville/article_710b4ae6-aa93-11ea-b69d-ef60b5429a11.html
 Nelson, M. (Ed.). (2008). Original Instructions. Bear and Company.
 Nelson, S. (2023, May 24). IRS opened probe into Matt Taibbi’s taxes after Twitter dump. New York Post. https://nypost.com/2023/05/24/irs-opened-probe-into-matt-taibbis-taxes-after-twitter-dump/
 Ninth Part: The new structure of Zapastista Autonomy (Google Translate, Trans.). (2023, November 14). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/2023/11/13/ninth-part-the-new-structure-of-zapastista-autonomy/
@@ -137,7 +137,6 @@ Prescott, J. (1977). Child Abuse in America: Slaughter of the Innocents. Hustler
 Price, W. (1939). Nutrition and Physical Degeneration.
 Randolph, W. (2024). One Disease One Cure: Ending Our Multi-Millennia Catastrophe. Three Integrities Publishing. https://1disease-1cure.com/
 Revolutionary Agriculture Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/
-Riot police challenge Venezuelan students in Caracas on November 21, 2018. (2018, November 21). U.S. Embassy & Consulates in the United Kingdom. https://uk.usembassy.gov/f3c778611e8e1031c30d9e987cbd3a45/
 Rockhill, W. W. (1892). Udanavarga: A Collection of Verses from the Buddhist Canon. Routledge.
 Rodríguez, S. (1994, March 8). Comandanta Ramona y Mayor Ana María: Las demandas son las mismas de siempre: Justicia, tierras, trabajo, educación e igualdad para las mujeres. Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1994/03/07/comandanta-ramona-y-mayor-ana-maria-las-demandas-son-las-mismas-de-siempre-justicia-tierras-trabajo-educacion-e-igualdad-para-las-mujeres/
 Rong, J. (2008). Wolf Totem (H. Goldblatt, Trans.). Penguin Press.
@@ -148,6 +147,7 @@ Scahill, J. (2024, February 7). Netanyahu’s War on Truth. The Intercept. https
 Sharp, J. (2025). U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023. Congressional Research Service. https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.51.pdf
 “Sioux”/Lakota. (n.d.). Lakota Dakota Nakota Nation. Retrieved August 8, 2024, from https://lakotadakotanakotanation.org/sioux-lakota/
 Skerk, J. (2022, September 29). Rural Europe Takes Action | The Sámi Environmental Programme. Resilience. https://www.resilience.org/stories/2022-09-29/rural-europe-takes-action-the-sami-environmental-programme/
+Sloan, G. (2020, August 30). DC: Police Violently Push Protesters From Black Lives Matter. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=8a49947717c1441e9ad149e1c2d8faa6&mediatype=photo
 Smith, J. (2016). The Dame Janet Smith Review Report. https://downloads.bbci.co.uk/bbctrust/assets/files/pdf/our_work/dame_janet_smith_review/conclusions_summaries.pdf
 Solidarity protests with Palestinian people banned in at least 12 EU countries. (2024, April 24). Civicus. https://viewer.mapme.com/875ac156-c9a9-4664-a26a-fca8e96d0260
 Solomon, E. (2024, September 23). Israeli-Arab Girl, 12, Suspended From School After Empathizing With G…. Haaretz. https://www.haaretz.com/israel-news/2024-09-24/ty-article/.premium/israeli-arab-girl-12-suspended-from-school-after-empathizing-with-gazan-children/00000192-206a-dc44-affb-39fb8a800000

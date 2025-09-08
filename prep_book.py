@@ -59,8 +59,29 @@ BOOK_ADDED_STYLE_BASE = """
     color: black;
   }
   .rev-act {
-    background-color: #e6e6e6;
-    padding: 1em;
+    background-color: #e3e3e3;
+    padding: .75em;
+  }
+  .rev-act-first {
+    background-color: #e3e3e3;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .75em;
+  }
+  .rev-act-last {
+    background-color: #e3e3e3;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+  }
+  .rev-act-middle {
+    background-color: #e3e3e3;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .75em;
   }
   h1, h2, h3, h4, h5, h6 {
     margin-top: 1.2em;

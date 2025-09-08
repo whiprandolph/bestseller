@@ -38,7 +38,7 @@ On Mike's suggestion, I made sure to bring a large sack of goods with me as gift
 
 As I handed out the gifts, they seemed genuinely grateful, and no one asked for more. I felt happy to share but also sad that I didn't have more to give. 
 
-When it was time for me to go a week later, I did not want to say good-bye. All the Ashaninka I met seemed trustworthy, generous, capable, responsible, relaxed, joyful, and healthy -- not just one or two individuals, but everyone I found. They had no courts, no police, no prisons, and no government, though I did see people gathering in council on my last day as they discussed how to respond to Peruvians who were overfishing the nearby river.
+When it was time for me to go a week later, I did not want to say good-bye. All the Ashaninka I met seemed trustworthy, generous, capable, responsible, relaxed, joyful, and healthy -- not just one or two individuals, but everyone I found. They had no courts, no police, no prisons, and no corrupt government. I did see people gathering in council on my last day as they discussed how to respond to Peruvians who were overfishing the nearby river.
 
 ### Returning to the United States
 

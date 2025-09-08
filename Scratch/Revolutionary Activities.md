@@ -19,23 +19,23 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #4<br/>Give from gratitude</div>
+<b><div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #4<br/>Give from gratitude</div>
 </b><div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, lifting someone's spirits when they're feeling down, or helping them find a job. Practice feeling gratitude for what they've given you, or if they're a stranger, practice feeling thankful for what other strangers have given you, and give from that place of gratitude. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving just for the joy of it.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #5<br/>Give first</div>
-</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start that relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, or mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
+<b><div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #5<br/>Give first</div>
+</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Receive graciously to have reciprocity over time</div>
+<b><div class="rev-act-last"><div class="rev-act-header">Revolutionary Activity #6<br/>Receive graciously to have reciprocity over time</div>
 </b><div class="rev-act-body">"Trading" and "bartering" don't involve generosity because they are even exchanges in the moment. There are times for trading, but when you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing that gratitude and sense of indebtedness within you to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back to this person in reciprocity over time. If you also want to give the other person something, make it clear that you're also giving a gift and not making a trade.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Discover your own sacred gifts</div>
-</b><div class="rev-act-body">Did you know that each person -- including you -- has sacred gifts to share? There are many ways to find them. 1) You could take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity, and build on those things. 4) Ask people around you when they have noticed you being the most joyful and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep asking these questions over time.</div></div>
+<b><div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #7<br/>Discover your own sacred gifts</div>
+</b><div class="rev-act-body">Did you know that each person has sacred gifts to share -- including you? There are many ways to find them. 1) Take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity. 4) Ask your friends when they have noticed you being the most joyful and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep investigating over time.</div></div>
 
 
 
@@ -75,7 +75,7 @@
 ### 09 - Why Do People Obey Corrupt Leaders
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Choose what lessons you learn</div>
-</b><div class="rev-act-body">You have the power to choose what perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model. I kept this lesson, and I've learned much about bravery and generosity from him. I was also taught that I should be obedient to God and human authorities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
+</b><div class="rev-act-body">You have the power to choose which perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model. I kept this lesson, and I've learned much about bravery, generosity, and fasting from him. I was also taught that I should be obedient to God and human authorities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
 
 
 
@@ -179,7 +179,7 @@
 ### 17 - Build Spiritual Strength with Others
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
-</b><div class="rev-act-body">People have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
+</b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
 
 
 
