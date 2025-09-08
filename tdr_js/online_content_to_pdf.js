@@ -1,8 +1,11 @@
 
 const puppeteer = require('puppeteer');
-
+//function sleep(time) {
+//  return new Promise((resolve) => setTimeout(resolve, time));
+//}
 (async() => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({headless:true});
+  //await sleep(5000);
   const page = await browser.newPage();
   await page.goto('http://localhost:8000/book_online.html', {waitUntil: 'networkidle2'});
   await page.pdf({

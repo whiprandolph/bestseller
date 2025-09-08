@@ -1,4 +1,4 @@
-## Chapter 16: Cultivate Your Spiritual Strength
+## Chapter 16: Build Your Spiritual Strength
 
 So many aspects of our way of life in unhealthy nations keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are conditioned in countless ways about what to care about and what to ignore, and where to put our attention, time, and money. And so often in unhealthy nations, many "conventional" or "mainstream" values are somehow superficial or misguided.
 

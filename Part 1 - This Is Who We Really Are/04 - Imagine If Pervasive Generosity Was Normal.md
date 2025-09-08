@@ -1,6 +1,6 @@
 ## Chapter 4: Imagine If Pervasive Generosity Was Normal
 
-Take a moment and picture yourself living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself -- because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
+Picture yourself living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself, because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
 
 Hard to imagine, isn't it?
 
@@ -8,15 +8,15 @@ In the United States, like every unhealthy nation, people generally do have to f
 
 This drive to get more than we give (trying to "get" rich or trying to "get" ahead) is not our human nature. We are born naturally wanting to give and receive. However, an unnatural imbalance occurs in unhealthy nations, where the economy rewards selfishness and people who don't make enough money must live with sickness, hunger, homelessness, isolation, shame, and worse.
 
-When you live in a nation where few people care if you eat tonight or what happens to you tomorrow, the self-centered desire to take as much as possible (i.e. to get rich) is naturally pervasive -- and as a result, it seems quite normal.
+When you live in a nation where few people care if you eat tonight or what happens to you tomorrow, the self-centered desire to take as much as possible (i.e. to get rich) is naturally pervasive, and as a result, it seems quite normal.
 
 But is it?
 
-Every healthy nation I've studied strongly promotes generosity (giving) and reciprocity (sharing with others who share with me) as a normal way of life. The following stories show what life would be like if, instead of default selfishness, generosity and reciprocity were the norm.
+Every healthy nation I've studied strongly promotes generosity (giving) and reciprocity (sharing with others who share with me) as a normal way of life. The following stories show what life is like when, instead of selfishness, generosity and reciprocity are normal.
 
 ### Generosity from Birth
 
-Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, first game killed, and other accomplishments, and at each feast the parents gave away as much as they could for the benefit of those who had little.[xxx-indian heroes and great chieftains|crazy horse]
+Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, and first game killed. At each feast the parents gave away as much as they could for the benefit of those who had little.[xxx-indian heroes and great chieftains|crazy horse]
 
 Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to _be brave as he faced the consequences of his generosity._ She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
 
@@ -40,13 +40,13 @@ Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left
 
 I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 
-How do healthy nations of all kinds do so well at avoiding this sort of hurtful selfishness?
+How do healthy nations of all kinds avoid hurtful selfishness?
 
 ### Deliberately Avoiding Selfishness at All Costs
 
 In every healthy nation I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-Even in healthy nations, someone may occasionally not get along with others, or start to feel disconnected or untrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
+Even in healthy nations, someone may occasionally not get along with others, or start to feel disconnected or distrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
 
 Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.[xxx-braiding sweetgrass|windigo footprints]
 
@@ -68,15 +68,13 @@ Over time I got jaded. It seemed like corruption is just part of human nature, a
 
 For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" in school or on TV who had any idea what one looked like either.
 
-Anybody can see the greed and discrimination, and there are many opinions about what to do, but without knowing what healthy nations are like, it's all just speculation.
+Anybody can see the greed and discrimination, and there are many opinions about how to stop it, but without knowing what healthy nations are like, it's all just speculation.
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 
 This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, are trying to diagnose social and political problems without knowing what a healthy nation even looks like. People speculate and argue endlessly, and the political troubles just continue.
 
-But we don't need to speculate about how to deal with our biggest political problems.
-
-Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
+But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
 
 But first, I had to answer a big question: why doesn't everybody live in healthy nations now?
 

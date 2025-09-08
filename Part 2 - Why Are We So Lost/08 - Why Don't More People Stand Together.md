@@ -158,7 +158,7 @@ Not everyone will want to walk this path, but you can find people who do. When e
 
 ### References
 
-[xxx-encyclopedia haudenosaunee|p265]
+[xxx-encyclopedia haudenosaunee|p265]-aaa (Johansen & Mann, 2000, 265)
 
 [xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
 

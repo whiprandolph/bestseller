@@ -8,7 +8,7 @@ Troubles like corruption, greed and discrimination are merely _symptoms_ of a _r
 
 Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement in human history has ever ended racism in their unhealthy nation, and no anti-sexism movement has ended sexism. As long a person or group rules your nation, they will make sure these troubles continue.
 
-But there is a cure to this one disease and all its symptoms: create a new healthy nation where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account. Some people will not want to walk this path, but many will.
+But there is a cure to this cultural disease and all its symptoms: create a new healthy nation where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account. Some people will not want to walk this path, but many will.
 
 This path starts with you. Learn to hold yourself to a high standard of integrity, generosity, and all the other beautiful qualities in this book. Make amazing friendships with others who are also committed to creating a respectful way of life, and form healthy communities where each person holds themselves and others to a high standard of excellent behavior, collectively creating your own law based on kindness, integrity, respect for the Earth, and pervasive justice.
 

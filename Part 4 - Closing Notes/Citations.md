@@ -267,7 +267,7 @@
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_45_src" id="cite_Chapter_8_45_dest" style="text-decoration:none">45</a>. (Nelson, 2008, "A Democracy Based On Peace")<br/>
-</td><td><a href="#cite_Chapter_8_46_src" id="cite_Chapter_8_46_dest" style="text-decoration:none">46</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_8_46_src" id="cite_Chapter_8_46_dest" style="text-decoration:none">46</a>. (Johansen & Mann, 2000, 265)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_8_47_src" id="cite_Chapter_8_47_dest" style="text-decoration:none">47</a>. (Notes, 2005, 35)<br/>
@@ -686,7 +686,7 @@
 <tr><td><a href="#cite_Chapter_15_3_src" id="cite_Chapter_15_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 16: Cultivate Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
+<tr><td><b>Chapter 16: Build Your Spiritual Strength</b></td></tr><tr><td><a href="#cite_Chapter_16_1_src" id="cite_Chapter_16_1_dest" style="text-decoration:none">1</a>. (Cox, 2019, "Just Another Nigger")<br/>
 </td><td><a href="#cite_Chapter_16_2_src" id="cite_Chapter_16_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "Ethiopian Women: From Passive Resources to Active Citizens")<br/>
 </td></tr>
 
@@ -713,21 +713,24 @@
 </td><td><a href="#cite_Chapter_17_2_src" id="cite_Chapter_17_2_dest" style="text-decoration:none">2</a>. (Notes, 2005, 38)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_17_3_src" id="cite_Chapter_17_3_dest" style="text-decoration:none">3</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
-</td><td><a href="#cite_Chapter_17_4_src" id="cite_Chapter_17_4_dest" style="text-decoration:none">4</a>. (Padierna Jiménez, 2013)<br/>
+<tr><td><a href="#cite_Chapter_17_3_src" id="cite_Chapter_17_3_dest" style="text-decoration:none">3</a>. (Notes, 2005, 38)<br/>
+</td><td><a href="#cite_Chapter_17_4_src" id="cite_Chapter_17_4_dest" style="text-decoration:none">4</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_17_5_src" id="cite_Chapter_17_5_dest" style="text-decoration:none">5</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
-</td><td><a href="#cite_Chapter_17_6_src" id="cite_Chapter_17_6_dest" style="text-decoration:none">6</a>. (Marcos, 2014)<br/>
+<tr><td><a href="#cite_Chapter_17_5_src" id="cite_Chapter_17_5_dest" style="text-decoration:none">5</a>. (Padierna Jiménez, 2013)<br/>
+</td><td><a href="#cite_Chapter_17_6_src" id="cite_Chapter_17_6_dest" style="text-decoration:none">6</a>. ("Everyday Heroism Makes the Sparkles Possible (Google Translate, Trans.)," 1994)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_17_7_src" id="cite_Chapter_17_7_dest" style="text-decoration:none">7</a>. (Rodríguez, 1994)<br/>
-</td><td><a href="#cite_Chapter_17_8_src" id="cite_Chapter_17_8_dest" style="text-decoration:none">8</a>. (Marcos, 2014)<br/>
+<tr><td><a href="#cite_Chapter_17_7_src" id="cite_Chapter_17_7_dest" style="text-decoration:none">7</a>. (Marcos, 2014)<br/>
+</td><td><a href="#cite_Chapter_17_8_src" id="cite_Chapter_17_8_dest" style="text-decoration:none">8</a>. (Rodríguez, 1994)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_17_9_src" id="cite_Chapter_17_9_dest" style="text-decoration:none">9</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
-</td><td><a href="#cite_Chapter_17_10_src" id="cite_Chapter_17_10_dest" style="text-decoration:none">10</a>. (Archivo Histórico, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_17_9_src" id="cite_Chapter_17_9_dest" style="text-decoration:none">9</a>. (Marcos, 2014)<br/>
+</td><td><a href="#cite_Chapter_17_10_src" id="cite_Chapter_17_10_dest" style="text-decoration:none">10</a>. ("Ninth Part: The New Structure of Zapastista Autonomy (Google Translate, Trans.)," 2023)<br/>
 </td></tr>
+
+<tr><td><a href="#cite_Chapter_17_11_src" id="cite_Chapter_17_11_dest" style="text-decoration:none">11</a>. (Archivo Histórico, n.d.)<br/>
+</td><td></td></tr>
 
 <tr><td><b>Chapter 18: The Deepest Revolution</b></td></tr><tr><td><a href="#cite_Chapter_18_1_src" id="cite_Chapter_18_1_dest" style="text-decoration:none">1</a>. (King Jr, 1968)<br/>
 </td><td></td></tr>

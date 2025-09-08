@@ -149,7 +149,7 @@
 
 
 
-### 16 - Cultivate Your Spiritual Strength
+### 16 - Build Your Spiritual Strength
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Release what isn't working</div>
 </b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
@@ -179,7 +179,17 @@
 ### 17 - Build Spiritual Strength with Others
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
-</b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way with others to give back to the nonhumans who give us humans so much.</div></div>
+</b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want to have</div>
+</b><div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high expectations and then meet them, this can create a deep trust faster than just "letting the relationship happen."</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>What does your path back to grace look like?</div>
+</b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. What words would you need to hear from them, and what actions would you need to see, for you to begin trusting them again? If you were in their shoes, and you realized you'd made a mistake, what would you say or do to regain people's trust?</div></div>
 
 
 

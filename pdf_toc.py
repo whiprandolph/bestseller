@@ -99,7 +99,7 @@ def verify(toc_data, pdf, phys):
     'chap2':11,
     'chap8':62,
     'chap15':155,
-    'page_count':202,
+    'page_count':204,
   }
   online_checks = {
     'chap2':11,
