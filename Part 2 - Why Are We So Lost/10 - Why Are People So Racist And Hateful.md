@@ -1,4 +1,4 @@
-## Chapter 10: Why Are People So Racist And Hateful?
+## Chapter 10: Why Are People So Racist and Hateful?
 
 Many people born and raised in unhealthy nations seem to think that humans are naturally prone to be racist, sexist, and even hateful. Or at least some are.
 

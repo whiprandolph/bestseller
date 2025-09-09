@@ -1,6 +1,6 @@
-## Chapter 4: Imagine If Pervasive Generosity Was Normal
+## Chapter 4: Imagine If Generosity Was Normal
 
-Picture yourself living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person, young or old, has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of drought, famine, or war, you won't need to fend for yourself, because you live in a world where people take care of each other in times of trouble instead of thinking only of themselves, or trying to make a buck off of it.
+Picture living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of scarcity, or war, you won't need to fend for yourself, because you live in a world where people take care of each other instead of thinking only of themselves, or taking advantage of their neighbors.
 
 Hard to imagine, isn't it?
 
@@ -36,7 +36,7 @@ Growing up in a Christian family, I learned about Jesus Christ's extreme generos
 
 Nancy Basket described one way that Cherokee women traditionally redistributed goods. In one ceremony, all the ladies would honor the oldest woman in town by bringing her gifts. They knew she didn't need all the stuff, but they trusted that she would know where the goods needed to go. This old woman would then distribute the gifts to whomever needed them the most. This is one way that the Cherokee moved things from the people who had them to the people who most needed them.[xxx-basket interview]
 
-Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply the norm.[xxx-commodity exchange and subordination]
+Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply normal.[xxx-commodity exchange and subordination]
 
 I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 
@@ -64,22 +64,22 @@ I started life bright and hopeful, thinking that things in the United States wer
 
 I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy nation, from Peru to North Korea to Russia, similar to the USA.
 
-Over time I got jaded. It seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these hurtful troubles aren't inevitable. These stories showed me that it really is possible to live in a beautiful way with other people, not just within a nuclear family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
+Over time I got jaded. It seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories showed me that it really is possible to live in a beautiful way with other people, not just in a family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
 
-For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" in school or on TV who had any idea what one looked like either.
+For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" who had any idea either.
 
-Anybody can see the greed and discrimination, and there are many opinions about how to stop it, but without knowing what healthy nations are like, it's all just speculation.
+Anybody can see the problems and have opinions about what to do, but without knowing what healthy nations are like, it's just speculation.
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 
-This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, are trying to diagnose social and political problems without knowing what a healthy nation even looks like. People speculate and argue endlessly, and the political troubles just continue.
+This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, try to diagnose social and political problems without knowing what healthy nations are even like. People argue endlessly, and the political troubles just continue.
 
-But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see an effective path to creating whole nations where respect is simply normal.
+But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see a real path to creating whole nations where respect is simply normal.
 
 But first, I had to answer a big question: why doesn't everybody live in healthy nations now?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Join or create a sharing group</div>
-<div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy nations, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
+<div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 ### References
 

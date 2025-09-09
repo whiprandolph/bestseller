@@ -88,16 +88,16 @@ BOOK_ADDED_STYLE_BASE = """
   }
   h1 {
     /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */
-    font-size: 1.17em;
+    font-size: 1.1em;
   }
   h2 {
-    font-size: 1.17em;
+    font-size: 1.1em;
   }
   h3 {
-    font-size: 1em;
+    font-size: .9em;
   }
   h4 {
-    font-size: 0.83em;
+    font-size: 0.8em;
   }
   .rev-act-header {
     text-align: center;

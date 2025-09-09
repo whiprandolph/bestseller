@@ -52,9 +52,9 @@ Taking a stand when someone misbehaves is often not "nice" or comfortable. You m
 
 High standards are not optional. You will not have a healthy community of deep trust unless you have high standards for all these beautiful qualities. Countless people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?**
 
-Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, or take a stand if someone is disrespected (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that others will share and take care of each other even in hard times (generosity). Trust that people will protect each other in dangerous moments (bravery and selfless violence).**
+Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, or take a stand if someone is disrespected (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that others will share and take care of each other even in hard times (generosity). Trust that others will see them and know them (deep awareness). Trust that people will protect each other in dangerous moments (bravery and selfless violence).**
 
-If you don't hold each other to high standards in all these areas, you will not have deep trust, and your community will become a collection of neighbors. To keep a community healthy, you must confront inappropriate behavior, either supporting someone in their personal growth or asking them to leave if they refuse to grow.**
+If your community doesn't hold people to high standards in all these areas, it will not have deep trust, and it will become a collection of neighbors. To keep a community healthy, you must confront inappropriate behavior, either supporting someone in their personal growth or asking them to leave if they refuse to grow.**
 
 Recognize what differences you can tolerate and which you cannot. Differences in things like clothing, language, skin color, and sexuality can all be tolerated or even celebrated in a healthy community. What cannot be tolerated are the hurtful qualities described here, including low integrity, cowardice, and selfishness.**
 
@@ -114,7 +114,7 @@ Over time if we can form enough healthy communities, someday they may unite to f
 So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want to have</div>
-<div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high expectations and then meet them, this can create a deep trust faster than just "letting the relationship happen."</div></div>
+<div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 ### Hold Good Boundaries to Keep Selfishness Out
 
@@ -124,7 +124,7 @@ This is because people in unhealthy nations are not allowed to set the boundarie
 
 For many people, selfishness seems normal, but it is a poison for healthy communities and nations. To avoid selfishness, your community must learn to hold good boundaries too.
 
-Many people are not ready to live in healthy communities for various reasons. Some people won't see the value in them. Infiltrators will pretend to want community but actually try to sabotage it. Others will want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they change their ways.
+Many people are not ready to live in healthy communities for various reasons. Some people won't see the value in them. Infiltrators will pretend to want community but actually try to sabotage it. Others want community but aren't really committed to the depth of personal growth needed to show up in a good way. These people need to be prevented from joining the community, or evicted if they are allowed in, at least until they change their ways.
 
 Other people truly want to live in a healthy community, but they've learned bad habits and sometimes they act hurtfully. But they are committed to personal growth, and when they are approached respectfully they change their ways and show up better.
 
@@ -132,13 +132,13 @@ Some of the deepest work of building healthy communities is learning when to for
 
 If you don't hold boundaries and just let anyone participate, selfish people will push out the generous ones, the dishonest people will push out the honest ones, and the community will not last. I have seen this many times.
 
-Also, if you commonly evict someone for any thoughtless act or momentary subconscious selfishness, then people will feel vulnerable and afraid to make a mistake and the community will still not last.
+Also, if you commonly evict someone for any thoughtless act or momentary subconscious selfishness, then people will feel vulnerable and afraid to make mistakes and the community still won't last.
 
 It must be ok to make a mistake and trust that people know you're willing to learn and make amends. At the same time it is important to have high standards of behavior that everybody is continuously striving to meet, and if someone isn't actually committed to those high standards, they must leave for the good of the community.
 
 As you build your community, you will encounter people who lie or break a promise, and you must choose whether to trust them again. A crucial question to answer is this: "Is the person clearly committed to personal growth so that, if they are shown their hurtful behavior and how to show up better, they will grow from it and not make the same mistake again?"
 
-The willingness to acknowledge one's mistakes and grow from them lets a person cultivate deep integrity.**
+A person doesn't need to be "perfect" or never make mistakes in order to be trustworthy. The willingness to consistently acknowledge one's mistakes and grow from them lets a person cultivate deep integrity and become very trustworthy.**
 
 If someone makes a mistake and you respectfully confront them, what happens? If they make excuses or attack you, then hold a strong boundary and refuse to trust them. If they acknowledge their mistake, apologize, make up for any harm done, and truly commit to doing better, then you may find that you're willing to trust them, perhaps even more than before. When this kind of counseling goes well, it helps both you and the other person cultivate a deeper self-awareness and integrity, and builds mutual trust that you can work through troubles when they arise.
 
@@ -158,7 +158,7 @@ Even the Zapatistas make mistakes. Major Moisés described their self-governance
 
 This is why it's so important to cultivate dignity together. Making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility. You will also make mistakes as you build a healthy community.
 
-So commit to that path of deep spiritual growth with others. Expect that mistakes will happen, and learn to grow from them and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your community.
+So commit to that path of deep spiritual growth with others. Expect that mistakes will happen, and learn to grow and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your community.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>What does your path back to grace look like?</div>
 <div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. What words would you need to hear from them, and what actions would you need to see, for you to begin trusting them again? If you were in their shoes, and you realized you'd made a mistake, what would you say or do to regain people's trust?</div></div>
@@ -177,9 +177,9 @@ Every person in every unhealthy nation has ancestors who lived in healthy nation
 
 At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. It feels so incredibly wonderful because _this is who we really are._**
 
-Each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation.**
+Each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation. It's our human nature to live in healthy nations embracing these qualities. "Human nature" describes how humans live when we can choose how to live, not how people behave when they're abused, threatened, chronically insecure, and isolated, and unable to live in a deeply satisfying way.**
 
-So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
+So spread the good news! Healthy nations do exist, and for those of us trapped in unhealthy nations, it doesn't need to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth. Tell other people, or share this book which is free to copy and download so that the good news is easily spread.**
 
 Perhaps you will someday live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 

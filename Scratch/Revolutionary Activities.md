@@ -42,7 +42,7 @@
 ### 04 - Imagine If Pervasive Generosity Was Normal
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Join or create a sharing group</div>
-</b><div class="rev-act-body">Imagining nation-wide generosity can be hard in unhealthy nations, but we each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
+</b><div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-### 10 - Why Are People So Racist And Hateful
+### 10 - Why Are People So Racist and Hateful
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Protect yourself from adopting racist or hateful beliefs</div>
 </b><div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you know someone from that group that you admire, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, go to the library and look for stories there. If you live in the United States, I suggest finding someone from Russia, Iran or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working in a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of countless people.[xxx-arkhipov]<br/><br/>Finding a person to learn from does not mean you need to support any of these countries' governments. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're just people too, probably stuck in an unhealthy nation like you.</div></div>
@@ -118,7 +118,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
-</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Do what you can to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
+</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
 
 
 
@@ -184,7 +184,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want to have</div>
-</b><div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high expectations and then meet them, this can create a deep trust faster than just "letting the relationship happen."</div></div>
+</b><div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 
 

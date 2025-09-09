@@ -97,9 +97,9 @@ def verify(toc_data, pdf, phys):
     return
   phys_checks = {
     'chap2':11,
-    'chap8':62,
-    'chap15':155,
-    'page_count':204,
+    'chap8':61,
+    'chap15':154,
+    'page_count':202,
   }
   online_checks = {
     'chap2':11,
@@ -202,13 +202,15 @@ def sample_pdf(book_pdf_path):
   part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_3_path = book_pdf_path + " - part 3 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  brian_part_3_path = book_pdf_path + " - part 3 %s Brian.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  chap_13_path = book_pdf_path + " - chap 13 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
 
   chapter_9_path = book_pdf_path + " - chapter 9.pdf"
 
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
-  part_two.append(book_pdf_path, pages=PageRange("42:130"))
+  part_two.append(book_pdf_path, pages=PageRange("41:144"))
   part_two.write(part_two_path)
   part_two.close()
 
@@ -216,11 +218,24 @@ def sample_pdf(book_pdf_path):
   try:
     assert "Table of Contents" in part_two_reader.pages[0].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ToC)"
     assert "Why Are We So Lost" in part_two_reader.pages[1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (title page)"
-    assert "paths to creating new" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
+    assert "paths to creating a new" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()
     a = 4 
+
+  chap_13 = PdfWriter()
+  chap_13.append(book_pdf_path, pages=PageRange("117:132"))
+  chap_13.write(chap_13_path)
+  chap_13.close()
+
+  brian = PdfWriter()
+  brian.append(book_pdf_path, pages=PageRange("1"))
+  brian.append(book_pdf_path, pages=PageRange("117:132"))
+  brian.append(book_pdf_path, pages=PageRange("144:184"))
+  brian.write(brian_part_3_path)
+  brian.close()
+
 
   part_3 = PdfWriter()
   part_3.append(book_pdf_path, pages=PageRange("1"))

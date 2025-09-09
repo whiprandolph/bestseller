@@ -1,6 +1,6 @@
 ## Chapter 14: The Endless Predation Must End
 
-Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
+Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." How do you feel reading that? When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
 
 How can well-off, even middle- or upper-class people be prisoners?
 

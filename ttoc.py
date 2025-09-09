@@ -61,7 +61,7 @@ def rev_act_count_fixup(md_path):
                    had_rev_act_fixup = True
                 line_list.append(reassembled_line)
                 rev_act_list.append("".join(("<b>%s</b>" % file_lines[idx], file_lines[idx+1] + "\n")))
-                sheet_output = "%s, %s, %s\n" % (os.path.basename(md_path).strip(".md"), REV_ACT_COUNTER, rest_of_line.strip("</div>\n"))
+                sheet_output = "%s, %s, %s\n" % (os.path.basename(md_path).strip(".md"), REV_ACT_COUNTER, rest_of_line.strip().replace("</div>",""))
                 open(rev_act_sheet_path, 'a', encoding='utf-8').write(sheet_output)
                 REV_ACT_COUNTER += 1
             elif 'rev-act\"' in line:

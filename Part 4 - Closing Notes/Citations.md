@@ -98,7 +98,7 @@
 <tr><td><a href="#cite_Chapter_3_17_src" id="cite_Chapter_3_17_dest" style="text-decoration:none">17</a>. (Kimmerer, 2013, "The Three Sisters")<br/>
 </td><td></td></tr>
 
-<tr><td><b>Chapter 4: Imagine If Pervasive Generosity Was Normal</b></td></tr><tr><td><a href="#cite_Chapter_4_1_src" id="cite_Chapter_4_1_dest" style="text-decoration:none">1</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
+<tr><td><b>Chapter 4: Imagine If Generosity Was Normal</b></td></tr><tr><td><a href="#cite_Chapter_4_1_src" id="cite_Chapter_4_1_dest" style="text-decoration:none">1</a>. (Eastman (Ohiyesa), 2013, "Crazy Horse")<br/>
 </td><td><a href="#cite_Chapter_4_2_src" id="cite_Chapter_4_2_dest" style="text-decoration:none">2</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td></tr>
 
@@ -426,7 +426,7 @@
 </td><td><a href="#cite_Chapter_9_64_src" id="cite_Chapter_9_64_dest" style="text-decoration:none">64</a>. (Hoover, n.d.)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 10: Why Are People So Racist And Hateful?</b></td></tr><tr><td><a href="#cite_Chapter_10_1_src" id="cite_Chapter_10_1_dest" style="text-decoration:none">1</a>. (Cartwright, 1851)<br/>
+<tr><td><b>Chapter 10: Why Are People So Racist and Hateful?</b></td></tr><tr><td><a href="#cite_Chapter_10_1_src" id="cite_Chapter_10_1_dest" style="text-decoration:none">1</a>. (Cartwright, 1851)<br/>
 </td><td><a href="#cite_Chapter_10_2_src" id="cite_Chapter_10_2_dest" style="text-decoration:none">2</a>. (Bradford, 2020)<br/>
 </td></tr>
 
@@ -739,11 +739,7 @@
 </td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_2_src" id="cite_Important_Notes_on_Sensitive_Topics_2_dest" style="text-decoration:none">2</a>. (Prechtel, 1999, 209)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_3_src" id="cite_Important_Notes_on_Sensitive_Topics_3_dest" style="text-decoration:none">3</a>. ("Sioux"/Lakota, n.d.)<br/>
-</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_4_src" id="cite_Important_Notes_on_Sensitive_Topics_4_dest" style="text-decoration:none">4</a>. (Standing Rock Sioux Reservation, n.d.)<br/>
-</td></tr>
-
-<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_3_src" id="cite_Important_Notes_on_Sensitive_Topics_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
 </td><td></td></tr>
 
 <tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (Cubillos, 2018)<br/>

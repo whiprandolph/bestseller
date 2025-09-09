@@ -17,7 +17,7 @@ chapters = {
     (3, 1, "Why Are People So Selfish.md"),
     (2, 1, "Why Don't More People Stand Together.md"),
     (1, 1, "Why Do People Obey Corrupt Leaders.md"),
-    (3, 1, "Why Are People So Racist And Hateful.md"),
+    (3, 1, "Why Are People So Racist and Hateful.md"),
     (3, 1, "How Can Whole Nations Embrace Awareness and Unity.md"),
     (3, 1, "Selfish Violence vs Selfless Violence.md"),
     (3, 1, "Why Are People's Standards So Low.md"),
