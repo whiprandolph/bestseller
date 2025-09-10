@@ -7,7 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
-SAMPLE = False
+SAMPLE = True
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
@@ -99,7 +99,7 @@ def verify(toc_data, pdf, phys):
     'chap2':11,
     'chap8':61,
     'chap15':154,
-    'page_count':202,
+    'page_count':201,
   }
   online_checks = {
     'chap2':11,

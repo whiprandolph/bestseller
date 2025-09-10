@@ -1,4 +1,4 @@
-## Chapter 13: Why Are People's Standards So Low?
+## Chapter 13: Can Whole Nations have High Standards?
 
 Authorities always encourage conquered people to accept their own submissive obedience as legitimate and normal. When people finally succumb to this mindset, they stop expecting much of themselves or others. People may not expect life to be deeply meaningful, don't trust others, or learn to focus mostly on themselves or pleasing others instead of standing for what's right. People may engage in superficial or wishful thinking, and even adopt the ideologies of their abusers.
 
@@ -6,7 +6,7 @@ The consequences are devastating. All manner of systemic problems take hold, as 
 
 _A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But when people are forbidden from standing for justice (because only the police may enforce the law, Chapter 6), and solidarity is continually sabotaged, making it hard to act in service (Chapter 8), deep integrity becomes rare. In fact, in unhealthy nations, low integrity, cowardice, low awareness and mutual understanding, superficiality, and low self-worth become common.
 
-When people accept their unhealthy nation as "just the way life is," they also wind up accepting all these terrible troubles as tragic but inevitable. Troubles like discrimination, greed, corruption, cowardice, superficiality, low integrity start to seem normal. People can have low expectations or low standards for themselves and others, not expecting deep integrity or generosity from anybody.
+When people accept their unhealthy nation as "just the way life is," they also wind up accepting all these terrible troubles as tragic but inevitable. Troubles like discrimination, greed, corruption, cowardice, superficiality, and low integrity start to seem normal. People can have low expectations or low standards for themselves and others, not expecting deep integrity or generosity from anybody.
 
 There is good news, though. It's possible to live without troubles like discrimination and corruption, just like it's possible to live in a nation where everyone embraces integrity, bravery, and generosity, so that neighbors can deeply trust each other. Stories of healthy nations living in traditional times show how high our standards can be, and how low our standards currently are.
 
@@ -56,7 +56,7 @@ Adults' treatment of children and young adults offers many striking examples of 
 
 Healthy nations show how incredibly capable and confident children and young adults can be, and how teenage awkwardness and rebelliousness are merely symptoms of living in unhealthy nations.
 
-Martin Prechtel describes how, among the Tzutujil Maya, both boys and girls were sufficiently mature and skilled to contribute to the family by the age of 12, carrying at least their own weight or more.[xxx-secrets of the talking jaguar|p99-100]
+Martín Prechtel describes how, among the Tzutujil Maya, both boys and girls were sufficiently mature and skilled to contribute to the family by the age of 12, carrying at least their own weight or more.[xxx-secrets of the talking jaguar|p99-100]
 
 Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. As one Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young lady would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." When children were raised with meaningful mentorship every day, they were ready for adulthood when the time came and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
 
@@ -93,7 +93,7 @@ For example, black people and women were both treated abominably in the United S
 
 Women and black people have essentially been offered the same deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have positions of wealth and influence in your corrupt society. Plenty of women and black people have taken this deal, just like plenty of white men have taken it for centuries. Of course, many female and black spiritual leaders had to be killed or corrupted to achieve this result.
 
-And since the United States remains an unhealthy nation, and every unhealthy nation _always_ has racism and sexism, these ancient forms of discrimination persist today, as discussed in Chapter 10. As long as people accept their submissive obedience as normal, they will have low standards, even for liberation movements.
+And since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these ancient forms of discrimination persist today, as discussed in Chapter 10. As long as people accept their submissive obedience as normal, they will have low standards, even for liberation movements.
 
 Instead of seeking real freedom, authorities in unhealthy nations trick people into thinking that "freedom" means being able to do whatever you want without financial restraint, and so the way to become free is to get rich. But this is the faux-freedom of kings who don't care about anyone.
 
@@ -121,7 +121,7 @@ Of course, women can set boundaries and protect their people too. And yet, when 
 
 People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this, meaning _it is illegal to be a good man in an unhealthy nation._ Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or avoid reflecting on their meaningless life with endless distractions.
 
-Boys and men are often held to very low standards, and one classic example is the phrase "boys will be boys." In India[xxx-hrw everyone blames me], the United States[xxx-boys will be boys], and other unhealthy nations around the world, authorities often make excuses for men who sexually assault women with some variation of "boys will be boys," as if sexual assault were normal, expected masculine behavior rather than a sign of severe emotional and spiritual disturbances.
+Boys and men are often held to very low standards, and one classic example is the phrase "boys will be boys." In India[xxx-hrw everyone blames me], the United States[xxx-boys will be boys], and other unhealthy nations around the world, authorities and even many victims often make excuses for men who sexually assault women with some variation of "boys will be boys," as if sexual assault were normal masculine behavior rather than a sign of severe emotional and spiritual disturbances.
 
 Healthy nations show how people can have a way of life where men consistently show deep integrity and bravery, holding each other to very high standards.
 
@@ -135,7 +135,7 @@ Many stories from the Lakota also describe women inspiring their men to be brave
 
 Of course, women can make fearsome fighters as well, and integrity and bravery are qualities for everyone to embrace. These stories showed me that everybody in a nation can have deep integrity and bravery, as the women would not have sung for untrustworthy men.
 
-All these stories and many others showed me how low our standards are for each other in unhealthy nations. Low standards are simply a normal consequence when people are trapped in unfree societies and accept their own submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to a high standard of excellent and beautiful behavior.
+These stories and many others showed me how low our standards are for each other in unhealthy nations. Low standards are simply a normal consequence when people are trapped in unfree societies and accept their own submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to a high standard of excellent and beautiful behavior.
 
 And in order to have those high standards, people must learn how to have personal growth without feeling guilt or shame.
 
@@ -170,11 +170,11 @@ Spiritual growth can be joyful rather than stressful when you approach it withou
 
 Recognizing two complementary truths will accelerate your spiritual growth. First, _you are already perfect,_ even with all your faults. Second, _you have unmet potential,_ and you must strive to fulfill it to give your deepest love. If you feel self-doubt, low self-worth, or depression, pause trying to grow and focus on total self-acceptance. Deep self-acceptance is the foundation for deep spiritual growth. Accept that you are perfect as you are now, faults and all, and you're basically ok. With this self-acceptance, see your unmet potential, and grow to meet it.**
 
-In my personal life, when I really embraced these attitudes, my rate of growth increased. I started learning life lessons faster than before because I wasn't wasting time feeling shame and guilt. I just noticed my mistakes, learned from them, and moved on.
+When you embrace these attitudes and hold yourself to a high standard, your rate of growth will increase. You will learn life lessons faster than before because you won't waste time feeling shame and guilt. Just notice your mistakes, learn from them, and move on.
 
-Part 3 will share more detail about forming deep relationships, healthy communities and eventually healthy nations based on the stories of others who have done this. These shame-free and guilt-free attitudes to personal growth are foundational so that people can hold themselves and each other to high standards of behavior and grow from their mistakes.
+These shame-free and guilt-free attitudes to personal growth are foundational so that people can hold themselves and each other to high standards of behavior and grow from their mistakes. Part 3 will share more detail about how to embrace high standards to form deep relationships, healthy communities and eventually healthy nations based on the stories of others who have done this. 
 
-High standards of behavior will allow you and other caring people to create a culture of deep trust, where qualities like integrity, bravery, awareness, and generosity are simply normal and expected.
+Hold yourself and others to high standards of excellent behavior to create a culture of deep trust in your life, so that in your relationships qualities like integrity, bravery, awareness, and generosity are simply normal and expected.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>

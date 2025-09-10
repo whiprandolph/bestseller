@@ -585,7 +585,7 @@
 </td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 13: Why Are People's Standards So Low?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
+<tr><td><b>Chapter 13: Can Whole Nations have High Standards?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
 </td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (Linderman, 1932, 84)<br/>
 </td></tr>
 
@@ -740,6 +740,14 @@
 </td></tr>
 
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_3_src" id="cite_Important_Notes_on_Sensitive_Topics_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_4_src" id="cite_Important_Notes_on_Sensitive_Topics_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Cameron, 1981, 11)<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_6_src" id="cite_Important_Notes_on_Sensitive_Topics_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+</td></tr>
+
+<tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_7_src" id="cite_Important_Notes_on_Sensitive_Topics_7_dest" style="text-decoration:none">7</a>. (Prechtel, 1999, 209)<br/>
 </td><td></td></tr>
 
 <tr><td><b>Copyright, Image Credits & Further Reading</b></td></tr><tr><td><a href="#cite_Copyright,_Image_Credits_&_Further_Reading_1_src" id="cite_Copyright,_Image_Credits_&_Further_Reading_1_dest" style="text-decoration:none">1</a>. (Cubillos, 2018)<br/>

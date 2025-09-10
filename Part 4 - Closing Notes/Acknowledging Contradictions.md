@@ -2,7 +2,7 @@
 
 * Stories of healthy nation cruelty to enemies
 
-* Language -- Zapatistas talk about having "authorities"[xxx-ezln ramona san crist] and Martin Prechtel describes "lords and ladies" in the Tzutujil Maya.
+* Language -- Zapatistas talk about having "authorities"[xxx-ezln ramona san crist] and Martín Prechtel describes "lords and ladies" in the Tzutujil Maya.
 
 * pull examples from ODOC
 
