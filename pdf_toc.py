@@ -7,7 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
-SAMPLE = True
+SAMPLE = False
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"

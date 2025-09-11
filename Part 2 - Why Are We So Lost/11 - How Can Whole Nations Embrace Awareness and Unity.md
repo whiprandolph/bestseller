@@ -50,7 +50,7 @@ The Haudenosaunee open every gathering with the Thanksgiving Address, calling it
 
 Healthy nations generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
-This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a nations's leaders can encourage unity and awareness rather than division and ignorance.
+This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a nation's leaders can encourage unity and awareness rather than division and ignorance.
 
 When I began giving thanks to the nonhumans for their divine gifts, I realized that God is not off in the sky; Creator is alive in Creation. I believe that's what it means to recognize the Great Spirit That Moves Through All Beings, a perspective I've found in many healthy nations. In Christianity, this is called the Holy Spirit. And since Creator is alive in Creation, when people stand in solidarity with the Earth, they're standing in solidarity with Creator.
 

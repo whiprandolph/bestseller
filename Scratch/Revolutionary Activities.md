@@ -133,7 +133,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
-</b><div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied to someone and you're afraid of owning up to it, or you're afraid of quitting an unsatisfying job or asking an attractive person on a date. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
+</b><div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 
 
@@ -178,13 +178,13 @@
 
 ### 17 - Build Spiritual Strength with Others
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want to have</div>
+</b><div class="rev-act-body">Think about what kind of friendships you want to have. Approach someone with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
-
-
-
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want to have</div>
-</b><div class="rev-act-body">Think about what kind of friendship you want to have with others. Then approach a friend or acquintance with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Try to find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 
 

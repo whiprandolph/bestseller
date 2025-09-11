@@ -24,9 +24,9 @@ _Nation, unhealthy:_ Nations where a ruling class imposes laws and expects submi
 
 _Reciprocity_: A way of life where gifts are never "paid back" and humans and nonhumans keep giving to each other, deepening mutual gratitude over time. (7, 17)
 
-_Spirituality:_ How a person relates to themselves and the world. (3, 8, 16)
+_Spirituality:_ How a person relates to themselves and the world. (3, 8, 13, 16)
 
-_Spiritual Leader:_ Someone who helps people relate to themselves and the world with awareness, integrity, generosity, bravery, and solidarity with others. Spiritual leaders help their people confront troubles like injustice, poverty, low self-worth, and disconnection from the Earth. (2, 8, 9, 16)
+_Spiritual leader:_ Someone who helps people relate to themselves and the world in a good way, including with awareness, integrity, generosity, bravery, and solidarity with others. Spiritual leaders help their people confront troubles like injustice, poverty, low self-worth, and disconnection from the Earth. (2, 8, 9, 16)
 
 _Spiritual strength:_ The ability to give one's deepest love and stand for what's right in service of others. (5, 8, 16)
 

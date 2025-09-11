@@ -15,6 +15,16 @@ What will it take to make integrity, awareness, and generosity pervasive, so peo
 
 It will take _The Deepest Revolution._ Based on the words of people of healthy nations, this book is _not_ theoretical. If you're tired of endless political and cultural problems, and you're ready for deep change with strong and caring people, this book is for you.
 
+### New Rear Cover
+
+Did you know there are whole nations, past and present, where people live respectfully with each other and the Earth -- without racism, sexism, child abuse, pollution, widespread crime, or prisons? Where leaders are trusted, and integrity and generosity are common?
+
+Meanwhile, so-called "civilized" nations, like France, the United States, Ecuador, and Russia endure endless injustices, needless suffering, poverty, corruption, discrimination, and abuse. Decade after decade, these troubles never end no matter who we vote for.
+
+What will it take to make integrity, respect, generosity, and alignment with the Earth pervasive, so people can trust their neighbors and leaders?
+
+It will take _The Deepest Revolution._ Based on the words and stories of people of healthy nations, nothing in this book is theoretical or too idealistic to achieve. If you're tired of our endless political and cultural problems, and you're ready for deep change in solidarity with other strong and caring people, this book is for you.
+
 ### Notes - Cindy call 7.26.25
 
 * internal vs external freedom

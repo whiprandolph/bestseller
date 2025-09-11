@@ -44,14 +44,14 @@ BOOK_ADDED_STYLE_BASE = """
     text-align: justify;
   }\n
   #biblio p {
-    font-size: 7pt;
+    font-size: 6.9pt;
   }
   .part-intro {
     font-size: 38px;
   }
 
   table.cite_table td {
-    font-size:7pt;
+    font-size:6.9pt;
     padding-left: 0em;
 
   }

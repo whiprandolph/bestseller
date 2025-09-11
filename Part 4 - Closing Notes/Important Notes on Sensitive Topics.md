@@ -26,15 +26,15 @@ This book refers to many traditional practices that were fully observed in the p
 
 #### Acknowledging Contradictions
 
-This book makes the case that healthy nations are able to maintain a basically respectful way of life. However, I did find seeming contradictions in my research. For example, Prechtel described how the Tzutujil Mayans had "lords" and "ladies",[xxx-secrets of the talking jaguar|p111] a Nootka storyteller referenced royalty and slavery,[xxx-daughters of copper woman|p11] and American John Adams described the Haudenosaunee as having "kings" and "nobles."[xxx-american indian constitutions and their influence on the united states constitution]
+This book makes the case that healthy nations are able to maintain a basically respectful way of life. However, I did find seeming contradictions in my research. For example, Prechtel described how the Tzutujil Mayans had "lords" and "ladies",[xxx-secrets of the talking jaguar|p111] a Nootka storyteller referenced royalty and slavery,[xxx-daughters of copper woman|p11] and American John Adams described the Haudenosaunee as having a "king" and "nobles."[xxx-american indian constitutions and their influence on the united states constitution]
 
 Seeming contradictions can occur for many reasons. Often they are a simple misunderstanding: John Adams assumed every nation had rulers so he assumed the Haudenosaunee did too, but he was wrong. Sometimes words mean different things to different people, and clearly Tzutujil Mayan lords and ladies didn't have wealth or power over others the way they do in European countries.[xxx-secrets of the talking jaguar|p209] Also, not every North or South American nation was healthy just prior to Europeans' arrival. It takes judgment to choose which lessons to learn from which nations in which time period. The book _One Disease One Cure_ offers a more in-depth review of contradictions.
 
 ### References
 
-[xxx-american indian constitutions and their influence on the united states constitution]
+[xxx-american indian constitutions and their influence on the united states constitution]-aaa (Miller, 2015)
 
-[xxx-secrets of the talking jaguar|p111]
+[xxx-secrets of the talking jaguar|p111]-aaa (Prechtel, 1999, 111)
 
 [xxx-daughters of copper woman|p11]-aaa (Cameron, 1981, 11)
 

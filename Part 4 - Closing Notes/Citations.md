@@ -740,11 +740,11 @@
 </td></tr>
 
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_3_src" id="cite_Important_Notes_on_Sensitive_Topics_3_dest" style="text-decoration:none">3</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
-</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_4_src" id="cite_Important_Notes_on_Sensitive_Topics_4_dest" style="text-decoration:none">4</a>. (author, date)<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_4_src" id="cite_Important_Notes_on_Sensitive_Topics_4_dest" style="text-decoration:none">4</a>. (Prechtel, 1999, 111)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_5_src" id="cite_Important_Notes_on_Sensitive_Topics_5_dest" style="text-decoration:none">5</a>. (Cameron, 1981, 11)<br/>
-</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_6_src" id="cite_Important_Notes_on_Sensitive_Topics_6_dest" style="text-decoration:none">6</a>. (author, date)<br/>
+</td><td><a href="#cite_Important_Notes_on_Sensitive_Topics_6_src" id="cite_Important_Notes_on_Sensitive_Topics_6_dest" style="text-decoration:none">6</a>. (Miller, 2015)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Important_Notes_on_Sensitive_Topics_7_src" id="cite_Important_Notes_on_Sensitive_Topics_7_dest" style="text-decoration:none">7</a>. (Prechtel, 1999, 209)<br/>

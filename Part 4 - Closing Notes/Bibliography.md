@@ -10,6 +10,7 @@ AJLabs. (2025, April 17). Israel-Gaza war in maps and charts: Live tracker. Al J
 Allen, P. (1991). Grandmothers of the Light. Beacon Press.
 Anderson, K. (1985). Commodity Exchange and Subordination: Montagnais-Naskapi and Huron Women, 1600-1650. Chicago Journals, 11(1), 48–62.
 Arbuthnot, Mollie. (2019, August 27). World Revolution / Postcolonial Paradise: Utopian Visions of the “Soviet East” in the 1920-30s. The Language of “Authoritarian” Regimes. https://thelanguageofauthoritarianregimes.wordpress.com/2019/08/27/world-revolution-postcolonial-paradise-utopian-visions-of-the-soviet-east-in-the-1920-30s/
+Archivo Histórico. (n.d.). Enlace Zapatista. Retrieved September 7, 2025, from https://enlacezapatista.ezln.org.mx/category/1994/
 Arnold, D. G., Stewart, O. J., & Beck, T. (2020). Financial Penalties Imposed on Large Pharmaceutical Firms for Illegal Activities. JAMA, 324(19), 1995–1997. https://doi.org/10.1001/jama.2020.18740
 Assange, J. (2007, January 3). Selected Correspondence. IQ.Org. https://web.archive.org/web/20070110200827/http://iq.org/
 Bailey, S. (1957). “Police Socialism” in Tsarist Russia. The Review of Politics, 19(4), 462–471.
@@ -48,6 +49,7 @@ Eastman (Ohiyesa), C. A. (2013). Indian Heroes and Great Chieftains. Project Gut
 Edwards, R. (2006). White Death: Russia’s War With Finland 1939-40. Weidenfeld & Nicolson.
 Evans, R., & Lewis, P. (2012, January 20). Undercover police had children with activists. The Guardian. https://www.theguardian.com/uk/2012/jan/20/undercover-police-children-activists
 Everyday heroism makes the sparkles possible (Google Translate, Trans.). (1994, January 26). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1994/01/26/heroismo-cotidiano-hace-posible-que-existan-los-destellos/
+Everyone Blames Me. (2017). Human Rights Watch. https://www.hrw.org/sites/default/files/report_pdf/india1117_web.pdf
 Explosive Features | Twin Towers. (n.d.). AE911Truth. Retrieved August 4, 2024, from https://www.ae911truth.org/evidence/explosive-features
 FBI releases declassified documents about investigating ties between Saudi government and Sept. 11 attacks. (2021, November 4). CBS News. https://www.cbsnews.com/news/fbi-declassified-documents-september-11-saudi-government/
 FBI releases newly declassified record on September 11 attacks. (2021, September 12). Al Jazeera. https://www.aljazeera.com/news/2021/9/12/fbi-releases-newly-declassified-record-on-september-11-attacks
@@ -115,10 +117,12 @@ Maté, A. (2022, March 5). By using Ukraine to fight Russia, the US provoked Put
 Matthews, L. (2020, April 6). Nonstick Pans and Forever Chemicals: What You Need to Know. LeafScore. https://www.leafscore.com/eco-friendly-kitchen-products/the-problem-with-teflon-and-other-non-stick-pots-and-pans/
 McCormick, M. (n.d.). The Obedience and Sinlessness of Christ. The Gospel Coalition. Retrieved August 7, 2025, from https://www.thegospelcoalition.org/essay/obedience-sinlessness-christ/
 Messiah. (n.d.). Oxford Reference. Retrieved August 19, 2024, from https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100152530
+Miller, R. (2015). American Indian Constitutions and Their Influence on the United States Constitution. Proceedings of the American Philosophical Society, 159(1). https://ssrn.com/abstract=2739936
 Morgan, T. (2018, March 22). The NRA Supported Gun Control When the Black Panthers Had the Weapons. HISTORY. https://www.history.com/articles/black-panthers-gun-control-nra-support-mulford-act
 Mujeres 45% de las bases zapatistas. (2011, November 30). Cimacnoticias.Com.Mx. https://cimacnoticias.com.mx/2003/11/19/mujeres-45-de-las-bases-zapatistas/
 Myers, I. (2025, March 18). EWG’s Dirty Dozen Guide to Food Chemicals: The top 12 to avoid | Environmental Working Group. EWG. https://www.ewg.org/consumer-guides/ewgs-dirty-dozen-guide-food-chemicals-top-12-avoid
 Nawawi. (n.d.). 40HadithNawawi: Hadith 13. 40HadithNawawi. Retrieved August 7, 2025, from https://40hadithnawawi.com/hadith/13-love-for-your-brother-what-you-love-for-yourself
+Neihardt, J. (2014). Black Elk Speaks. University of Nebraska Press.
 Nelson, M. (Ed.). (2008). Original Instructions. Bear and Company.
 Nelson, S. (2023, May 24). IRS opened probe into Matt Taibbi’s taxes after Twitter dump. New York Post. https://nypost.com/2023/05/24/irs-opened-probe-into-matt-taibbis-taxes-after-twitter-dump/
 Ninth Part: The new structure of Zapastista Autonomy (Google Translate, Trans.). (2023, November 14). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/2023/11/13/ninth-part-the-new-structure-of-zapastista-autonomy/
@@ -142,6 +146,7 @@ Rodríguez, S. (1994, March 8). Comandanta Ramona y Mayor Ana María: Las demand
 Rong, J. (2008). Wolf Totem (H. Goldblatt, Trans.). Penguin Press.
 Rull, M. R. (2021, August 2). In the face of assassinations and paramilitary terror, the Zapatista struggle for sovereignty continues. War Resisters. https://wagingnonviolence.org/wr/2021/08/assassinations-paramilitary-terror-zapatista-struggle-sovereignty/
 Russia: Sakhalin Island indigenous peoples protest oil development. (2005, January 31). Cultural Survival. https://www.culturalsurvival.org/news/russia-sakhalin-island-indigenous-peoples-protest-oil-development
+Ryan, C., & Jethá, C. (2010). Sex at Dawn. HarperCollins.
 Satter, D. (2016, August 15). The Bloody Czar. National Review. https://www.nationalreview.com/magazine/2016/08/15/vladimir-putin-presidency-russian-terrorism/
 Scahill, J. (2024, February 7). Netanyahu’s War on Truth. The Intercept. https://theintercept.com/2024/02/07/gaza-israel-netanyahu-propaganda-lies-palestinians/
 Sharp, J. (2025). U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023. Congressional Research Service. https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.51.pdf
