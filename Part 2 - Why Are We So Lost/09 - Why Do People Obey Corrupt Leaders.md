@@ -1,6 +1,6 @@
 ## Chapter 9: Why Do People Obey Corrupt Leaders?
 
-The common experience of living in a nation dominated by a ruling class comes down to this: you must obey their laws whether you like them or not. And even if you like their laws, you must not do anything yourself to enforce those laws when someone else violates them. Responding to bad behavior can only be done by enforcement agents chosen by the ruling class, called the police. If you take action on your own to pursue justice when someone behaves badly, you will be punished. Like it or not, you must follow the rulers and their lower authorities, even if you don't trust them or like their leadership. Whether you like the leadership or not, you must obey.
+The common experience of living in a nation dominated by a ruling class comes down to this: you must obey their laws whether you like them or not. And even if you like their laws, you must not do anything yourself to enforce those laws when someone else violates them. Responding to bad behavior can only be done by enforcement agents chosen by the ruling class, called the police. If you take action on your own to pursue justice when someone behaves badly, you will be punished. Whether or not you like the rulers and lower authorities, you must obey.
 
 Obeying corrupt, unaccountable leaders is considered normal in unhealthy nations: people don't choose their bosses at work, don't choose their commanders in the military, and don't really choose their political leaders, because even in democracies politicians run and win based primarily on money, and therefore they are effectively chosen by the rich.
 
@@ -20,9 +20,9 @@ However, the Bible shows that Jesus Christ was anything but obedient. To really 
 
 The Romans had conquered Jerusalem and the surrounding region about 60 years before Jesus was born. They imposed heavy taxes, unwanted imperialism, a client king that obeyed Roman authorities, and generally treated the people abusively. Many Jewish revolutionaries worked to free themselves from the Romans, longing for a country where Jews could be safe. Eventually this led to a series of wars between the Romans and the rebellious Jews, starting with the First Jewish Revolt in 66 CE, about 30 years after Jesus' death.[xxx-britannica jewish revolt]
 
-Thus, during Jesus' time, oppressed Jewish people longed for a "messiah," which just means "savior" or "liberator."[xxx-oxford messiah] It's easy to understand why -- the Jews wanted a revolutionary leader to help free them from oppressive Roman rule.
+Thus, during Jesus' time, oppressed Jewish people longed for a "messiah," which just means "savior" or "liberator."[xxx-oxford messiah] It's easy to understand why. The Jews wanted a revolutionary leader to help free them from oppressive Roman rule.
 
-Jesus Christ saw huge amounts of needless suffering all around -- a few people were rich and had far more than they needed, and many suffered needlessly from troubles like hunger, sickness, and poverty.
+Jesus Christ saw huge amounts of needless suffering all around. A few people were rich and had far more than they needed, and many suffered needlessly from troubles like hunger, sickness, and poverty.
 
 Instead of merely obeying the law and tolerating these troubles, Christ consistently stood for what's right _even in violation of the law_. He had the spiritual strength to stand for what's right, even at great personal risk -- even knowing he would die for serving his people.
 
@@ -155,9 +155,9 @@ How is it possible to live in a way where everyone follows laws, and nations hav
 
 Fewer people would believe obedience is so good and necessary if they knew what free societies are like where people live without submissive obedience. So let's look at some examples of ways of life without _any_ submissive obedience.
 
-### How Can People Follow Their Nation's Laws Without Obedience?
+### How Can People Follow Their Nation's Laws Without Submissive Obedience?
 
-Every nation has laws, whether the nation is healthy or not. But when the laws work for everyone, there's no need for obedience.
+Every nation has laws, whether the nation is healthy or not. But when the laws work for everyone, there's no need for submissive obedience.
 
 In healthy nations, no one forces laws on anybody else that they don't like. In addition, _everyone is expected to uphold their laws, not obey them._ In this way, they have laws they follow, but no obedience. Everyone is expected to have the same spiritual strength as Jesus Christ to stand for what's right no matter what.
 
@@ -173,7 +173,7 @@ Consider a military setting. In unhealthy nations, militaries are very strict hi
 
 Contrast that with a healthy-nation military. Apache man Geronimo said that warriors would assume various positions of leadership by common consent, and would only keep those positions as long as they led well.[xxx-geronimo autobio|preparation of a warrior]
 
-That is, each person accepted _personal responsibility_ to help choose excellent leaders, and to ensure they were leading well. If a leader disappointed them, they would choose someone else.
+That is, each individual accepted _personal responsibility_ to help choose excellent leaders, and to ensure they were leading well. If a leader disappointed them, they would choose someone else.
 
 In this way, lower-ranked warriors would accept their leader's directions, but they _chose_ to accept his directions because they valued his leadership. "Choosing to follow" a leader and "being forced to obey" may superficially look similar to outsiders. But when the warriors knew that the bravest and most selfless warrior among them was their leader, they didn't need to be threatened with punishment because they wanted to follow.
 
@@ -195,7 +195,7 @@ Solidarity is a core value in every healthy nation. So what happens when people 
 
 Actually, no. In healthy nations, when there is a big disagreement, the community may split into smaller groups so that each group has full unity. Because they are free to split up as needed, often there aren't hard feelings and the new smaller communities may still be friends and allies, and come to each other's aid in emergencies. They just live separately and exactly as they choose.
 
-For example, Pretty Shield described how her Crow community had a quarrel in about 1832 and divided into two groups, the Mountain Crows and River Crows. Pretty Shield was born a Mountain Crow but went to live with an aunt who was a River Crow. She said, "This separation from my mother and my sisters was in fact not a very real one, because all the Crows came together often."[xxx-red mother|p21] The Crows never considered living unhappily together and letting the majority impose a way of life that the minority resented. After separating, each group had a way of life and leadership that was satisfactory to all, and the groups remained friendly.
+For example, Pretty Shield described how her Crow community had a quarrel in about 1832 and divided into two groups, the Mountain Crows and River Crows. Pretty Shield was born a Mountain Crow but went to live with an aunt who was a River Crow. She said, "This separation from my mother and my sisters was in fact not a very real one, because all the Crows came together often." The Crows never considered living unhappily together and letting the majority impose a way of life that the minority resented. After separating, each group had a way of life and leadership that was satisfactory to all, and the groups remained friendly.[xxx-red mother|p21]
 
 Other stories from the Nez Perce[xxx-indian heroes and great chieftains|chief joseph] and Sioux[xxx-indian child life|faithfulness long ears] show that this willingness to split into separate groups while remaining friendly is a common traditional way of respectfully handling major disputes.
 

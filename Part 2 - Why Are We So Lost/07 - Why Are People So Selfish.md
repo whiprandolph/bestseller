@@ -10,7 +10,7 @@ But what happens when a ruling class forces laws on the rest, protecting their o
 
 ### Profit Economy: When Selfishness is Allowed to Take Hold
 
-Tragically, ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy_. The word "profit" simply means getting more than one gives. Profit economies reward and motivate individuals to try to get more than they give, training people to profit from their neighbors. Over time, profit economies _move resources toward people who already have them_. In a profit economy, the more resources a person has, the more additional resources they are able to get.
+Tragically, ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy_. The word "profit" simply means getting more than one gives. Profit economies motivate individuals to get more than they give, training people to profit from others in their own nation. Over time, profit economies _move resources to people who already have them_. In a profit economy, the more resources a person has, the more additional resources they are able to get.
 
 Capitalism, socialism, and communism are all examples of profit economies. The main difference is simply whether wealthy individuals and corporations control most property (capitalism) or whether the ruling government controls a larger share (socialism and communism).
 
@@ -56,9 +56,11 @@ Widespread financial desperation leads to _coerced consent_, where workers who a
 
 Indeed, people will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive. One petition by Russian workers to their government in 1906 acknowledged the master-worker dynamic: "Owing to unemployment, numberless workers' families are now without bread. The workers do not want charity, or doles. We demand work. The masters refuse to give us work."[xxx-communists and the fight for jobs and revolution] In protests in Bangladesh in 2014, unemployed laborers marched with signs saying "Chakri Pai!" ('we demand work!').[xxx-tandf bangladesh we demand work] In the United States in 1930, both white and black Americans marched with signs saying "We Demand Work or Wages."[xxx-washpo we demand work]
 
+In contrast, people of healthy nations have often been called lazy, because they only work as hard as needed and no harder.[xxx-canada lazy indian]<sup>,</sup>[xxx-australia lazy indian] In this way, ruling classes simultaneously shame people of healthy nations and trick wage slaves into thinking that their endless hard work is virtuous.
+
 Insecurity is common at all levels of wealth. The poor have little money, and they may not know month to month how they will make ends meet. Even the rich feel insecure, knowing that their wealth is the only thing allowing them to live comfortably. With insecurity so widespread, is it any wonder so many people cling to whatever money they can get?
 
-Of course, rulers do not need to force bankers, politicians, and individual bosses to play their part. All they need to do is create a profit-based economic system that consistently rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, doing their part to maintain their profit economy.
+Rulers do not need to force bankers, politicians, and individual bosses to play their part. All they need to do is create a profit-based economic system that consistently rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, doing their part to maintain their profit economy.
 
 Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think none of this pertains to you? Perhaps you like your job, have adequate money to survive, and even extra money to enjoy your days off. Maybe you also have money in the bank for a rainy day or for your kids or retirement. Maybe you are sitting pretty. 
 
@@ -127,6 +129,10 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 
 ### References
+
+[xxx-canada lazy indian]-aaa (Taylor-Neu et al., 2018)
+
+[xxx-australia lazy indian]-aaa (Indigenous Australian Peoples and Work: Examining Worklife Histories | SpringerLink, n.d.)
 
 [xxx-braiding sweetgrass|windigo footprints]-aaa (Kimmerer, 2013, "Windigo Footprints")
 
