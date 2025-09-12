@@ -177,15 +177,15 @@ When you can cultivate deep relationships with people and nonhumans, they will g
 
 A person has spiritual strength if they give their deepest love in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to cultivating a practical aware gratitude, walking the most meaningful path, and living in reciprocity, you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
-### You Are a Messiah**
+### You Are a Messiah
 
-One of the biggest lies in history is that there can only be one Messiah. But "messiah" just means savior or liberator, someone who helps free their people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, so everyone is a messiah.
+One of the biggest lies in history is that there can only be one Messiah. But "messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
 
-That means you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- these make it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it difficult to form deep relationships of reciprocity with people and the Earth.
+And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or too afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it difficult to form deep relationships of reciprocity with people and the Earth.
 
-The divine voice is speaking to you right now, as it has been since your birth. This divine voice isn't something separate from you; you are divinity in human form, and if you're like most people, you've only learned to "hold back" or "shut down" parts of your divine self to survive in your unhealthy nation.
+The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 
-So cultivate your spiritual strength. Give your deepest love in life, stand for what's right, and accept nothing less, whatever that means for you. And, as the next chapter explores, build relationships with caring people who will support you on this path, just as you will support them.
+Focusing on your survival or comfort is ultimately unsatisfying. Instead of merely surviving or staying comfortable, you can choose to cultivate your spiritual strength. Give your deepest love, stand for what's right, and accept nothing less of yourself and others.
 
 The world wants to be blessed by the light of your love.
 

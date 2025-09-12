@@ -178,8 +178,8 @@
 
 ### 17 - Build Spiritual Strength with Others
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want to have</div>
-</b><div class="rev-act-body">Think about what kind of friendships you want to have. Approach someone with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and how they are willing to show up to make it happen. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want</div>
+</b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 
 

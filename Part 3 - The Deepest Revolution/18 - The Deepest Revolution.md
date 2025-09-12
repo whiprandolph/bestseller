@@ -6,7 +6,7 @@ But all these different issues stem from one root problem: _we are not free._ We
 
 Troubles like corruption, greed and discrimination are merely _symptoms_ of a _root cultural disease_ where a few people rule, and the rest accept their own submissive obedience as legitimate. As every doctor knows, treating symptoms will never lead to deep healing while the underlying disease persists.
 
-Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement in human history has ever ended racism in their unhealthy nation, and no anti-sexism movement has ended sexism. As long a person or group rules your nation, they will make sure these troubles continue.
+Any political movement that ignores this root disease is only asking their rulers to please be nicer, or please follow the laws they impose on others. There has never been a system of constitutional "checks and balances" that causes rulers to obey their own laws, or makes justice universal. No anti-racism movement in human history has ever ended racism in their unhealthy nation, and no anti-sexism movement has ended sexism. As long as a person or group rules your nation, these troubles will continue.
 
 But there is a cure to this cultural disease and all its symptoms: create a new healthy nation where everybody agrees on their laws and takes personal responsibility to uphold them, taking the people's and Earth's needs into account. Some people will not want to walk this path, but many will.
 
@@ -26,11 +26,11 @@ The only way to end abuse is to stand up for ourselves. That's the Deepest Revol
 
 The night before his murder, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
 
-I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
+I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and _no rulers._
 
 The promised land is definitely real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
 
-The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do the wars that kill the poor and profit the rich. Nonhumans are dying in large numbers, and humans won't last long if we don't change course.
+The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do wars that kill the poor and profit the rich. Nonhumans are suffering and dying in large numbers, and humans won't last long if we don't change course.
 
 Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support all these terrible things and more. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
 

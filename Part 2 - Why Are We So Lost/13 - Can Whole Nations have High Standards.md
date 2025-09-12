@@ -117,7 +117,7 @@ When boys are raised to deny or twist this deep love-gift of boundary-setting an
 
 This explains the spiritual meaning behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where you've learned to hold back your love, afraid to stand for what's right, is deeply unsatisfying.
 
-Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to know how to live in a deeply satisfying way.
+Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to live in a deeply satisfying way.
 
 People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this, meaning _it is illegal to be a good man in an unhealthy nation._ Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or avoid reflecting on their meaningless life with endless distractions.
 
@@ -135,7 +135,7 @@ Many stories from the Lakota also describe women inspiring their men to be brave
 
 Of course, women can make fearsome fighters as well, and integrity and bravery are qualities for everyone to embrace. These stories showed me that everybody in a nation can have deep integrity and bravery, as the women would not have sung for untrustworthy men.
 
-These stories and many others showed me how low our standards are for each other in unhealthy nations. Low standards are simply a normal consequence when people are trapped in unfree societies and accept their own submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to  high standards again.
+These stories and many others showed me how low our standards are for each other in unhealthy nations. Low standards are simply a normal consequence when people are trapped in unfree societies and accept their own submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to high standards again.
 
 And in order to have those high standards, people must learn how to have spiritual growth without feeling guilt or shame.
 
