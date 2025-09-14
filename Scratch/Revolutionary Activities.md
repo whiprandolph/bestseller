@@ -5,7 +5,7 @@
 
 
 
-### 02 - How Can Whole Nations Embrace Generosity and Integrity
+### 02 - Can Whole Nations Embrace Generosity and Integrity
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
 </b><div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>
@@ -110,7 +110,7 @@
 
 
 
-### 13 - Can Whole Nations have High Standards
+### 13 - Can Whole Nations Embrace High Standards
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
 </b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>

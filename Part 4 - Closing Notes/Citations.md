@@ -155,15 +155,15 @@
 </td><td><a href="#cite_Chapter_7_6_src" id="cite_Chapter_7_6_dest" style="text-decoration:none">6</a>. (kswheeler, 2011)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_7_src" id="cite_Chapter_7_7_dest" style="text-decoration:none">7</a>. ("It Is Difficult to Get a Man to Understand Something When His Salary Depends Upon His Not Understanding It," 2017)<br/>
-</td><td><a href="#cite_Chapter_7_8_src" id="cite_Chapter_7_8_dest" style="text-decoration:none">8</a>. (Green & Isaacson, 2012)<br/>
+<tr><td><a href="#cite_Chapter_7_7_src" id="cite_Chapter_7_7_dest" style="text-decoration:none">7</a>. (Taylor-Neu et al., 2018)<br/>
+</td><td><a href="#cite_Chapter_7_8_src" id="cite_Chapter_7_8_dest" style="text-decoration:none">8</a>. (Indigenous Australian Peoples and Work: Examining Worklife Histories | SpringerLink, n.d.)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_9_src" id="cite_Chapter_7_9_dest" style="text-decoration:none">9</a>. (Gardner, 2018)<br/>
-</td><td><a href="#cite_Chapter_7_10_src" id="cite_Chapter_7_10_dest" style="text-decoration:none">10</a>. (Berbard, 2021)<br/>
+<tr><td><a href="#cite_Chapter_7_9_src" id="cite_Chapter_7_9_dest" style="text-decoration:none">9</a>. ("It Is Difficult to Get a Man to Understand Something When His Salary Depends Upon His Not Understanding It," 2017)<br/>
+</td><td><a href="#cite_Chapter_7_10_src" id="cite_Chapter_7_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_11_src" id="cite_Chapter_7_11_dest" style="text-decoration:none">11</a>. (Baptist, 2014, "1805-1861")<br/>
+<tr><td><a href="#cite_Chapter_7_11_src" id="cite_Chapter_7_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
 </td><td><a href="#cite_Chapter_7_12_src" id="cite_Chapter_7_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")<br/>
 </td></tr>
 
@@ -585,7 +585,7 @@
 </td><td><a href="#cite_Chapter_12_40_src" id="cite_Chapter_12_40_dest" style="text-decoration:none">40</a>. (Rull, 2021)<br/>
 </td></tr>
 
-<tr><td><b>Chapter 13: Can Whole Nations have High Standards?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
+<tr><td><b>Chapter 13: Can Whole Nations Embrace High Standards?</b></td></tr><tr><td><a href="#cite_Chapter_13_1_src" id="cite_Chapter_13_1_dest" style="text-decoration:none">1</a>. (Barrett, 2010, "Unwritten Laws of the Apaches")<br/>
 </td><td><a href="#cite_Chapter_13_2_src" id="cite_Chapter_13_2_dest" style="text-decoration:none">2</a>. (Linderman, 1932, 84)<br/>
 </td></tr>
 

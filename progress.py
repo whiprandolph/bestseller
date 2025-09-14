@@ -6,7 +6,7 @@ chapters = {
   "Part 1 - This Is Who We Really Are": [
     (1, 1, "Part Introduction.md"),
     (3, 1, "This is Who We Really Are.md"),
-    (3, 1, "How Can Whole Nations Embrace Generosity and Integrity.md"),
+    (3, 1, "Can Whole Nations Embrace Generosity and Integrity.md"),
     (3, 1, "Healthy Nations Share Three Core Spiritual Practices.md"),
     (3, 1, "Imagine If Pervasive Generosity Was Normal.md"),
     (3, 1, "Why Doesn't Everybody Live in This Beautiful Way.md"),
@@ -20,7 +20,7 @@ chapters = {
     (3, 1, "Why Are People So Racist and Hateful.md"),
     (3, 1, "How Can Whole Nations Embrace Awareness and Unity.md"),
     (3, 1, "Selfish Violence vs Selfless Violence.md"),
-    (3, 1, "Can Whole Nations have High Standards.md"),
+    (3, 1, "Can Whole Nations Embrace High Standards.md"),
     (3, 1, "The Endless Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [

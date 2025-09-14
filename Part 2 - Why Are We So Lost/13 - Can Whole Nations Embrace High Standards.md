@@ -1,4 +1,4 @@
-## Chapter 13: Can Whole Nations have High Standards?
+## Chapter 13: Can Whole Nations Embrace High Standards?
 
 Authorities always encourage conquered people to accept their own submissive obedience as legitimate and normal. When people finally succumb to this mindset, they stop expecting much of themselves or others. People may not expect life to be deeply meaningful, don't trust others, or learn to focus mostly on themselves or pleasing others instead of standing for what's right. People may engage in superficial or wishful thinking, and even adopt the ideologies of their abusers.
 

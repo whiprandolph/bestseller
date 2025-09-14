@@ -22,7 +22,7 @@ In market economies, workers can often choose their boss and even their type of 
 
 ### Market Economies: The Flexibility to Choose Your Master
 
-In market economies, people are trapped in a financial system in which they need money in order to survive. Unless they are among the few rich, most people have to constantly work a job or face financial desperation. Even those who earn more than they need must keep working because it is difficult to save enough to avoid future financial desperation.
+In market economies, people are trapped in a financial system in which they need money in order to survive. Unless they are among the few rich, people have to constantly work a job or face financial desperation. Even those who earn more than they need must often keep working because it is difficult to save enough to avoid future financial desperation.
 
 Many people in 2025 recognize chattel slave plantations or forced prison labor as forms of slavery, but in the 1800s, wage jobs were also known as "wage slavery." Any form of coerced labor is slavery, and wage slavery has two important advantages for ruling classes.
 
@@ -34,35 +34,31 @@ Soviet East German minister for state security Erich Milke once said, "The [Germ
 
 People of healthy nations -- who currently or in recent times lived in actual freedom -- recognize the truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people are forced to work for others to survive, not allowed to choose their own laws, and not allowed to uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
 
-#### Maintaining Financial Desperation in Market Economies
+#### Maintaining Financial Desperation in Market Economies**
 
-Authorities use a vast number of techniques to make people feel financially desperate and willing to do work they don't want to do in order to earn money. As a result, many people sacrifice their integrity, health, family time, and other important things just to keep the job they need to survive. This financial desperation explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."[xxx-quote investigator upton]
+Authorities use a vast number of techniques to make people feel financially desperate and willing to do work they don't want to do in order to earn money. As a result, many people sacrifice important things like their integrity, health, and family time just to survive.
 
 Different ruling classes manage their economies very differently to maintain desperation and maximize productivity, but there are some common patterns.
 
-Without a job, workers may not be able to pay for housing, food, or health care for their family. Inflation continuously saps the value of previous savings, meaning the money instantly becomes less valuable starting the moment it's earned. Even relatively well-paid workers may fear not having enough money for retirement, unexpectedly losing a job, or having a health crisis, and thus even well-off people can feel financially desperate as well.
+Without a job, workers may not be able to pay for housing, food, or health care for their family. Inflation continuously saps the value of previous savings, meaning the money instantly becomes less valuable starting the moment it's earned. Even relatively well-paid workers may fear not having enough money for retirement, losing a job, or having a health crisis.
 
 Banks and landlords regulate the prices of houses and apartments, calculating the proportion of people's monthly income that they can afford to pay in mortgage or rent. This debt-to-income ratio means house prices and rental prices always increase at least as much as people's wages, keeping workers from "getting ahead." Property taxes force homeowners to pay to keep the house they already own.
 
 Authorities may make the drawbacks of poverty arbitrarily terrible, including putting poor people in prison, shaming poor people, forcing poor people to eat less nutritious food, or taking away poor people's children when they struggle to provide safe, clean homes.
 
-Authorities may allow crime and drugs in the poor parts of town, have the police mistreat poor people in a variety of ways, routinely underfund schools in the poor districts, and allow factory pollution to be worse in poor areas.
+Financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job just to survive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]**
 
-The financial desperation that powers most market economies also compels poor people to fight the wars of the rich. In unhealthy nations around the world, plenty of people join the police or military as a way to escape poverty or dangerous neighborhoods.
-
-Prison labor also keeps wages low and workers desperate, as prisoners can be forced to do work for pennies per hour, or for nothing at all. Just as chattel slavery kept wages low in the Americas for centuries, prison slave-labor keeps wages low in many countries today.
-
-Widespread financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job just to survive.
-
-Indeed, people will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive. One petition by Russian workers to their government in 1906 acknowledged the master-worker dynamic: "Owing to unemployment, numberless workers' families are now without bread. The workers do not want charity, or doles. We demand work. The masters refuse to give us work."[xxx-communists and the fight for jobs and revolution] In protests in Bangladesh in 2014, unemployed laborers marched with signs saying "Chakri Pai!" ('we demand work!').[xxx-tandf bangladesh we demand work] In the United States in 1930, both white and black Americans marched with signs saying "We Demand Work or Wages."[xxx-washpo we demand work]
-
-In contrast, people of healthy nations have often been called lazy, because they only work as hard as needed and no harder.[xxx-canada lazy indian]<sup>,</sup>[xxx-australia lazy indian] In this way, ruling classes simultaneously shame people of healthy nations and trick wage slaves into thinking that their endless hard work is virtuous.
+In contrast, people of healthy nations have often been called lazy because they only work as hard as needed and no harder. In this way, ruling classes simultaneously shame people of healthy nations and trick wage slaves into thinking that their endless hard work is virtuous.[xxx-canada lazy indian]<sup>,</sup>[xxx-australia lazy indian]
 
 Insecurity is common at all levels of wealth. The poor have little money, and they may not know month to month how they will make ends meet. Even the rich feel insecure, knowing that their wealth is the only thing allowing them to live comfortably. With insecurity so widespread, is it any wonder so many people cling to whatever money they can get?
 
-Rulers do not need to force bankers, politicians, and individual bosses to play their part. All they need to do is create a profit-based economic system that consistently rewards selfishness, and the people who cultivate selfishness will inevitably take these roles and get rich, doing their part to maintain their profit economy.
+Desperation causes many people to sacrifice their integrity, making it very difficult to have meaningful political conversations. This which explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."[xxx-quote investigator upton] For example, coal miners commonly refuse to believe in climate change[xxx-coal climate change], and weapons manufacturers often refuse to consider how governments use their weapons.[xxx-weapons-used] Intentionally or not, nearly everyone in unhealthy nations supports inappropriate behavior, whether they work for dishonest news media, manufacture goods with toxic materials, or a thousand other ways.**
 
-Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think none of this pertains to you? Perhaps you like your job, have adequate money to survive, and even extra money to enjoy your days off. Maybe you also have money in the bank for a rainy day or for your kids or retirement. Maybe you are sitting pretty. 
+People with integrity face this reality, but few do, as people would recognize that their way of life is contributing to big problems in the world, and they might feel the urge to quit their job. But quitting might lead to poverty, perhaps permanently, affecting any family members too. Thus many people will say or believe whatever they need to in order to keep the income or wealth they've acquired.**
+
+_Profit economies make it dangerous to have integrity._ Thus it's not just politicians who are corrupt. In one way or another, profit economies corrupt nearly everybody, from the topmost political leaders and business executives to the vast majority of individuals.**
+
+Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think none of this pertains to you? Perhaps you like your job, your company has an ethical-sounding mission statement, and you have adequate money to survive and even enjoy your days off. Maybe you also have money in the bank for a rainy day or for your kids or retirement. Maybe you are sitting pretty.**
 
 But let me ask you this. Can you stop? Can you step off your treadmill and quit working for money whenever you please to focus on more meaningful work? And if you did, how long could you keep it up? Unless you have megawealth, at some point you would have to return to some kind of paid work or face the consequences of financial desperation. Maybe your friends or family would help you out for a while, but sooner or later, you'd likely be in trouble. Unlike those in healthy nations, in the profit economies of an unhealthy nation, you're not surrounded by people who will feed you, shelter you, and make sure your survival needs are met during difficult moments.
 
@@ -74,11 +70,11 @@ And therefore the well-off are as trapped as anyone else. Our paychecks may vary
 
 ### Command Economies: When Your Master Chooses You
 
-Authorities' underlying attitude in market economies is "find a way to serve us, or enjoy your poverty." Workers don't legally have to have a job, but they face poverty if they don't serve some master somewhere. However, in market economies the worst punishment for disobedience is usually just being fired. In command economies, the approach is more direct: "Obey my order, or I will punish you." Workers in these situations generally do not choose their boss and are physically punished if they do not follow orders.
+Authorities' underlying attitude in market economies is "find a way to serve us, or enjoy your poverty." Workers don't legally have to work, but they face poverty if they don't serve some master somewhere. In command economies, the attitude is more direct: "Obey my order, or I will punish you." Workers in these situations generally do not choose their boss and are physically punished if they do not follow orders.**
 
-For example, in US chattel slavery before the US Civil War, if a slave did not pick enough cotton in a day, the boss would whip them severely to motivate higher performance the next day.[xxx-half has never been told|1805-1861] "Chattel" means property, and chattel slavery is a system where some people can legally own others as property. Prisoners likewise do not get to choose their boss or their kind of work, and plenty of stories from the present-day United States, Russia, and other countries describe severe physical and sexual punishments for prisoners that disobey orders.[xxx-odoc|ch24]**
+In chattel slavery, where one person can legally own another as property, the chattel slave doesn't get to pick the slaveowner, nor choose which jobs to do. Prisoners likewise do not get to choose their boss or their kind of work, and plenty of stories from the present-day United States, Russia, and other countries describe severe physical and sexual punishments for prisoners that disobey orders.[xxx-odoc|ch24]**
 
-Militaries are command economies as well. When there is a draft, governments force people to join the military. Even when people volunteer, militaries commonly do not let soldiers leave at will for years after joining. Soldiers commonly don't choose their boss (commanding officer) and are imprisoned if they disobey orders.
+Militaries are command economies as well. When there is a draft, governments force people to join the military, and soldiers usually cannot choose their commanding officer nor their assignment.**
 
 Whether the workers are trying to avoid punishment or poverty, or the leaders are trying to get rich, every role helps reinforce the profit economy that ultimately generates wealth for the ruling class.
 
@@ -119,6 +115,8 @@ This healthy-nation attitude to gift-giving stems from the deep recognition that
 
 Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever a big challenge arises.
 
+Gift economies also make it easier to have integrity. When a person isn't afraid of poverty, it becomes easier to face reality, even when it's unpleasant.**
+
 In nations that expect everybody to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"[xxx-original instructions|armstrong]
 
 In nations that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy nation. Widespread selfishness is the result.
@@ -129,6 +127,10 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
 
 ### References
+
+[xxx-coal climate change]
+
+[xxx-weapons-used]
 
 [xxx-canada lazy indian]-aaa (Taylor-Neu et al., 2018)
 
@@ -157,11 +159,5 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 [xxx-half has never been told|1805-1861]-aaa (Baptist, 2014, "1805-1861")
 
 [xxx-basket interview]-aaa (N. Basket, personal communication, August 5, 2023)
-
-[xxx-tandf bangladesh we demand work]-aaa (Gardner, 2018)
-
-[xxx-washpo we demand work]-aaa (Berbard, 2021)
-
-[xxx-communists and the fight for jobs and revolution]-aaa (Green & Isaacson, 2012)
 
 [xxx-indian child life|early hardships]-aaa (Eastman (Ohiyesa), 2008, "Early Hardships")
