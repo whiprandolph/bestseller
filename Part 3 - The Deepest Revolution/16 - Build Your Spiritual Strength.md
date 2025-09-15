@@ -39,7 +39,7 @@ When I notice and feel gratitude for others' gifts, it makes it hard for me not 
 
 I started out seeing the forest as a "green wall." I liked walking through trees, but I hardly knew anything about them or the other creatures that lived there. I would have missed the forest if it was gone, but I mostly lived inside and focused on human affairs.
 
-But I kept going to my sit spot to observe the nonhumans, and I kept studying my field guides and reference books, and listening to my mentors' stories and suggestions. When I traveled or lived in cities, I found parks or even a back porch to practice observing every day. And I learned how to notice and receive the gifts of the Earth, so that as I walk around I literally see gifts everywhere I look.**
+But I kept going to my sit spot to observe the nonhumans, and I kept studying my field guides and reference books, and listening to my mentors' stories and suggestions. When I traveled or lived in cities, I found parks or even a back porch to practice observing every day. And I learned how to notice and receive the gifts of the Earth, so that as I walk around I literally see gifts everywhere I look.
 
 The cedar and basswood trees offer me the tools to make fire, and now whenever I see these trees, I see the gift of fire, and all the fire's gifts such as warmth, cooking and camaraderie with friends.
 
@@ -47,7 +47,7 @@ Chestnut trees and oaks give the gifts of food, the same as herbs like chickweed
 
 Stinging nettle has helped me relieve joint pain, and I've witnessed lobelia used in first aid to open a person's airways when they suffered a strong allergic response and struggled to breathe.
 
-Yucca has offered me its leaves to make cordage, and miscanthus grass has helped me make a watertight roof to live under.
+Yucca has offered me its leaves to make rope, and miscanthus grass has helped me make a watertight roof to keep me dry.
 
 I learned to receive intangible gifts too -- the delight at seeing the sun reflect off the dew in the morning, or cooling off in a stream on a hot summer day. I was grateful to the plants I couldn't use directly, because they offered food and homes to birds and other animals that I was happy to have as company.
 
@@ -102,7 +102,7 @@ I spent most of the time feeling stressed, because I was so used to having distr
 
 Before the fast, I often felt stressed, and it was difficult for me to savor sensual pleasures. I rarely even tasted my food, as I commonly read books or news articles or watched videos while I ate. I'd learned to distract myself from the deep dissatisfaction I was feeling.
 
-I had no great insight during this fast. I just slowly calmed down. I never felt hungry, and only occasionally felt thirsty. But I knew from previous fasting what it's like to eat or drink water out of nervousness, so I knew not to worry, and my thirst quickly went away.
+I had no great insight during this fast. I just slowly calmed down. I never felt hungry, and only occasionally felt thirsty. I knew from previous fasting what it's like to eat or drink water out of nervousness, so I knew not to worry, and my thirst quickly went away.
 
 Finally I ended the fast with some herbal tea. As I savored the tea, I thought about how I would normally read or watch a video while drinking, and I was filled with revulsion. The thought of distracting myself from my own meaningful experience was terrible, even though just four days earlier it had seemed entirely normal.
 
@@ -179,7 +179,7 @@ A person has spiritual strength if they give their deepest love in each moment w
 
 ### You Are a Messiah
 
-One of the biggest lies in history is that there can only be one Messiah. But "messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
+One of the biggest lies in history is that there can only be one messiah. But "messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
 
 And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or too afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it difficult to form deep relationships of reciprocity with people and the Earth.
 

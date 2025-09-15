@@ -132,6 +132,8 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 [xxx-weapons-used]
 
+[xxx-odoc|ch10]
+
 [xxx-canada lazy indian]-aaa (Taylor-Neu et al., 2018)
 
 [xxx-australia lazy indian]-aaa (Indigenous Australian Peoples and Work: Examining Worklife Histories | SpringerLink, n.d.)

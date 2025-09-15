@@ -155,28 +155,29 @@
 </td><td><a href="#cite_Chapter_7_6_src" id="cite_Chapter_7_6_dest" style="text-decoration:none">6</a>. (kswheeler, 2011)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_7_src" id="cite_Chapter_7_7_dest" style="text-decoration:none">7</a>. (Taylor-Neu et al., 2018)<br/>
-</td><td><a href="#cite_Chapter_7_8_src" id="cite_Chapter_7_8_dest" style="text-decoration:none">8</a>. (Indigenous Australian Peoples and Work: Examining Worklife Histories | SpringerLink, n.d.)<br/>
+<tr><td><a href="#cite_Chapter_7_7_src" id="cite_Chapter_7_7_dest" style="text-decoration:none">7</a>. (author, date)<br/>
+</td><td><a href="#cite_Chapter_7_8_src" id="cite_Chapter_7_8_dest" style="text-decoration:none">8</a>. (Taylor-Neu et al., 2018)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_9_src" id="cite_Chapter_7_9_dest" style="text-decoration:none">9</a>. ("It Is Difficult to Get a Man to Understand Something When His Salary Depends Upon His Not Understanding It," 2017)<br/>
-</td><td><a href="#cite_Chapter_7_10_src" id="cite_Chapter_7_10_dest" style="text-decoration:none">10</a>. (author, date)<br/>
+<tr><td><a href="#cite_Chapter_7_9_src" id="cite_Chapter_7_9_dest" style="text-decoration:none">9</a>. (Indigenous Australian Peoples and Work: Examining Worklife Histories | SpringerLink, n.d.)<br/>
+</td><td><a href="#cite_Chapter_7_10_src" id="cite_Chapter_7_10_dest" style="text-decoration:none">10</a>. ("It Is Difficult to Get a Man to Understand Something When His Salary Depends Upon His Not Understanding It," 2017)<br/>
 </td></tr>
 
 <tr><td><a href="#cite_Chapter_7_11_src" id="cite_Chapter_7_11_dest" style="text-decoration:none">11</a>. (author, date)<br/>
-</td><td><a href="#cite_Chapter_7_12_src" id="cite_Chapter_7_12_dest" style="text-decoration:none">12</a>. (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")<br/>
+</td><td><a href="#cite_Chapter_7_12_src" id="cite_Chapter_7_12_dest" style="text-decoration:none">12</a>. (author, date)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_13_src" id="cite_Chapter_7_13_dest" style="text-decoration:none">13</a>. (N. Basket, personal communication, August 5, 2023)<br/>
-</td><td><a href="#cite_Chapter_7_14_src" id="cite_Chapter_7_14_dest" style="text-decoration:none">14</a>. (Eastman (Ohiyesa), 2008, "Early Hardships")<br/>
+<tr><td><a href="#cite_Chapter_7_13_src" id="cite_Chapter_7_13_dest" style="text-decoration:none">13</a>. (Randolph, 2024, "Chapter 24: Sexual Discrimination vs Sexual Equality")<br/>
+</td><td><a href="#cite_Chapter_7_14_src" id="cite_Chapter_7_14_dest" style="text-decoration:none">14</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_15_src" id="cite_Chapter_7_15_dest" style="text-decoration:none">15</a>. (N. Basket, personal communication, August 5, 2023)<br/>
-</td><td><a href="#cite_Chapter_7_16_src" id="cite_Chapter_7_16_dest" style="text-decoration:none">16</a>. (Kimmerer, 2013, "The Gift of Strawberries")<br/>
+<tr><td><a href="#cite_Chapter_7_15_src" id="cite_Chapter_7_15_dest" style="text-decoration:none">15</a>. (Eastman (Ohiyesa), 2008, "Early Hardships")<br/>
+</td><td><a href="#cite_Chapter_7_16_src" id="cite_Chapter_7_16_dest" style="text-decoration:none">16</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td></tr>
 
-<tr><td><a href="#cite_Chapter_7_17_src" id="cite_Chapter_7_17_dest" style="text-decoration:none">17</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
-</td><td></td></tr>
+<tr><td><a href="#cite_Chapter_7_17_src" id="cite_Chapter_7_17_dest" style="text-decoration:none">17</a>. (Kimmerer, 2013, "The Gift of Strawberries")<br/>
+</td><td><a href="#cite_Chapter_7_18_src" id="cite_Chapter_7_18_dest" style="text-decoration:none">18</a>. (Nelson, 2008, "An Okanagan Worldview of Society")<br/>
+</td></tr>
 
 <tr><td><b>Chapter 8: Why Don't More People Stand Together?</b></td></tr><tr><td><a href="#cite_Chapter_8_1_src" id="cite_Chapter_8_1_dest" style="text-decoration:none">1</a>. (N. Basket, personal communication, August 5, 2023)<br/>
 </td><td><a href="#cite_Chapter_8_2_src" id="cite_Chapter_8_2_dest" style="text-decoration:none">2</a>. (King Jr, 1963)<br/>

@@ -118,11 +118,11 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
-</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback if they see you making a mistake.</div></div>
+</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback when they see you making a mistake.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty**</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty</div>
 </b><div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, practice acknowledging the problematic behavior, the impact it had, and what behavior you would rather see without putting the other person down or making any hurtful or dismissive comments towards them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
 
 
