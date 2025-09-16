@@ -147,9 +147,9 @@ def verify(toc_data, pdf, phys):
     assert checks['chap18'] == toc_data["Part 3 - The Deepest Revolution"][4][1], "chap 18 page num is off (exp: %s, is: %s)" % (checks['chap18'], toc_data["Part 3 - The Deepest Revolution"][4][1])
     assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
 
-    assert toc_data["Part 1 - This Is Who We Really Are"][0][1] % 2 == 0, "part 1 page num is even"
-    assert toc_data["Part 2 - Why Are We So Lost"][0][1] % 2 == 0, "part 2 page num is even"
-    assert toc_data["Part 3 - The Deepest Revolution"][0][1] % 2 == 0, "part 3 page num is even"
+    assert toc_data["Part 1 - This Is Who We Really Are"][0][1] % 2 == 1, "part 1 page num is even"
+    assert toc_data["Part 2 - Why Are We So Lost"][0][1] % 2 == 1, "part 2 page num is even"
+    assert toc_data["Part 3 - The Deepest Revolution"][0][1] % 2 == 1, "part 3 page num is even"
   except AssertionError as exc:
     pp(toc_data)
     print("ERROR in ToC Validation (phys=%s): %s" % (phys, exc))
@@ -177,11 +177,11 @@ def output_table(toc_data, dimensions, phys):
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
-  md.write("<body>\n\n<br/><br/><br/><br/><br/><br/><br/>")
+  md.write("<body>\n\n<br/><br/><br/><br/><br/><br/><br/><br/><br/>")
   md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
   md.write("<h4>William Randolph</h4><br/></center>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")

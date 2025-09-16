@@ -15,7 +15,7 @@ def output_biblio(biblio_dict):
         final_biblio.write(f"# Bibliography\n\n<table id=\"biblio_table\"><tbody>")
         for key, value in biblio_dict.items():
             if value['index']:
-                final_biblio.write(f"<tr><td colspan=\"2\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\">{value['index']}DOTHERE {value['original']}</div></td></tr>\n")
+                final_biblio.write(f"<tr><td colspan=\"2\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\"><span style=\"font-weight:bold\">{value['index']}DOTHERE</span> {value['original']}</div></td></tr>\n")
 
             else:
                 final_biblio.write(f"<tr><td colspan=\"2\"><div class=\"biblio-div\">{value['original']}</div></td></tr>\n")
@@ -25,7 +25,7 @@ def output_biblio(biblio_dict):
                         final_biblio.write("<tr><td class=\"half-cell\">")
                     else:
                         final_biblio.write("<td>")
-                    final_biblio.write(f"\t<div class=\"biblio-div\" id=\"cite_{sub_entry[0]}_dest\">{sub_entry[0]}DOTHERE {sub_entry[2]}</div>\n")
+                    final_biblio.write(f"\t<div class=\"biblio-div\" id=\"cite_{sub_entry[0]}_dest\"><span style=\"font-weight:bold\">{sub_entry[0]}DOTHERE</span> {sub_entry[2]}</div>\n")
                     if left_side:
                         final_biblio.write("</td>")
                     else:

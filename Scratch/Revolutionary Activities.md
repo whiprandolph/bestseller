@@ -68,7 +68,7 @@
 ### 08 - Why Don't More People Stand Together
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #12<br/>Channel your anger</div>
-</b><div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of other people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
+</b><div class="rev-act-body">How do you feel reading about such profound corruption in the "justice system"? How do you feel knowing that, since you live in an unfree, unhealthy nation, you would be punished if you confronted legal authorities to seek real justice for the prisoners?<br/><br/>If you feel anger or other difficult feelings reading about this, that's ok. The energy behind those feelings is a gift; it's the energy that can motivate you to help stand for real justice. Remember that you're not alone, and plenty of people want justice just like you. Find a productive way to channel that energy, such as by confronting injustices where you live, educating others, or helping found a new healthy nation where people would never tolerate such abuses.</div></div>
 
 
 
@@ -184,7 +184,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
-</b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address (Chapter 11) -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
+</b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
 
 
 

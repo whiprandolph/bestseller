@@ -18,7 +18,7 @@ Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the des
 
 This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 14), or that you live in a free society (Chapter 6).
 
-But in order for Jesus Christ, Don Cox, Bogaletch Gebre, and many other spiritual leaders to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
+But in order for spiritual leaders like Jesus Christ, Don Cox, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
 Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on authoritarian democracy or divinely-ordained monarchy when you see how actually-free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
 

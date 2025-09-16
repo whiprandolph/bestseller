@@ -21,6 +21,7 @@ Barrett, S. (2010). Geronimo's Story of His Life. Project Gutenberg.
 Basket, N. (2023, August 5). Nancy Basket Interview [Personal communication].
 Baum, D. (2016, April). Legalize It All. Harper's Magazine, April 2016. https://harpers.org/archive/2016/04/legalize-it-all/
 Bettelheim, B. (1943). Individual and Mass Behavior in Extreme Situations. Journal of Abnormal and  Social Psychology, XXXVIII(4), 417–452. https://doi.org/10.1037/h0061208
+Binswanger, I. A., Stern, M. F., & Et al. (2007). Release from Prison-A High Risk of Death for Former Inmates. New England Journal of Medicine, 356(2), 157–165. https://doi.org/10.1056/NEJMsa064115
 Blumberg, N. (2025, August 3). The Star-Spangled Banner | USA, National Anthem, Lyrics, Song, & Meaning | Britannica. Encyclopedia Britannica. https://www.britannica.com/topic/The-Star-Spangled-Banner
 Boissoneault, L. (2017, February 21). The True Story of the Reichstag Fire and the Nazi Rise to Power. Smithsonian Magazine. https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/
 Bradford, S. (2020). Harriet, the Moses of Her People. Project Gutenberg. https://www.gutenberg.org/ebooks/9999
@@ -173,6 +174,7 @@ The First Discourse of the Buddha. (n.d.). Vipassana Research Institute. Retriev
 The global scale of child sexual abuse in the Catholic Church. (2021, October 5). Al Jazeera. https://www.aljazeera.com/news/2021/10/5/awful-truth-child-sex-abuse-in-the-catholic-church
 The Quran (M. Khattab, Trans.). (n.d.).
 Thoreau, H. D. (2021). Walden. Project Gutenberg. https://www.gutenberg.org/files/205/205-h/205-h.htm
+Tims, F., & Ludford, J. (Eds.). (1983). Drug Abuse Treatment Evaluation: Strategies, Progress, and Prospects. Department of Health and Human Services, Public Health Service, Alcohol, Drug Abuse, and Mental Health Administration. https://archives.nida.nih.gov/sites/default/files/monograph51.pdf
 Tremlett, G. (2002, November 27). Portugal's elite linked to paedophile ring. The Guardian. https://www.theguardian.com/world/2002/nov/27/childprotection.uk
 Tremlett, G. (2010, September 3). Carlos Cruz sentenced to seven years for paedophile offences. The Guardian. https://www.theguardian.com/world/2010/sep/03/portugal-paedophile-ring
 Trigger, B. (1969). The Huron Farmers of the North. Holt, Rinehart and Winston.
@@ -183,6 +185,7 @@ Unger, C. (2018, December 4). Bush's sordid Saudi ties set template for Trump �
 Urban Reform Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-de-reforma-urbana/
 Vasili Arkhipov: The Unsung Hero Who Saved the World from Nuclear Annihilation. (2024, May 26). History Tools. https://www.historytools.org/stories/vasili-arkhipov-the-unsung-hero-who-saved-the-world-from-nuclear-annihilation
 Vestal, S. (with Grinnell, G.). (1955). The Fighting Cheyennes. University of Oklahoma Press.
+Volkow, N. (2021, June 8). Addiction Should Be Treated, Not Penalized. NIMHD Insights. https://blog.nimhd.nih.gov/archives-2021/news_feed/addiction-should-be-treated-not-penalized
 Wall Street's Ongoing Crime Spree. (2022). Better Markets. https://bettermarkets.org/wp-content/uploads/2022/05/BetterMarkets_Wall_Street_RAP_Sheet_Report_052022.pdf
 War is Boring. (2014, July 8). The U.S. Names Lots of Weapons After Native Americans. Medium. https://medium.com/war-is-boring/twenty-u-s-weapons-named-after-native-americans-8b88e2c7ed12
 Weiss, I. (2024, May 26). Kevin O'Leary's dystopian fantasy of ruining the lives of campus protesters. The Hill. https://thehill.com/opinion/technology/4686937-kevin-olearys-dystopian-fantasy-of-ruining-the-lives-of-campus-protesters/
