@@ -36,7 +36,7 @@
 </td><td>	<div class="biblio-div" id="cite_30_dest">30DOTHERE p. 81</div>
 </td></tr><tr><td colspan="2"><div class="biblio-div">Cameron, A. (1981). Daughters of Copper Woman. Press Gang Publishers.</div></td></tr>
 <tr><td class="half-cell">	<div class="biblio-div" id="cite_31_dest">31DOTHERE pp. 101-102</div>
-</td><td>	<div class="biblio-div" id="cite_32_dest">32DOTHERE p. 109</div>
+</td><td>	<div class="biblio-div" id="cite_32_dest">32DOTHERE pp. 109-112</div>
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_33_dest">33DOTHERE p. 11</div>
 </td><td>	<div class="biblio-div" id="cite_34_dest">34DOTHERE p. 112</div>
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_35_dest">35DOTHERE p. 62</div>
@@ -256,7 +256,7 @@
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_219_dest">219DOTHERE Chapter "Chapter 25: Sexual Freedom vs Sexual Repression"</div>
 </td><td>	<div class="biblio-div" id="cite_220_dest">220DOTHERE Chapter "Chapter 32: A Study in Privilege and World-Shaping - the Police"</div>
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_221_dest">221DOTHERE Chapter "Chapter 36: Sabotaging Efforts at Deep Cultural Healing"</div>
-</td><td>	<div class="biblio-div" id="cite_222_dest">222DOTHERE Chapter "Chapter 40: Enough! - The Zapatistas' Successful Revolution"</div>
+</td><td>	<div class="biblio-div" id="cite_222_dest">222DOTHERE Chapter "Chapter 40: Enough! - The Zapatistas' Deep Revolution"</div>
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_223_dest">223DOTHERE Chapter "Chapter 47: Embracing the Sacred Masculine"</div>
 </td><td>	<div class="biblio-div" id="cite_224_dest">224DOTHERE Chapter "Chapter 6: Blind Belief 1 - When People Ignore Reality to Maintain Safety and Comfort"</div>
 </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_225_dest">225DOTHERE Revolutionary Agriculture Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/</div></td></tr>
@@ -326,9 +326,10 @@
 <tr><td colspan="2"><div class="biblio-div" id="cite_278_dest">278DOTHERE Wimpee, R. (2020, November 4). Funding a Social Movement: The Ford Foundation and Civil Rights, 1965-1970. RE:Source. https://resource.rockarch.org/story/philanthropy-social-movements-ford-foundation-civil-rights-1965-1970/</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div">Young, J. (n.d.-a). Kamana Three: Nature Awareness Trail (M. Wild, L. Cunio, & D. Gardoqui, Eds.; Vol. 3). Owlink Media.</div></td></tr>
 <tr><td class="half-cell">	<div class="biblio-div" id="cite_279_dest">279DOTHERE p. 14</div>
-</td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div">Young, J. (n.d.-b). Kamana Two: Nature Awareness Trail (M. Wild & L. Cunio, Eds.; Vol. 2). Owlink Media.</div></td></tr>
-<tr><td class="half-cell">	<div class="biblio-div" id="cite_280_dest">280DOTHERE p. 1</div>
-</td><td>	<div class="biblio-div" id="cite_281_dest">281DOTHERE p. 7</div>
-</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_282_dest">282DOTHERE p. ix</div>
-</td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_283_dest">283DOTHERE Zituni, D. (2024, May 24). New Report Analyzes Crackdown on Palestine Solidarity in the U.S. Palestine Legal. https://palestinelegal.org/news/2024/5/23/new-report-analyzes-crackdown-on-palestine-solidarity-in-the-usnbsp</div></td></tr>
+</td><td>	<div class="biblio-div" id="cite_280_dest">280DOTHERE p. 15</div>
+</td></tr><tr><td colspan="2"><div class="biblio-div">Young, J. (n.d.-b). Kamana Two: Nature Awareness Trail (M. Wild & L. Cunio, Eds.; Vol. 2). Owlink Media.</div></td></tr>
+<tr><td class="half-cell">	<div class="biblio-div" id="cite_281_dest">281DOTHERE p. 1</div>
+</td><td>	<div class="biblio-div" id="cite_282_dest">282DOTHERE p. 7</div>
+</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_283_dest">283DOTHERE p. ix</div>
+</td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_284_dest">284DOTHERE Zituni, D. (2024, May 24). New Report Analyzes Crackdown on Palestine Solidarity in the U.S. Palestine Legal. https://palestinelegal.org/news/2024/5/23/new-report-analyzes-crackdown-on-palestine-solidarity-in-the-usnbsp</div></td></tr>
 </tbody></table>

@@ -101,6 +101,8 @@ What are your gifts? What can you give or do or be that would open your heart an
 
 ### References
 
+[xxx-kamana 3 nat|15]-aaa (Young, n.d.-a, 15)
+
 [xxx-kamana 2 nat|7]-aaa (Young, n.d.-b, 7)
 
 [xxx-kamana 2 nat|ix]-aaa (Young, n.d.-b, ix)

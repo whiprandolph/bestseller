@@ -147,7 +147,7 @@ How do they do it? If a group of people wanted to live in such a beautiful way, 
 
 [xxx-original instructions|definition of indigenous knowledge]-aaa (Nelson, 2008, "Definition of Indigenous Knowledge")
 
-[xxx-odoc|ch40]-aaa (Randolph, 2024, "Chapter 40: Enough! - The Zapatistas' Successful Revolution")
+[xxx-odoc|ch40]-aaa (Randolph, 2024, "Chapter 40: Enough! - The Zapatistas' Deep Revolution")
 
 [xxx-from deep woods to civilization|civ college life east]-aaa (Eastman (Ohiyesa), 1916, "College Life in the East")
 

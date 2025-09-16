@@ -69,33 +69,33 @@ Can you imagine living in a society where everyone accepts responsibility for se
 
 In healthy nations, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.
 
-In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109]
+In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109-112]
 
-These "mirror" people were like magazine opinion writers who commented on all sorts of things. If a mirror thought that the council was about to do something foolish, they might show up at council and imitate one of the leader's every moves so that "every little wart on that person would show, every hole in their idea would suddenly look real big."
+These "mirror" people were like magazine opinion writers who commented on all sorts of things. If a mirror thought that the council was about to do something foolish, they might show up at council and imitate one of the leader's every moves so that "every little wart on that person would show, every hole in their idea would suddenly look real big."[xxx-daughters of copper woman|109-112]
 
-If a person were vain about their clothes, a mirror might follow behind them wearing tattered rags and their hair would be like a bird's nest full of mud and sticks, all looking similar to the vain person. If a person had a bad temper, a mirror might follow and have fits, hitting the sand with a rock or insulting birds and generally looking foolish. If a person became self-important, the mirror might follow along babbling like a baby, "until you finally heard what an ass you were bein'." And if a mirror started being mean or pushy, a second mirror might follow along and let the first one see how they were showing up.
+If a person were vain about their clothes, a mirror might follow behind them wearing tattered rags and their hair would be like a bird's nest full of mud and sticks, all looking similar to the vain person. If a person had a bad temper, a mirror might follow and have fits, hitting the sand with a rock or insulting birds and generally looking foolish. If a person became self-important, the mirror might follow along babbling like a baby, "until you finally heard what an ass you were bein'." And if a mirror started being mean or pushy, a second mirror might follow along and let the first one see how they were showing up.[xxx-daughters of copper woman|109-112]
 
-The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how ridiculous it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."
+The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how ridiculous it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."[xxx-daughters of copper woman|109-112]
 
-Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.
+Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.[xxx-daughters of copper woman|109-112]
 
-One day, a mirror woman from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else. 
+One day, a mirror woman from a nearby community arrived at the church. Like the white man, she wore a big black hat and a black jacket. She even wore old rundown shoes someone had thrown away. Unlike the white man, she wore nothing else.[xxx-daughters of copper woman|109-112]
 
-She moved to the front and waited for church to start.
+She moved to the front and waited for church to start.[xxx-daughters of copper woman|109-112]
 
-The preacher got very upset, but everyone else looked at her respectfully. No one mocked her or looked away to avoid her nakedness.
+The preacher got very upset, but everyone else looked at her respectfully. No one mocked her or looked away to avoid her nakedness.[xxx-daughters of copper woman|109-112]
 
-The preacher started ranting about nudity, naked women, sin, and respect for God. Then he came down from his pulpit and grabbed the mirror to throw her out!
+The preacher started ranting about nudity, naked women, sin, and respect for God. Then he came down from his pulpit and grabbed the mirror to throw her out![xxx-daughters of copper woman|109-112]
 
-Acting violently towards a mirror was absolutely not allowed, and the storyteller said, "The people just about ripped him apart." But the mirror protected him from the crowd, went up to where the preacher had been, and began speaking.
+Acting violently towards a mirror was absolutely not allowed, and the storyteller said, "The people just about ripped him apart." But the mirror protected him from the crowd, went up to where the preacher had been, and began speaking.[xxx-daughters of copper woman|109-112]
 
-The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by people who looked and acted differently. Then she reminded her neighbors of the beauty of their respectful way of life when she said, "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd about following anybody "who was so mixed up they'd do forbidden things."
+The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by people who looked and acted differently. Then she reminded her neighbors of the beauty of their respectful way of life when she said, "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd about following anybody "who was so mixed up they'd do forbidden things."[xxx-daughters of copper woman|109-112]
 
 I feel impressed that this woman calmly but clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story showed me that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
 
 This story showed me what it's like when everyone in a nation upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone had the spiritual strength to uphold them.
 
-And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.
+And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.[xxx-daughters of copper woman|109-112]
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Support someone else when they take a stand</div>
 <div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her if she were attacked? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
@@ -124,7 +124,7 @@ For many of us, we and our ancestors have been trapped in this way of life for a
 
 [xxx-american riot]-aaa (Sloan, 2020)
 
-[xxx-daughters of copper woman|109]-aaa (Cameron, 1981, 109)
+[xxx-daughters of copper woman|109-112]-aaa (Cameron, 1981, 109-112)
 
 [xxx-venezuelan riot]-aaa (Cubillos, 2018)
 

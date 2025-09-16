@@ -38,9 +38,9 @@ This world is possible. Healthy nations do not have child sexual abuse. When the
 
 The Nootkas' response showed me that they had never experienced child sexual assault until encountering an unhealthy nation:
 
-_"...The people had no way of understandin' what had happened. There'd never been anythin' like this in all the time since the beginning of life, and so they could only stare at the proof of horror and feel numb shock. They could see what had been done, but they couldn't understand how, or why. It had been hard enough to believe the Keestadores [conquistadors] would force a grown woman to have sex when they didn't want, but the thought of sex with a child was just too horrible for the people to even imagine, so they didn't know what to think._
+_"...The people had no way of understandin' what had happened. There'd never been anythin' like this in all the time since the beginning of life, and so they could only stare at the proof of horror and feel numb shock. They could see what had been done, but they couldn't understand how, or why. It had been hard enough to believe the Keestadores [conquistadors] would force a grown woman to have sex when they didn't want, but the thought of sex with a child was just too horrible for the people to even imagine, so they didn't know what to think._[xxx-daughters of copper woman|p73-74]
 
-_The old woman examined both the babies, and it was as if the sure evidence of what she found shook the centrepost of all creation, and threatened the here and now as well as the past and future..."_
+_The old woman examined both the babies, and it was as if the sure evidence of what she found shook the centrepost of all creation, and threatened the here and now as well as the past and future..."_[xxx-daughters of copper woman|p73-74]
 
 This story was transformative for me. The Nootka lived without child sexual assault until they encountered an unhealthy nation. This taught me that it is possible for a whole nation to have _zero_ child sexual assault.
 
@@ -76,7 +76,7 @@ Countless stories of child abuse in Catholic boarding schools from around the wo
 
 Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for terrible troubles like drunkenness, shame, and domestic violence to take hold that seem so tragically widespread in every unhealthy nation. This proves again that humans didn't "evolve" to live in unhealthy nations; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
 
-While every instance of conquering is unique, they are all similarly traumatic. That means your ancestors went through something just as traumatic as the Nootka and Lakota. The only difference is that your ancestors went through it decades, centuries, or maybe millennia ago, and those stories are no longer passed down so you don't know them. Thus drug and alcohol abuse, despair, domestic violence, and the other widespread troubles may now seem normal or "just how life is."
+While every instance of conquering is unique, they are all similarly traumatic. That means your ancestors went through something just as traumatic as the Nootka and Lakota. Your ancestors went through it decades, centuries, or maybe millennia ago, and if you don't remember those stories, it's only because those stories are no longer passed down. Thus drug and alcohol abuse, despair, domestic violence, and the other widespread troubles may now seem normal or "just how life is."
 
 But just because you are not aware of what your ancestors went through does not mean it did not happen. Those ancient traumas that your ancestors endured were never fully healed, and they still affect us today.
 
@@ -86,7 +86,7 @@ Mistreatment of children has a profound effect on our politics, because people's
 
 The _True Americanism_ study interviewed 40 men, 25 who volunteered to fight in the Vietnam war and 15 who took a stand to end that war, even at great personal risk. In the large majority of war volunteers, the men had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."[xxx-true americanism|p50]<sup>,</sup>[xxx-true americanism|p25]
 
-The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "many people have got their thumb in the pie over there..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..."
+The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "many people have got their thumb in the pie over there..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..."[xxx-true americanism|p151]
 
 In other words, these men clearly had learned to ignore their own dignity and sense of right and wrong. They were not offering their sacred gifts. Instead of walking the most meaningful life imaginable, they were willing to be cogs in a machine they knew was corrupt.[xxx-true americanism|p151]
 
@@ -102,9 +102,9 @@ Abusive or deprived childhoods profoundly affect people's capacity for pleasure 
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
 
-When children are trained for obedience, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
+When children are trained for obedience, and child abuse and deprivation can cause deep insecurities, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
 
-Child abuse or deprivation aren't all-or-nothing, with some people growing up with far more than others. Nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.
+Child abuse or deprivation aren't all-or-nothing. Some people grow up with far more than others, and nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.
 
 These emotional troubles can also make it difficult to connect with partners in romantic and spousal relationships, limiting the depth of connection and trust many people can experience even in their families.
 

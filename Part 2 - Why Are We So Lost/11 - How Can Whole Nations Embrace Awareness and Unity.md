@@ -40,13 +40,13 @@ But this is not the only way that cultivating a practical, aware gratitude can h
 
 The Haudenosaunee showed me the kind of unity that comes from these nature connection practices. They have a very special Thanksgiving Address where they methodically go through different forms of life and give thanks to each. They thank the medicine herbs for removing sickness and the fish for purifying water. They give thanks to the trees for providing shelter and food. They give thanks to all the divine beings who give so much to create the web of life that we're all part of.
 
-The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:[xxx-kamana 2 nat|p1]
+The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:
 
-> Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings.
+> Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings.[xxx-kamana 2 nat|p1]
 
-> We have now become like one being, with one body, one heart, one mind. We send our Prayers and special Thanksgiving Greetings to all the unborn Children of all the Future Generations. We send our thoughts to the many different Beings we may have missed during our Thanksgiving. With one mind we send our Thanksgiving and Greetings to all of the Nations of the World.
+> We have now become like one being, with one body, one heart, one mind. We send our Prayers and special Thanksgiving Greetings to all the unborn Children of all the Future Generations. We send our thoughts to the many different Beings we may have missed during our Thanksgiving. With one mind we send our Thanksgiving and Greetings to all of the Nations of the World.[xxx-kamana 2 nat|p1]
 
-> Now our minds are one.
+> Now our minds are one.[xxx-kamana 2 nat|p1]
 
 Healthy nations generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
