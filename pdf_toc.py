@@ -7,7 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
-SAMPLE = True
+SAMPLE = False
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
@@ -97,9 +97,23 @@ def verify(toc_data, pdf, phys):
     return
   phys_checks = {
     'chap2':11,
+    'chap3':20,
+    'chap4':29,
+    'chap5':35,
+    'chap6':42,
+    'chap7':51,
     'chap8':61,
-    'chap15':154,
-    'page_count':201,
+    'chap9':76,
+    'chap10':95,
+    'chap11':107,
+    'chap12':112,
+    'chap13':120,
+    'chap14':135,
+    'chap15':149,
+    'chap16':155,
+    'chap17':169,
+    'chap18':183,
+    'page_count':198,
   }
   online_checks = {
     'chap2':11,
@@ -114,9 +128,23 @@ def verify(toc_data, pdf, phys):
 
   # sanity checks
   try:
-    assert 'Chapter 2' in toc_data["Part 1 - This Is Who We Really Are"][2][0] and checks['chap2'] == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off"
-    assert 'Chapter 8' in toc_data["Part 2 - Why Are We So Lost"][3][0] and checks['chap8'] == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off"
-    assert 'Chapter 15' in toc_data["Part 3 - The Deepest Revolution"][1][0] and checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 15 page num is off (exp: %s, is: %s)" % (checks['chap15'], toc_data["Part 3 - The Deepest Revolution"][1][1])
+    assert checks['chap2'] == toc_data["Part 1 - This Is Who We Really Are"][2][1], "chapter 2 page num off (exp: %s, is: %s)" % (checks['chap2'], toc_data["Part 1 - This Is Who We Really Are"][2][1])
+    assert checks['chap3'] == toc_data["Part 1 - This Is Who We Really Are"][3][1], "chapter 3 page num off (exp: %s, is: %s)" % (checks['chap3'], toc_data["Part 1 - This Is Who We Really Are"][3][1])
+    assert checks['chap4'] == toc_data["Part 1 - This Is Who We Really Are"][4][1], "chapter 4 page num off (exp: %s, is: %s)" % (checks['chap4'], toc_data["Part 1 - This Is Who We Really Are"][4][1])
+    assert checks['chap5'] == toc_data["Part 1 - This Is Who We Really Are"][5][1], "chapter 5 page num off (exp: %s, is: %s)" % (checks['chap5'], toc_data["Part 1 - This Is Who We Really Are"][5][1])
+    assert checks['chap6'] == toc_data["Part 2 - Why Are We So Lost"][1][1], "chap 6 page num is off (exp: %s, is: %s)" % (checks['chap6'], toc_data["Part 2 - Why Are We So Lost"][1][1])
+    assert checks['chap7'] == toc_data["Part 2 - Why Are We So Lost"][2][1], "chap 7 page num is off (exp: %s, is: %s)" % (checks['chap7'], toc_data["Part 2 - Why Are We So Lost"][2][1])
+    assert checks['chap8'] == toc_data["Part 2 - Why Are We So Lost"][3][1], "chap 8 page num is off (exp: %s, is: %s)" % (checks['chap8'], toc_data["Part 2 - Why Are We So Lost"][3][1])
+    assert checks['chap9'] == toc_data["Part 2 - Why Are We So Lost"][4][1], "chap 9 page num is off (exp: %s, is: %s)" % (checks['chap9'], toc_data["Part 2 - Why Are We So Lost"][4][1])
+    assert checks['chap10'] == toc_data["Part 2 - Why Are We So Lost"][5][1], "chap 10 page num is off (exp: %s, is: %s)" % (checks['chap10'], toc_data["Part 2 - Why Are We So Lost"][5][1])
+    assert checks['chap11'] == toc_data["Part 2 - Why Are We So Lost"][6][1], "chap 11 page num is off (exp: %s, is: %s)" % (checks['chap11'], toc_data["Part 2 - Why Are We So Lost"][6][1])
+    assert checks['chap12'] == toc_data["Part 2 - Why Are We So Lost"][7][1], "chap 12 page num is off (exp: %s, is: %s)" % (checks['chap12'], toc_data["Part 2 - Why Are We So Lost"][7][1])
+    assert checks['chap13'] == toc_data["Part 2 - Why Are We So Lost"][8][1], "chap 13 page num is off (exp: %s, is: %s)" % (checks['chap13'], toc_data["Part 2 - Why Are We So Lost"][8][1])
+    assert checks['chap14'] == toc_data["Part 2 - Why Are We So Lost"][9][1], "chap 14 page num is off (exp: %s, is: %s)" % (checks['chap14'], toc_data["Part 2 - Why Are We So Lost"][9][1])
+    assert checks['chap15'] == toc_data["Part 3 - The Deepest Revolution"][1][1], "chap 15 page num is off (exp: %s, is: %s)" % (checks['chap15'], toc_data["Part 3 - The Deepest Revolution"][1][1])
+    assert checks['chap16'] == toc_data["Part 3 - The Deepest Revolution"][2][1], "chap 16 page num is off (exp: %s, is: %s)" % (checks['chap16'], toc_data["Part 3 - The Deepest Revolution"][2][1])
+    assert checks['chap17'] == toc_data["Part 3 - The Deepest Revolution"][3][1], "chap 17 page num is off (exp: %s, is: %s)" % (checks['chap17'], toc_data["Part 3 - The Deepest Revolution"][3][1])
+    assert checks['chap18'] == toc_data["Part 3 - The Deepest Revolution"][4][1], "chap 18 page num is off (exp: %s, is: %s)" % (checks['chap18'], toc_data["Part 3 - The Deepest Revolution"][4][1])
     assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
   except AssertionError as exc:
     pp(toc_data)
@@ -145,11 +173,11 @@ def output_table(toc_data, dimensions, phys):
   if dimensions:
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
-  md.write("<body>\n\n<br/><br/><br/><br/><br/>")
+  md.write("<body>\n\n<br/><br/><br/><br/><br/><br/><br/>")
   md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
   md.write("<h4>William Randolph</h4><br/></center>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")

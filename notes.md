@@ -244,7 +244,7 @@ Like Basket/MLK, this quran quote (Al-Quran Surah 5: Verse 32):  On the other ha
 
 ### some of us remember it
 
-One Nootka storyteller described the importance of remembering these kinds of stories and wisdom. She said their secrets were "proof there is another way [to live], a better way, and some of us remember it."[xxx-daughters copper woman|p146]
+One Nootka storyteller described the importance of remembering these kinds of stories and wisdom. She said their secrets were "proof there is another way [to live], a better way, and some of us remember it."[xxx-daughters copper woman|146]
 
 ### Big picture view
 

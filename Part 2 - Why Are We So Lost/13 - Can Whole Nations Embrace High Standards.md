@@ -95,7 +95,7 @@ Women and black people have essentially been offered a smaller serving of the sa
 
 And since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these ancient forms of discrimination persist today. As long as people accept submissive obedience as normal, they will have low standards, even for liberation movements.
 
-Instead of seeking real freedom, authorities in unhealthy nations trick people into thinking that "freedom" means being able to do whatever you want without financial restraint, and so the way to become free is to get rich. But this is faux-freedom, the ability to do whatever you want without restraint -- except for standing for what's right. As long as we run after money, we're not on a path to freedom.**
+Instead of seeking real freedom, authorities in unhealthy nations trick people into thinking that "freedom" means being able to do whatever you want without financial restraint, so the way to become free is to get rich. But this is faux-freedom, the ability to do whatever you want without restraint -- except for standing for what's right. As long as we run after money, we're not on a path to freedom.**
 
 Real freedom comes when everyone in a nation stands for what's right as a normal way of life, so everyone enjoys justice, shared resources, protection, and respect among their neighbors.
 
@@ -162,13 +162,15 @@ Anytime you fall short of your high standards, notice any feeling of guilt or sh
 
 And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. For example, bravery is the ability to remain conscious and do what you know is right even if you feel uncomfortable or afraid. To practice bravery, intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
-The book _One Disease One Cure_ contains many more suggestions for cultivating bravery, integrity, and other qualities.[xxx-odoc]
+The book _One Disease One Cure_ contains many more suggestions for cultivating bravery, integrity, and other qualities.
 
 Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. As long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
 
 Recall that "spirituality" means how you relate to yourself and the world. "Spiritual growth" simply means learning how to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by giving your sacred gifts, and living in reciprocity.**
 
-Recognizing two complementary truths will accelerate your spiritual growth. First, _you are already perfect,_ even with all your faults. Second, _you have unmet potential,_ and you must strive to fulfill it to give your deepest love. The first truth is about self-acceptance, and the second is about growth. Deep self-acceptance is the foundation for deep spiritual growth, so your growth will be limited without it. If you feel self-doubt or low self-worth, pause trying to grow and focus on total self-acceptance. You are perfect as you are now, faults and all, and you're basically ok. With this self-acceptance, see your unmet potential, and grow to meet it.**
+Recognizing two complementary truths will accelerate your spiritual growth. First, _you are already perfect,_ even with all your faults. Second, _you have unmet potential,_ and you must strive to fulfill it to give your deepest love. The first truth is about self-acceptance, and the second is about growth.
+
+Deep self-acceptance is the foundation for deep spiritual growth, so your growth will be limited without it. If you feel self-doubt or low self-worth, pause trying to grow and focus on total self-acceptance. You are perfect as you are now, faults and all, and you're basically ok. With this self-acceptance, see your unmet potential, and grow to meet it.**
 
 When you adopt these attitudes and hold yourself to a high standard, your rate of growth will increase. You will learn life lessons faster because you won't waste time feeling shame and guilt. Just notice your mistakes, learn from them, and move on.
 
@@ -210,8 +212,6 @@ Hold yourself and others to high standards of excellent behavior to create a cul
 [xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
 [xxx-red mother|p84]-aaa (Linderman, 1932, 84)
-
-[xxx-odoc]-aaa (Randolph, 2024)
 
 [xxx-odoc|ch47]-aaa (Randolph, 2024, "Chapter 47: Embracing the Sacred Masculine")
 

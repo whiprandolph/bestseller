@@ -28,23 +28,23 @@ Instead of merely obeying the law and tolerating these troubles, Christ consiste
 
 Consider how incredibly disobedient Jesus Christ was:
 
-* _Fed people illegally:_ Jesus Christ illegally fed hungry people on the Sabbath. (Mark 2:23-24)[xxx-bible|esv mark 2:23-24]
+* _Fed people illegally:_ Jesus Christ illegally fed hungry people on the Sabbath. (Mark 2:23-24)[xxx-bible esv|mark 2:23-24]
 
-* _Healed people illegally:_ Christ illegally healed people on the Sabbath. (Matthew 12:10, Mark 3:2)[xxx-bible|matthew 12:10]<sup>,</sup>[xxx-bible|mark 3:2]
+* _Healed people illegally:_ Christ illegally healed people on the Sabbath. (Matthew 12:10, Mark 3:2)[xxx-bible niv|matthew 12:10]<sup>,</sup>[xxx-bible niv|mark 3:2]
 
-* _Prioritized doing the right thing over following the law:_ When religious and legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. 
+* _Prioritized doing the right thing over following the law:_ When religious and legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible niv|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. 
 
-* _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible|esv mark 11:15-18]
+* _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible esv|mark 11:15-18]
 
 * _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
 
-* _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible|kjb luke 23:2] He did not deny the charges.[xxx-bible|esv matthew 27:12]
+* _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible kjb|luke 23:2] He did not deny the charges.[xxx-bible esv|matthew 27:12]
 
 * _Christ was killed like a revolutionary:_ Crucifixion was a punishment that the Romans used especially for revolutionaries. Christ and two other revolutionaries were nailed to a cross and left to die in a public place to scare others away from revolutionary activities.[xxx-worldhistory jewish zealots]
 
 Christ stood up for his people against oppressive authorities in wordly and spiritual ways, seeking to free his people from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission, as all oppressive governments do.
 
-Some Christians claim that Christ was obedient because he said, "Render unto Caesar that which is Caesar's," suggesting people should pay their taxes.[xxx-bible|mark 12:17] But revolutionaries commonly debate whether to pay their taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
+Some Christians claim that Christ was obedient because he said, "Give back to Caesar what is Caesar's," suggesting people should pay their taxes.[xxx-bible niv|mark 12:17] But revolutionaries commonly debate whether to pay their taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
 
 Unfortunately for the Roman authorities, Jesus was extremely inspirational, and a religion formed that continued to spread his teachings after he died. The revolutionary movement also continued, with a series of Jewish-Roman rebellions occurring between 66 and 135 CE. None were successful.[xxx-britannica jewish overview]
 
@@ -70,7 +70,7 @@ And what would be a highly effective way of accomplishing that? How about imposi
 
 Every religion has aspects of wisdom and beauty. However, when ruling classes impose an ideology or religion, they consistently twist or distort this ancient wisdom and beauty so that people learn to submit to authorities instead of personally stand for what's right. Unfortunately, this is essentially how religions like Christianity, Islam, and Buddhism train people for submissive obedience.
 
-This is sensitive stuff and I want to assure you that I am sticking to the known facts from recorded history. Roman emperor Theodosius imposed _his_ version of Christianity on ancient Rome, and he threatened severe punishment to anyone who didn't convert.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440] And what does the official Christian Bible say? According to 1-Peter 2:13: "Submit yourselves for the Lord's sake to every human authority: whether to the emperor, as the supreme authority, or to governors..."[xxx-bible|niv 1 peter 2:13]
+This is sensitive stuff and I want to assure you that I am sticking to the known facts from recorded history. Roman emperor Theodosius imposed _his_ version of Christianity on ancient Rome, and he threatened severe punishment to anyone who didn't convert.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440] And what does the official Christian Bible say? According to 1-Peter 2:13: "Submit yourselves for the Lord's sake to every human authority: whether to the emperor, as the supreme authority, or to governors..."[xxx-bible niv|1 peter 2:13]
 
 Islamic rulers have also propagated this same pro-obedience ideology in their religion. The Quran says, "O believers! Obey Allah and obey the Messenger and those in authority among you."[xxx-quran|4:59] And of course, plenty of other authoritarian religions train people to believe that God says to obey their rulers.
 
@@ -106,7 +106,7 @@ Of course, conquered people who feel afraid, nervous, dissatisfied, or miserable
 
 Deep pleasure is so integral to deep life satisfaction that many healthy nations have encouraged sexual pleasure outside the nuclear family, promoting solidarity and deep friendships. For example, some healthy nations such as the Kulina have special events where men and women can have sex with anyone they want except their spouse, promoting deep connections within and across communities. When sexual pleasure is discouraged, this way of building deep relationships and solidarity is also discouraged.[xxx-odoc|ch25]
 
-Religion is a major way that rulers have imposed sexism. Authoritarian religions commonly discourage solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible|kjb 1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
+Religion is a major way that rulers have imposed sexism. Authoritarian religions commonly discourage solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible kjb|1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
 
 If these holy books really are the Word of an All-Powerful God, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
 
@@ -118,7 +118,7 @@ Authoritarian ideologies train people to doubt their instincts, or see obedience
 
 And if people really are so terrible, then of course it's foolish to trust one's neighbors. Thus these beliefs discourage trust too.
 
-Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave,"[xxx-britannica usa anthem] and Christianity and Islam urge Christians and Muslims around the world to believe they are free even while obeying their authorities.[xxx-bible|niv 1 peter 2:16]<sup>,</sup>[xxx-islam freedom] Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise.[xxx-ussr worker paradise] And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
+Of course, once people have decided to submit, and forgotten what real freedom is like, rulers historically have tricked them into thinking they're free. That's why the USA calls itself "the land of the free and home of the brave,"[xxx-britannica usa anthem] and Christianity and Islam urge Christians and Muslims around the world to believe they are free even while obeying their authorities.[xxx-bible niv|1 peter 2:16]<sup>,</sup>[xxx-islam freedom] Focusing on economic "freedom" instead, the Soviet Union's government claimed it was fostering a revolutionary workers' paradise.[xxx-ussr worker paradise] And yet these are all merely different dictatorships, where a few people dictate the law and everyone else is expected to obey it.
 
 And what are the results of these hurtful religions and ideologies? Unhealthy nations around the world seem "just how life is" to countless inhabitants, including Americans, Chinese, Iraqis, Koreans, and others.
 
@@ -147,11 +147,9 @@ Muslims recognize Jesus Christ as a prophet, and Christians recognize Christ as 
 
 Christians, Muslims, and others endlessly debate when it's appropriate to be obedient, and how authorities can use their power "properly." But healthy nations show the truth: to have a way of life with no corruption, no greed, and no discrimination, where respect is normal, there should be _no unaccountable authorities_ and _no submissive obedience_.
 
-This is actually the root truth behind the _golden rule_, that ancient wisdom which authorities around the world have done their best to obscure. Jesus Christ said, "Do unto others as you would have others do unto you."[xxx-bible|luke 6:31] Buddhist scripture says, "Hurt not others with what pains yourself."[xxx-udanavarga|p252] A core Islamic Hadith (guidance) states "None of you will believe until you love for your brother what you love for yourself."[xxx-13th hadith]
+This is the root truth behind the _golden rule_, that ancient wisdom which authorities do their best to obscure. Jesus Christ said, "Do to others as you would have them do to you."[xxx-bible niv|luke 6:31] Buddhist scripture says, "Hurt not others with what pains yourself."[xxx-udanavarga|p252] A core Islamic Hadith (guidance) says "None of you will believe until you love for your brother what you love for yourself."[xxx-13th hadith]
 
 When everyone stands for what's right, and everyone expects everyone else in their society to do the same, then the golden rule will be fully realized: each person will treat everyone else as they would want to be treated. The golden rule simply describes the normal way of life in healthy nations.
-
-How is it possible to live in a way where everyone follows laws, and nations have strong leaders that serve their people, but no one obeys?
 
 Fewer people would believe obedience is so good and necessary if they knew what free societies are like where people live without submissive obedience. So let's look at some examples of ways of life without _any_ submissive obedience.
 
@@ -169,9 +167,9 @@ So how can a nation have leadership if no one obeys? It's simple: they _choose_ 
 
 Thus people in healthy nations _choose whom to follow, and only follow as long as they value the leader's direction._ This allows them to have strong leaders, but no rulers.
 
-Consider a military setting. In unhealthy nations, militaries are very strict hierarchies where each soldier is expected to follow orders of unaccountable leaders or be severely punished. Soldiers do not choose which commander or which orders to follow.
+Consider a military setting. In unhealthy nations, each soldier is expected to follow orders of commanders who are not accountable to the soldier, or be severely punished. Soldiers do not choose which commander or which orders to follow.
 
-Contrast that with a healthy-nation military. Apache man Geronimo said that warriors would assume various positions of leadership by common consent, and would only keep those positions as long as they led well.[xxx-geronimo autobio|preparation of a warrior]
+In comparison, Apache man Geronimo said that warriors would assume various positions of leadership by common consent, and would only keep those positions as long as they led well.[xxx-geronimo autobio|preparation of a warrior]
 
 That is, each individual accepted _personal responsibility_ to help choose excellent leaders, and to ensure they were leading well. If a leader disappointed them, they would choose someone else.
 
@@ -179,7 +177,7 @@ In this way, lower-ranked warriors would accept their leader's directions, but t
 
 This is normal in healthy-nation militaries: the warriors choose the best leaders and willingly follow them as long as they lead well, but there is zero submissive obedience. This explains why Sioux man Red Cloud said that, before colonization, "We were as free as the winds and like the eagle, heard no man's commands. We fought our enemies and feasted our friends."[xxx-black elk life of an american visionary|black robe days]
 
-Major Ana Maria described the clear hierarchy in the Zapatista military, and how she even needed permission to have sexual partners or get married. The military had strict rules to ensure they maintained cohesion and safety as they prepared and carried out their revolution. And yet, because they chose the best servant-leaders and avoided corruption, even this strict hierarchy and its rules were in service of the greater good, and Ana Maria willingly agreed.[xxx-ezln ramona san crist]
+Major Ana Maria described the hierarchy in the Zapatista military, and how she needed permission to have sexual partners or get married. The military had strict rules to ensure they maintained cohesion and safety as they prepared and carried out their revolution. And yet, because they chose the best servant-leaders and avoided corruption, even this strict hierarchy and its rules were in service of the greater good, and Ana Maria willingly agreed.[xxx-ezln ramona san crist]
 
 Because each person accepts personal responsibility to _choose who to follow,_ healthy nations select incredibly capable military leaders. In fact, healthy-nation militaries were formidable opponents for the United States until the late 1800s, which explains why the US army named so much military equipment after them, including the UH-72 Lakota utility helicopter, AH-64 Apache attack helicopter, and C-12 Huron transport aircraft.[xxx-medium weapon names]
 
@@ -213,7 +211,7 @@ Because oppression is normal in every unhealthy nation, spiritual leaders common
 
 Jesus Christ was called a "messiah" (meaning "savior" or "liberator") because the Jews wanted someone to save them.[xxx-oxford messiah] But save them from what? For centuries, Christian authorities have trained Christians to misunderstand Jesus Christ, saying he "died for our sins."[xxx-jesus died for sins] Jews certainly wanted a savior, but not because they were sinful -- they wanted a revolutionary leader who would save them from oppressive Roman authorities.
 
-Furthermore, Christ did not intentionally die; he chose to do important work even recognizing that it would cost him his life. Jesus clearly loved his people so much that he helped the hungry[xxx-bible|esv mark 2:23-24] and sick[xxx-bible|mark 3:2] even when the law forbade him from doing so, and he tried to protect them from predatory moneylenders.[xxx-bible|esv mark 11:15-18] The Jews wanted a revolutionary leader, and Jesus stood up and did his revolutionary work even knowing that authorities would surely kill him for it.[xxx-bible|mark 10:32-34] And they did.
+Furthermore, Christ did not intentionally die; he chose to do important work even recognizing that it would cost him his life. Jesus clearly loved his people so much that he helped the hungry[xxx-bible esv|mark 2:23-24] and sick[xxx-bible niv|mark 3:2] even when the law forbade him from doing so, and he tried to protect them from predatory moneylenders.[xxx-bible esv|mark 11:15-18] The Jews wanted a revolutionary leader, and Jesus stood up and did his revolutionary work even knowing that authorities would surely kill him for it.[xxx-bible niv|mark 10:32-34] And they did.
 
 Martin Luther King Jr likewise confronted deep injustices, working to end racial oppression and imperialism in the United States in the 1950s and 1960s.[xxx-georgiaencyclopedia king] Like Jesus Christ, he carried on his work fully aware that he would be killed for it.[xxx-mlk final speech afscmd] And the United States government did indeed kill Martin Luther King Jr, as documented by copious evidence at a trial in Memphis, Tennessee in 1999.[xxx-ratical king memphis trial]
 
@@ -235,11 +233,11 @@ Only by tapping into your own power to choose for yourself what to believe and w
 
 [xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 
-[xxx-bible|esv matthew 27:12]-aaa (Matthew 27:12, King James Version Bible)
+[xxx-bible esv|matthew 27:12]-aaa (Matthew 27:12, English Standard Version Bible)
 
 [xxx-odoc|ch25]-aaa (Randolph, 2024, "Chapter 25: Sexual Freedom vs Sexual Repression")
 
-[xxx-bible|kjb luke 23:2]-aaa (Luke 23:2, King James Version Bible)
+[xxx-bible kjb|luke 23:2]-aaa (Luke 23:2, King James Version Bible)
 
 [xxx-indian child life|faithfulness long ears]-aaa (Eastman (Ohiyesa), 2008, "The Faithfulness of Long Ears")
 
@@ -263,9 +261,9 @@ Only by tapping into your own power to choose for yourself what to believe and w
 
 [xxx-latterday jesus obed]-aaa (Stapley, 1977)
 
-[xxx-bible|luke 6:31]-aaa (Luke 6:31, King James Version Bible)
+[xxx-bible niv|luke 6:31]-aaa (Luke 6:31, New International Version Bible)
 
-[xxx-udanavarga|p252]-aaa (Rockhill, 1892)
+[xxx-udanavarga|p252]-aaa (Rockhill, 1892, 252)
 
 [xxx-grandmothers light|p9]-aaa (Allen, 1991, 9)
 
@@ -273,21 +271,21 @@ Only by tapping into your own power to choose for yourself what to believe and w
 
 [xxx-islam freedom]-aaa (Khan, 2019)
 
-[xxx-bible|mark 2:27]-aaa (Mark 2:27, King James Version Bible)
+[xxx-bible niv|mark 2:27]-aaa (Mark 2:27, New International Version Bible)
 
-[xxx-bible|niv 1 peter 2:13]-aaa (Mark 1 Peter 2:13, New International Version Bible)
+[xxx-bible niv|1 peter 2:13]-aaa (Mark 1 Peter 2:13, New International Version Bible)
 
 [xxx-catholic catechism|408]-aaa (Catechism of the Catholic Church, 1997, 408)
 
-[xxx-bible|niv 1 peter 2:16]-aaa (1 Peter 2:16, New International Version Bible)
+[xxx-bible niv|1 peter 2:16]-aaa (1 Peter 2:16, New International Version Bible)
 
-[xxx-bible|mark 3:2]-aaa (Mark 3:2, King James Version Bible)
+[xxx-bible niv|mark 3:2]-aaa (Mark 3:2, King James Version Bible)
 
-[xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
+[xxx-bible esv|mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
 
-[xxx-bible|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
+[xxx-bible niv|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
 
-[xxx-bible|mark 12:17]-aaa (Mark 12:17, King James Version Bible)
+[xxx-bible niv|mark 12:17]-aaa (Mark 12:17, New International Version Bible)
 
 [xxx-codex theodosianus xvi 1.2. the theodosian code|p440]-aaa (Pharr, 1952, 440)
 
@@ -309,13 +307,13 @@ Only by tapping into your own power to choose for yourself what to believe and w
 
 [xxx-vridhamma first discourse]-aaa (The First Discourse of the Buddha, n.d.)
 
-[xxx-bible|kjb 1 corinthians 11:3]-aaa (1 Corinthians 11:3, King James Version Bible)
+[xxx-bible kjb|1 corinthians 11:3]-aaa (1 Corinthians 11:3, King James Version Bible)
 
 [xxx-quran|4:34]-aaa (The Quran, 4:34, Translated by Mustafa Khattab)
 
 [xxx-when serfs stood up|p329]-aaa (Strong, 1976, 329)
 
-[xxx-bible|esv mark 11:15-18]-aaa (Mark 11:15-18, English Standard Version Bible)
+[xxx-bible esv|mark 11:15-18]-aaa (Mark 11:15-18, English Standard Version Bible)
 
 [xxx-worldhistory jewish zealots]-aaa (Denova, 2022)
 
@@ -327,7 +325,7 @@ Only by tapping into your own power to choose for yourself what to believe and w
 
 [xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
 
-[xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
+[xxx-bible niv|mark 10:32-34]-aaa (Mark 10:32-34, New International Version Bible)
 
 [xxx-oxford messiah]-aaa (Messiah, n.d.)
 

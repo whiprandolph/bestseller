@@ -1,6 +1,6 @@
 ## Chapter 16: Build Your Spiritual Strength
 
-So many aspects of our way of life in unhealthy nations keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are conditioned in countless ways about what to care about and what to ignore, and where to put our attention, time, and money. And so often in unhealthy nations, many "conventional" or "mainstream" values are somehow superficial or misguided.
+So many aspects of our way of life in unhealthy nations keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are conditioned in countless ways about what to care about and what to ignore, and where to put our attention, time, and money. So often in unhealthy nations, many "conventional" or "mainstream" values are somehow superficial or misguided.
 
 Growing up, I learned that the United States was the best country in the world, and I felt proud to live in a capitalist democracy. I looked forward to contributing to the United States' progress and growth throughout my life. As a church-going Christian, I bowed my head every night before dinner and prayed.
 
@@ -64,7 +64,7 @@ I had an urge to protect the forest, an urge I couldn't ignore even if I wanted.
 There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. Cultivating this practical, aware gratitude helped me get on a good path.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Learn to receive the tangible gifts of the Earth</div>
-<div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, or eat wild foods? Or build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, or forage local foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
+<div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, or eat wild foods? Or build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Give thanks for Earth's intangible gifts</div>
 <div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head? Or gone to the woods for private time away from people?<br/><br/>When I practice noticing gifts I receive and giving thanks, I often feel most grateful for intangible gifts. I'm grateful to forests for giving privacy when I want alone time, or private time with friends. I'm grateful to the birds for their songs that lift my spirit in the morning, and grateful to the moon for its enchanting light. When I imagine life without any trees or birds or the moon, it's easy to think how poorer that life would be, and it's easy to feel grateful for their gifts.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
@@ -84,7 +84,7 @@ Tubman described the sense of being moved by a greater power very vividly. Whene
 
 Jesus Christ and Martin Luther King Jr were the same -- both of them repeatedly acknowledged that they were going to die because of the ways they served their people, and yet they kept on serving in the deepest ways they knew how.
 
-Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of being compelled by a higher power. Christ said he came "not to do my own will but the will of him who sent me."[xxx-bible|esv john 6:38] The night before he was killed, King said, "Longevity has its place. But I'm not concerned about that now. I just want to do God's will."[xxx-mlk final speech afscmd]
+Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of being compelled by a higher power. Christ said he came "not to do my own will but the will of him who sent me."[xxx-bible esv|john 6:38] The night before he was killed, King said, "Longevity has its place. But I'm not concerned about that now. I just want to do God's will."[xxx-mlk final speech afscmd]
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
@@ -110,7 +110,7 @@ This fast showed me how much I distracted myself from my own feelings, and how d
 
 In a sense, it felt like I was just "being myself," but I wasn't just doing whatever I was used to doing, or doing whatever I felt like. I was being my deepest self, connected with that inner voice that would never tolerate meaningless distractions as I walk a meaningful path.
 
-It is essential to get rid of all distractions so that you can hear that divine voice, as many spiritual leaders have shown. Jesus Christ famously began his ministry immediately after fasting for 40 days alone in the desert, during which time he confronted temptations to become wealthy and powerful, and instead chose a path of service.[xxx-bible|matthew 4:1-11]
+It is essential to get rid of all distractions so that you can hear that divine voice, as many spiritual leaders have shown. Jesus Christ famously began his ministry immediately after fasting for 40 days alone in the desert, during which time he confronted temptations to become wealthy and powerful, and instead chose a path of service.[xxx-bible niv|matthew 4:1-11]
 
 Ohiyesa described how, among the traditional Sioux, praying alone in the wilderness "was customary with the best young men."[xxx-indian heroes and great chieftains|crazy horse]
 
@@ -197,9 +197,9 @@ The world wants to be blessed by the light of your love.
 
 [xxx-original instructions|return ancient council]-aaa (Nelson, 2008, "Return of the Ancient Council Ways: Indigenous Survival in Chiapas")
 
-[xxx-bible|matthew 4:1-11]-aaa (Matthew 4:1-11, English Standard Version Bible)
+[xxx-bible niv|matthew 4:1-11]-aaa (Matthew 4:1-11, New International Version Bible)
 
-[xxx-bible|esv john 6:38]-aaa (John 6:38, English Standard Version Bible)
+[xxx-bible esv|john 6:38]-aaa (John 6:38, English Standard Version Bible)
 
 [xxx-mlk final speech afscmd]-aaa (King Jr, 1968)
 

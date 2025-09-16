@@ -187,7 +187,7 @@ Each one of us has the same urges towards gratitude, integrity, sharing, and all
 
 So spread the good news! Healthy nations do exist, and for those of us stuck in unhealthy nations, it doesn't have to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
 
-Perhaps someday you will live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
+Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
 ### References
 

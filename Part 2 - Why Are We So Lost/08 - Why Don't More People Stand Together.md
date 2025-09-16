@@ -34,7 +34,7 @@ There are many other examples of this kind of bureaucratic assault, including re
 
 Authorities may also audit the taxes of activists to force them to waste huge amounts of time. In 2022, American Matt Taibbi was busily exposing documents showing how the US government pressured a social media company to censor content. Three weeks later, the US federal tax authority (IRS) opened an investigation of Taibbi. Fortunately, powerful politicians contacted the IRS on Taibbi's behalf, and the IRS agents decided Taibbi didn't owe any taxes after all.[xxx-nypost taibbi]
 
-Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous social activists include Jesus Christ and Martin Luther King Jr. Jesus Christ consistently broke the law to feed[xxx-bible|esv mark 2:23-24] and heal[xxx-bible|matthew 12:10] people who needed it, and he even attacked moneylenders for profiting in the Temple.[xxx-bible|kjb mark 11:15-18] He associated with Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots] He kept serving his people in the most meaningful ways he could, knowing he would be killed for it.[xxx-bible|kjb mark 9:31]<sup>,</sup>[xxx-bible|mark 10:32-34] Finally the authorities arrested and nailed him to a cross and left him to die in public along with two other revolutionaries. It was normal for Roman authorities to publicly torture revolutionaries to death with crucifixion in order to scare everyone else into submission.[xxx-worldhistory jewish zealots]
+Authorities may also take a more direct approach to thwarting social activism: simply murder the social activists. Famous social activists include Jesus Christ and Martin Luther King Jr. Jesus Christ consistently broke the law to feed[xxx-bible esv|mark 2:23-24] and heal[xxx-bible esv|matthew 12:10] people who needed it, and he even attacked moneylenders for profiting in the Temple.[xxx-bible kjb|mark 11:15-18] He associated with Zealots, known for resisting Roman rule, including having at least one Zealot among his disciples.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots] He kept serving his people in the most meaningful ways he could, knowing he would be killed for it.[xxx-bible kjb|mark 9:31]<sup>,</sup>[xxx-bible niv|mark 10:32-34] Finally the authorities arrested and nailed him to a cross and left him to die in public along with two other revolutionaries. It was normal for Roman authorities to publicly torture revolutionaries to death with crucifixion in order to scare everyone else into submission.[xxx-worldhistory jewish zealots]
 
 The death of Martin Luther King Jr offers another example. King lead or supported many civil rights efforts in the United States to improve the treatment of black people in the 1950s and 1960s.[xxx-georgiaencyclopedia king] Over time, he also took a stand against imperialism, even acknowledging the hypocrisy of the US attacking the Vietnamese while claiming to value democracy.[xxx-king vietnam speech] Like Jesus Christ, King carried on his work even knowing it would cost him his life, even acknowledging this in a speech the night before his assassination.[xxx-mlk final speech afscmd]
 
@@ -160,11 +160,11 @@ Not everyone will want to walk this path, but you can find people who do. When e
 
 [xxx-encyclopedia haudenosaunee|p265]-aaa (Johansen & Mann, 2000, 265)
 
-[xxx-bible|mark 10:32-34]-aaa (Mark 10:32-34, King James Version Bible)
+[xxx-bible niv|mark 10:32-34]-aaa (Mark 10:32-34, New International Version Bible)
 
 [xxx-mlk final speech afscmd]-aaa (King Jr, 1968)
 
-[xxx-bible|kjb mark 9:31]-aaa (Mark 9:31, King James Version Bible)
+[xxx-bible kjb|mark 9:31]-aaa (Mark 9:31, King James Version Bible)
 
 [xxx-letterfromjail.com]-aaa (King Jr, 1963)
 
@@ -178,7 +178,7 @@ Not everyone will want to walk this path, but you can find people who do. When e
 
 [xxx-cook assange finne]-aaa (Cook, 2020)
 
-[xxx-bible|kjb mark 11:15-18]-aaa (Mark 11:15-18, King James Version Bible)
+[xxx-bible kjb|mark 11:15-18]-aaa (Mark 11:15-18, King James Version Bible)
 
 [xxx-georgiaencyclopedia king]-aaa (Kirk, 2020)
 
@@ -254,6 +254,6 @@ Not everyone will want to walk this path, but you can find people who do. When e
 
 [xxx-basic call to consciousness|p37]-aaa (Notes, 2005, 37)
 
-[xxx-bible|esv mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
+[xxx-bible esv|mark 2:23-24]-aaa (Mark 2:23-24, English Standard Version Bible)
 
-[xxx-bible|matthew 12:10]-aaa (Matthew 12:10, King James Version Bible)
+[xxx-bible esv|matthew 12:10]-aaa (Matthew 12:10, English Standard Version Bible)

@@ -288,7 +288,7 @@ All these stories are beautiful, and they made me wonder: what else might be dif
 
 [xxx-black elk speaks|fight with three stars]
 
-[xxx-bible|esv mark 10:26]
+[xxx-bible esv|mark 10:26]
 
 [xxx-secrets of the talking jaguar|p210]
 

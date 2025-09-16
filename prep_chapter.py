@@ -3,7 +3,6 @@ import sys
 import ttoc
 import time
 import shutil
-import publish
 import zipfile
 import pdf_toc
 import subprocess
@@ -35,8 +34,6 @@ Checks to add:
 * every biblio item has >= 1 cite
 
 """
-
-assert publish.CUT_OUT_REFS_AND_TOCS == True, "Set publish.CUT_OUT_REFS_AND_TOCS to True"
 
 repo_root_dir = r"C:\Users\whip\tdr"
 
@@ -215,7 +212,7 @@ def main():
   pdf_path = os.path.join(tmp_dir, "test_chapter.pdf")
   html_path = os.path.join(tmp_dir, "test_chapter.html")
   md_path = os.path.join(tmp_dir, "test_chapter.md")
-  md_source = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"
+  md_source = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\09 - Why Do People Obey Corrupt Leaders.md"
   kill_librewolf()
   if os.path.exists(tmp_dir):
     shutil.rmtree(tmp_dir)

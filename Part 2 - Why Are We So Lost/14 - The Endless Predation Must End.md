@@ -66,7 +66,7 @@ Unfortunately, many ruling classes have recognized this truth, and this explains
 
 The Lakota and Nootka offer tragic examples, as they were ultimately unable to prevent conquering Christians from kidnapping most of their children and sending them to abusive boarding schools.
 
-Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common and girls and boys were shamed and humiliated in countless ways and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
+Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated in countless ways and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
 
 At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for himself and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
 
@@ -190,7 +190,7 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 [xxx-true americanism|p3]-aaa (Mantell, 1974, 3)
 
-[xxx-franklin cover up|p4-12]-aaa  (DeCamp, 1996, 4-12)
+[xxx-franklin cover up|p4-12]-aaa (DeCamp, 1996, 4-12)
 
 [xxx-true americanism|p141]-aaa (Mantell, 1974, 141)
 
@@ -204,7 +204,7 @@ You and the people around you can do this. What could help you succeed? Explore 
 
 [xxx-griid sitting bull speech]-aaa (kswheeler, 2011)
 
-[xxx-franklin cover up|pxvii]-aaa  (DeCamp, 1996, xvii)
+[xxx-franklin cover up|pxvii]-aaa (DeCamp, 1996, xvii)
 
 [xxx-true americanism|p50]-aaa (Mantell, 1974, 50)
 

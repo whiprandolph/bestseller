@@ -128,11 +128,11 @@ But it doesn't have to be this way. Individuals and whole nations are capable of
 
 ### References
 
-[xxx-coal climate change]
+[xxx-coal climate change]-aaa (Team Vice, 2022)
 
-[xxx-weapons-used]
+[xxx-weapons-used]-aaa (Abramson & Acosta, 2023)
 
-[xxx-odoc|ch10]
+[xxx-odoc|ch10]-aaa (Randolph, 2024, "Chapter 10 - Profit Economies")
 
 [xxx-canada lazy indian]-aaa (Taylor-Neu et al., 2018)
 

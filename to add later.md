@@ -10,7 +10,7 @@ And it's not just humans who have an inner knowing. Every being has a special ro
 ### from gift economies chap
 
 
-Shamans also played this role. Whenever a shaman helped someone heal from an illness, they would give the shaman a great deal of food. The shaman would feed his family from these gifts and then give the rest away to whomever needed it most.[xxx-secrets of the talking jaguar|p248]
+Shamans also played this role. Whenever a shaman helped someone heal from an illness, they would give the shaman a great deal of food. The shaman would feed his family from these gifts and then give the rest away to whomever needed it most.[xxx-secrets of the talking jaguar|248]
 
 I witnessed a similar pattern while traveling in Peru. I was skeptical of every so-called shaman I encountered -- except one. This shaman of a local healthy nation accepted donations for holding ayahuasca ceremonies and letting visitors stay on his land. Based on the normal amount of donations, I noticed he must be living pretty well. Then I learned from an assistant that every few weeks, he took a cab into town and distributed the money to whomever needed it. When I discovered that he helped spread abundance rather than hoard it, I was willing to trust him in a way I hadn't trusted many self-anointed Peruvian shamans.
 
@@ -18,7 +18,7 @@ I witnessed a similar pattern while traveling in Peru. I was skeptical of every 
 
 I found many beautiful stories of women contributing to their healthy nations by redistributing abundance. Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food he or she brought in, it never lasted long because she commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast."[xxx-commodity exchange and subordination]
 
-Huron women likewise pooled their food in common storage so there would be enough for everyone.[xxx-huron farmers of the north|p28]
+Huron women likewise pooled their food in common storage so there would be enough for everyone.[xxx-huron farmers of the north|28]
 
 Nancy Basket described the traditional role of the Cherokee gigau (GIG-ah-oo), meaning beloved woman. A woman was chosen to be gigau because she was especially kind, fair and wise. Her job was to make sure all the collective food sources were stored well so there would be enough for everybody. Basket described the goal: "The Cherokee, if we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot." The gigau had another role too. If the council could not agree on whether to go to war, and they were split down the middle, the gigau would cast the deciding vote.[xxx-basket interview]
 

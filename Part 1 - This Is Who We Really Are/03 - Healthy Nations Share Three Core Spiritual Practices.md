@@ -2,7 +2,7 @@
 
 I kept finding more stories of nations that reminded me of the Ashaninka, such as the Yequana, Apache, Haudenosaunee, and Lakota. Due to centuries of violence from unhealthy nations, not all these nations can live in a traditional way today like the Ashaninka. While these nations have their differences, during traditional times they all live or lived in a similarly beautiful way with each other and the Earth.
 
-Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the nations I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawk nation within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man.[xxx-kamana 2 nat]
+Eventually I heard about a self-study program called Kamana (now called _Living Connection 1st_). The program promised to help people connect with the Earth using similar practices, stories, and attitudes as in many of the nations I was reading about. The lead author, Jon Young, had received mentorship and guidance from sub-chief Jake Swamp of the Mohawk nation within the Haudenosaunee Confederacy, Ingwe who was raised by the Akamba people in Kenya, Gilbert Walking Bull and Tony Ten Fingers of the Lakota, and Tom Brown Jr who'd received extensive training from Stalking Wolf, an Apache man.[xxx-kamana 2 nat|ix]<sup>,</sup>[xxx-kamana 2 nat|7]
 
 The Kamana program seemed like a synthesis of what Jon Young had learned from people of all these nations with the goal for the student to develop a deep, personal connection with the Earth.
 
@@ -47,7 +47,7 @@ Just like everybody else, you have sacred gifts, a life purpose, a way you can m
 
 Cultivating and giving one's sacred gifts fully is how a person gives their deepest love. Training a person to give their sacred gifts trains them to give their deepest love in life, and to be their best self.
 
-Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. Ten Fingers also noted that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.
+Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. The Haudenosaunee teach that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.[xxx-kamana 3 nat|15]
 
 "Cultivating your gifts" means to develop any necessary skills and wisdom. For example, if you're a healer or fighter, then train to be the best healer or fighter you can be in service of people you love.**
 
@@ -101,7 +101,9 @@ What are your gifts? What can you give or do or be that would open your heart an
 
 ### References
 
-[xxx-kamana 2 nat]-aaa (Young, n.d.-b)
+[xxx-kamana 2 nat|7]-aaa (Young, n.d.-b, 7)
+
+[xxx-kamana 2 nat|ix]-aaa (Young, n.d.-b, ix)
 
 [xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 

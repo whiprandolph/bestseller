@@ -40,13 +40,13 @@ Some people think these beautiful practices can only work in small groups, but t
 
 ### So What's Their Secret?
 
-How in the world do healthy nations mostly avoid crime? Isn't selfish, violent, or otherwise bad behavior just an unfortunate part of human nature?
+How do healthy nations mostly avoid crime? Isn't selfish, violent, or otherwise bad behavior just an unfortunate part of human nature?
 
 Actually, no. As later chapters show, when people live in respectful societies where everyone stands for what's right and gives generously as a normal way of life, the motivation to behave selfishly is greatly diminished.
 
-And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, isolation, and humiliation that comes from being imprisoned.
+And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, and humiliation of being imprisoned.
 
-Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Potawatomi woman Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
+Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
 
 Banishing or killing someone for severe misbehavior, like hoarding wealth or killing someone in anger, appears to have been very rare.
 
@@ -84,7 +84,7 @@ And it's not just trustworthiness. I kept finding stories of incredible generosi
 
 Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build a new one. Instead of having markets for trading or bartering, they embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
 
-The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.
+The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.[xxx-huron farmers of the north|p40]
 
 How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, but gather wealth so they can share it with their neighbors?
 
@@ -100,11 +100,11 @@ Benjamin Franklin also noticed this, saying "No European who has tasted [Indian]
 
 Even when people of unhealthy nations were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French didn't want to return home after experiencing life in a healthy nation: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
 
-In other words, French prisoners of war had lived in a non-abusive society and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."
+In other words, French prisoners of war had lived in a non-abusive society and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."[xxx-beyond geography|possession]
 
-This was obviously humiliating for colonial leaders who pretended not to abusively exploit their citizens, but it got worse. In a big prisoner exchange on the Muskingum River in 1764, white people had won out against the local healthy nations in war, but European leaders found the prisoner exchange unsatisfying. People of healthy nations who had been trapped in European prisons ran back to their communities with great joy. But when "civilized" Europeans got a little taste of living in a society where integrity, sharing, and reciprocity were a way of life, many desperately wanted to stay.
+This was obviously humiliating for colonial leaders who pretended not to abusively exploit their citizens, but it got worse. In a big prisoner exchange on the Muskingum River in 1764, white people had won out against the local healthy nations in war, but European leaders found the prisoner exchange unsatisfying. People of healthy nations who had been trapped in European prisons ran back to their communities with great joy. But when "civilized" Europeans got a little taste of living in a society where integrity, sharing, and reciprocity were a way of life, many desperately wanted to stay.[xxx-beyond geography|possession]
 
-In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy nation they'd been able to experience!
+In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy nation they'd been able to experience![xxx-beyond geography|possession]
 
 These healthy nations were a major threat to colonial leaders, because they showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy nations always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy nations devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy nations.[xxx-lies my teacher told me|p107]
 
@@ -120,9 +120,9 @@ Pretty Shield, a woman of the Crow nation, described how even captive people wer
 
 Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy nations ensure they keep that internal baseline of mutual respect.
 
-All these stories showed me that the beauty of the Ashaninka isn't unique. Every nation is unique in its own ways, but there must be common patterns that allow people to live in nations that maintain a baseline of mutual respect internally. Different nations might do this in different ways, but all healthy nations, one way or another, do or did somehow maintain a way of life where mutual respect is the norm within the nation. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
+These stories show that the Ashaninka's beauty isn't unique. Every nation is unique, but there are common patterns that allow whole nations to maintain a baseline of mutual respect internally. Different nations might do this in different ways, but all healthy nations do or did somehow maintain a way of life where mutual respect is the norm within the nation. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
 
-Still... how do all these nations maintain such a beautiful way of life? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy nations to make that possible?
+How do they do it? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy nations to make that possible?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
 <div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>

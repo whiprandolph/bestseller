@@ -1,12 +1,12 @@
 import os
 import sys
-import ttoc
 import time
+import ttoc
 import shutil
-import publish
 import zipfile
 import pdf_toc
 import subprocess
+import cite_wizard
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
@@ -19,8 +19,6 @@ Checks to add:
 * every biblio item has >= 1 cite
 
 """
-
-assert publish.CUT_OUT_REFS_AND_TOCS == True, "Set publish.CUT_OUT_REFS_AND_TOCS to True"
 
 repo_root_dir = r"C:\Users\whip\tdr"
 
@@ -43,17 +41,40 @@ BOOK_ADDED_STYLE_BASE = """
     color:black;
     text-align: justify;
   }\n
-  #biblio p {
-    font-size: 6.9pt;
-  }
+
   .part-intro {
     font-size: 38px;
   }
 
-  table.cite_table td {
-    font-size:6.9pt;
-    padding-left: 0em;
-
+  td {
+    word-wrap: break-word;
+    word-break: break-all;
+    padding-top:.125em;
+    padding-bottom:.25em;
+    padding-right:0em;
+    padding-left:0em;
+    margin:0px;
+  }
+  td.half-cell {
+    width:50%;
+    padding-left:2em;    
+  }
+  .biblio-div {
+    font-size:7.15pt;
+  }
+  td.full-cell {
+    width:100%;
+    
+  }
+  table.biblio_table {
+    border:0px;
+    margin:0em;
+    table-layout: fixed;
+  }
+  tbody {
+    border:0px;
+    margin:0px;
+    font-size:7pt;
   }
   blockquote {
     color: black;
@@ -88,10 +109,10 @@ BOOK_ADDED_STYLE_BASE = """
   }
   h1 {
     /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */
-    font-size: 1.07em;
+    font-size: 1.1em;
   }
   h2 {
-    font-size: 1.07em;
+    font-size: 1.1em;
   }
   h3 {
     font-size: .9em;
@@ -121,7 +142,7 @@ BOOK_ADDED_STYLE_PHYS = """
     size: %sin %sin;
     margin-left: .55in;
     margin-right: .90in;
-    margin-top: .55in;
+    margin-top: .6in;
     margin-bottom: .55in
   }
     @page :right {
@@ -187,7 +208,7 @@ def verify_epub():
   os.remove(book_zip_path)
   
 
-def process_chapter(full_path):
+def process_chapter(full_path, cite_to_index_dict):
   blob = open(full_path, 'r', encoding='utf-8').read()
   chap_line = blob.split("\n")[0]
   if ttoc.is_chapter_name(os.path.basename(full_path), os.path.dirname(full_path)):
@@ -211,15 +232,16 @@ def process_chapter(full_path):
   else:
     assert "break-after:page" not in blob, "page CONTAINS break-after in %s" % full_path
   
-  if not ref_header in blob:
+  if not "[xxx-" in blob:
     blob += "\n\n<div style=\"break-after:page\"></div>\n"
-    return blob, []
+    return blob
 
   body, references = blob.split(ref_header)
   body += "\n\n<div style=\"break-after:page\"></div>\n"
 
   cite_list = []
-  ref_map = build_ref_map(references)
+  # ref_map = build_ref_map(references)
+  
 
   ref_start_line_check = [x for x in body.split("\n") if x.strip().startswith("[xxx")]
   assert len(ref_start_line_check) == 0, "[xxx starts a line; ref: %s, file: %s" % (ref_start_line_check, full_path)
@@ -229,29 +251,17 @@ def process_chapter(full_path):
   print("SKIPPING HEADER CHECK")
   start = body.find("[xxx")
 
-  cite_number = 1
   while start != -1:
     end = body.find("]", start)+1
     xxx_ref = body[start:end]
-    body = body[:start] + "<sup><a href=\"#cite_%s_%s_dest\" id=\"cite_%s_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (chap_id, cite_number, chap_id, cite_number, cite_number) + body[end:]
-    cite_list.append((chap_id, cite_number, ref_map[xxx_ref]))
+    body = body[:start] + "<sup><a href=\"#cite_%s_dest\" id=\"cite_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (cite_to_index_dict[xxx_ref], cite_to_index_dict[xxx_ref], cite_to_index_dict[xxx_ref]) + body[end:]
+    cite_list.append(str((cite_to_index_dict[xxx_ref])))
     start = body.find("[xxx", start+1)
-
-    cite_number += 1
 
   # assert "**" not in blob, full_path
   print("SKIPPING ** CHECK")
 
-  print_out = "Back-to-backs for " + os.path.basename(full_path)
-  do_print = False
-  for i in range(1, len(cite_list)):
-    if cite_list[i][1] == cite_list[i-1][1]:
-      print_out += '\n   ' + cite_list[i][1]
-      do_print = True
-  if do_print:
-    print(print_out)
-
-  return body, cite_list
+  return body
 
 
 def build_ref_map(ref_blob):
@@ -289,7 +299,7 @@ def build_ref_map(ref_blob):
     ref_map[xxx] = official
   return ref_map
 
-
+"""
 def write_cites(cite_list):
   with open(citations_path, 'w', encoding='utf-8') as citations_handle:
     citations_handle.write("# Citations\n\n")
@@ -316,25 +326,26 @@ def write_cites(cite_list):
 
     citations_handle.write("</table>")
     citations_handle.write("<div style=\"break-after:page\"></div>\n")
-
+"""
 
 def fix_biblio():
-  bib_blob = open(bib_path, 'r', encoding='utf-8').read()
-  lines = bib_blob.split("\n")
-
+  lines = open(bib_path, 'r', encoding='utf-8').readlines()[2:]
+  
   fixed_lines = []
   for line in lines:
-    if line.strip() == "" or "# Bibliography" in line: continue
-
+    line = line.strip()
     if "https://" in line or "http://" in line and "a href" not in line:
       protocol = "https://" if "https://" in line else "http://"
       link = protocol + line.split(protocol)[1].strip()
       if " " in link: # if the url isn't at the end of the line
         link = link.split(" ")[0]
-      line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link))
+        line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link))
+      elif link.endswith("</div>"):
+        link = link.strip("</div>")
+        line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link)) + "</div>"
     assert "\">\">" not in line, line
     fixed_lines.append(line)
-  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n<div id=\"biblio\">\n\n%s\n\n</div>\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
+  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n%s\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
 
 
 def main():
@@ -343,31 +354,29 @@ def main():
   start_time = time.time()
   shutil.rmtree(book_final)
   os.mkdir(book_final)
-
-  print(" == Running ttoc.py")
-  subprocess.run(['python', 'ttoc.py'])
+  cite_to_index_dict = cite_wizard.map_cites()
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
-      if "citation" in file_name.lower() or "bibliography" in file_name.lower():
+      if "bibliography" in file_name.lower():
         continue
-      body, cite_list = process_chapter(file_name)
+      body = process_chapter(file_name, cite_to_index_dict)
       book_md.write("%s\n" % body)
       if 'Part ' not in file_name:
         chap_line = body.split("\n", 1)[0]
         assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
-      if cite_list:
-        chapter_name = body.split("\n", 1)[0].strip("## ").strip()
-        full_cite_list.append((chapter_name, cite_list))
-    write_cites(full_cite_list)
+      # if cite_list:
+        # chapter_name = body.split("\n", 1)[0].strip("## ").strip()
+        # full_cite_list.append((chapter_name, cite_list))
+    # write_cites(full_cite_list)
     fix_biblio()
-    cite_blob = open(citations_path, 'r', encoding='utf-8').read()
+    # cite_blob = open(citations_path, 'r', encoding='utf-8').read()
     bib_blob = open(tmp_bib_path, 'r', encoding='utf-8').read()
-    book_md.write("%s\n\n" % cite_blob)
+    # book_md.write("%s\n\n" % cite_blob)
     book_md.write("%s\n\n" % bib_blob)
     book_md.close()
   subprocess.run(['pandoc', '-s', online_book_md_path,
@@ -382,7 +391,8 @@ def main():
   make_online_pdf()
   os.startfile(book_final)
   make_phys_book()
-  make_epub()
+  print("Skipping EPUB")
+  # make_epub()
   # cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
@@ -409,6 +419,7 @@ def fixup_html(html_path, phys):
     ADDED_STYLE = BOOK_ADDED_STYLE_PHYS
   book_html = book_html.replace("</html>", ADDED_STYLE)
   book_html = book_html.replace("**", "")
+  book_html = book_html.replace("DOTHERE", ".")
   open(html_path, 'w', encoding='utf-8').write(book_html)
   
 

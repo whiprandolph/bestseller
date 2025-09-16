@@ -3,12 +3,22 @@ import csv
 import toc
 import time
 import shutil
-import markdown2
 import subprocess
 import traceback
 from progress import chapters
 from pprint import pprint as pp
 from collections import Counter
+
+"""
+What ttoc does
+* fixes rev-act numbers
+* get file_list
+* publish md versions to upload to GDocs
+* categorize file by chapter, part intro, etc.
+* migrate citations from ODOC
+
+
+"""
 
 source_dir = r"C:\Users\whip\tdr"
 md_dir = r"C:\Users\whip\tdr-md-publish"
@@ -22,6 +32,10 @@ why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06
 odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
 rev_act_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities.md")
 rev_act_sheet_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities Sheet.csv")
+final_biblio_path = os.path.join(source_dir, "Part 4 - Closing Notes", "Bibliography.md")
+raw_biblio_path = os.path.join(source_dir, "Part 4 - Closing Notes", "raw_bibliography.md")
+biblio_csv_path = r"C:\Users\whip\tdr\Scratch\TDR.csv"
+
 
 PUBLISH = True
 
@@ -139,13 +153,6 @@ def get_md(md_path):
 
 
 def transform(file_list):
-    mdConverter = markdown2.Markdown()
-    if os.path.exists(html_dir):
-        shutil.rmtree(html_dir)
-    os.mkdir(html_dir)
-    if os.path.exists(pdf_dir):
-        shutil.rmtree(pdf_dir)
-    os.mkdir(pdf_dir)
     if os.path.exists(md_publish_dir):
         shutil.rmtree(md_publish_dir)
     os.mkdir(md_publish_dir)
@@ -156,10 +163,7 @@ def transform(file_list):
             a = 4
 
         if 'images' in file_path:
-            html_path = file_path.replace(source_dir, html_dir)
             md_path = file_path.replace(source_dir, md_dir)
-            if not os.path.exists(os.path.dirname(html_path)):
-                os.mkdir(os.path.dirname(html_path))
             if not os.path.exists(os.path.dirname(md_path)):
                 os.mkdir(os.path.dirname(md_path))
             
@@ -170,27 +174,15 @@ def transform(file_list):
                 os.mkdir(top_images_dir)
             top_img_dir_dest_path = os.path.join(top_images_dir, os.path.basename(file_path))
             shutil.copy(file_path, top_img_dir_dest_path)
-            shutil.copy(file_path, html_path)
             shutil.copy(file_path, md_path)
             continue
         else:
             md_path = file_path
         
-        html_path = md_path.replace(source_dir, html_dir)
-        html_path = html_path.replace(".md", ".html")
-        pdf_path = md_path.replace(source_dir, pdf_dir)
-        pdf_path = pdf_path.replace(".md", ".pdf")
         md_publish_path = md_path.replace(source_dir, md_publish_dir)
-        if not os.path.exists(os.path.dirname(html_path)):
-            os.mkdir(os.path.dirname(html_path))
         if not os.path.exists(os.path.dirname(md_publish_path)):
             os.mkdir(os.path.dirname(md_publish_path))
-        if not os.path.exists(os.path.dirname(pdf_path)):
-            os.mkdir(os.path.dirname(pdf_path))
         md_contents = get_md(md_path)
-        html = mdConverter.convert(md_contents)
-        open(html_path, 'w', encoding='utf-8').write(html)
-        open(full_html_path, 'a', encoding='utf-8').write(html)
         open(md_publish_path, 'w', encoding='utf-8').write(md_contents)
         
 def is_chapter_name(chapter_name, directory):
@@ -261,7 +253,7 @@ def get_odoc_refs():
 
 def get_exported_refs():
   cites = []
-  with open(r"C:\Users\whip\tdr\Scratch\TDR.csv", 'r', encoding='utf-8') as csvfile:
+  with open(biblio_csv_path, 'r', encoding='utf-8') as csvfile:
     lines = csv.reader(csvfile, delimiter=',', quotechar='"')
     next(lines, None)
     for pieces in lines:
@@ -317,8 +309,7 @@ def verify_no_extras(total_cites):
         if "|" in cite:
             assert cite.count("|") == 1, cite
             cite = cite[:cite.index("|")]+"]"
-        if "xxx-bible]" not in cite and "xxx-torah" not in cite and "xxx-quran" not in cite:
-            cite_set.add(cite.split("]", 1)[0] + "]")
+        cite_set.add(cite.split("]", 1)[0] + "]")
     exported = get_exported_refs()
     if len(cite_set) != len(exported):
         print("in TDR: %s" % len(cite_set))
@@ -363,6 +354,7 @@ def main():
     verify_no_extras(all_refs_set)
     transform(file_list)
     os.chdir(os.path.dirname(why_so_lost_html))
+    return all_refs_set
     
 
 odoc_file_list = odoc_get_file_list()

@@ -18,7 +18,7 @@ Every healthy nation I've studied strongly promotes generosity (giving) and reci
 
 Traditionally, Sioux parents gave many feasts to celebrate their children's developmental milestones, including their first step, first spoken word, and first game killed. At each feast the parents gave away as much as they could for the benefit of those who had little.[xxx-indian heroes and great chieftains|crazy horse]
 
-Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to _be brave as he faced the consequences of his generosity._ She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."
+Sioux parents didn't just model generosity; they actively encouraged generosity in children from an early age. In one story, Red Cloud's community was going through a very hungry winter when his father finally hunted two elk. Little Red Cloud, at 4 or 5 years old, went and invited all the old people to come get food -- without his parents' permission! His mother gave away almost all their food, and when little Red Cloud said he was hungry the next day, his mother did not admonish him. Instead she encouraged him to _be brave as he faced the consequences of his generosity._ She said, "Remember, my son, they went home singing praises in your name, not my name or your father's. You must be brave. You must live up to your reputation."[xxx-indian heroes and great chieftains|crazy horse]
 
 ### Generosity Towards All Life
 
@@ -50,7 +50,7 @@ Even in healthy nations, someone may occasionally not get along with others, or 
 
 Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.[xxx-braiding sweetgrass|windigo footprints]
 
-Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their nation. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to live in a nation with pervasive selfishness and greed?
+Kimmerer wrote, "It is a terrible punishment to be banished from the web of reciprocity, with no one to share with you and no one for you to care for." They set a strong energetic boundary, not allowing selfishness to take hold in their nation. After all, if some individuals began acting selfishly, others might feel the need to act selfishly to protect themselves, and soon selfishness might become pervasive in the society. And who would want to live in a nation with pervasive selfishness and greed?[xxx-braiding sweetgrass|windigo footprints]
 
 The traditional Haudenosaunee were likewise very aware of how terrible life would be if selfishness were allowed to take hold in their nation. They rejected systems of private property, and some Haudenosaunee wrote, "That idea (property) would produce slavery." They even knew what kind of leaders would be chosen in any society that embraced private property and selfishness: "The acceptance of the idea of property would produce leaders whose functions would favor excluding people from access to property, and they would cease to perform their functions as leaders of our societies and distributors of goods."[xxx-basic call to consciousness|p105]
 
@@ -87,7 +87,7 @@ But first, I had to answer a big question: why doesn't everybody live in healthy
 
 [xxx-indian heroes and great chieftains|crazy horse]-aaa (Eastman (Ohiyesa), 2013, "Crazy Horse")
 
-[xxx-wolf totem|chapter 2]-aaa (Rong, 2008, Chapter 2)
+[xxx-wolf totem|chapter 2]-aaa (Rong, 2008, "Chapter 2")
 
 [xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")
 

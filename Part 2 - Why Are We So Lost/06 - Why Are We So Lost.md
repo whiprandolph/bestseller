@@ -126,8 +126,8 @@ For many of us, we and our ancestors have been trapped in this way of life for a
 
 [xxx-daughters of copper woman|109]-aaa (Cameron, 1981, 109)
 
-[xxx-venezuelan riot]-aaa (Riot police challenge Venezuelan students in Caracas on November 21, 2018, 2018)
+[xxx-venezuelan riot]-aaa (Cubillos, 2018)
 
-[xxx-chinese riot]-aaa (Chinese City Kills Project after Protest, 2012)
+[xxx-chinese riot]-aaa (Hoshiko, 2012)
 
 [xxx-venezuela protest reason]-aaa (2018-11-21 Central University of Venezuela, 2018)
