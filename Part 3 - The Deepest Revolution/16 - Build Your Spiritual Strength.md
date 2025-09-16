@@ -179,9 +179,11 @@ A person has spiritual strength if they give their deepest love in each moment w
 
 ### You Are a Messiah
 
-One of the biggest lies in history is that there can only be one messiah. But "messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
+One of the biggest lies in history is that there is only one messiah. Christians have waited thousands of years for Jesus Christ to return and "save them," a passive attitude that only benefits oppressors. 
 
-And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or too afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it difficult to form deep relationships of reciprocity with people and the Earth.
+"Messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
+
+And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it hard to form deep relationships of reciprocity with people and the Earth.
 
 The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 

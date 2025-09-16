@@ -64,7 +64,7 @@ Imagine seeing the Earth's gifts and people's gifts everywhere you look, and fee
 
 Imagine feeling indebted because your neighbors give you so much that you constantly feel the urge to give back, with the endless sharing just adding to the joyful feeling of indebtedness. Who would want to wipe clean such happy debts?
 
-Imagine befriending animals like the deer and bear, trees like the chestnuts and hickories, and herbs like stinging nettle and chickweed, and learning how to feed their communities just as they feed yours. Imagine knowing the plants and animals so intimately that you increase their populations even as you respectfully harvest some to eat.
+Imagine befriending animals like the deer and bear, trees like the chestnuts and hickories, and herbs like nettle and chickweed, and learning how to feed their communities just as they feed yours. Imagine knowing the plants and animals so intimately that you increase their populations even as you respectfully harvest them.
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..."[xxx-original instructions|armstrong]
 

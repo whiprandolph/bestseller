@@ -197,7 +197,7 @@ def process_chapter(full_path):
 
   start = body.find("[xxx")
 
-  cite_number = 1
+  cite_number = 100
   while start != -1:
     end = body.find("]", start)+1
     xxx_ref = body[start:end]
@@ -212,7 +212,7 @@ def main():
   pdf_path = os.path.join(tmp_dir, "test_chapter.pdf")
   html_path = os.path.join(tmp_dir, "test_chapter.html")
   md_path = os.path.join(tmp_dir, "test_chapter.md")
-  md_source = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\09 - Why Do People Obey Corrupt Leaders.md"
+  md_source = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\12 - Selfish Violence vs Selfless Violence.md"
   kill_librewolf()
   if os.path.exists(tmp_dir):
     shutil.rmtree(tmp_dir)

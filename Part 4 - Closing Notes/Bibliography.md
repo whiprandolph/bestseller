@@ -249,22 +249,22 @@
 <tr><td colspan="2"><div class="biblio-div">Price, W. (1939). Nutrition and Physical Degeneration.</div></td></tr>
 <tr><td class="half-cell">	<div class="biblio-div" id="cite_214_dest">214DOTHERE Chapter "Physical, Mental, and Moral Degeneration"</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div">Randolph, W. (2024). One Disease One Cure: Ending Our Multi-Millennia Catastrophe. Three Integrities Publishing. https://1disease-1cure.com/</div></td></tr>
-<tr><td class="half-cell">	<div class="biblio-div" id="cite_215_dest">215DOTHERE Chapter "Chapter 10 - Profit Economies"</div>
-</td><td>	<div class="biblio-div" id="cite_216_dest">216DOTHERE Chapter "Chapter 20: Imposing And Maintaining Racism vs Generating Unity"</div>
-</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_217_dest">217DOTHERE Chapter "Chapter 22: Imposing And Maintaining Hatred"</div>
-</td><td>	<div class="biblio-div" id="cite_218_dest">218DOTHERE Chapter "Chapter 24: Sexual Discrimination vs Sexual Equality"</div>
-</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_219_dest">219DOTHERE Chapter "Chapter 25: Sexual Freedom vs Sexual Repression"</div>
-</td><td>	<div class="biblio-div" id="cite_220_dest">220DOTHERE Chapter "Chapter 32: A Study in Privilege and World-Shaping - the Police"</div>
-</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_221_dest">221DOTHERE Chapter "Chapter 36: Sabotaging Efforts at Deep Cultural Healing"</div>
-</td><td>	<div class="biblio-div" id="cite_222_dest">222DOTHERE Chapter "Chapter 40: Enough! - The Zapatistas' Deep Revolution"</div>
-</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_223_dest">223DOTHERE Chapter "Chapter 47: Embracing the Sacred Masculine"</div>
-</td><td>	<div class="biblio-div" id="cite_224_dest">224DOTHERE Chapter "Chapter 6: Blind Belief 1 - When People Ignore Reality to Maintain Safety and Comfort"</div>
+<tr><td class="half-cell">	<div class="biblio-div" id="cite_215_dest">215DOTHERE "Chapter 10 - Profit Economies"</div>
+</td><td>	<div class="biblio-div" id="cite_216_dest">216DOTHERE "Chapter 20: Imposing And Maintaining Racism vs Generating Unity"</div>
+</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_217_dest">217DOTHERE "Chapter 22: Imposing And Maintaining Hatred"</div>
+</td><td>	<div class="biblio-div" id="cite_218_dest">218DOTHERE "Chapter 24: Sexual Discrimination vs Sexual Equality"</div>
+</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_219_dest">219DOTHERE "Chapter 25: Sexual Freedom vs Sexual Repression"</div>
+</td><td>	<div class="biblio-div" id="cite_220_dest">220DOTHERE "Chapter 32: A Study in Privilege and World-Shaping - the Police"</div>
+</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_221_dest">221DOTHERE "Chapter 36: Sabotaging Efforts at Deep Cultural Healing"</div>
+</td><td>	<div class="biblio-div" id="cite_222_dest">222DOTHERE "Chapter 40: Enough! - The Zapatistas' Deep Revolution"</div>
+</td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_223_dest">223DOTHERE "Chapter 47: Embracing the Sacred Masculine"</div>
+</td><td>	<div class="biblio-div" id="cite_224_dest">224DOTHERE "Chapter 6: Blind Belief 1 - When People Ignore Reality to Maintain Safety and Comfort"</div>
 </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_225_dest">225DOTHERE Revolutionary Agriculture Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div">Rockhill, W. W. (1892). Udanavarga: A Collection of Verses from the Buddhist Canon. Routledge.</div></td></tr>
 <tr><td class="half-cell">	<div class="biblio-div" id="cite_226_dest">226DOTHERE p. 252</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_227_dest">227DOTHERE Rodríguez, S. (1994, March 8). Comandanta Ramona y Mayor Ana María: Las demandas son las mismas de siempre: Justicia, tierras, trabajo, educación e igualdad para las mujeres. Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1994/03/07/comandanta-ramona-y-mayor-ana-maria-las-demandas-son-las-mismas-de-siempre-justicia-tierras-trabajo-educacion-e-igualdad-para-las-mujeres/</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div">Rong, J. (2008). Wolf Totem (H. Goldblatt, Trans.). Penguin Press.</div></td></tr>
-<tr><td class="half-cell">	<div class="biblio-div" id="cite_228_dest">228DOTHERE Chapter "Chapter 2"</div>
+<tr><td class="half-cell">	<div class="biblio-div" id="cite_228_dest">228DOTHERE "Chapter 2"</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_229_dest">229DOTHERE Rull, M. R. (2021, August 2). In the face of assassinations and paramilitary terror, the Zapatista struggle for sovereignty continues. War Resisters. https://wagingnonviolence.org/wr/2021/08/assassinations-paramilitary-terror-zapatista-struggle-sovereignty/</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div" id="cite_230_dest">230DOTHERE Russia: Sakhalin Island indigenous peoples protest oil development. (2005, January 31). Cultural Survival. https://www.culturalsurvival.org/news/russia-sakhalin-island-indigenous-peoples-protest-oil-development</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div">Ryan, C., & Jethá, C. (2010). Sex at Dawn. HarperCollins.</div></td></tr>
@@ -310,7 +310,7 @@
 </td></tr><tr><td class="half-cell">	<div class="biblio-div" id="cite_265_dest">265DOTHERE p. 71</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_266_dest">266DOTHERE Trudeau, J. (2022, December 10). Statement by the Prime Minister on Human Rights Day. Prime Minister of Canada. https://www.pm.gc.ca/en/news/statements/2022/12/10/statement-prime-minister-human-rights-day</div></td></tr>
 <tr><td colspan="2"><div class="biblio-div">Tsering, T., Goldstein, M., & Siebenschuh, W. (1997). The Struggle for Modern Tibet. ME Sharpe, Inc.</div></td></tr>
-<tr><td class="half-cell">	<div class="biblio-div" id="cite_267_dest">267DOTHERE Chapter "Chapter 3"</div>
+<tr><td class="half-cell">	<div class="biblio-div" id="cite_267_dest">267DOTHERE "Chapter 3"</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div">Turner, F. (1994). Beyond Geography. Rutgers University Press.</div></td></tr>
 <tr><td class="half-cell">	<div class="biblio-div" id="cite_268_dest">268DOTHERE Chapter "Possession"</div>
 </td><td class="half-cell"> </td></tr><tr><td colspan="2"><div class="biblio-div" id="cite_269_dest">269DOTHERE Unger, C. (2018, December 4). Bush's sordid Saudi ties set template for Trump – he was just more subtle. The Guardian. https://www.theguardian.com/us-news/2018/dec/04/george-hw-bush-saudi-arabia-donald-trump</div></td></tr>

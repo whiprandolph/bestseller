@@ -106,7 +106,7 @@ When children are trained for obedience, and child abuse and deprivation can cau
 
 Child abuse or deprivation aren't all-or-nothing. Some people grow up with far more than others, and nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.
 
-These emotional troubles can also make it difficult to connect with partners in romantic and spousal relationships, limiting the depth of connection and trust many people can experience even in their families.
+These emotional troubles can also make it difficult to have satisfying romantic and spousal relationships, limiting the connection and trust many people experience even in their families.
 
 The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep spiritual strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
 
@@ -146,7 +146,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking make people easy to manipulate, so deep awareness is rare.
 
-Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, cowardice, and greed are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only pervasive in unhealthy nations where authorities forbid people from standing for what's right. Childhood emotional wounds can cause a background sense of deep unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
+Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only pervasive in unhealthy nations where authorities forbid people from standing for what's right. Childhood emotional wounds can cause a background sense of deep unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
 
 However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be taught.
 
@@ -162,7 +162,7 @@ To maintain this way of life, we are continually reconquered: our bravest, wises
 
 Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_.
 
-You and the people around you can do this. What could help you succeed? Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution_.
+You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution_.
 
 ### References
 

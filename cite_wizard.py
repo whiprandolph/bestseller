@@ -114,17 +114,19 @@ def add_subcites_to_biblio(biblio_dict, cite_to_biblio_line_dict, cite_to_subcit
             root_cite = cite.split("|")[0] + "]"
 
         biblio_line = cite_to_biblio_line_dict[root_cite]
+        prefixed_subcite = subcite # default
         if "the quran" in biblio_line:
             prefixed_subcite = "Verse %s" % subcite
         elif "version bible" in biblio_line:
-            prefixed_subcite = subcite
+            pass # go with default of subcite above
         elif subcite.isdigit() or bool(re.search(r"^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",subcite.upper())):
             prefixed_subcite = "p. %s" % subcite
         elif subcite.count("-") == 1 and subcite.split("-")[0].isdigit() and subcite.split("-")[1].isdigit():
             prefixed_subcite = "pp. %s" % subcite
         else:
             assert subcite.count("\"") == 2, "Error: %s, %s; line: %s" % (cite, subcite, biblio_line)
-            prefixed_subcite = "Chapter %s" % subcite
+            if "Chapter" not in subcite:
+                prefixed_subcite = "Chapter %s" % subcite
         sub_entry = [None, subcite, prefixed_subcite, cite]
         if sub_entry not in biblio_dict[biblio_line]['sub_entries']:
             biblio_dict[biblio_line]['sub_entries'].append(sub_entry)

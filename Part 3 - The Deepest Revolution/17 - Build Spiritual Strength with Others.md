@@ -30,7 +30,7 @@ Of course -- you'd need to be that kind of friend too.
 
 There are so many people who want friendships like this. Whether you meet them online, at shops, at political events, anarchist spaces, in your neighborhood, or just by chance, many people long for such beautiful relationships, and they will be glad to meet you.
 
-Find others who also want rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice purposely creating surveillance-free spaces without any recording devices present so you can have privacy.
+Find others who also want rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice purposely creating surveillance-free spaces so you can have privacy.
 
 Deep friendships usually take time to grow, but they will grow a lot faster if you have a clear intention for the kind of friendship you want to have, and the kind of friend you want to be. Speak openly with each other about the kind of relationship you want, and how you commit to showing up to make it happen. Listen to what the other person wants and what they are willing to commit to, and find your common ground. You don't need to agree to be revolutionaries; just focus on building a deep friendship.
 
@@ -52,7 +52,7 @@ Holding yourself and others to a high standard and expecting others to do the sa
 
 Taking a stand when someone misbehaves is often not "nice" or comfortable. You must cultivate bravery so you can uphold your community's standards even when it's uncomfortable. With bravery, you can show a misbehaving person the mistake they're making, invite them to show up better, and hold a clear, healthy boundary if they choose not to change.
 
-High standards are not optional. You will not have a healthy community of deep trust without practicing and maintaining high standards. Countless people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
+High standards are not optional. You will not have a healthy community of deep trust without high standards. Countless people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
 
 Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, or take a stand if someone is disrespected (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that others will share and care for each other in hard times (generosity). Trust that others will see and understand them (awareness). Trust that people will protect each other in dangerous moments (bravery and selfless violence).
 
@@ -134,7 +134,7 @@ Other people truly want to live in a healthy community, but they've learned bad 
 
 Some of the deepest work of building healthy communities is learning when to forgive and when to hold good boundaries and evict someone whose continued misbehavior threatens the whole community's honest and generous way of life.
 
-If you don't hold boundaries and just let anyone participate, selfish people will push out the generous ones, the dishonest people will push out the honest ones, and the community will not last. This is common.
+If you don't hold boundaries and let anyone participate, selfish people will push out the generous ones, dishonest people will push out the honest ones, and the trust will dissipate. This is common.
 
 Also, if you commonly evict someone for any thoughtless act or momentary selfishness, then people will feel vulnerable and afraid to make mistakes and the community still won't last.
 

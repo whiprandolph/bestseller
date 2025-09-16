@@ -6,7 +6,7 @@ This is not true. No one is born racist, sexist, or hateful. Every child, regard
 
 However, immersed in unhealthy nations from birth, many babies eventually become confused children who grow up to be racist, sexist, or hateful adults. By then, it all seems quite natural and normal. People are culturally programmed to discriminate against others. That programming is not inherent in our DNA. It has to be taught.
 
-How are racism and other kinds of discrimination taught? I believe it is simple: rulers decide what behaviors and attitudes are ok, and punish people who don't adopt them. People who play along get rewarded, and those who don't get punished, often in confusing ways. Eventually, hurtful attitudes and behaviors become normalized.
+How are racism and other kinds of discrimination taught? It is simple: rulers decide what behaviors and attitudes are ok, and punish people who don't adopt them. People who play along get rewarded, and those who don't get punished, often in confusing ways. Eventually, hurtful attitudes and behaviors become normalized.
 
 How does this work in practice?
 
@@ -26,7 +26,7 @@ In this story, the emperor is the ruler, meaning he decides on the laws and how 
 
 And over time, this becomes a habit that feels more or less normal for many people living since birth in unhealthy nations.
 
-### In Unhealthy Nations, Unaccountable Authorities Punish Those Who Speak Up
+### Unaccountable Authorities Punish Those Who Speak Up
 
 Let's look at some historical examples to see how this works.
 
@@ -42,18 +42,18 @@ In this social pattern, authorities punish people for speaking the truth, making
 
 The Ku Klux Klan was a campaign of paramilitary violence operated by wealthy ex-slaveowners in the US South after the US Civil War. Many Americans know that terrible violence was directed at black people to scare them into remaining second class citizens. But few know that this campaign also attacked any white people who sympathized with oppressed black people![xxx-odoc|ch22]
 
-In other words, whites who were racist were left alone or even rewarded. Any anti-racist white people risked atrocities like rape, murder, and having their house burned. The conservative news media was full of hate for "Dark Savages and white ignoramusses." This has been a major driver of anti-black racism in the US South: authorities promoted that racism to discourage solidarity among poor white and black people. For centuries they brutally punished any white people who stood up to confront racial injustices. Many KKK members were sheriffs and politicians, so the law was part of the problem![xxx-the ku klux klan: a study in reconstruction politics|p353-354]
+Whites who were racist were left alone or even rewarded. Anti-racist white people risked atrocities like rape, murder, and having their house burned. The conservative news media was full of hate for "Dark Savages and white ignoramusses." This has been a major driver of anti-black racism in the US South: authorities promoted that racism to discourage solidarity among poor white and black people. For centuries they brutally punished any white people who stood up to confront racial injustices. Many KKK members were sheriffs and politicians, so the law was part of the problem![xxx-the ku klux klan: a study in reconstruction politics|p353-354]
 
 Similar stories abound from unhealthy nations around the world. Nazi Germans and Soviet citizens were each trained by their governments to hate the other side during World War II. Anyone who didn't hate enough risked being called a sympathizer and traitor and going to jail. When these authorities wanted war, they propagated hatred among the populace and punished anyone who spoke the truth and refused to hate.[xxx-odoc|ch22]
 
-Why did so many Germans learn to hate Jewish people after World War I? Well, the German monarchy, business leaders, and generals had really screwed up and lost the war. Knowing it was a foregone conclusion, they surrendered before the enemy had crossed into German territory. Unfortunately, they had lied to the German public, and the media contained propaganda which said they were winning the war until the moment they surrendered. Thus many Germans were really confused: why did they surrender if they were winning?[xxx-odoc|ch22]
+Why did so many Germans learn to hate Jewish people after World War I? The German monarchy, business leaders, and generals had lost the war. Knowing it was a foregone conclusion, they surrendered before the enemy crossed into German territory. Unfortunately, they had lied to the German public, and the media contained propaganda which said they were winning the war until shortly before they surrendered. Thus many Germans were really confused: why did they surrender if they were winning?[xxx-odoc|ch22]
 
-The political, military and business leaders wanted to avoid accountability for losing the war and spreading lies, so they propagated a "stab-in-the-back" narrative, blaming Jews, labor activists, liberals, and others for undermining the country from within.[xxx-odoc|ch22]
+The political, military and business leaders wanted to avoid accountability for losing the war and spreading lies, so they propagated a "stab-in-the-back" narrative, blaming Jews, labor activists, liberals, and others for undermining the country.[xxx-odoc|ch22]
 
 A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was just a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.[xxx-odoc|ch22]
 
 <center><img src="./images/polkas_vs_stripes.png" alt="When People Fall for Scams like Racism" height="311" width="597"/><br/>
-<i>When people fall for scams like racism, they see their neighbors as a threat and argue about nonsense while ignoring the real problems.</i></center>
+<i>People who fall for scams like racism see their neighbors as a threat and argue about nonsense while ignoring the real problems.</i></center>
 
 ### And It Continues Today
 

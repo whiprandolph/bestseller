@@ -138,9 +138,9 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 4. _Achieving Peace by Standing for Justice_: When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."[xxx-basic call to consciousness|p104] They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
 
-5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing, believing that allowing private property would eventually destroy their nation. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-basic call to consciousness|p38]
+5. _Rejecting Private Property_: The traditional Haudenosaunee wisely rejected private property and emphasized sharing. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-basic call to consciousness|p38]
 
-    Since the Haudenosaunee also avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
+    Since the Haudenosaunee avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
 
 6. _Avoiding Conquering Other People_: They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-basic call to consciousness|p37]
 
@@ -152,9 +152,9 @@ Even centuries ago, the Haudenosaunee sometimes went through hard times such as 
 
 These principles taught me the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.**
 
-Part 3 offers a path that you can begin walking today to build a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and selfishness doesn't take hold.**
+Part 3 offers a practical path to begin building a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and trust is pervasive.**
 
-Not everyone will want to walk this path, but you can find people who do. When enough healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.**
+Not everyone will want to walk this path, but you can find people who do. As healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.**
 
 ### References
 

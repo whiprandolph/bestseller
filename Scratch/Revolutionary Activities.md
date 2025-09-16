@@ -101,7 +101,7 @@
 ### 12 - Selfish Violence vs Selfless Violence
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Learn to judge when violence is appropriate</div>
-</b><div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when it's not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each kind. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? In what circumstances do you think violence is appropriate, and when is it not appropriate?</div></div>
+</b><div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? When do you think violence is appropriate, and when is it not?</div></div>
 
 
 

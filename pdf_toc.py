@@ -103,17 +103,17 @@ def verify(toc_data, pdf, phys):
     'chap6':42,
     'chap7':51,
     'chap8':61,
-    'chap9':76,
-    'chap10':95,
-    'chap11':107,
-    'chap12':112,
-    'chap13':120,
-    'chap14':135,
-    'chap15':149,
-    'chap16':155,
-    'chap17':169,
-    'chap18':183,
-    'page_count':198,
+    'chap9':75,
+    'chap10':94,
+    'chap11':106,
+    'chap12':111,
+    'chap13':119,
+    'chap14':134,
+    'chap15':148,
+    'chap16':154,
+    'chap17':168,
+    'chap18':182,
+    'page_count':197,
   }
   online_checks = {
     'chap2':11,
@@ -146,6 +146,10 @@ def verify(toc_data, pdf, phys):
     assert checks['chap17'] == toc_data["Part 3 - The Deepest Revolution"][3][1], "chap 17 page num is off (exp: %s, is: %s)" % (checks['chap17'], toc_data["Part 3 - The Deepest Revolution"][3][1])
     assert checks['chap18'] == toc_data["Part 3 - The Deepest Revolution"][4][1], "chap 18 page num is off (exp: %s, is: %s)" % (checks['chap18'], toc_data["Part 3 - The Deepest Revolution"][4][1])
     assert len(pdf.pages) == checks['page_count'], "Incorrect page count (phys=%s): found: %s, expected: %s" % (phys, len(pdf.pages), checks['page_count']) # excludes title/toc pages
+
+    assert toc_data["Part 1 - This Is Who We Really Are"][0][1] % 2 == 0, "part 1 page num is even"
+    assert toc_data["Part 2 - Why Are We So Lost"][0][1] % 2 == 0, "part 2 page num is even"
+    assert toc_data["Part 3 - The Deepest Revolution"][0][1] % 2 == 0, "part 3 page num is even"
   except AssertionError as exc:
     pp(toc_data)
     print("ERROR in ToC Validation (phys=%s): %s" % (phys, exc))
