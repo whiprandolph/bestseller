@@ -4,7 +4,7 @@ Sioux man Sitting Bull said, "The life of white men is slavery. They are prisone
 
 How can well-off, even middle- or upper-class people be prisoners?
 
-Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy nations have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of standing up together to seek justice, then abuse and exploitation become the norm.
+Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy nations have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of seeking justice, then abuse and exploitation become the norm.
 
 Sadly, child sexual abuse runs rampant in these conditions, including by unaccountable religious, business and political authorities. For example, researchers in Germany, Ireland, the USA and Australia have found many thousands of child sexual abuse victims just from Catholic priests in each country. One investigation into Catholic abuses in France alone found over 216,000 child sexual assault victims between 1950-2020. Universally, higher Catholic Church authorities covered up or stalled investigations into the abusive priests.[xxx-aljazeera catholic pedophilia]
 
@@ -16,13 +16,13 @@ An orphanage in Portugal was revealed to house a huge child sexual abuse operati
 
 How do you think the Portuguese people felt watching these legal proceedings carefully avoid the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
 
-Tragically, such disturbing troubles are simply common in unhealthy nations that punish you for seeking justice. Thus similar stories can be found in the United States.
+Tragically, such disturbing troubles are common in unhealthy nations that punish you for seeking justice. Thus similar stories can be found in the United States.
 
 In the late 1980s in Omaha, Nebraska, a child sexual abuse operation was discovered based in the child foster care system. Investigators found child sexual abuse victims who described many satanic rituals and named many powerful people as abusers, including judges, politicians, and wealthy business executives. National figures were involved too, including George HW Bush, who at various times was a billionaire US president, vice president, and CIA director. Fifteen knowledgeable people died violent deaths during the investigation, and none of the perpetrators faced justice.[xxx-franklin cover up|p4-12]<sup>,</sup>[xxx-franklin cover up|pxvii]
 
 Nothing occurred in any of these cases to suggest that the institutionalized child sexual abuse ever ended. People in all these unhealthy nations go on about their lives as if this rampant child abuse isn't still happening all around them.
 
-How much child abuse is happening all around you right now, from authorities or other abusive adults? Do you know? If you found out, and if you decided to personally take action to stop the abuse, what would happen? That's right -- you would be punished, because only the police are allowed to actively enforce the law. You would be punished for standing for what's right and upholding the laws you live by.
+How much child abuse is happening all around you right now, from authorities or other abusive adults? Do you know? If you found out, and if you decided to personally take action to stop the abuse, what would happen? That's right -- you would be punished, because only the police are allowed to actively enforce the law. You would be punished for seeking justice and upholding the laws you live by.
 
 You would be punished if you intervened to stop child abuse, just like you'd be punished for trying to free unjustly imprisoned people or trying to stop a genocide.
 
@@ -32,7 +32,7 @@ A staggering level of abusive behavior always occurs when people allow themselve
 
 ### Healthy Nations Don't Abuse Children
 
-Can you imagine a world without child sexual abuse? Not just a world with more women's self-defense classes, or stronger laws, or better ways of supporting victims. Can you imagine a world without _any_ child sexual abuse?
+Can you imagine a world without child sexual abuse? Not just a world with more self-defense classes, or stronger laws, or better ways of supporting victims. It's possible to live in a world without _any_ child sexual abuse?
 
 This world is possible. Healthy nations do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy nations to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two young Nootka girls.[xxx-daughters of copper woman|p73-74]
 
@@ -44,13 +44,13 @@ _The old woman examined both the babies, and it was as if the sure evidence of w
 
 This story was transformative for me. The Nootka lived without child sexual assault until they encountered an unhealthy nation. This taught me that it is possible for a whole nation to have _zero_ child sexual assault.
 
-I knew child rape was bad, but why was it so bad that it would "[shake] the centrepost of all creation" and "[threaten] the here and now as well as the past and future?"
+I knew child rape was vile, but why was it so bad that it would "[shake] the centrepost of all creation" and "[threaten] the here and now as well as the past and future?"
 
 Healthy nations see any disrespect as a cultural wound that affects everybody, and the Nootka recognized that this child rape was a severe disrespect and therefore a severe cultural wound. If this disrespect wasn't fully addressed, everything was at risk, and nothing would be safe.
 
 The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their nation's survival to protect themselves from predators.[xxx-daughters of copper woman|p79]
 
-This taught me the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates selfish predators, there is no end to the trouble.
+This taught me the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, predatory behavior becomes normalized.
 
 ### What Is It Like to be Conquered? And What Does That Have to Do With Me?
 
@@ -66,13 +66,13 @@ Unfortunately, many ruling classes have recognized this truth, and this explains
 
 The Lakota and Nootka offer tragic examples, as they were ultimately unable to prevent conquering Christians from kidnapping most of their children and sending them to abusive boarding schools.
 
-Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated in countless ways and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
+Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
 
 At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for himself and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
 
 At Catholic boarding schools, Nootka girls learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were filthy and sinful and had no valuable opinions and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 
-Countless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
+Endless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
 
 Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for terrible troubles like drunkenness, shame, and domestic violence to take hold that seem so tragically widespread in every unhealthy nation. This proves again that humans didn't "evolve" to live in unhealthy nations; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
 
@@ -94,21 +94,21 @@ In contrast, the war-resisters had the spiritual strength to oppose an unjust wa
 
 When children are repeatedly mistreated or deprived, they can learn to "hold back" or "shut down" parts of themselves, ignore parts of their experience, and develop hurtful attitudes in order to numb the pain of continual dissatisfaction. People can then learn to ignore that they're doing these things, making the protective behaviors and attitudes subconscious. When this is severe enough, it can lead to adults with very disturbing attitudes and behavior. Many adults struggle to feel any pleasure or connection at all, or even reject many kinds of affectionate physical pleasure.[xxx-violence.de prescott pleasure touch]<sup>,</sup>[xxx-body pleasure and the origins of violence]
 
-Interviewers found that most war-volunteers were unable to feel deeply, describing any sort of deepening relationship as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."[xxx-true americanism|p137]
+Interviewers found that most war-volunteers were unable to feel deeply, describing relationships as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."[xxx-true americanism|p137]
 
-In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned deep lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
+In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
 
-Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel deeply -- they lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have deep insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put down others.
+Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put down others.
 
-Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value deep pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
+Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
 
-When children are trained for obedience, and child abuse and deprivation can cause deep insecurities, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
+When children are trained for obedience, and child abuse and deprivation can cause strong insecurities, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
 
 Child abuse or deprivation aren't all-or-nothing. Some people grow up with far more than others, and nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.
 
 These emotional troubles can also make it difficult to have satisfying romantic and spousal relationships, limiting the connection and trust many people experience even in their families.
 
-The war-resisters had grown up with a respectful childhood, so respect was the norm for them and they grew up with a deep spiritual strength. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.
+The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.**
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself. The question is whether or not people are emotionally capable of having integrity and deep relationships. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
@@ -134,11 +134,11 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Resentment instead of gratitude_: When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to feel resentment instead of gratitude for the gifts of life.
 
-* _Disconnection instead of connection with people_: When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have deep, trusting, meaningful connections with many other people.
+* _Disconnection instead of connection with people_: When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have trusting and meaningful connections with many other people.
 
 * _Disconnection instead of connection with nature_: Profit economies force people to seek money to survive, rather than build a mutually enriching relationship with the Earth.
 
-* _Displeasure instead of pleasure_: Many people who are deprived of abundant loving touch in childhood may feel displeasure, dissatisfaction or disconnection as a normal, baseline experience of life and struggle to feel deep pleasure. And many religions discourage deep pleasure.
+* _Displeasure instead of pleasure_: Many people who are deprived of abundant loving touch in childhood may feel displeasure, dissatisfaction or disconnection as a normal, baseline experience of life and struggle to feel deep pleasure. And many religions discourage pleasure.
 
 * _Forgetting instead of remembering_: Everybody has ancestors who lived in healthy nations in the past, but most have forgotten and think their unhealthy nation is "just how life is."
 
@@ -146,7 +146,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking make people easy to manipulate, so deep awareness is rare.
 
-Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only pervasive in unhealthy nations where authorities forbid people from standing for what's right. Childhood emotional wounds can cause a background sense of deep unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
+Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only pervasive in unhealthy nations where authorities forbid people from standing for what's right. Childhood emotional wounds can cause a background sense of significant unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
 
 However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be taught.
 

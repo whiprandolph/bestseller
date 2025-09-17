@@ -8,13 +8,13 @@ Without exception, every unhealthy nation has these intractable problems, and ye
 
 But our troubles go deeper still.
 
-_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But when people are forbidden from standing for justice (because only the police may enforce the law, and solidarity is continually sabotaged, making it hard to act in service, deep integrity becomes rare. Instead, low integrity, cowardice, lack of awareness, minimal mutual understanding, superficiality, and low self-worth become common.
+_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But when people are forbidden from standing for justice (because only the police may enforce the law, and solidarity is continually sabotaged, making it hard to act in service, deep integrity becomes rare. Instead, low integrity, cowardice, low mutual understanding, superficiality, and low self-worth become common.
 
-When people think that the many abusive consequences of their unhealthy nation are "just the way life is," they also come to think that all these terrible troubles, while tragic, are simply inevitable. When troubles like discrimination, greed, corruption, cowardice, superficiality, and low integrity seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
+When people think that the many abusive consequences of their unhealthy nation are "just the way life is," they also come to think that all these terrible troubles, while tragic, are inevitable. When these troubles seem normal and inevitable, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
 
 But here is the good news. It is absolutely possible to live without troubles like discrimination, corruption, and all the rest. It's also possible to live in a nation where everyone embraces integrity, bravery, and generosity, so that neighbors can deeply trust each other. Countless stories of healthy nations living in traditional times show us just how high our standards can be, and reveal how low our standards currently are.
 
-The path to creating new healthy nations requires learning how to hold ourselves and others to high standards of excellent and beautiful behavior, so that integrity, generosity, and other attractive qualities become common.
+The path to creating new healthy nations requires learning how to hold ourselves and others to high standards so that integrity, generosity, and other attractive qualities become common.
 
 ### Healthy Nations Show How High Our Standards Can Be
 
@@ -26,11 +26,7 @@ Can you imagine living in a community where high integrity is so normal and expe
 
 _Physical resilience:_ Crow woman Pretty Shield described how physically resilient her people used to be: "[W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
-Can you imagine if you and your community were so physically resilient that even being soaking wet in winter was nothing to worry about, but just a little trouble to fix?
-
-_Generosity:_ A Christian missionary visited the Ojibway, Cheyenne, Cree and Sioux nations, describing how Jesus Christ selflessly gave away all his possessions, urged others to do the same, and dedicated his life to feeding, healing, and protecting his people. The missionary was told that, prior to colonization, Jesus Christ's level of selfless generosity was simply normal among them.[xxx-from deep woods to civilization|civ preached practiced]
-
-Can you imagine being a member of a nation where someone who lived like Jesus Christ would be considered admirable but not at all unusual because such selfless generosity is simply normal and expected?
+_Generosity:_ A Christian missionary visited the Ojibway, Cheyenne, Cree and Sioux nations, describing how Jesus Christ selflessly gave away all his possessions, urged others to do the same, and dedicated his life to feeding, healing, and protecting his people. The missionary was told that, prior to colonization, Jesus Christ's level of selfless generosity was normal among them.[xxx-from deep woods to civilization|civ preached practiced]
 
 _Meaningful Education for Young People:_ One Nootka storyteller described how the women would often have their moon time at the same time each month, and they would go to a special house and enjoy a four-day party. They would sit on special soft moss and give their blood back to the Earth and play games and talk. Women would rub each others' back and make special tea if someone had cramps. This became a major opportunity for older women to mentor younger women. For example, young women learned the special Frog posture that could help relieve cramps and make childbirth easier.
 
@@ -38,21 +34,21 @@ Can you imagine if adults took young people's education seriously, offering them
 
 _Benefitting the Earth:_ Stories abound of people of healthy nations benefitting or enriching the Earth as a normal way of life. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a powerful bow so that the overall forest also benefitted.[xxx-the vision|p81]
 
-Can you imagine if your normal way of life benefitted the Earth around you, increasing the natural abundance that you depend on?
+Their normal way of life benefitted the Earth around them, increasing the natural abundance that they depended on.
 
 When people bring out the best in each other, have high expectations, or hold each other to high standards, whole nations really are capable of maintaining that baseline of mutual respect among the people, and between people and the Earth.
 
-Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other caring people you make friends with.
+Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other caring people you know.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
-<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive romantic relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to show up better.</div></div>
+<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to do what they need to do.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
-<div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or very respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback when they see you making a mistake.</div></div>
+<div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback when they see you making a mistake.</div></div>
 
 #### Seeing the Trap of Low Standards
 
-Regardless of the type of government, when people accept submissive obedience as normal, all kinds of unnecessary problems arise. These problems may seem inevitable, just part of the human experience. But in truth, they're only problems in unhealthy nations where people trained not to hold themselves or each other to high standards.
+Regardless of the type of government, when people accept submissive obedience as normal, many unnecessary problems arise. These problems may seem inevitable, just part of the human experience. But in truth, they're only problems in unhealthy nations where people trained not to hold themselves or each other to high standards.
 
 #### Low Standards for Children
 
@@ -68,7 +64,7 @@ Young Nootka boys and girls were trained to have very strong physical endurance 
 
 This freedom from rebellion extends to adulthood as well. When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one one for the family to enter and one privately her own so she can easily have lovers visit. There is never an expectation that sexual partners raise the children, as the woman's brothers and other neighbors help raise her children. Every man knows that his sister's children are his primary responsibility, which allows both men and women to have sexual partners without worrying about who the biological father is. They created a way of life where men, women and children get their needs met without each partner restricting the other's sexual freedom.[xxx-sex at dawn|love lust lagu]**
 
-Jean Liedloff acted as a physician among the Yequana, and she noted, "All [their] behaviour contradicted the assumptions I held about how children behave." She encountered a four-year-old with a gaping wound who came to her all alone and kept his composure even through the pain, and a 9-year-old with an abdominal wound after his older brother accidentally shot him with an arrow. There was no animosity or needless worry, and they didn't need sympathy to help them feel ok. Even the mother of the 9-year-old showed no anxiety -- after all, everything that could be done to address the injury was being done, so what good would feeling stress accomplish? The boy recovered just fine.[xxx-continuum concept|growing up]
+Jean Liedloff acted as a physician among the Yequana, and she noted, "All [their] behaviour contradicted the assumptions I held about how children behave." She encountered a four-year-old with a gaping wound who came to her all alone and kept his composure even through the pain, and a 9-year-old with an abdominal wound after his older brother accidentally shot him with an arrow. There was no animosity or needless worry, and they didn't need sympathy. Even the mother of the 9-year-old showed no anxiety -- after all, everything that could be done to address the injury was being done, so what good would feeling stress accomplish? The boy recovered just fine.[xxx-continuum concept|growing up]
 
 Liedloff ascribed these children's emotional resilience and self-confidence to a few factors, including having sufficient time in their mother's arms in early childhood, being raised with healthy boundaries, and being corrected without guilt or shame when they made a mistake.[xxx-continuum concept|growing up]
 
@@ -91,7 +87,7 @@ Even so-called liberation movements will be disappointing as long as people acce
 
 For example, black people and women were both treated abominably in the United States at the start of the 1900s, facing severe discrimination in the workplace, courtroom, and other areas of life. After more than a century of "women's liberation" and "black liberation" movements, what is the result? Women and black people can now become corrupt politicians, just like they can be selfish rich business owners, corrupt judges and police officers, and well-paid wage slaves.
 
-Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like plenty of white men have taken it for centuries. Of course, many female and black spiritual leaders had to be corrupted, abused, or killed in order to corrupt the liberation movements.**
+Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. Of course, many female and black spiritual leaders had to be corrupted, abused, or killed in order to corrupt the liberation movements.**
 
 And since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these ancient forms of discrimination persist today. As long as people accept submissive obedience as normal, they will have low standards, even for liberation movements.
 
@@ -129,11 +125,11 @@ Lakota man Black Elk described how his people were short on both food and ammuni
 
 Pretty Shield described how her Crow village would move between sites with all their homes and gear packed on horses. They could be attacked at any time, so male Crow scouts would travel ahead, around and behind the main group to give warning if enemies approached. They called these Crow scouts "wolves," and she said, "we women visited while we traveled... The men were ever watching these wolves, and we women constantly watched the men."[xxx-red mother|p22] The women trusted the men to organize themselves into a protection force and pay attention to each other to collectively protect the village, all without pay or threat of punishment.
 
-Women's trust of men in these healthy nations was evidence of the men's deep integrity, and many stories show how trusting women inspired bravery in their men in times of crisis. One Cheyenne boy named Wikis was 5 or 6 years old when his village was suddenly attacked, and men instantly ran towards the threat while women gathered the children. Instead of just running away, Wikis said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp..."[xxx-when buffalo ran|attack on the camp]
+Women's trust of men in these healthy nations was evidence of the men's integrity, and many stories show how trusting women inspired bravery in their men in times of crisis. One Cheyenne boy named Wikis was 5 or 6 years old when his village was suddenly attacked, and men instantly ran towards the threat while women gathered the children. Instead of just running away, Wikis said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp..."[xxx-when buffalo ran|attack on the camp]
 
 Many stories from the Lakota also describe women inspiring their men to be brave by singing in this way.[xxx-odoc|ch47]
 
-Of course, women can make fearsome fighters as well, and integrity and bravery are qualities for everyone to embrace. These stories showed me that everybody in a nation can have deep integrity and bravery, as the women would not have sung for untrustworthy men.
+Of course, women can make fearsome fighters as well, and integrity and bravery are qualities for everyone to embrace. These stories showed me that everyone in a nation can have integrity and bravery, as the women would not have sung for untrustworthy men.
 
 These stories and many others show how low our standards are for each other as a natural consequence of being trapped in unfree societies and accepting submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to high standards. And to do this, we must learn how to spiritually grow without feeling guilt or shame.
 
@@ -143,7 +139,7 @@ Feelings like shame or guilt are some of the biggest obstacles to spiritual grow
 
 Thus, to really hold yourself and others to a high standard and help people grow when they make a mistake, it is crucial to learn how to pursue personal and collective growth without shame or guilt.
 
-The first requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being themselves. Trust that they want to show up in a good way and just don't know how -- there's something they're missing, but if they could see it, they would grow and show up well.
+A key requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being themselves. Trust that they want to show up in a good way and just don't know how. There's something they're missing, but if they could see it, they would grow and show up well.
 
 Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life or community anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 
@@ -158,7 +154,7 @@ You practiced: you tried your best to kick the soccer ball to someone, and somet
 
 Integrity, awareness, gratitude, and generosity are skills too, and you can practice these intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as not having the awareness you want, or being afraid to tell the truth and lying instead.
 
-Anytime you fall short of your high standards, notice any feeling of guilt or shame and . Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. And if you feel any residual guilt or shame, let it go. You are just practicing and learning.
+It is ok to feel disappointed in yourself anytime you fall short of your high standards. But if you notice any shame or guilt, or any sense of inherent badness, acknowledge these feelings and let them go. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
 
 And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. For example, bravery is the ability to remain conscious and do what you know is right even if you feel uncomfortable or afraid. To practice bravery, intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
@@ -185,7 +181,7 @@ Hold yourself and others to high standards of excellent behavior to create a cul
 
 [xxx-red mother|p22]-aaa (Linderman, 1932, 22)
 
-[xxx-sex at dawn|love lust lagu]-aaa (Ryan & Jethá, 2010, "Love, Lust, and Liberty at Lugu Lake")
+[xxx-sex at dawn|love lust lagu]-aaa (Ryan & Jethá, 2010, "Chapter 9: Paternity Certainty: The Crumbling Cornerstone of the Standard Narrative")
 
 [xxx-daughters of copper woman|p101-102]-aaa (Cameron, 1981, 101-102)
 

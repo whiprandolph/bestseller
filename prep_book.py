@@ -42,6 +42,10 @@ BOOK_ADDED_STYLE_BASE = """
     text-align: justify;
   }\n
 
+  sup {
+    font-size:9pt;
+  }
+
   .part-intro {
     font-size: 38px;
   }

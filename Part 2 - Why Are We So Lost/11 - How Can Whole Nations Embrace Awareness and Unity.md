@@ -1,10 +1,10 @@
 ## Chapter 11: Can Whole Nations Embrace Awareness and Unity?
 
-When I first began doing nature-connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. After practicing for years, it's clear to me that if a whole group of people regularly embraced nature connection practices, they could feel closely connected indeed, leaving no place for sexism, racism and hatred.
+When I first began doing nature connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. Iff a whole group of people regularly embraced these practices, they could feel closely connected indeed. There would be no place for sexism, racism and hatred.
 
 Every day, I go to my sit-spot and pay attention to the nonhumans. I ask questions like, what plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. I learned to feel curious about the experiences of the beings around me, and I supplemented my observations with research -- both by reading nature guide books and listening to stories from mentors.
 
-Sitting there each day, I wondered, for example, why a bird would constantly look up as they eat. I learned that they stay continuously aware in case predators arrive. I also saw that some species of tree grew near each other, while others did not. Black walnuts, for example, produce a compound which only some plants find toxic, so they grow near sugar maple and box elder but avoid white pines.
+Sitting there each day, I wondered, for example, why a bird would constantly look up as they eat. I learned that they stay continuously aware in case predators arrive. I also saw that some species of tree grew near each other, while others did not. Black walnuts, for example, produce a compound which only some plants find toxic, so they grow near sugar maple and box elder but white pines avoid them.
 
 I continually practiced feeling into the experiences of other living beings based on my observations. I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me up in an instant. If I were a songbird, I would probably eat carefully too!
 
@@ -14,9 +14,9 @@ The first of the three core spiritual practices -- cultivating a practical, awar
 
 Over time, I learned to observe more closely, question my assumptions, and empathize with nonhumans, and the same attitudes and skills helped me understand and empathize with other people too. Even people who are not like me.
 
-For example, growing up, I learned that women can get extra sensitive during their period. For years I found this annoying and learned to leave women alone during this time. But as with my nature connection practices, I started asking, "how is this a gift?" or "what does this have to teach me?"
+For example, growing up, I learned that women can get extra sensitive during their period. For years I learned to leave women alone during this time. But as with my nature connection practices, I started asking, "how is this a gift?" or "what does this have to teach me?"
 
-I noticed that some women friends would reject food during their period that they normally ate, and when I asked, they said the food was rancid. I would try it and I couldn't taste any rancidity at first. As I learned to taste my food more and more, I began to notice the occasional rancidity, especially in store-bought food. I realized that the sensitive women had noticed something I couldn't notice. Like the birds, women could show me something about my environment that I could not experience directly. When a woman said some food was rancid, even if I couldn't detect it, I began to trust her, and I rejected the food too.
+I noticed that some women friends would reject food during their period that they normally ate, and when I asked, they said the food was rancid. I would try it and I couldn't taste any rancidity at first. As I learned to taste my food more and more, I began to notice the occasional rancidity, especially in store-bought food. I realized that the sensitive women had noticed something I couldn't notice. Like the birds, women could show me something about my environment that I could not experience directly. When a woman said some food was rancid, I trusted her even if I couldn't detect it, and I rejected the food too.
 
 And here is the best part: Over time this helped me notice rancidity I couldn't notice before. In other words, listening to others and trusting them helped me grow in ways I could not have grown on my own.
 
@@ -50,7 +50,7 @@ The Haudenosaunee open every gathering with the Thanksgiving Address, calling it
 
 Healthy nations generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
-This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows me how a nation's leaders can encourage unity and awareness rather than division and ignorance.
+This Thanksgiving Address helps me remember to feel gratitude and feel connected with life. It softens my heart, and it does much more too. It shows how a nation's leaders can encourage unity and awareness rather than division and ignorance.
 
 When I began giving thanks to the nonhumans for their divine gifts, I realized that God is not off in the sky; Creator is alive in Creation. I believe that's what it means to recognize the Great Spirit That Moves Through All Beings, a perspective I've found in many healthy nations. In Christianity, this is called the Holy Spirit. And since Creator is alive in Creation, when people stand in solidarity with the Earth, they're standing in solidarity with Creator.
 
