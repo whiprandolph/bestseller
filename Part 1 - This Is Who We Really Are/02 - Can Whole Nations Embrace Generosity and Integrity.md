@@ -58,7 +58,7 @@ Yes! There are present-day examples of people who struggled with greed, discrimi
 
 As just one example, the Zapatistas substantially reduced the sexism that women faced. When women were interviewed 20 years later in 2014, one said "The capitalists had us believing this idea... that women are not valuable." Another woman said, "The [women] suffered a lot before '94: humiliation, mistreatment, rape." But the revolution brought deep change, with one Zapatista woman saying "As women we have the same rights as men, we have the right to decide which duties we can carry out in the communities..." Another woman said, "in those [Mexican] organizations there are many problems of rape and mistreatment, while with us, Zapatistas, it is not that way..."[xxx-opendemocracy zapatista women law as it is lived today]
 
-The Zapatistas showed me that even people who have lived with sexism, greed, and corruption for centuries can still come together, create a healthy nation, and choose to live without these troubles.
+The Zapatistas show that even people who have lived with sexism, greed, and corruption for centuries can still come together, create a healthy nation, and choose to live without these troubles.
 
 Of course, there are many stories of individual Americans or small groups pulling together in times of crisis or generally acting with kindness toward others. But a whole nation? Or even a whole town? Besides the Ashaninka, I have never seen a whole nation or town of honest, giving, respectful people. Have you?
 

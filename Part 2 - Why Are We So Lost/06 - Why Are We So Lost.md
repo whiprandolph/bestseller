@@ -18,13 +18,13 @@ Countless groups of people have tried countless times over centuries to come tog
 
 Regardless of the particular country, or the type of government or economy, whenever and wherever people in unhealthy nations seek justice, they face a similar response.
 
-In socialist Venezuela, when students came together to seek better conditions at their university during an economic crisis in 2018, they saw this:[xxx-venezuela protest reason]<sup>,</sup>[xxx-venezuelan riot]**
+In socialist Venezuela, when students came together to seek better conditions at their university during an economic crisis in 2018, they saw this:[xxx-venezuela protest reason]<sup>,</sup>[xxx-venezuelan riot]
 
 <center>
 <img src="./images/venezuelan_riot_police.jpg" width="370px" alt="Riot Police in Venezuela"/><br/>
 _Riot Police in Venezuela_</center>
 
-In communist China, when people came together to stop corporations from polluting their rivers in 2012, they saw this:[xxx-chinese riot]**
+In communist China, when people came together to stop corporations from polluting their rivers in 2012, they saw this:[xxx-chinese riot]
 
 <center>
 <img src="./images/chinese_riot_police.jpg" width="370px" alt="Riot Police in China"/><br/>
@@ -33,7 +33,7 @@ _Riot Police in China_
 
 <div style="break-after:page"></div>
 
-And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]**
+And in the capitalist United States, when protesters confronted illegal police violence towards black people in 2020, they saw this:[xxx-american riot]
 
 <center>
 <img src="./images/american_riot_police.png" width="370px" alt="Riot Police in the United States"/><br/>
@@ -58,12 +58,9 @@ In healthy nations, standing for what's right in solidarity with neighbors is no
 
 This shows why so many people of unhealthy nations are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- injustice and ineffective political movements become normalized.
 
-As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates and ignore the root of the problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical as long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
+As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates that ignore the root problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical as long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
-Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with each person acting in solidarity with everyone else to ensure that no one is mistreated? Few people find stories of how whole villages or nations can stand in solidarity, so let's look at an example so you know what it's like.**
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Practice standing for what's right</div>
-<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
+Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with everyone acting in solidarity to ensure that no one is mistreated? Few people have heard stories of how a whole village or nation can stand in solidarity, not just as an abstract idea but a practical way of life. Let's look at an example so you can see what it's like.**
 
 ### The Nootka Stand in Solidarity
 
@@ -89,16 +86,19 @@ The preacher started ranting about nudity, naked women, sin, and respect for God
 
 Acting violently towards a mirror was absolutely not allowed, and the storyteller said, "The people just about ripped him apart." But the mirror protected him from the crowd, went up to where the preacher had been, and began speaking.[xxx-daughters of copper woman|109-112]
 
-The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by people who looked and acted differently. Then she reminded her neighbors of the beauty of their respectful way of life when she said, "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd about following anybody "who was so mixed up they'd do forbidden things."[xxx-daughters of copper woman|109-112]
+The mirror first encouraged empathy, asking people to imagine how a stranger might feel, being away from home and surrounded by others who looked and acted differently. Then she reminded her neighbors that "there was more than one kind of mirror. There was the white man's mirror that you got if you went to church, but there was the mirror in the eyes of the people you loved..." She warned the crowd against following anybody like the preacher "who was so mixed up they'd do forbidden things."[xxx-daughters of copper woman|109-112]
 
-I feel impressed that this woman calmly but clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story showed me that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
+I feel impressed that this woman calmly and clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story shows that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
 
 This story showed me what it's like when everyone in a nation upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone had the spiritual strength to uphold them.
 
 And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.[xxx-daughters of copper woman|109-112]
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Stand for what's right</div>
+<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
+
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Support someone else when they take a stand</div>
-<div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her if she were attacked? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
+<div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her? In other words, how much easier was it for her to take a stand knowing that she would havee others' support?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 ### Solidarity and Generosity Used to be Universal
 
@@ -106,19 +106,21 @@ A few thousand years ago, every human on Earth lived in a healthy nation where s
 
 In recent times, unhealthy nations have formed and spread around the world, trapping free people in abusive societies where a few people rule over the rest.
 
-Why are we so lost then? It's an important question, and the problem is simple -- we're not allowed to stand for justice and uphold our own laws, and we pretend that we're free. In reality, we're not free, because our laws are imposed on us and we're punished for disobeying them. Any political movement that doesn't address this root problem is destined to achieve superficial change at best.**
+Why are we so lost then? The problem is simple -- _we're not free, but we pretend that we are._ We don't choose the laws we live by, authorities impose laws and punish us for disobeying them. We're not allowed to stand for justice and uphold our own laws, because law enforcement is the police's job, and they have to follow orders.
 
-When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.**
+We're not free, and any political movement that doesn't address this root problem is destined to achieve superficial change at best.
 
-When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem normal, and people can likewise raise their children to relate to that fear, insecurity, and selfishness as normal too. But they're not normal.**
+When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.
 
-You may not feel this affects you. You may have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself, if you woke up tomorrow with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy nation do for you? Would you have the deep security that comes from living in a loving, healthy nation where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice?**
+When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem "just how life is." People can likewise raise their children to absorb fear, insecurity, and selfishness so they seem normal. But they're not normal.
 
-Regardless of which unhealthy nation you live in, the answer is no. And because you know that, you have known since childhood that you must play along.**
+You may not feel this affects you. Maybe you have enough goodies in your life or your race is privileged enough that you think you have escaped it. But ask yourself this: if you woke up tomorrow morning with no money, no food, no shelter, no credit cards or cell phone, and no one to call to help you out, what would your unhealthy nation do for you? Would you have the deep security that comes from living in a loving, healthy nation where nobody would let you starve or be treated disrespectfully? Would you have the deep security that comes from living among others who would stand with you against injustice?
 
-But this playing-along is not who we really are. And because of that, I know that each of us – including you – have the power to help make things right.**
+Regardless of which unhealthy nation you live in, and no matter how "safe" you feel, the answer is no. And because you know that, you have known since childhood that you must play along.
 
-For many of us, we and our ancestors have been trapped in this way of life for a very long time. This may be painful to face, but we absolutely can – and we must – stand up together and change it.**
+But "playing along" is not who we really are. And because of that, I know that each of us -- including you -- have the power to help make things right.
+
+For many of us, we and our ancestors have been trapped in this way of life for a very long time. This may be painful to face, but we absolutely can -- and we must -- face the truth and stand up together to change it.
 
 ### References
 

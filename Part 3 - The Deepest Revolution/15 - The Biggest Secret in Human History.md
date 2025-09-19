@@ -4,21 +4,19 @@ What do you think is the biggest secret in human history?
 
 What secret has been kept from billions of people across every continent going back centuries or even millennia?
 
-The most widespread and ancient secret is this: you could potentially live in a nation that maintains a respectful way of life among the people, and between the people and the Earth. That means we don't need politicians to be tough on crime -- we could live without crime. We don't need to vote for the lesser evil -- we could have leaders we trust. We don't need to work unsatisfying jobs, be distrustful of our neighbors, and suffer all kinds of discrimination and financial stress while the rich keep getting richer.**
+The most widespread and ancient secret is this: you could potentially live in a nation that maintains a respectful way of life among the people, and between the people and the Earth. That means we don't need unaccountable politicians to be tough on crime -- we could live without crime. We don't need to vote for the lesser evil -- we could have leaders that the whole nation trusts. We don't need to work unsatisfying jobs, be distrustful of our neighbors, and suffer all kinds of discrimination and financial stress while the rich keep getting richer.**
 
 We could have a way of life where trust is normal because integrity and generosity are normal too. Many nations around the world, now and in the recent past, show that this is not just possible, but the normal and healthy way for humans to live.**
 
-Why has this been such an epic, widely-kept secret? Of course: this is what it's like to live in freedom. However, ruling classes consistently train their conquered subjects to think they're already free so they won't see how much better life could be. Anyone who really understood what healthy nations are like wouldn't fall for this trick.**
-
-For centuries, conquered people have been kept ignorant of the existence of healthy nations that show what freedom is like, or they've been trained to misunderstand them. 
+Why has this been such an epic, widely-kept secret? Of course: _this is what it's like to live in freedom._ However, ruling classes consistently train their conquered subjects to think they're already free so they won't see how much better life could be. For centuries, conquered people have been kept ignorant of the existence of healthy nations that show what freedom is like, or they've been trained to misunderstand them.**
 
 When you know what to look for, the history books show this vividly.
 
-Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom with healthy nations.
+Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom.
 
 Why would ruling classes work so hard to spread propaganda against healthy nations? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."[xxx-true americanism|p27]
 
-Ruling classes try to keep people in despair, not knowing that another way of life is possible without endless troubles like corruption, discrimination, and greed.
+Ruling classes try to keep people in despair, not knowing that another way of life is possible without corruption, discrimination, and greed.
 
 But now you know the secret. You know that we're not free now, and you know what freedom is like. You know that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."**
 
@@ -28,23 +26,25 @@ Of course, if you believe the only alternative to authoritarian democracy is bei
 
 But what if you learned what freedom is like by studying actually-free people? And what if you found examples from today or recent times, including case studies of successful revolutionary movements?
 
-What if you realized how much your unhealthy nation had trained you and your ancestors to hold back your deepest love and tolerate endless abusive behavior all around you?
+What if you realized how much your unhealthy nation had trained you and your ancestors to hold back your deepest love and tolerate predatory behavior all around you?
 
 And what if you could see that it doesn't need to be this way, that you and other strong and caring people could unite to create a new nation where respect is the norm?
 
 At that moment, everything changes. _The secret is out!_
 
-Once you know what healthy nations are like, you have that standard of comparison. You can see that _voting will never lead to deep change because slaves have never voted their way to freedom._ You can see that endless TV debates between left and right, liberals and conservatives, and capitalists and socialists are all distractions from the conversations that might lead to the Deepest Revolution.
+Once you know what healthy nations are like, you have that standard of comparison. You can see that _voting will never lead to deep change because slaves have never voted their way to freedom._ You can see that endless debates between left and right, liberals and conservatives, and capitalists and socialists are distractions from having the conversations and taking the actions that might lead to the Deepest Revolution.
 
-Instead of engaging in endless political debates that have never helped people find freedom, what if you imagined the kind of world you wanted to live in? And what if you worked with others to bring your vision to life?
+Instead of engaging in unproductive political debates, what if you imagined the kind of world you wanted to live in? And what if you worked with others to bring your vision to life?**
 
 ### Imagine...
 
-Imagine choosing who to live with, and being surrounded by friends you deeply trusted, and who trusted you.
+Imagine having amazing friends, people who tell the truth, share, keep their promises, and support you in difficult times, and who expect the same from you.**
+
+Imagine choosing to live with those friends so you're surrounded by neighbors you deeply trust, and who trust you.
 
 Imagine a life where every moment feels alive, and you are free to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
 
-Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, all your friends and neighbors will come to your aid. Just like you would for them.
+Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, your friends and neighbors will come to your aid. Just like you would for them.
 
 Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day is meaningful and engaging for them. Imagine training children for qualities like deep generosity, awareness, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your nation.
 
@@ -58,9 +58,7 @@ And anything that's been forgotten can be remembered again.
 
 Can you imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live?
 
-Imagine working with your neighbors to take care of everybody's needs together, so you need not worry about health care, retirement, having enough to eat or having shelter.
-
-And you don't need to work an unsatisfying job to maybe have enough money to pay for it all!
+Imagine working with your neighbors to take care of everybody's needs together, with no need to worry about health care, retirement, having shelter or enough to eat -- and you don't need to work an unsatisfying job to maybe have enough money to pay for it all!
 
 Imagine seeing gifts everywhere you look, and feeling a continuous state of joyful gratitude for all of life's blessings.
 
@@ -70,15 +68,15 @@ Imagine befriending animals like the deer and bear, trees like the chestnuts and
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..."[xxx-original instructions|armstrong]
 
-_This is not theoretical or idealistic, and I am not making this up. Every scene you just imagined came from a story or observation from real people like you and me in an actual healthy nation._
+_None of this is theoretical or idealistic, and I am not making this up. Every scene you just imagined came from a story or observation from real people like you and me in an actual healthy nation._
 
 This incredible vision is not a fantasy. You and other people can bring this vision to life.
 
-### Will You Bring Your Vision to Life or Will you Forget It?
+### Will You Bring Your Vision to Life or Let it Die?
 
 All these things you just imagined created a beautiful vision. You could work with other people to bring your vision to life, or you could forget it.
 
-I want to tell you the story of someone who forgot, because the story showed me how easy it is to forget, and it taught me how to keep a beautiful vision alive.
+I want to tell you the story of someone who chose to forget. Their story showed me how easy it is to forget, and it taught me how to keep a beautiful vision alive.
 
 I know someone who, in the early 1990s, thought about whether it was ok for the US to invade Iraq. She had never engaged in politics much, but as the United States invaded, she wondered, is the US really invading to bring democracy like the politicians say? Or is the real purpose to take Iraq's oil? Is it ok to kill people to take oil?
 

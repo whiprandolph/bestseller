@@ -7,7 +7,7 @@ from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
-SAMPLE = False
+SAMPLE = True
 md_root_dir = r"C:\Users\whip\tdr"
 
 book_final = r"C:\Users\whip\tdr_published_files"
@@ -234,6 +234,12 @@ def sample_pdf(book_pdf_path):
   part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_3_path = book_pdf_path + " - part 3 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+  bib_path = book_pdf_path + " - bib %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
+
+  bib = PdfWriter()
+  bib.append(book_pdf_path, pages=PageRange("185:193"))
+  bib.write(bib_path)
+  bib.close()
 
   print("  == Sampling PDF\n")
   part_two = PdfWriter()

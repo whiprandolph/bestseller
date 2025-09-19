@@ -21,13 +21,14 @@ chapters = {
     (3, 1, "How Can Whole Nations Embrace Awareness and Unity.md"),
     (3, 1, "Selfish Violence vs Selfless Violence.md"),
     (3, 1, "Can Whole Nations Embrace High Standards.md"),
-    (3, 1, "The Endless Predation Must End.md"),
+    (3, 1, "The Pervasive Predation Must End.md"),
   ],
   "Part 3 - The Deepest Revolution": [
     (1, 1, "Part Introduction.md"),
     (1, 1, "The Biggest Secret in Human History.md"),
     (1, 1, "Build Your Spiritual Strength.md"),
-    (1, 1, "Build Spiritual Strength with Others.md"),
+    # (1, 1, "Build Spiritual Strength with Others.md"),
+    (1, 1, "REORG - Build Spiritual Strength with Others.md"),
     (1, 1, "The Deepest Revolution.md"),
   ],
   "Part 4 - Closing Notes": [

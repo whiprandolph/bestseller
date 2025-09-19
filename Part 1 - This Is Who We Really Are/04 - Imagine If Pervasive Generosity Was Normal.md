@@ -64,7 +64,7 @@ I started life bright and hopeful, thinking that things in the United States wer
 
 I just kept seeing the same patterns of greed, discrimination, and corruption in every unhealthy nation, from Peru to North Korea to Russia, similar to the USA.
 
-Over time I got jaded. It seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories showed me that it really is possible to live in a beautiful way with other people, not just in a family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
+Over time I got jaded. It seemed like corruption is just part of human nature, an inescapable aspect of every nation. But these stories show that it really is possible to live in a beautiful way with other people, not just in a family or friendly neighborhood, but _we can have a whole nation where respect is the norm._
 
 For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" who had any idea either.
 

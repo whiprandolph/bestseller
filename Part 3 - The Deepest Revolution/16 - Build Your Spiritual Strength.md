@@ -94,7 +94,7 @@ Tubman, King, and Christ only seem unusual because they gave their deepest love 
 
 This is one universal spiritual truth behind the teachings of religions like Christianity, Islam, and Buddhism: everyone has sacred gifts to give, a divine purpose that only they can fulfill. And the divine voice inside you already knows that purpose, whether you consciously know it or not.
 
-There is good news: if you are like me, and you learned to hold back your love or not discover your own sacred gifts or deep purpose, there are ways to access that part of yourself so that you can give yourself fully, as did Tubman, King, and Christ. It's not complicated; it is simply a matter of releasing all distractions and temptations, and instead really listening to that inner divine voice inside you.
+There is good news: if you are like me, and you learned to hold back your love or not discover your own sacred gifts or deep purpose, there are ways to access that part of yourself so that you can give yourself fully, as did Tubman, King, and Christ. It's not complicated; it is simply a matter of releasing all distractions and temptations, and instead really listening to that divine voice inside you.
 
 Some years ago, I felt stuck in life, so I decided to do a special fast alone in the woods. I had no water, no food, and no distractions -- no digital devices, no reading, nothing for 92 hours.
 
@@ -127,7 +127,7 @@ There are many ways to discover and give your gifts, as Chapter 3 described: you
 In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
-<div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with gratitude, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
+<div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
 
 ### Cultivating Spiritual Strength, Part 3: Live in Reciprocity
 
@@ -139,7 +139,7 @@ I've met plenty of people who practice feeling gratitude. But if you're not givi
 
 And some people cultivate a passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
-Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely find joy in their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create nuclear bombs their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
+Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely enjoy their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create nuclear bombs their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
 
 Gratitude without service can feel empty, and passion without that clear gratitude can easily become comfortable and ultimately meaningless. Ruling classes are only too happy for wage slaves to feel passionate about their jobs.
 
@@ -153,9 +153,9 @@ Harriet Tubman faced extreme risk as she worked to free enslaved people. This me
 
 For example, Tubman brought a pistol, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would point her revolver at the head of the exhausted man and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody betrayed the group, even accidentally, and made it possible for everyone to escape safely.[xxx-harriet moses of her people]
 
-As they escaped together, everyone needed to fully meet their potential and do their very best. Everything mattered, and Tubman held them to the highest standards as an act of love. When Tubman set firm boundaries, she helped the men find their strength. Can you imagine pointing a gun at someone whose life you were risking your own life to save, and telling them to find their composure, or you'd have to kill them to protect the group?
+As they escaped together, everyone needed to fully meet their potential and do their very best. Everything mattered, and Tubman held them to the highest standards as an act of love. By setting firm boundaries, she helped the men find their strength. Can you imagine pointing a gun at someone whose life you were risking your own life to save, and telling them to find their composure, or you'd have to kill them to protect the group?
 
-A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your joyful presence can lift others' spirits, any disconnection, stress, or unawareness can likewise affect other people. Okhi Forest and her young daughter visited the Zapatistas, and at one point her daughter dropped a broom on the ground without thinking about it. A Mayan woman told Okhi's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
+A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your presence can lift others' spirits, any emotional disconnection, carelessness, or unawareness can likewise affect other people and diminish the energy around you. Okhi Forest and her young daughter visited the Zapatistas, and her daughter once dropped a broom on the ground without thinking about it. A Zapatista woman gently encouraged Forest's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
 
 It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift not to be missed or taken for granted. Whether or not you give your deepest love matters, and the world and people around you expect nothing less.
 
@@ -183,11 +183,11 @@ One of the biggest lies in history is that there is only one messiah. Christians
 
 "Messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
 
-And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you're too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard for a person to take time without distractions to cultivate their sacred gifts and develop their spiritual strength. These troubles also make it hard to form deep relationships of reciprocity with people and the Earth.
+And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard to take time without distraction to cultivate your sacred gifts and develop your spiritual strength. These troubles also make it hard to form relationships of reciprocity with people and the Earth.
 
 The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 
-Focusing on your survival or comfort is ultimately unsatisfying. Instead of merely surviving or staying comfortable, you can choose to cultivate your spiritual strength. Give your deepest love, stand for what's right, and accept nothing less of yourself and others.
+Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultivate your spiritual strength. Give your deepest love, stand for what's right, and accept nothing less of yourself and others.
 
 The world wants to be blessed by the light of your love.
 

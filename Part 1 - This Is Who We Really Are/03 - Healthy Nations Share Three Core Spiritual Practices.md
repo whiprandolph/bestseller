@@ -10,13 +10,15 @@ Little did I know that Kamana would introduce me to spiritual practices which ar
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
-I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude_ for the gifts of life by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and focused my attention on observing the nonhumans all around me. At first, I felt a bit bored. But the more I observed the world around me, the more I learned.
+I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude_ for the gifts of life by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and observed the nonhumans. At first, I felt a bit bored. But the more I observed the world around me, the more I learned.
 
 Over time, I learned which plants are edible, and which trees offer good wood for burning. I studied the language of birds, and what they could tell me about the rest of the forest.
 
 The more I learned how every creature and plant contributes to the web of life, the more grateful I felt. Some trees are especially good at holding the soil in place on the edge of a stream -- holding the soil down is a gift they give. Birds' songs can alert me to nearby animals that I cannot see myself. Animals give the gifts of meat for food and hides for clothing. Streams give water for drinking. The sun gives us all warmth and light.
 
 All these things are gifts. No one makes the trees offer their gifts of shade or firewood. I can plant an apple tree and tend it, but I cannot make it bear fruit -- that is its gift.
+
+At first I wondered -- how is meat a gift? Don't humans have to take it, killing animals that would rather live? When a nation of people has a reciprocal relationship with other animals, the humans actually benefit them. For example, when humans intentionally enrich deer habitat, there are more deer because of humans' presence, even including the hunting. When this reciprocity exists, humans give their gifts to the deer community, and deer give their gifts in return, helping sustain the humans that sustain them.**
 
 The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy nation has its own ways of expressing gratitude, but they all have _some_ way.
 
@@ -37,7 +39,7 @@ I looked up through the forest canopy just in time to notice a second, silent ha
 
 ### The Second Core Spiritual Practice: Giving My Sacred Gifts
 
-Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we humans are divine creatures like everything else in Creation.
+Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ unique contribution could be. No one had ever told me this before, but I learned that each human also has sacred gifts to give -- just like all the animals and plants. It only makes sense, since we humans are divine creatures like everything else in Creation.
 
 Once again, every healthy nation I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." His elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
 

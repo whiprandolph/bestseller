@@ -148,9 +148,9 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-basic call to consciousness|p104]
 
-Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This taught me that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
+Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This shows that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
 
-These principles taught me the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.**
+These principles show the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.**
 
 Part 3 offers a practical path to begin building a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and trust is pervasive.**
 

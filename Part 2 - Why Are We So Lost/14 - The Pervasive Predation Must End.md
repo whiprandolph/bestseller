@@ -1,4 +1,4 @@
-## Chapter 14: The Endless Predation Must End
+## Chapter 14: The Pervasive Predation Must End
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." How do you feel reading that? When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
 
@@ -26,31 +26,31 @@ How much child abuse is happening all around you right now, from authorities or 
 
 You would be punished if you intervened to stop child abuse, just like you'd be punished for trying to free unjustly imprisoned people or trying to stop a genocide.
 
-Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, the universal result is this: endless predation, with the worst predators having the most wealth and power.
+Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, predatory behavior becomes widespread, with the worst predators having the most wealth and power.
 
 A staggering level of abusive behavior always occurs when people allow themselves to be ruled and choose not to stand for what's right. All these disturbing troubles will continue until you and the people around you can generate a healthy nation, where everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
 ### Healthy Nations Don't Abuse Children
 
-Can you imagine a world without child sexual abuse? Not just a world with more self-defense classes, or stronger laws, or better ways of supporting victims. It's possible to live in a world without _any_ child sexual abuse?
+Can you imagine a world without child sexual abuse? Not just a world with more self-defense classes, or stronger laws, or better ways of supporting victims, but a world without _any_ child sexual abuse?
 
-This world is possible. Healthy nations do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy nations to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two young Nootka girls.[xxx-daughters of copper woman|p73-74]
+This world is possible. Healthy nations do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy nations to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two Nootka girls.[xxx-daughters of copper woman|p73-74]
 
-The Nootkas' response showed me that they had never experienced child sexual assault until encountering an unhealthy nation:
+The Nootkas' response show that they had never experienced child sexual assault until encountering an unhealthy nation:
 
 _"...The people had no way of understandin' what had happened. There'd never been anythin' like this in all the time since the beginning of life, and so they could only stare at the proof of horror and feel numb shock. They could see what had been done, but they couldn't understand how, or why. It had been hard enough to believe the Keestadores [conquistadors] would force a grown woman to have sex when they didn't want, but the thought of sex with a child was just too horrible for the people to even imagine, so they didn't know what to think._[xxx-daughters of copper woman|p73-74]
 
 _The old woman examined both the babies, and it was as if the sure evidence of what she found shook the centrepost of all creation, and threatened the here and now as well as the past and future..."_[xxx-daughters of copper woman|p73-74]
 
-This story was transformative for me. The Nootka lived without child sexual assault until they encountered an unhealthy nation. This taught me that it is possible for a whole nation to have _zero_ child sexual assault.
+The Nootka lived without child sexual assault until they encountered an unhealthy nation. This shows that it is possible for a whole nation to have _zero_ child sexual assault.
 
-I knew child rape was vile, but why was it so bad that it would "[shake] the centrepost of all creation" and "[threaten] the here and now as well as the past and future?"
+I knew child rape was vile, but why was it so bad that it would "[shake] the centrepost of all creation" and "[threaten] the here and now as well as the past and future?"[xxx-daughters of copper woman|p73-74]
 
 Healthy nations see any disrespect as a cultural wound that affects everybody, and the Nootka recognized that this child rape was a severe disrespect and therefore a severe cultural wound. If this disrespect wasn't fully addressed, everything was at risk, and nothing would be safe.
 
 The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their nation's survival to protect themselves from predators.[xxx-daughters of copper woman|p79]
 
-This taught me the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, predatory behavior becomes normalized.
+This shows the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, predatory behavior becomes normalized.
 
 ### What Is It Like to be Conquered? And What Does That Have to Do With Me?
 
@@ -78,7 +78,7 @@ Some Lakota and Nootka were thankfully able to maintain much of their ancient wi
 
 While every instance of conquering is unique, they are all similarly traumatic. That means your ancestors went through something just as traumatic as the Nootka and Lakota. Your ancestors went through it decades, centuries, or maybe millennia ago, and if you don't remember those stories, it's only because those stories are no longer passed down. Thus drug and alcohol abuse, despair, domestic violence, and the other widespread troubles may now seem normal or "just how life is."
 
-But just because you are not aware of what your ancestors went through does not mean it did not happen. Those ancient traumas that your ancestors endured were never fully healed, and they still affect us today.
+But just because you are not aware of what your ancestors went through does not mean it did not happen. Those ancient traumas were never fully healed, and they still affect us today.
 
 ### Child Abuse Profoundly Affects Our Politics Today
 
@@ -98,17 +98,17 @@ Interviewers found that most war-volunteers were unable to feel deeply, describi
 
 In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
 
-Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people simply unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put down others.
+Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put down others.
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
 
 When children are trained for obedience, and child abuse and deprivation can cause strong insecurities, is it any wonder that cowardice is common in adulthood, and people have low trust in each other?
 
-Child abuse or deprivation aren't all-or-nothing. Some people grow up with far more than others, and nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will be obedient and tolerate meaningless jobs in adulthood.
+Child abuse or deprivation aren't all-or-nothing. Some people grow up with far more than others, and nearly all of us raised in unhealthy nations carry at least some negative impacts from our childhood. Some kinds of child abuse become normalized, encouraged, and even legally required, such as forcing children to obey unaccountable authorities and tolerate meaningless or boring work in school so that they will obediently tolerate meaningless jobs in adulthood.
 
 These emotional troubles can also make it difficult to have satisfying romantic and spousal relationships, limiting the connection and trust many people experience even in their families.
 
-The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful houses with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.**
+The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful homes with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.**
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself. The question is whether or not people are emotionally capable of having integrity and deep relationships. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
@@ -116,7 +116,7 @@ Of course, not everyone trained for obedience becomes obedient. Some become peop
 
 Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. When adults are not allowed to set good boundaries by standing for what's right, many people never learn to set healthy boundaries even in their personal lives, and thus struggle to set kind and firm boundaries with their children, which causes them to struggle. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful nation.
 
-This shows how conquering is not a single event, but a continual process involving lots of child abuse. Child abuse is a core characteristic of every unhealthy nation that allows it to persist, generation after generation. That means _treating children respectfully is essential to creating healthy nations._
+This shows how conquering is not a single event, but a continual process involving rampant child abuse. Child abuse is a core characteristic of every unhealthy nation that allows it to persist, generation after generation. That means _treating children respectfully is essential to creating healthy nations._
 
 Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate predatory behavior all around them?
 
@@ -124,7 +124,7 @@ Unfortunately, deep training for submissive obedience does not end in childhood,
 
 Julian Assange said how people learn to tolerate abuse: "Every time we witness an injustice and do not act, we train our character to be passive in its presence and thereby eventually lose all ability to defend ourselves and those we love."[xxx-assange quote]
 
-What qualities would people need to cultivate to have the strength to live in a healthy nation? And how are adults trained to tolerate living in an unhealthy nation with endless exploitation?
+What qualities would people need to cultivate to have the strength to live in a healthy nation? And how are adults trained to tolerate living in an unhealthy nation with widespread exploitation?
 
 * _Low-integrity_: Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy nations where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
 
@@ -146,19 +146,19 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking make people easy to manipulate, so deep awareness is rare.
 
-Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only pervasive in unhealthy nations where authorities forbid people from standing for what's right. Childhood emotional wounds can cause a background sense of significant unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
+Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only widespread in unhealthy nations where authorities punish those with the deepest integrity and bravery, who stand for justice no matter what. Childhood emotional wounds can cause a background sense of significant unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
 
-However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be taught.
+However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be trained.
 
-### We Are Continually Being Reconquered
+### We Are Continually Reconquered
 
 For millions of years, every child was trained for beautiful qualities, in part so they would have the strength to stand for a culture of mutual respect in solidarity with others. Only in recent times have people been trained otherwise.
 
-And what is the result? Endless predation!
+And what is the result? _Predatory behavior is pervasive._
 
-To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions train people to obey corrupt leaders. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Pollution and economic "development" poison and scar the environment that we're all part of. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
+To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions train people to obey corrupt leaders. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Pollution and economic "development" poison and scar the living world that we're all part of. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
 
-### It is Time to End this Endless Predation
+### It is Time to End this Pervasive Predation
 
 Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_.
 
