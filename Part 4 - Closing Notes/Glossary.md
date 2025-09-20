@@ -18,7 +18,7 @@ _Laws:_ Widely recognized standards of appropriate or inappropriate behavior in 
 
 _Nation:_ A group of people with laws and clear ways of responding to internal misbehavior or external threats. Communities within a nation protect each other from outside attack. (5)
 
-_Nation, healthy:_ Nations where the people agree on their laws and everyone is expected to bravely uphold them as a normal way of life so that justice and mutual respect are normal too. Qualities like generosity, integrity, and connection with the Earth are widespread, so trust is widespread too. (Every chapter)
+_Nation, healthy:_ Nations where the people agree on their laws and everyone is expected to bravely uphold them as a normal way of life so that justice and mutual respect are normal. Qualities like generosity, integrity, and connection with the Earth are widespread, so trust is widespread too. (Every chapter)
 
 _Nation, unhealthy:_ Nations where a ruling class imposes laws and expects submissive obedience from everyone else. Troubles like corruption, greed, discrimination, and child abuse become normalized and rampant, as do personal qualities like cowardice and superficiality. (5-14)
 

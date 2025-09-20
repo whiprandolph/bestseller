@@ -14,7 +14,9 @@ Arbuthnot, Mollie. (2019, August 27). World Revolution / Postcolonial Paradise: 
 Archivo Histórico. (n.d.). Enlace Zapatista. Retrieved September 7, 2025, from https://enlacezapatista.ezln.org.mx/category/1994/
 Arnold, D. G., Stewart, O. J., & Beck, T. (2020). Financial Penalties Imposed on Large Pharmaceutical Firms for Illegal Activities. JAMA, 324(19), 1995–1997. https://doi.org/10.1001/jama.2020.18740
 Assange, J. (2007, January 3). Selected Correspondence. IQ.Org. https://web.archive.org/web/20070110200827/http://iq.org/
+Auble, D. (2021). Capitalizing on Conflict: How defense contractors and foreign nations lobby for arms sales. Open Secrets. https://www.opensecrets.org/news/reports/capitalizing-on-conflict/defense-contractors
 Bailey, S. (1957). 'Police Socialism' in Tsarist Russia. The Review of Politics, 19(4), 462–471.
+Ballantine, B., & Ballantine, I. (Eds.). (2001). The Native Americans An Illustrated History. Turner Publishing.
 Baptist, E. (2014). The Half Has Never Been Told. Basic Books.
 Bargallie, D. (2023). Indigenous Australian Peoples and Work: Examining Worklife Histories. In S. Billett, H. Salling Olesen, & L. Filliettaz (Eds.), Sustaining Employability Through Work-life Learning: Practices and Policies (pp. 127–144). Springer Nature. https://doi.org/10.1007/978-981-99-3959-6_6
 Barrett, S. (2010). Geronimo's Story of His Life. Project Gutenberg.
@@ -102,9 +104,11 @@ Koehler, J. (1999). Stasi: The Untold Story of the East German Secret Police. We
 kswheeler. (2011, September 8). This Day in Resistance History: Sitting Bull's Railway Speech. Grand Rapids Institute for Information Democracy. https://griid.org/2011/09/08/this-day-in-resistance-history-sitting-bull%e2%80%99s-railway-speech/
 Landon, P. (1905). Lhasa (Vol. 1). Hurst and Blackett, Ltd.
 Law on the Rights and Obligations of Peoples in Struggle (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-de-derechos-y-obligaciones-de-los-pueblos-en-lucha/
+Laybourn, K. (2022, August 17). UK strikes: How Margaret Thatcher and other leaders cut trade union powers over centuries. The Conversation. http://theconversation.com/uk-strikes-how-margaret-thatcher-and-other-leaders-cut-trade-union-powers-over-centuries-186270
 Ley Revolucionaria de Mujeres. (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-revolucionaria-de-mujeres/
 Liedloff, J. (2004). The Continuum Concept. Penguin Group.
 Linderman, F. (1932). Red Mother. The John Day Company.
+Lockheed Martin Board Elects James D. Taiclet as Chairman; Marillyn A. Hewson to Serve as Strategic Advisor and Gregory M. Ulmer as Executive Vice President of Aeronautics. (2021, January 29). Lockheed Martin. https://news.lockheedmartin.com/2021-01-29-Lockheed-Martin-Board-Elects-James-D-Taiclet-as-Chairman-Marillyn-A-Hewson-to-Serve-as-Strategic-Advisor-and-Gregory-M-Ulmer-as-Executive-Vice-President-of-Aeronautics
 Loewen, J. (2007). Lies My Teacher Told Me. The New Press.
 Lohnes, K. (2024, May 21). Siege of Jerusalem. Encyclopedia Britannica. https://www.britannica.com/event/Siege-of-Jerusalem-70
 MacQueen, G. (2006, August). 156 Eyewitnesses Whose Statements Are  Suggestive Of Explosions In The Twin Towers. ae911truth.org. https://www1.ae911truth.org/downloads/156eyewitnessaccounts.pdf
@@ -143,6 +147,7 @@ Prescott, J. (1975). Body Pleasure and the Origins of Violence. The Bulletin of 
 Prescott, J. (1977). Child Abuse in America: Slaughter of the Innocents. Hustler. https://www.violence.de/prescott/hustler-new/article.html
 Price, W. (1939). Nutrition and Physical Degeneration.
 Randolph, W. (2024). One Disease One Cure: Ending Our Multi-Millennia Catastrophe. Three Integrities Publishing. https://1disease-1cure.com/
+Rebecca Liebert. (n.d.). Lubrizol. Retrieved July 15, 2024, from https://www.lubrizol.com/Our-Company/CEO-and-Leadership/Leadership/Rebecca-Liebert
 Revolutionary Agriculture Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/
 Rockhill, W. W. (1892). Udanavarga: A Collection of Verses from the Buddhist Canon. Routledge.
 Rodríguez, S. (1994, March 8). Comandanta Ramona y Mayor Ana María: Las demandas son las mismas de siempre: Justicia, tierras, trabajo, educación e igualdad para las mujeres. Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1994/03/07/comandanta-ramona-y-mayor-ana-maria-las-demandas-son-las-mismas-de-siempre-justicia-tierras-trabajo-educacion-e-igualdad-para-las-mujeres/
@@ -154,6 +159,7 @@ Satter, D. (2016, August 15). The Bloody Czar. National Review. https://www.nati
 Scahill, J. (2024, February 7). Netanyahu's War on Truth. The Intercept. https://theintercept.com/2024/02/07/gaza-israel-netanyahu-propaganda-lies-palestinians/
 Sharp, J. (2025). U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023. Congressional Research Service. https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.51.pdf
 'Sioux'/Lakota. (n.d.). Lakota Dakota Nakota Nation. Retrieved August 8, 2024, from https://lakotadakotanakotanation.org/sioux-lakota/
+Sirota, D., & Perez, A. (2015, May 26). Weapons Deals And The Clinton Foundation. International Business Times. https://www.ibtimes.com/clinton-foundation-donors-got-weapons-deals-hillary-clintons-state-department-1934187
 Skerk, J. (2022, September 29). Rural Europe Takes Action | The Sámi Environmental Programme. Resilience. https://www.resilience.org/stories/2022-09-29/rural-europe-takes-action-the-sami-environmental-programme/
 Sloan, G. (2020, August 30). DC: Police Violently Push Protesters From Black Lives Matter. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=8a49947717c1441e9ad149e1c2d8faa6&mediatype=photo
 Smith, J. (2016). The Dame Janet Smith Review Report. https://downloads.bbci.co.uk/bbctrust/assets/files/pdf/our_work/dame_janet_smith_review/conclusions_summaries.pdf

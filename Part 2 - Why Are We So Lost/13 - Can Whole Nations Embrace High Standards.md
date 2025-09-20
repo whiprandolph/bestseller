@@ -137,6 +137,69 @@ Of course, women can make fearsome fighters as well, and integrity and bravery a
 
 These stories and many others show how low our standards are for each other as a natural consequence of being trapped in unfree societies and accepting submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to high standards. And to do this, we must learn how to spiritually grow without feeling guilt or shame.
 
+#### Low Standards for Women
+
+Unhealthy nations consistently train people to idolize the rich and powerful, and this has caused many women to have low standards for women leaders. Many little girls enjoy pretending to be a princess and fantasize about being royalty, even though kings and queens consistently exploit the people they rule.
+
+Many young women are encouraged to seek leadership positions in business and politics, but corrupt women politicians are no improvement over corrupt men. British prime minister Margaret Thatcher happily oppressed labor unions,[xxx-conversation thatcher] and countries that bribed American secretary of state Hillary Clinton received far more American weapons than those that did not, even while State Department reports described many human rights abuses in those countries.[xxx-clinton corrupt]
+
+Selfish women business executives can likewise do just as much harm as selfish men, leading corporations that produce vast amounts of toxic chemicals[xxx-lubrizol ceo] or lobby for needless wars while supplying the weapons.[xxx-opensecrets capitalizing on conflict]<sup>,</sup>[xxx-lockheedmartin.com ceo]
+
+Healthy nations show that women can have positions of leadership without corruption. A common theme in healthy nations is _balance,_ ensuring both women and men have positions of influence in their society. 
+
+Among the Tzutujil Mayans, male and female partners usually served as chiefs together.[xxx-secrets of the talking jaguar|p202]
+
+The traditional Cherokee had a White Council of women who led during peacetime and a Red Council of men who led in war. Cherokee woman Rebecca Adamson said, "The goal was the balance, the harmony, the bringing together of both wisdoms and both energies for the good of the Nation."[xxx-original instructions|first nations survival]
+
+In other healthy nations, trusted elder women are responsible for picking the male leaders or picking candidates who then need further approvals. The eldest healthy woman in every Huron clan was the clan matron, responsible for choosing both a civil chief and a war chief.[xxx-illustrated native american|p156]
+
+In the Haudenosaunee Confederacy, a clan mother selects a male leadership candidate who must go through several stages of approval. Her entire clan must support him, then the council of leaders must approve, and finally anyone in the confederacy may veto if he or she has doubts. If the candidate does not pass any stage, the clan mother finds someone else, ensuring that every leadership candidate has the support of a trusted elder woman.[xxx-original instructions|a democracy based on peace]
+
+There are many ways for wise and capable women to help lead their communities. But neither men nor women will lead well so long as the nation tolerates selfishness and corruption.
+
+#### NEW Low Standards for Men NOTES
+
+* HURON: men consistently practice bravery as a normal, life-long practice to confront any injustice or danger
+  * Huron men consistently cultivated their bravery throughout adulthood, including intentionally experiencing pain to practice keeping their composure under duress.
+
+  * Video games, overweight, etc.
+
+* APACHE: high standadrs for young men
+  * Apache man Geronimo described the high standards for their young men who were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to become warriors who would protect their people, and Geronimo stated the minimal, baseline requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior]
+
+  * entry level requirement for Apache warriors
+
+  * keep life easy and comfortable, just trying to get a good job and get along with their neighbors and have fun on the weekends.
+
+* Cheyenne: high standards of masculine mentorship -- never feel entitled 
+  * you're expected to give your life at a moment's notice so the women and girls can live, and that's why you're treated differently. So do not feel entitled or superior, and train your bravery and skills. - Cheyenne
+
+  * There were some kinds of work that only women did, and some kinds that only men did. Wikis' uncle taught him never to feel entitled or superior because he didn't do women's work. As a boy, Wikis was expected to train to be a man who would protect his people at a moment's notice. If danger came, the women would be more likely to survive than the men because the men were expected to confront the danger so the rest could escape. The men took this training seriously, consistently cultivating the bravery and skills necessary to play this protective role.
+
+  * how many boys are not trained to notice the kind things others do for them, and so they become self-centered men? How many boys are trained, intentionally or not, to think they're entitled to special treatment, or somehow superior? 
+
+Sioux man Ohiyesa said he was "trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant."[xxx-from deep woods to civilization|the way opens]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### To Have High Standards, Learn to Grow Without Shame or Guilt
 
 Feelings like shame or guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People can resist feedback because they don't want to be unfairly shamed or made to feel guilty. Even if the feedback is respectful, people can have subconscious shame or guilt from their childhood that gets triggered, and they can become insecure and defensive.
@@ -182,6 +245,28 @@ Hold yourself and others to high standards of excellent behavior to create a cul
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 ### References
+
+[xxx-opensecrets capitalizing on conflict]-aaa (Auble, 2021)
+
+[xxx-secrets of the talking jaguar|p202]-aaa (Prechtel, 1999, 202)
+
+[xxx-original instructions|first nations survival]-aaa (Nelson, 2008, "First Nations Survival and the Future of the Earth")
+
+[xxx-original instructions|a democracy based on peace]-aaa (Nelson, 2008, "A Democracy Based On Peace")
+
+[xxx-conversation thatcher]-aaa (Laybourn, 2022)
+
+[xxx-lockheedmartin.com ceo]-aaa (Lockheed Martin Board Elects James D. Taiclet as Chairman; Marillyn A. Hewson to Serve as Strategic Advisor and Gregory M. Ulmer as Executive Vice President of Aeronautics, 2021)
+
+[xxx-geronimo autobio|preparation of a warrior]-aaa (Barrett, 2010, "Preparation of a Warrior")
+
+[xxx-lubrizol ceo]-aaa (Rebecca Liebert, n.d.)
+
+[xxx-illustrated native american|p156]-aaa (Ballantine & Ballantine, 2001, 156)
+
+[xxx-from deep woods to civilization|the way opens]-aaa (Eastman (Ohiyesa), 1916, "The Way Opens")
+
+[xxx-clinton corrupt]-aaa (Sirota & Perez, 2015)
 
 [xxx-red mother|p22]-aaa (Linderman, 1932, 22)
 
