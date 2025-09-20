@@ -212,7 +212,7 @@ def verify_epub():
   os.remove(book_zip_path)
   
 
-def process_chapter(full_path, cite_to_index_dict):
+def process_chapter(full_path, cite_to_index_dict, fix_citation=False):
   blob = open(full_path, 'r', encoding='utf-8').read()
   chap_line = blob.split("\n")[0]
   if ttoc.is_chapter_name(os.path.basename(full_path), os.path.dirname(full_path)):
@@ -242,11 +242,7 @@ def process_chapter(full_path, cite_to_index_dict):
 
   body, references = blob.split(ref_header)
   body += "\n\n<div style=\"break-after:page\"></div>\n"
-
-  cite_list = []
-  # ref_map = build_ref_map(references)
   
-
   ref_start_line_check = [x for x in body.split("\n") if x.strip().startswith("[xxx")]
   assert len(ref_start_line_check) == 0, "[xxx starts a line; ref: %s, file: %s" % (ref_start_line_check, full_path)
 
@@ -258,8 +254,8 @@ def process_chapter(full_path, cite_to_index_dict):
   while start != -1:
     end = body.find("]", start)+1
     xxx_ref = body[start:end]
-    body = body[:start] + "<sup><a href=\"#cite_%s_dest\" id=\"cite_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (cite_to_index_dict[xxx_ref], cite_to_index_dict[xxx_ref], cite_to_index_dict[xxx_ref]) + body[end:]
-    cite_list.append(str((cite_to_index_dict[xxx_ref])))
+    cite_num = cite_to_index_dict[xxx_ref] if not fix_citation else 100
+    body = body[:start] + "<sup><a href=\"#cite_%s_dest\" id=\"cite_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (cite_num, cite_num, cite_num) + body[end:]
     start = body.find("[xxx", start+1)
 
   # assert "**" not in blob, full_path

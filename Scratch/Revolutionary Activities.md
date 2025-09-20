@@ -30,7 +30,7 @@
 
 
 <b><div class="rev-act-last"><div class="rev-act-header">Revolutionary Activity #6<br/>Receive graciously to have reciprocity over time</div>
-</b><div class="rev-act-body">"Trading" and "bartering" don't involve generosity because they are even exchanges in the moment. There are times for trading, but when you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing that gratitude and sense of indebtedness within you to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back to this person in reciprocity over time. If you also want to give the other person something, make it clear that you're also giving a gift and not making a trade.</div></div>
+</b><div class="rev-act-body">Trading and bartering don't involve generosity because they are even exchanges in the moment. When you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing the feeling of gratitude within you to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back in reciprocity over time. If you do want to give the other person something, clarify that you're also giving a gift and not making a trade.</div></div>
 
 
 
@@ -61,7 +61,7 @@
 ### 07 - Why Are People So Selfish
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate your spiritual strength, it helps to notice when you feel afraid and when you hold back out of fear.<br/><br/>Think of a time when you felt an urge to do a good deed or speak out or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? If not, how could you find the bravery in yourself to show up differently in the future?</div></div>
+</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Consider how could you find the bravery to show up differently in the future.</div></div>
 
 
 
@@ -87,7 +87,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Spread good news to encourage good deeds</div>
-</b><div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
+</b><div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
 
 
 
@@ -172,7 +172,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
-</b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with gratitude, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
+</b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
 
 
 

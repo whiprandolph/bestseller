@@ -30,7 +30,7 @@ Everywhere I looked, it was like a story too good to be true. Their kids were fr
 
 These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. Everyone was free to protect themselves and each other from attack.
 
-Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader -- not because he had any special authority or power, or was richer than anyone else, was intimidating, or had powerful parents. He was a leader because the people agreed he would be a good leader.
+Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader, and not because he had any special authority or power, or was richer than anyone else, was intimidating, or had powerful parents. When visiting his home, I noticed it was the same size and had the same items as everyone else's.
 
 Given their integrity and generosity, I wasn't surprised that no one seemed concerned about robbery. I never saw a building with doors, much less locks. Few of their houses even had walls!
 

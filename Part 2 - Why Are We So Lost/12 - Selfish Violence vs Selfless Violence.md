@@ -26,7 +26,7 @@ Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any 
 
 Many people hesitate to believe these stories, because it is so repugnant to imagine people of one's own country lying and acting so deeply selfishly. It's even more disturbing when it is our unaccountable leaders themselves acting so hurtfully.
 
-This is simply a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior simply continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars. 
+This is just a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior simply continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars. 
 
 ### Selfless Violence in Healthy Nations
 

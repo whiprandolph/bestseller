@@ -65,7 +65,7 @@ Israel has occupied Palestine for decades, keeping Palestinians under intense su
 
 The Israelis began their all-out genocide in October 2023, with tremendous US support including weapons, ammunition, military intelligence, fuel, and political cover at the United Nations.[xxx-isrtimes intel support]<sup>,</sup>[xxx-uscongress israel support] But how bad has the violence really been? Many news stories say that 60,000 Palestinians have died -- surely a tragedy, but not genocide.[xxx-israeli pal deaths]
 
-Before the present conflict started in October 2023, the Palestinian population in Gaza was estimated at 2.2 million.[xxx-pal 2023 pop] When US president Trump took office in February 2025, he stated the Palestinian population was around 1.7-1.8 million.[xxx-trump pales pop] Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war.[xxx-lancet palestinian casualties] So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, and disease while extremely few Israelis have died in comparison.[xxx-israeli pal deaths]
+Before the present conflict started in October 2023, the Palestinian population in Gaza was estimated at 2.2 million.[xxx-pal 2023 pop] In February 2025, US president Trump stated the Palestinian population was around 1.7-1.8 million.[xxx-trump pales pop] Other estimates confirm this, using normal techniques to estimate military and civilian casualties in war.[xxx-lancet palestinian casualties] So between October 2023 and February 2025, Israelis had killed ~400,000-500,000 people through military violence, famine, and disease while extremely few Israelis have died in comparison.[xxx-israeli pal deaths]
 
 How have the Israeli and American governments trained their populations to tolerate and even support this genocide? You guessed it: spreading racist and hateful propaganda about Palestinians, and punishing anyone who tried to speak the truth and oppose genocide.
 
@@ -89,11 +89,11 @@ Why are so many governments and corporate leaders supporting this genocide? Peop
 
 So let's take stock: the protests are appropriate, the Israeli genocide against Palestine is real, and it's not antisemitic to point these things out. But a strong coalition of American, German, Australian, Israeli, and other business and political leaders around the world have decided to support this genocide, and they're punishing people for standing for what's right by accusing them of antisemitism and using this as a cover story to justify punishing them.
 
-This shows how ancient patterns of nations with rulers (or ruling classes) are playing out right now. These countries may not have kings, but anytime one person or a group can impose law on the rest, and choose how that law is enforced, we end up with the same kind of tyranny. This is predictable in any society where people are punished for upholding their own law and seeking justice.
+This shows how ancient patterns of nations with rulers or ruling classes are playing out right now. These countries may not have kings, but anytime one person or a group can impose law on the rest, and choose how that law is enforced, we end up with the same kind of tyranny. This is predictable in any society where people are punished for upholding their own law and seeking justice.
 
 Ancient Rome, Germany, the Soviet Union, Israel, Canada, communist China, capitalist United States -- all of them have shown this pattern where unaccountable leaders punish truth-tellers and propagate racism and hatred when it suits them. _All these countries are actually dictatorships: nations where some people dictate the law, and everyone else is expected to obey it._
 
-This isn't the only dynamic that leads to racism and hate in unhealthy nations, though it is sadly common. Authorities may encourage divisive racism in many ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.[xxx-odoc|ch22]
+This isn't the only dynamic that leads to racism and hate in unhealthy nations, though it is sadly common. Authorities can encourage divisive racism in many ways. Authorities may encourage one group of poor people to fear and hate another group of poor people, as when poor whites were encouraged to fear and hate poor black enslaved people in the United States in the early 1800s.[xxx-odoc|ch22]
 
 Authorities can even generate racism while pretending not to. For example, many governments pretend to administer justice fairly, but actually punish some groups of people with longer prison sentences for the same crime, as seen in academic studies in China, the United States, and the United Kingdom. Then authorities pretend that more-oppressed groups are more inherently violent or bad. Sadly many people fall for these scams of racism and hatred, believing some groups really are better than others.[xxx-odoc|ch20]
 
@@ -135,7 +135,7 @@ One Nootka storyteller described the importance of "the mirror in the eyes of th
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy nation or healthy community, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Spread good news to encourage good deeds</div>
-<div class="rev-act-body">You have the power to encourage good deeds and even help the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. What good deeds have you witnessed recently? And to whom could you share these happy stories?</div></div>
+<div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
 
 ### References
 
