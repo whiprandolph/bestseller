@@ -16,6 +16,7 @@ from prep_book import BOOK_ADDED_STYLE_PHYS, fixup_html, PHYS, process_chapter
 import psutil
 import signal
 
+SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\07 - Why Are People So Selfish.md"
 process_name_to_kill = "librewolf.exe" # Replace with the actual process name
 
 def kill_librewolf():
@@ -46,7 +47,7 @@ def main():
   pdf_path = os.path.join(tmp_dir, "test_chapter.pdf")
   html_path = os.path.join(tmp_dir, "test_chapter.html")
   md_path = os.path.join(tmp_dir, "test_chapter.md")
-  md_source = r"C:\Users\whip\tdr\Part 1 - This Is Who We Really Are\03 - Healthy Nations Share Three Core Spiritual Practices.md"
+  md_source = SOURCE_PATH
   kill_librewolf()
   if os.path.exists(tmp_dir):
     shutil.rmtree(tmp_dir)
@@ -69,7 +70,7 @@ def main():
 def make_phys_book(html_path, pdf_path):
   
   server_string = "python -m http.server -d %s" % tmp_dir
-  print(" == Starting server (physical book): %s (%s)" % (server_string, time.ctime()))
+  print(" == Starting server (physical chapter): %s (%s)" % (server_string, time.ctime()))
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating test_chapter.pdf")

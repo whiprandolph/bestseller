@@ -125,7 +125,7 @@ These stories show that the Ashaninka's beauty isn't unique. Every nation is uni
 How do they do it? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy nations to make that possible?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
-<div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>
+<div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? Think of any assumptions you have about people that you may now question.</div></div>
 
 ### References
 

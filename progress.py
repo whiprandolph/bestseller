@@ -27,8 +27,8 @@ chapters = {
     (1, 1, "Part Introduction.md"),
     (1, 1, "The Biggest Secret in Human History.md"),
     (1, 1, "Build Your Spiritual Strength.md"),
-    # (1, 1, "Build Spiritual Strength with Others.md"),
-    (1, 1, "REORG - Build Spiritual Strength with Others.md"),
+    (1, 1, "Build Spiritual Strength with Others.md"),
+    # (1, 1, "REORG - Build Spiritual Strength with Others.md"),
     (1, 1, "The Deepest Revolution.md"),
   ],
   "Part 4 - Closing Notes": [

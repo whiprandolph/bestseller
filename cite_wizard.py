@@ -10,30 +10,36 @@ from pprint import pformat
 source_dir = r"C:\Users\whip\tdr"
 md_dir = r"C:\Users\whip\tdr-md-publish"
 
+LEFT = 0
+MIDDLE = 1
+RIGHT = 2
+
 def output_biblio(biblio_dict):
     with open(final_biblio_path, 'w', encoding='utf-8') as final_biblio:
         final_biblio.write(f"# Bibliography\n\n<table id=\"biblio_table\"><tbody>")
         for key, value in biblio_dict.items():
             if value['index']:
-                final_biblio.write(f"<tr><td colspan=\"2\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\"><span style=\"font-weight:bold\">{value['index']}DOTHERE</span> {value['original']}</div></td></tr>\n")
+                final_biblio.write(f"<tr><td colspan=\"3\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\"><span style=\"font-weight:bold\">{value['index']}DOTHERE</span> {value['original']}</div></td></tr>\n")
 
             else:
-                final_biblio.write(f"<tr><td colspan=\"2\"><div class=\"biblio-div\">{value['original']}</div></td></tr>\n")
-                left_side = True
+                final_biblio.write(f"<tr><td colspan=\"3\"><div class=\"biblio-div\">{value['original']}</div></td></tr>\n")
+                cell_position = LEFT
                 for sub_entry in value['sub_entries']:
-                    if left_side:
-                        final_biblio.write("<tr><td class=\"half-cell\">")
-                    else:
-                        final_biblio.write("<td>")
+                    if cell_position == LEFT:
+                        final_biblio.write("<tr>")
+                    final_biblio.write("<td class=\"partial-cell\">")
                     final_biblio.write(f"\t<div class=\"biblio-div\" id=\"cite_{sub_entry[0]}_dest\"><span style=\"font-weight:bold\">{sub_entry[0]}DOTHERE</span> {sub_entry[2]}</div>\n")
-                    if left_side:
-                        final_biblio.write("</td>")
-                    else:
-                        final_biblio.write("</td></tr>")
-                    left_side = not left_side
-                if not left_side:
-                    final_biblio.write("<td class=\"half-cell\"> </td></tr>")
-
+                    final_biblio.write("</td>")
+                    if cell_position == RIGHT:
+                        final_biblio.write("</tr>")
+                    cell_position += 1
+                    if cell_position > RIGHT: # wrap around
+                        cell_position = LEFT
+                if cell_position == MIDDLE:
+                    final_biblio.write("<td class=\"partial-cell\"> </td>")
+                    cell_position = RIGHT
+                if cell_position == RIGHT:                
+                    final_biblio.write("<td class=\"partial-cell\"> </td></tr>")
         final_biblio.write("</tbody></table>")
 
 

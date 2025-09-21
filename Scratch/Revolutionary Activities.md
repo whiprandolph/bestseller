@@ -8,7 +8,7 @@
 ### 02 - Can Whole Nations Embrace Generosity and Integrity
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #2<br/>Did you know?</div>
-</b><div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? If so, what were some of your assumptions about people that you may now question?</div></div>
+</b><div class="rev-act-body">Are you surprised to learn that healthy nations have existed for millions of years, including today, where people treat each other with generosity and respect? Did you think that such ways of living are unrealistic? Think of any assumptions you have about people that you may now question.</div></div>
 
 
 
@@ -25,7 +25,7 @@
 
 
 <b><div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #5<br/>Give first</div>
-</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money for lunch. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
+</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
 
 
 
@@ -35,14 +35,14 @@
 
 
 <b><div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #7<br/>Discover your own sacred gifts</div>
-</b><div class="rev-act-body">Did you know that each person has sacred gifts to share -- including you? There are many ways to find them. 1) Take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity. 4) Ask your friends when they have noticed you being the most joyful and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep investigating over time.</div></div>
+</b><div class="rev-act-body">You have sacred gifts to share, and there are many ways to find them. Choose one or more of these to help you identify your gifts: 1) Take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity. 4) Ask your friends when they have noticed you being the most joyful and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep investigating over time.</div></div>
 
 
 
 ### 04 - Imagine If Pervasive Generosity Was Normal
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Join or create a sharing group</div>
-</b><div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: consider creating a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
+</b><div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: create a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 
 
@@ -61,7 +61,7 @@
 ### 07 - Why Are People So Selfish
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Consider how could you find the bravery to show up differently in the future.</div></div>
+</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
 
 
@@ -87,14 +87,14 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Spread good news to encourage good deeds</div>
-</b><div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
+</b><div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
 
 
 
 ### 11 - How Can Whole Nations Embrace Awareness and Unity
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #16<br/>Cultivate awareness and connection with the living world</div>
-</b><div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach from how they live their lives. _I strongly recommend looking for a nature connection mentor or program to help you on your path._</div></div>
+</b><div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach. _I strongly recommend looking for a nature connection mentor or program to help you on your path._</div></div>
 
 
 
@@ -113,12 +113,12 @@
 ### 13 - Can Whole Nations Embrace High Standards
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
-</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to do what they need to do.</div></div>
+</b><div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of a time when someone brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, give up on a goal too easily, or tolerate an unsatisfying relationship or job without trying to change it. Help them find the strength to do what they need to do.</div></div>
 
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
-</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback when they see you making a mistake.</div></div>
+</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback.</div></div>
 
 
 
@@ -128,7 +128,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Learn without guilt or shame</div>
-</b><div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
+</b><div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
 
 
 
@@ -145,29 +145,29 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Create private spaces</div>
-</b><div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can be with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
+</b><div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can speak with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
 
 
 
 ### 16 - Build Your Spiritual Strength
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Release what isn't working</div>
-</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form many deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
+</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Learn to receive the tangible gifts of the Earth</div>
-</b><div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, or eat wild foods? Or build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
+</b><div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Give thanks for Earth's intangible gifts</div>
-</b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? If you imagine life without any trees or birds or the moon, it's easy to see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
+</b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or birds or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice the same gratitude with people</div>
-</b><div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time during a relationship? Notice the gifts you receive and feel grateful for them. Where appropriate, express your gratitude to the people directly so they know the impact they had on you.</div></div>
+</b><div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time during a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
 
 
 
@@ -176,20 +176,20 @@
 
 
 
-### 17 - REORG - Build Spiritual Strength with Others
+### 17 - Build Spiritual Strength with Others
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want</div>
+</b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want</div>
-</b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a deep friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
-
-
-
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>What does your path back to grace look like?</div>
-</b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. What words would you need to hear from them, and what actions would you need to see, for you to begin trusting them again? If you were in their shoes, and you realized you'd made a mistake, what would you say or do to regain people's trust?</div></div>
+</b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. Decide what words you would need to hear from them, and what actions you would need to see for you to begin trusting them again. Imagine if you were in their shoes, and you realized you'd made a mistake. Think if you would want to be treated the same way.</div></div>
 
 
 

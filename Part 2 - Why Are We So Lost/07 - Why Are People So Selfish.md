@@ -8,7 +8,7 @@ When one or a few people act selfishly, the nation can respond by helping them f
 
 But what happens when a ruling class forces laws on the rest, protecting their own wealth at all costs and forbidding people from standing for what's right? What happens when selfishness is systematically rewarded and maintained, and people can no longer maintain a way of life based on sharing?
 
-### Profit Economy: How Selfishness is Systematically Maintained
+### Profit Economies Reward and Maintain Selfishness
 
 Ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy_. "Profit" means getting more than one gives, and this is widely encouraged in profit economies that _move resources to people who already have them_. The more wealth a person has, the more additional wealth they are able to get.
 
@@ -39,7 +39,7 @@ Different ruling classes manage their economies in different ways in order to ma
 Without a job, workers may not be able to pay for housing, food, or health care for their family. Inflation continuously saps the value of previous savings, meaning the money starts to lose value as soon as it is earned. Even relatively well-paid workers often fear not having enough money for retirement, losing a job, or having a health crisis.
 
 Banks and landlords regulate the prices of houses and apartments, calculating the proportion of people's monthly income that they can afford to pay in mortgage or rent. Controlling this debt-to-income ratio means house and rental prices increase at least as much as people's wages, keeping workers from "getting ahead." Property taxes force homeowners to pay to keep the house they already own.
-azy
+
 Authorities may make the drawbacks of poverty arbitrarily more terrible, including putting poor people in prison, shaming the poor, forcing them to eat less nutritious food, or taking away their children when they struggle to provide safe, clean homes.
 
 Financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job in order to survive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]
@@ -56,20 +56,21 @@ People with integrity face this reality, but few do, as people would recognize t
 
 _Profit economies make it dangerous to have integrity._ Thus it's not just politicians who are corrupt. In one way or another, profit economies corrupt nearly everybody, from the topmost political leaders and business executives to the vast majority of individuals.
 
-Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you not think this pertains to you? Perhaps you like your job, your company has an ethical-sounding mission statement, and you have enough money to survive and even enjoy your days off. Maybe you also have money for a rainy day or retirement. Maybe you are sitting pretty.**
+Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think this does not pertain to you? Perhaps you like your job, your company has an ethical-sounding mission statement, and you have enough money to survive and even enjoy your days off. Maybe you also have money for a rainy day or retirement. Maybe you are sitting pretty.
 
-But consider this. Can you stop? Can you step off your treadmill and quit working for money whenever you please to focus on more meaningful work? And if you did, how long could you keep it up? Unless you have megawealth, at some point you would have to return to some kind of paid work or face the consequences of financial desperation. Maybe your friends or family would help you out for a while, but sooner or later, you'd likely be in trouble. Unlike those in healthy nations, in the profit economy of an unhealthy nation, you're not surrounded by people who will share food and shelter and make sure your survival needs are met during difficult moments.
+But consider this. Can you stop? Can you step off your treadmill and quit working for money whenever you please to focus on more meaningful work? And if you did, how long could you keep it up? Unless you have megawealth, some day you would have to return to paid work or face financial desperation. Maybe your friends or family would help you for a while, but sooner or later, you'd likely be in trouble. Unlike those in healthy nations, in the profit economy of an unhealthy nation, you're not surrounded by people who will share food and shelter and ensure your survival needs are met during difficult times.
 
-And even if you do have megawealth, you know deep down that you'd better not lose it, or you'll really learn what financial desperation is like.
+And if you do have megawealth, you know deep down that you'd better not lose it, or you'll really learn what financial desperation is like.
 
-Perhaps you think that wouldn't happen to you, but the fact that you do not dare step off your job treadmill for very long is evidence enough that you don't want to risk it. Whether we think much about it or not, we are all aware that we must work for money in order to survive and advance in our profit economy. 
+Perhaps you think that wouldn't happen to you, but the fact that you do not dare step off your job treadmill for very long is proof that you don't want to risk it. Whether we think much about it or not, we are all aware that we must work for money in order to survive and advance in our profit economy. 
 
 And therefore the well-off are as trapped as anyone else. The paychecks may vary but the trap is the same. Yes, in a market economy you can choose your job, your boss, and your potential advancement. But the one thing you cannot choose is to not participate. You, just like me and everyone else, are trapped.
 
-### Gift Economies Generate and Spread Abundance
-Gift economies reward sharing. They ensure everyone is taken care of, moving resources to where they're most needed or where they serve the greatest good. 
+### Gift Economies Reward and Maintain Generosity**
 
-I experienced a gift economy among the Ashaninka where sharing was clearly the norm. Plenty of other people living in other healthy nations, past and present, show that this is not particularly unusual.
+Unlike profit economies that reward selfishness, gift economies reward sharing. To ensure that everyone is taken care of, gift economies move resources to where they are the most needed or where they will do the most good. 
+
+I experienced a gift economy among the Ashaninka where sharing food, tools, land, water, and other resources was clearly the norm. Plenty of other people living in other healthy nations, past and present, show that this community-wide and nation-wide sharing is not particularly unusual.
 
 Nancy Basket, a woman of Cherokee descent, summarized the traditional Cherokee culture of sharing this way: "If we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot."[xxx-basket interview]
 
@@ -83,34 +84,36 @@ One of my earliest childhood memories involves giving somebody a gift and notici
 
 Wanting to avoid the scorn of being called an Indian giver, that's how I learned to give gifts -- first it belonged to me, and now it belongs to someone else.  It took decades for me to learn that this attitude towards sharing is rooted in private property ownership and essential to maintaining authoritarian nations. I was amazed to learn that my younger self had the healthier attitude to gift-giving.
 
-All life is divine beings giving their gifts. This recognition lies behind the first core spiritual practice of cultivating a practical, aware gratitude for the gifts of life. Chestnut trees give tasty chestnuts, stinging nettle plants heal joint pain, stars provide guidance, and the soil recycles us after we die. All these beings give divine gifts that make life possible and beautiful. No one makes them do this. Humans play their role by giving their own sacred gifts too -- the second core spiritual practice.
+All life is divine beings giving their gifts. This recognition lies behind the first core spiritual practice of cultivating a practical, aware gratitude for the gifts of life. Chestnut trees give tasty chestnuts, stinging nettle plants heal joint pain, stars provide guidance, and the soil recycles us after we die. All these beings give divine gifts that make life possible and beautiful. No one makes them do this. Humans play their role by giving their own sacred gifts -- the second core spiritual practice.
 
-In gift economies, people figure out where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy nations (known as Indians) sometimes gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
+In gift economies, people take responsibility to learn where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy nations (known as Indians) sometimes gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
 
 Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
 
 "Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an Indian giver is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and pass it along to someone else who needs it more.
 
-Due to this fundamental difference between caring for others and caring primarily for oneself, the contrast between these two economies is striking. Gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
+Amazingly, gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
 
 A person in a gift economy may feel upset if a person accepts a gift, doesn't use it, and then refuses to pass it on to someone else. A person from a profit economy may feel upset if they receive a gift only to find that the giver wants it back. Both sides may feel offended, and it reflects a fundamentally different perspective on sharing (and trusting others to share) versus hoarding (and not trusting others to share). Do gifts keep moving until they arrive where they are most needed? Or do people hoard possessions whether they need them or not?
 
 Potawatomi woman Robin Kimmerer noted the consequences when she wrote, "If all the world is a commodity, how poor we grow. When all the world is a gift in motion, how wealthy we become."[xxx-braiding sweetgrass|the gift of strawberries]
 
-This healthy-nation attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
+This attitude to gift-giving stems from the deep recognition that all of life is simply the giving of divine gifts. Every spider, bear, bush, and cloud is giving its sacred gifts and somehow contributing to the web of life. Who would want to stop all that giving? Gift economies aim to circulate gifts rather than hoard them, and this kind of human economy fits in well with the larger nonhuman economy of all life.
 
-Gift economies also have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. Gift economies ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever a big challenge arises.
+When whole nations embrace a gift economy, their way of life benefits the living world. When humans form reciprocal relationships with nonhumans, giving to the plant and animal communities while gratefully receiving enough to live, the whole ecosystem benefits from the humans' presence.
 
-Gift economies also make it easier to have integrity. When a person isn't afraid of poverty, it becomes easier to face reality, even when it's unpleasant.**
+Gift economies have many practical benefits. They move resources from the haves to the have-nots, minimizing inequality. They ensure neighbors take care of each other. People might face scarcity together occasionally, but nobody suffers poverty alone while others have abundance. Gift economies help people take care of each other whenever a big challenge arises.
 
-When everybody is expected to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"[xxx-original instructions|armstrong]**
+Gift economies also make it easier to develop and keep one's integrity. When a person isn't afraid of poverty, it becomes easier to face reality, even when it's unpleasant.
 
-In nations that forbid people from seeking justice and upholding their own laws -- because that is supposedly the police's job -- profit economies result, with a few people becoming extremely wealthy, and the rest trying to survive and get as comfortable as possible in their unhealthy nation. Widespread selfishness is the result.
+When everybody is expected to stand for what's right, this is the way of life that results -- a life of shared abundance. As Okanagan woman Jeannette Armstrong said, "_The realization that people and community are there to sustain you creates the most secure feeling in the world..._"[xxx-original instructions|armstrong]
 
-But it doesn't have to be this way. Individuals and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
+In unhealthy nations where a few people dominate the rest and authorities forbid people from seeking justice and upholding their own laws, most people are left trying to survive and get as comfortable as possible. Widespread selfishness is the result.
+
+But it doesn't have to be this way. Individuals, communities, and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Consider how could you find the bravery to show up differently in the future.</div></div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
 ### References
 

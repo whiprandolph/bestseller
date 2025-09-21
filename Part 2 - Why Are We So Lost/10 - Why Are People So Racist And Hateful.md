@@ -135,7 +135,7 @@ One Nootka storyteller described the importance of "the mirror in the eyes of th
 This is the power of that practical, aware gratitude to encourage more good behavior in the world, and every single person has this power. In a healthy nation or healthy community, this is a key way that you can help choose leaders who actually serve the people instead of selfishly serving themselves.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #15<br/>Spread good news to encourage good deeds</div>
-<div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds, and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
+<div class="rev-act-body">You have the power to encourage good deeds and help even the most humble people become leaders. One key way is to notice others' good deeds and retell those stories. Think of a good deed you've witnessed recently, and tell the story so that others know.</div></div>
 
 ### References
 

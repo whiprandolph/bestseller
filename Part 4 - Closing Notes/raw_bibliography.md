@@ -198,6 +198,7 @@ Weiss, I. (2024, May 26). Kevin O'Leary's dystopian fantasy of ruining the lives
 Weiss, K. (2009). Boys Will Be Boys. Violence Against Women, 15(7). https://doi.org/10.1177/1077801209333611
 Weston, J. (2017, March 3). Water is Life: The Rise of the Mní Wičóni Movement. Cultural Survival. https://www.culturalsurvival.org/publications/cultural-survival-quarterly/water-life-rise-mni-wiconi-movement
 Wimpee, R. (2020, November 4). Funding a Social Movement: The Ford Foundation and Civil Rights, 1965-1970. RE:Source. https://resource.rockarch.org/story/philanthropy-social-movements-ford-foundation-civil-rights-1965-1970/
+Wood, C. (with Fee, C.). (1936). Chief Joseph The Biography of a Great Indian. Wilson-Erickson.
 Young, J. (n.d.-a). Kamana Three: Nature Awareness Trail (M. Wild, L. Cunio, & D. Gardoqui, Eds.; Vol. 3). Owlink Media.
 Young, J. (n.d.-b). Kamana Two: Nature Awareness Trail (M. Wild & L. Cunio, Eds.; Vol. 2). Owlink Media.
 Zituni, D. (2024, May 24). New Report Analyzes Crackdown on Palestine Solidarity in the U.S. Palestine Legal. https://palestinelegal.org/news/2024/5/23/new-report-analyzes-crackdown-on-palestine-solidarity-in-the-usnbsp

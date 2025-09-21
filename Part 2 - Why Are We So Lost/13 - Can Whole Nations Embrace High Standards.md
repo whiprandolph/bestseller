@@ -4,15 +4,15 @@ Authorities systematically train conquered people to accept submissive obedience
 
 The consequences of submissive obedience are devastating because it allows authorities to create and maintain all sorts of systemic problems, including widespread corruption, racism, sexism, hatred, child abuse, and greed. Many people accept and then adopt these hurtful attitudes and beliefs as their own, and nearly everyone accepts these problems as inevitable.
 
-Without exception, every unhealthy nation has these intractable problems, and yet not one of them exists in any healthy nation I've studied.
+Without exception, every unhealthy nation has these intractable problems, and none of them exist in any healthy nation I've studied.
 
 But our troubles go deeper still.
 
-_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But when people are forbidden from standing for justice (because only the police may enforce the law, and solidarity is continually sabotaged, making it hard to act in service, deep integrity becomes rare. Instead, low integrity, cowardice, low mutual understanding, superficiality, and low self-worth become common.
+_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is continually sabotaged. Instead, low integrity, cowardice, low mutual understanding, superficiality, and low self-worth become common.
 
-When people think that the many abusive consequences of their unhealthy nation are "just the way life is," they also come to think that all these terrible troubles, while tragic, are inevitable. When these troubles seem normal and inevitable, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
+When people think that the many abusive consequences of their unhealthy nation are inevitable, they also come to think that all these terrible troubles, while tragic, are unavoidable. When these troubles start to seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
 
-But here is the good news. It is absolutely possible to live without troubles like discrimination, corruption, and all the rest. It's also possible to live in a nation where everyone embraces integrity, bravery, and generosity, so that neighbors can deeply trust each other. Countless stories of healthy nations living in traditional times show us just how high our standards can be, and reveal how low our standards currently are.
+But there is good news. It is possible to live without troubles like discrimination and corruption. It's also possible to live in a nation where everyone embraces integrity, bravery, and generosity so that neighbors can deeply trust each other. Many stories of healthy nations living in traditional times show how high our standards can be, and reveal how low our standards currently are.
 
 The path to creating new healthy nations requires learning how to hold ourselves and others to high standards so that integrity, generosity, and other attractive qualities become common.
 
@@ -22,7 +22,7 @@ _Integrity:_ Every legal system around the world requires testifying under oath,
 
 In contrast, integrity was so pervasive among the traditional Apache that no one was compelled to take an oath because, according to Geronimo, "it is not believed that they will give false testimony in a matter relating to their own people."[xxx-geronimo autobio|Unwritten Laws of the Apaches]
 
-Can you imagine living in a community where high integrity is so normal and expected that no one ever needs an oath or threat to tell the truth?
+Can you imagine living in a community where high integrity is normal and expected, so that no one needs to be threatened to tell the truth?
 
 _Physical resilience:_ Crow woman Pretty Shield described how physically resilient her people used to be: "[W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
@@ -34,21 +34,21 @@ Can you imagine if adults took young people's education seriously, offering them
 
 _Benefitting the Earth:_ Stories abound of people of healthy nations benefitting or enriching the Earth as a normal way of life. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a powerful bow so that the overall forest also benefitted.[xxx-the vision|p81]
 
-Their normal way of life benefitted the Earth around them, increasing the natural abundance that they depended on.
+Their normal way of life benefits the Earth around them, increasing the natural abundance that they depended on.
 
 When people bring out the best in each other, have high expectations, or hold each other to high standards, whole nations really are capable of maintaining that baseline of mutual respect among the people, and between people and the Earth.
 
 Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other caring people you know.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
-<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of an example like this where someone really brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, or give up on a big goal too easily, or tolerate an unsatisfying relationship or job without even trying to change it. One way or another, help them find the strength to do what they need to do.</div></div>
+<div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of a time when someone brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, give up on a goal too easily, or tolerate an unsatisfying relationship or job without trying to change it. Help them find the strength to do what they need to do.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
-<div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll express themselves but not communicate very clearly or respectfully. Whenever someone expresses anger or frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them, to ensure both you and the other person agree on it. This ensures you heard them properly, and that you only learn lessons that you agree with. Try to make it easy rather than difficult for others to give you constructive feedback when they see you making a mistake.</div></div>
+<div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback.</div></div>
 
 #### Seeing the Trap of Low Standards
 
-Regardless of the type of government, when people accept submissive obedience as normal, many unnecessary problems arise. These problems may seem inevitable, just part of the human experience. But in truth, they're only problems in unhealthy nations where people trained not to hold themselves or each other to high standards.
+When people accept submissive obedience as normal, many unnecessary problems arise. These problems may seem inevitable, just part of the human experience. But in truth, they're only problems in unhealthy nations where people are trained not to hold themselves or each other to high standards.
 
 #### Low Standards for Children
 
@@ -60,21 +60,23 @@ Healthy nations show how incredibly capable and confident children and young adu
 
 Martín Prechtel describes how, among the Tzutujil Maya, both boys and girls were sufficiently mature and skilled to contribute to the family by the age of 12, carrying at least their own weight or more.[xxx-secrets of the talking jaguar|p99-100]
 
-Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. As one Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young lady would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." Children raised with meaningful mentorship every day were ready for adulthood when the time came and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
+Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. As one Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young woman would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." Children raised with meaningful mentorship every day were ready for adulthood when the time came and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
 
-This freedom from rebellion extends to adulthood as well. When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one one for the family to enter and one privately her own so she can easily have lovers visit. There is never an expectation that sexual partners raise the children, as the woman's brothers and other neighbors help raise her children. Every man knows that his sister's children are his primary responsibility, which allows both men and women to have sexual partners without worrying about who the biological father is. They created a way of life where men, women and children get their needs met without each partner restricting the other's sexual freedom.[xxx-sex at dawn|love lust lagu]**
+This freedom from rebellion extends to adulthood as well. When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one one for the family to enter and one privately her own so she can easily have lovers visit. There is never an expectation that sexual partners raise the children, as the woman's brothers and other neighbors help raise her children. Every man knows that his sister's children are his primary responsibility, which allows both men and women to have sexual partners without worrying about who the biological father is. They created a way of life where men, women and children get their needs met without each partner restricting the other's sexual freedom.[xxx-sex at dawn|love lust lagu]
 
-Many adults assume that young teenagers cannot be mature enough to have sexual relationships, but this is an artifact of growing up in unhealthy nations. When children are not raised to take deep responsibility for themselves and others, to feel their feelings, understand risk, and have good boundaries, they often struggle to have respectful and joyful relationships as teenagers. Furthermore, expecting the two sexual partners to be the sole parental figures for any child is unnecessarily limiting. Each Mosuo man knew from boyhood that he would be a parent figure for his sister's children, and this freed both men and women to have sex without worrying about which man fathered which child. One Mosuo woman described how they share parental responsibilities: "In place of one father, Mosuo children have many uncles who take care of them... We also have many mothers, because we call our aunts... 'little mother.'" Others outside the nuclear family also help raise children.[xxx-sex at dawn|love lust lagu]**
+Many adults assume that young teenagers cannot be mature enough to have sexual relationships, but this is an artifact of growing up in unhealthy nations. When children are not raised to take deep responsibility for themselves and others, to feel their feelings, understand risk, and have good boundaries, they often struggle to have respectful and joyful relationships as teenagers, or at any age.
 
-The most sexually active Mosuo men and women have hundreds of sexual partners, and never ask each other for fidelity. This is seen as controlling and inappropriate. They also have no troubles like domestic violence, impoverished single mothers, "broken homes," and sexual shame. All of these are unnecessary, and people in healthy nations create ways of life that avoid them.[xxx-sex at dawn|love lust lagu]**
+Furthermore, expecting the two sexual partners to be the sole parental figures for any child is unnecessarily limiting. Each Mosuo man knew from boyhood that he would be a parent figure for his sister's children, and this freed both men and women to have sex without worrying about which man fathered which child. One Mosuo woman described how they share parental responsibilities: "In place of one father, Mosuo children have many uncles who take care of them... We also have many mothers, because we call our aunts... 'little mother.'" Others outside the nuclear family also help raise children.[xxx-sex at dawn|love lust lagu]
 
-Jean Liedloff acted as a physician among the Yequana, and she noted, "All [their] behaviour contradicted the assumptions I held about how children behave." She encountered a four-year-old with a gaping wound who came to her all alone and kept his composure even through the pain, and a 9-year-old with an abdominal wound after his older brother accidentally shot him with an arrow. There was no animosity or needless worry, and they didn't need sympathy. Even the mother of the 9-year-old showed no anxiety -- after all, everything that could be done to address the injury was being done, so what good would feeling stress accomplish? The boy recovered just fine.[xxx-continuum concept|growing up]
+The most sexually active Mosuo men and women have hundreds of sexual partners, and never ask each other for fidelity. This is seen as controlling and inappropriate. They also have no troubles like domestic violence, impoverished single mothers, "broken homes," and sexual shame. All of these are unnecessary, and people in healthy nations create ways of life that avoid them.[xxx-sex at dawn|love lust lagu]
+
+Jean Liedloff acted as a physician among the Yequana, and she noted, "All [their] behaviour contradicted the assumptions I held about how children behave." She encountered a four-year-old with a gaping wound who came to her all alone and kept his composure through the pain, and a 9-year-old with an abdominal wound after his older brother accidentally shot him with an arrow. There was no animosity or needless worry, and they didn't need sympathy. Even the mother of the 9-year-old showed no anxiety -- after all, everything that could be done to address the injury was being done. The boy recovered just fine.[xxx-continuum concept|growing up]
 
 Liedloff ascribed these children's emotional resilience and self-confidence to a few factors, including having sufficient time in their mother's arms in early childhood, being raised with healthy boundaries, and being corrected without guilt or shame when they made a mistake.[xxx-continuum concept|growing up]
 
 She watched how, if a young child sullied the floor in the family's house, he would be told sternly to go outside and not to make a mess inside. Thus the adults set healthy boundaries, but "he is not told that he is bad or that he is always doing the wrong thing. He never feels he is bad, only, at most, that he is a loved child doing an undesirable act." Adults trusted that the children were good people who made a mistake, not bad people who needed to be shamed into obeying. Shame, insecurity, and emotional fragility were absent among the Yequana, including among children and teenagers.[xxx-continuum concept|growing up]
 
-In unhealthy nations, troubles at the national level are reflected in many families. Adults who aren't allowed to take deep responsibility for their community or nation -- because they're not allowed to choose their laws or uphold them -- often struggle to raise children to take full responsibility for themselves and others. Adults who are not allowed to hold others, and especially their leaders, to high standards of good behavior struggle to respectfully hold children to high standards. Parents who are used to submissive obedience often expect the same from their children, or they may reject rules entirely and not hold firm respectful boundaries, tolerating careless or disrespectful behavior. None of these attitudes teach children how to have good boundaries or high standards.**
+In unhealthy nations, troubles at the national level are reflected in many families. Adults who aren't allowed to take deep responsibility for their community or nation -- because they're not allowed to choose their laws or uphold them -- often struggle to raise children to take full responsibility for themselves and others. Adults who are not allowed to hold others, and especially their leaders, to high standards of good behavior struggle to respectfully hold children to high standards. Parents who are used to submissive obedience often expect the same from their children, or they may reject rules entirely and not hold firm respectful boundaries, tolerating careless or disrespectful behavior. None of these attitudes teach children how to have good boundaries or high standards.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty</div>
 <div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, practice acknowledging the problematic behavior, the impact it had, and what behavior you would rather see without putting the other person down or making any hurtful or dismissive comments towards them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
@@ -95,123 +97,88 @@ Women and black people have essentially been offered a smaller serving of the sa
 
 And since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these ancient forms of discrimination persist today. As long as people accept submissive obedience as normal, they will have low standards, even for liberation movements.
 
-Instead of seeking real freedom, authorities in unhealthy nations trick people into thinking that "freedom" means being able to do whatever you want without financial restraint, so the way to become free is to get rich. But this is faux-freedom, the ability to do whatever you want without restraint -- except for standing for what's right. As long as we run after money, we're not on a path to freedom.**
+Instead of seeking real freedom, authorities in unhealthy nations trick people into thinking that "freedom" means being able to do whatever you want, so the way to become free is to get rich. But this is faux-freedom, the ability to do whatever you want without restraint -- except for standing for what's right. As long as we run after money, we're not on a path to freedom.
 
 Real freedom comes when everyone in a nation stands for what's right as a normal way of life, so everyone enjoys justice, shared resources, protection, and respect among their neighbors.
 
-I certainly do _not_ suggest anyone quit their job. However, "climbing the latter" to get better-paying jobs is not the path to freedom. The further up the ladder you climb, the further you are from the people left behind and from _the most secure feeling in the world_ -- the priceless security that comes from living in a supportive, respectful, generous community that you trust has your back.
+I certainly do _not_ suggest anyone quit their job. However, "climbing the ladder" to get better-paying jobs is not the path to freedom. The further up the ladder you climb, the further you are from _the most secure feeling in the world_ -- the priceless security that comes from living in a supportive, respectful, generous community that you trust has your back.
 
 Revolutionaries like the Black Panthers and Zapatistas often kept working their jobs as they sought to free their people. Black Panther Don Cox put it well: "use what you got to get what you need."[xxx-just another nigger|use what you got] Making money shouldn't be the end-goal. Just like the Tzutujil Mayans and Huron who liked to get rich so they could give it all away, make money so you can do the most good in service of the people and nonhumans you love.
 
-#### Low Standards for Men
-
-One of the biggest examples of low standards is made clear by an often-repeated question: _where are all the good men?_ In feminist literature around the world, this is a common question going back to the dawn of unhealthy nations.[xxx-odoc|ch47]
-
-For years, I didn't understand this question. I didn't know what a good man was until I studied healthy nations where boys are consistently raised to be good men who stand for what's right and bravely protect their people from harm.
-
-A core masculine gift is setting boundaries, especially protecting one's people from threats. In all nations, few things inspire men more than the need to protect their people from danger. And yet, in unhealthy nations, the rulers are the greatest threat to the people, and neither men nor women are allowed to confront it.
-
-Abusive nations raise boys not to honor their innate spiritual calling to protect their people from threats as a gift of love, without any compensation or orders. Instead, men commonly grow up learning to tolerate, ignore, or perpetuate abuse. People may join the police or military, but they just have to follow orders too.
-
-When boys are raised to deny or twist this deep love-gift of boundary-setting and protection, unhealthy nations wind up with deeply spiritually confused men who ask questions like "When does life become meaningful?" or "Why am I even here?" Many men accept living a meaningless life which feels terrible, but they can learn to ignore this misery. And once a man accepts living a meaningless and unfulfilling life, why not get rich, or have superficial hobbies or conversations, or just try to keep life comfortable and easy?
-
-This explains the spiritual meaning behind Henry David Thoreau's comment that "The mass of men lead lives of quiet desperation."[xxx-walden|economy] It also explains the statement that "Every man dies. Not every man really lives."[xxx-braveheart every man] Living a life where you've learned to hold back your deepest love, afraid to stand for what's right, is painfully unsatisfying.
-
-Of course, women can set boundaries and protect their people too. And yet, when this protective boundary-setting is forbidden in unhealthy nations, many men become spiritually lost, struggling to live in a deeply satisfying way.
-
-People endlessly debate the meaning of "toxic masculinity," and this perspective gets to the heart of the trouble: unhealthy nations do not train boys to be good men, because good men stand for what's right and protect their people from any threat, and authorities forbid this, which means _it is illegal to be a good man in an unhealthy nation._
-
-Boys learn to cope with this deep trouble in a variety of ways. Some become selfish or become people pleasers, or avoid reflecting on their meaningless life with endless distractions. Boys and men are often held to very low standards, exemplified by the classic phrase "boys will be boys." In India[xxx-hrw everyone blames me], the United States[xxx-boys will be boys], and other unhealthy nations around the world, authorities and even many victims often make excuses for men who sexually assault women with some variation of "boys will be boys," as if sexual assault were normal masculine behavior rather than a sign of severe emotional and spiritual disturbances.
-
-Healthy nations show how people can have a way of life where men consistently show deep integrity and bravery, holding each other to very high standards.
-
-Lakota man Black Elk described how his people were short on both food and ammunition in the late 1800s while being constantly driven by the American military. The Americans once attacked during a blizzard, and he said, "We could not stop the soldiers coming up, because we had not much ammunition. The soldiers had everything. But our men used spears and guns for clubs when the soldiers got there, and they fought hand to hand a while, holding the soldiers back until the women could break camp and get away with the children and ponies."[xxx-black elk speaks|walking black road]
-
-Pretty Shield described how her Crow village would move between sites with all their homes and gear packed on horses. They could be attacked at any time, so male Crow scouts would travel ahead, around and behind the main group to give warning if enemies approached. They called these Crow scouts "wolves," and she said, "we women visited while we traveled... The men were ever watching these wolves, and we women constantly watched the men."[xxx-red mother|p22] The women trusted the men to organize themselves into a protection force and pay attention to each other to collectively protect the village, all without pay or threat of punishment.
-
-Women's trust of men in these healthy nations was evidence of the men's integrity, and many stories show how trusting women inspired bravery in their men in times of crisis. One Cheyenne boy named Wikis was 5 or 6 years old when his village was suddenly attacked, and men instantly ran towards the threat while women gathered the children. Instead of just running away, Wikis said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp..."[xxx-when buffalo ran|attack on the camp]
-
-Many stories from the Lakota also describe women inspiring their men to be brave by singing in this way.[xxx-odoc|ch47]
-
-Of course, women can make fearsome fighters as well, and integrity and bravery are qualities for everyone to embrace. These stories show that everyone in a nation can have integrity and bravery, as the women would not have sung for untrustworthy men.
-
-These stories and many others show how low our standards are for each other as a natural consequence of being trapped in unfree societies and accepting submissive obedience as legitimate. The path to building new healthy nations and living in freedom will involve learning to hold ourselves and others to high standards. And to do this, we must learn how to spiritually grow without feeling guilt or shame.
-
 #### Low Standards for Women
 
-Unhealthy nations consistently train people to idolize the rich and powerful, and this has caused many women to have low standards for women leaders. Many little girls enjoy pretending to be a princess and fantasize about being royalty, even though kings and queens consistently exploit the people they rule.
+Unhealthy nations consistently train people to idolize the rich and powerful, and this has caused many women to have low standards for women leaders. Many parents encourage their daughters to pretend to be a princess and fantasize about being royalty, even though kings and queens consistently exploit the people they rule.
 
-Many young women are encouraged to seek leadership positions in business and politics, but corrupt women politicians are no improvement over corrupt men. British prime minister Margaret Thatcher happily oppressed labor unions,[xxx-conversation thatcher] and countries that bribed American secretary of state Hillary Clinton received far more American weapons than those that did not, even while State Department reports described many human rights abuses in those countries.[xxx-clinton corrupt]
+Many young women aspire to leadership positions in business and politics, but corrupt women politicians are no improvement over corrupt men. British prime minister Margaret Thatcher vigorously oppressed labor unions,[xxx-conversation thatcher] and American secretary of state Hillary Clinton approved extra weapons sales to countries that bribed her, even while State Department reports described many human rights abuses in those countries.[xxx-clinton corrupt]
 
 Selfish women business executives can likewise do just as much harm as selfish men, leading corporations that produce vast amounts of toxic chemicals[xxx-lubrizol ceo] or lobby for needless wars while supplying the weapons.[xxx-opensecrets capitalizing on conflict]<sup>,</sup>[xxx-lockheedmartin.com ceo]
 
-Healthy nations show that women can have positions of leadership without corruption. A common theme in healthy nations is _balance,_ ensuring both women and men have positions of influence in their society. 
-
-Among the Tzutujil Mayans, male and female partners usually served as chiefs together.[xxx-secrets of the talking jaguar|p202]
+A common theme in healthy nations is _balance,_ ensuring both women and men have positions of influence without corruption. Male and female partners usually served as Tzutujil Mayan chiefs together.[xxx-secrets of the talking jaguar|p202]
 
 The traditional Cherokee had a White Council of women who led during peacetime and a Red Council of men who led in war. Cherokee woman Rebecca Adamson said, "The goal was the balance, the harmony, the bringing together of both wisdoms and both energies for the good of the Nation."[xxx-original instructions|first nations survival]
 
-In other healthy nations, trusted elder women are responsible for picking the male leaders or picking candidates who then need further approvals. The eldest healthy woman in every Huron clan was the clan matron, responsible for choosing both a civil chief and a war chief.[xxx-illustrated native american|p156]
+In the Haudenosaunee Confederacy, a clan mother selects a male leadership candidate who goes through several stages of approval. Her entire clan must support him, then the council of leaders must approve, and finally anyone in the Confederacy may veto if he or she has doubts. If the candidate does not pass any stage, the clan mother finds someone else, ensuring that every leadership candidate has the support of a trusted elder woman.[xxx-original instructions|a democracy based on peace]
 
-In the Haudenosaunee Confederacy, a clan mother selects a male leadership candidate who must go through several stages of approval. Her entire clan must support him, then the council of leaders must approve, and finally anyone in the confederacy may veto if he or she has doubts. If the candidate does not pass any stage, the clan mother finds someone else, ensuring that every leadership candidate has the support of a trusted elder woman.[xxx-original instructions|a democracy based on peace]
+There are many ways for wise and capable women to serve their people. But neither men nor women politicians will address the deepest injustices as long as the nation has low standards.
 
-There are many ways for wise and capable women to help lead their communities. But neither men nor women will lead well so long as the nation tolerates selfishness and corruption.
+#### Low Standards for Men
 
-#### NEW Low Standards for Men NOTES
+Masculine mentors in healthy nations consistently emphasize two sacred gifts: integrity and bravery. These are qualities for everyone to embrace, and they are repeated often when men train boys.
 
-* HURON: men consistently practice bravery as a normal, life-long practice to confront any injustice or danger
-  * Huron men consistently cultivated their bravery throughout adulthood, including intentionally experiencing pain to practice keeping their composure under duress.
+Nez Perce chief Joseph's advice to an American boy was simple: "be brave and tell the truth."[xxx-joseph brave truth|p336] Wikis' Cheyenne uncle likewise taught him there was "one thing more important than anything else, and that is to be brave... If you do that, the people will all know of it, and will look on you as a man." He also said, "always be truthful and honest with all your people."[xxx-when buffalo ran|lessons prairie]
 
-  * Video games, overweight, etc.
+Men of healthy nations show what it's like to live with total integrity and bravery, and they reveal just how far from this high standard most men in unhealthy nations typically live.
 
-* APACHE: high standadrs for young men
-  * Apache man Geronimo described the high standards for their young men who were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to become warriors who would protect their people, and Geronimo stated the minimal, baseline requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior]
+Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior]
 
-  * entry level requirement for Apache warriors
+Huron men intentionally practiced bravery throughout their adult lives so they would be ready to protect their people from any injustice or threat. This included intentionally causing themselves pain to practice maintaining composure under duress.[xxx-huron farmers of the north|44]
 
-  * keep life easy and comfortable, just trying to get a good job and get along with their neighbors and have fun on the weekends.
+Jean Liedloff was impressed by the strong, positive male presence she witnessed in Yequana households which she described as relaxed, peaceful and serene. The men were not permissive, holdings everyone to the highest standards, and boys loved to measure themselves against their fathers. Everyone took "pride in doing their best, in living up to the men's expectations as well as to one another's... By his behaviour, his own dignity and excellence in what he does, he shows their society's ways to the young."[xxx-continuum concept|growing up]
 
-* Cheyenne: high standards of masculine mentorship -- never feel entitled 
-  * you're expected to give your life at a moment's notice so the women and girls can live, and that's why you're treated differently. So do not feel entitled or superior, and train your bravery and skills. - Cheyenne
+Sioux man Ohiyesa described how he was trained not to care for money or possessions, "because a true Indian always shares whatever he may possess." He said, "We never [had] any money... we valued nothing except honor." Sioux men would bravely share their last food with a hungry neighbor.[xxx-from deep woods to civilization|the way opens]
 
-  * There were some kinds of work that only women did, and some kinds that only men did. Wikis' uncle taught him never to feel entitled or superior because he didn't do women's work. As a boy, Wikis was expected to train to be a man who would protect his people at a moment's notice. If danger came, the women would be more likely to survive than the men because the men were expected to confront the danger so the rest could escape. The men took this training seriously, consistently cultivating the bravery and skills necessary to play this protective role.
+Women often ask _where are all the good men?_ In feminist literature around the world, this is a common question going back to the dawn of unhealthy nations.[xxx-odoc|ch47]
 
-  * how many boys are not trained to notice the kind things others do for them, and so they become self-centered men? How many boys are trained, intentionally or not, to think they're entitled to special treatment, or somehow superior? 
+I did not know what a good man was until I studied healthy nations where boys are consistently raised to develop and freely give their sacred gifts of integrity and bravery, becoming good men willing to confront any injustice or threat to their people.
 
-Sioux man Ohiyesa said he was "trained to be a warrior and a hunter, and not to care for money or possessions, but to be in the broadest sense a public servant."[xxx-from deep woods to civilization|the way opens]
+Stories from healthy nations show what it's like when women can trust all the men. One Cheyenne boy named Wikis was 5 or 6 years old when his village was suddenly attacked, and men instantly ran towards the threat while women gathered the children. Wikis said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp..."[xxx-when buffalo ran|attack on the camp] The women would not have sung for untrustworthy men.
 
+All these stories show how low our standards for men are. When boys are trained for submissive obedience instead of deep bravery, they learn to "hold back" or "shut down" core parts of themselves, becoming spiritually lost as they do not know how to relate to themselves and the world in a good way.
 
+Men can learn to ignore their own humiliation and cowardice. Some become people-pleasers who stand for nothing, just trying to keep life comfortable. Others become selfish, standing only for their own needs. The fact that Martin Luther King Jr and Jesus Christ are so widely celebrated shows just how rare profoundly good men are in unhealthy nations.
 
+Spiritually lost men may preen on social media, flaunt their wealth, or spend vast hours playing video games. Some men live vicariously by watching movies or professional sports, or they focus on superficial hobbies or making money, or obsess over political and religious dogmas.
 
+In 1877, the American military captured some Cheyenne women and children. The very next day, 500 Lakota and Cheyenne warriors launched an attack to try to retrieve them.[xxx-black elk speaks|footnotes] Women and children suffer many sexual and physical assaults in unhealthy nations -- where are the good men who would band together to stop this?
 
+Men who have been systematically trained to deny their feelings and do not know how to follow their sacred path may abandon their children and spouse, or get lost in drugs or alcohol. Even among men who stay with their family, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!
 
+Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of police whistleblowers who call out the police's own illegal activity, so the rest know to stay in line.[xxx-odoc|ch32]
 
+Behind this superficiality, many men struggle with nagging questions like "when does life become meaningful?" or "why am I even here?" As Henry David Thoreau put it, "The mass of men lead lives of quiet desperation."[xxx-walden|economy] This also explains the saying that "Every man dies. Not every man really lives."[xxx-braveheart every man]
 
+Living a life of submissive obedience is not satisfying. Tolerating injustice and meaningless work is not satisfying. Debating politics while pretending that the whole system isn't corrupt is not satisfying. Living with low standards is not satisfying.
 
+Men have a deep urge towards freedom, but few know what freedom even means because they have been systematically misled and poorly trained from birth. Unhealthy nations don't raise boys to be good men because good men would protect their people from oppression and lead them to freedom, and this is forbidden.
 
+To male readers, I say this: It is time to raise our standards. Cultivate your integrity and bravery, and make friends with others who also hold themselves to a high bar. There's a reason healthy nations train men to prefer a brave death to a humiliating long life. Tolerating humiliation leads to all the troubles of abusive nations. You would live longer but feel half dead inside.
 
+Of course, in unhealthy nations some amount of submissiveness is required in order to survive. The Deepest Revolution requires the bravery and integrity to strategically choose when to submit and when to take a stand to do the most good. When you value and cultivate these qualities with others who hold each other to high standards, you will grow a depth of spiritual strength that few men in unhealthy nations ever achieve.
 
-
-
-
-
-
-
-
-
+The path to building new healthy nations and living in freedom will require everyone to learn to hold themselves and others to high standards. To do this, we must learn how to spiritually grow without feeling guilt or shame.
 
 #### To Have High Standards, Learn to Grow Without Shame or Guilt
 
-Feelings like shame or guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People can resist feedback because they don't want to be unfairly shamed or made to feel guilty. Even if the feedback is respectful, people can have subconscious shame or guilt from their childhood that gets triggered, and they can become insecure and defensive.
+Feelings of shame and guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People may resist feedback because they have been taught to feel shameful and guilty in the past, or treated unfairly, and don't want this to happen again. Others may have subconscious shame or guilt from childhood that gets triggered, creating automatic insecurity and defensiveness.**
 
-Thus, to really hold yourself and others to a high standard and help people grow when they make a mistake, it is crucial to learn how to pursue personal and collective growth without shame or guilt.
+Therefore, to effectively hold yourself and others to high standards and help people grow when they make mistakes, it is crucial to learn how to pursue personal and collective growth without shame or guilt.
 
-A key requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being themselves. Trust that they want to show up in a good way and just don't know how. There's something they're missing, but if they could see it, they would grow and show up well.
+A key requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being bad. Trust that they want to show up in a good way and just don't know how. There's something they're missing, but if they could see it, they would learn and show up better.
 
 Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life or community anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Learn without guilt or shame</div>
-<div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, practice learning what you can while noticing any feelings of guilt or shame and just letting them go.</div></div>
+<div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
 
 #### Everything is a Skill That Can be Practiced Without Guilt or Shame
 
@@ -219,9 +186,9 @@ Think of a skill you learned as a child. Imagine, for example, that you learned 
 
 You practiced: you tried your best to kick the soccer ball to someone, and sometimes the ball went where you intended and sometimes it didn't. When you made a mistake, you figured out what to learn and then practiced more. The more you practiced, the more you grew, and the more proper technique became normal.
 
-Integrity, awareness, gratitude, and generosity are skills too, and you can practice these intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as not having the awareness you want, or being afraid to tell the truth and lying instead.
+Integrity, awareness, gratitude, and generosity are also skills, and you can practice them intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as ignoring certain feelings, or being afraid to tell the truth and lying instead.
 
-It is ok to feel disappointed in yourself anytime you fall short of your high standards. But if you notice any shame or guilt, or any sense of inherent badness, acknowledge these feelings and let them go. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
+It is ok to feel disappointed in yourself anytime you fall short. But if you notice any shame or guilt, or any sense of inherent badness, acknowledge these feelings and let them go. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
 
 And just like you practice kicking a soccer ball before the game, you can practice these beautiful qualities outside the normal flow of life. For example, bravery is the ability to remain conscious and do what you know is right even if you feel uncomfortable or afraid. To practice bravery, intentionally put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
@@ -229,22 +196,30 @@ The book _One Disease One Cure_ contains many more suggestions for cultivating b
 
 Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. As long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
 
-Recall that "spirituality" means how you relate to yourself and the world. "Spiritual growth" simply means learning how to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by giving your sacred gifts, and living in reciprocity.**
+For me, "spirituality" means how you relate to yourself and the world. Thus, "spiritual growth" means learning to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by identifying and giving your sacred gifts, and living in reciprocity.**
 
 Recognizing two complementary truths will accelerate your spiritual growth. First, _you are already perfect,_ even with all your faults. Second, _you have unmet potential,_ and you must strive to fulfill it to give your deepest love. The first truth is about self-acceptance, and the second is about growth.
 
-Deep self-acceptance is the foundation for deep spiritual growth, so your growth will be limited without it. If you feel self-doubt or low self-worth, pause trying to grow and focus on total self-acceptance. You are perfect as you are now, faults and all, and you're basically ok. With this self-acceptance, see your unmet potential, and grow to meet it.**
+Self-acceptance is the foundation for spiritual growth, so your growth will be limited without it. If you feel self-doubt or low self-worth, focus on total self-acceptance. You are perfect as you are now, faults and all, and you're basically ok. With this self-acceptance, see your unmet potential, and grow to meet it.
 
-When you adopt these attitudes and hold yourself to a high standard, your rate of growth will increase. You will learn life lessons faster because you won't waste time feeling shame and guilt. Just notice your mistakes, learn from them, and move on.
+When you hold yourself to high standards, your rate of growth will increase. You won't waste time feeling shame and guilt. You will just notice your mistakes, learn from them, and move on.
 
-These shame-free and guilt-free attitudes to spiritual growth are foundational so that people can hold themselves and each other to high standards of behavior and grow from their mistakes. Part 3 will share more detail about how to embrace high standards to form deep relationships, healthy communities and eventually healthy nations based on the stories of others who have done this. 
-
-Hold yourself and others to high standards of excellent behavior to create a culture of deep trust in your life, so that in your relationships qualities like integrity, bravery, awareness, and generosity are simply normal and expected.
+These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create a relationships of deep trust, so that qualities like integrity, bravery, awareness, and generosity become normal.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 ### References
+
+[xxx-black elk speaks|footnotes]-aaa (Neihardt, 2014, "Footnotes")
+
+[xxx-odoc|ch32]-aaa (Randolph, 2024, "Chapter 32: A Study in Privilege and World-Shaping - the Police")
+
+[xxx-huron farmers of the north|44]-aaa (Trigger, 1969, 44)
+
+[xxx-when buffalo ran|lessons prairie]-aaa (Grinnell, 2005, "Lessons of the Prairie")
+
+[xxx-joseph brave truth|p336]-aaa (Wood, 1936, 336)
 
 [xxx-opensecrets capitalizing on conflict]-aaa (Auble, 2021)
 
@@ -277,8 +252,6 @@ Hold yourself and others to high standards of excellent behavior to create a cul
 [xxx-secrets of the talking jaguar|p99-100]-aaa (Prechtel, 1999, 99-100)
 
 [xxx-continuum concept|growing up]-aaa (Liedloff, 2004, "Growing Up")
-
-[xxx-black elk speaks|walking black road]-aaa (Neihardt, 2014, "Walking the Black Road")
 
 [xxx-when buffalo ran|attack on the camp]-aaa (Grinnell, 2005, "The Attack on the Camp")
 

@@ -32,7 +32,7 @@ The promised land is definitely real, and I'll tell you what else I learned -- _
 
 The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do wars that kill the poor and profit the rich. Nonhumans are suffering and dying in large numbers, and humans won't last long if we don't change course.
 
-Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support all these terrible things and more. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
+Kings and billionaires of unhealthy nations threaten, bribe, trick, and trap people to support so many terrible things. The only solution is to create new nations, one community at a time, where people live with mutual respect for each other and the Earth.
 
 So cultivate your spiritual strength and support others in cultivating theirs. Stand for what's right together, protecting each other and the Earth. And I promise you will not stand alone.
 

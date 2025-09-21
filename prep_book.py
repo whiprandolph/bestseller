@@ -59,12 +59,12 @@ BOOK_ADDED_STYLE_BASE = """
     padding-left:0em;
     margin:0px;
   }
-  td.half-cell {
-    width:50%;
-    padding-left:2em;    
+  td.partial-cell {
+    width:33.3%;
+    padding-left:1em;    
   }
   .biblio-div {
-    font-size:7.15pt;
+    font-size:7.1pt;
   }
   td.full-cell {
     width:100%;
@@ -78,7 +78,7 @@ BOOK_ADDED_STYLE_BASE = """
   tbody {
     border:0px;
     margin:0px;
-    font-size:7pt;
+    font-size:6.9pt;
   }
   blockquote {
     color: black;
@@ -113,16 +113,16 @@ BOOK_ADDED_STYLE_BASE = """
   }
   h1 {
     /* h1 same as h2, so the pre/post material fit on the page better in PDF, and are indented at the right level (h1 level) in the epub */
-    font-size: 1.1em;
+    font-size: 1.07em;
   }
   h2 {
-    font-size: 1.1em;
+    font-size: 1.07em;
   }
   h3 {
     font-size: .9em;
   }
   h4 {
-    font-size: 0.8em;
+    font-size: 0.85em;
   }
   .rev-act-header {
     text-align: center;

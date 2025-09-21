@@ -271,7 +271,7 @@ Only by tapping into your own power to choose what to believe and what principle
 
 [xxx-bible niv|mark 2:27]-aaa (Mark 2:27, New International Version Bible)
 
-[xxx-bible niv|1 peter 2:13]-aaa (Mark 1 Peter 2:13, New International Version Bible)
+[xxx-bible niv|1 peter 2:13]-aaa (1 Peter 2:13, New International Version Bible)
 
 [xxx-catholic catechism|408]-aaa (Catechism of the Catholic Church, 1997, 408)
 

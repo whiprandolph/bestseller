@@ -24,7 +24,7 @@ Most people either haven't heard of healthy nations or they misunderstand them, 
 
 Of course, if you believe the only alternative to authoritarian democracy is being ruled by a king, priest or imam, then you'll do your best to make democracy "work."
 
-But what if you learned what freedom is like by studying actually-free people? And what if you found examples from today or recent times, including case studies of successful revolutionary movements?
+But what if you learned what freedom is like by studying people who are truly free? And what if you found examples from today or recent times, including case studies of successful revolutionary movements?
 
 What if you realized how much your unhealthy nation had trained you and your ancestors to hold back your deepest love and tolerate predatory behavior all around you?
 
@@ -46,7 +46,7 @@ Imagine a life where every moment feels alive, and you are free to contribute to
 
 Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, your friends and neighbors will come to your aid. Just like you would for them.
 
-Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day is meaningful and engaging for them. Imagine training children for qualities like deep generosity, awareness, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your nation.
+Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day is meaningful and engaging for them. Imagine training children for qualities like generosity, awareness, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your nation.
 
 Imagine no boring classes, no unaccountable school authorities, and no meaningless work and tests that train children for meaningless work in adulthood. Instead, imagine being a teenager and being treated so respectfully that there is nothing to rebel against.
 
@@ -56,9 +56,9 @@ Imagine finding your childhood innocence again, joyfully offering your deepest l
 
 And anything that's been forgotten can be remembered again.
 
-Can you imagine if people took care of their neighborhoods instead of letting it get trashy, as people with dignity and self-respect likewise respect the space where they live?
+Can you imagine if people took care of their neighborhoods instead of tolerating trash and pollution, as people with dignity and self-respect likewise respect the space where they live?
 
-Imagine working with your neighbors to take care of everybody's needs together, with no need to worry about health care, retirement, having shelter or enough to eat -- and you don't need to work an unsatisfying job to maybe have enough money to pay for it all!
+Imagine working with your neighbors to take care of everyone's needs together, with no need to worry about health care, retirement, having shelter or enough to eat -- and you don't need to work an unsatisfying job to maybe have enough money to pay for it all!
 
 Imagine seeing gifts everywhere you look, and feeling a continuous state of joyful gratitude for all of life's blessings.
 
@@ -68,7 +68,7 @@ Imagine befriending animals like the deer and bear, trees like the chestnuts and
 
 No one can predict or control the future. Times of sickness or hunger might come, or war and migration. Imagine trusting that the people around you will take care of you, just like you'll take care of them. Imagine relaxing into that "realization that people and community are there to sustain you [which] creates the most secure feeling in the world..."[xxx-original instructions|armstrong]
 
-_None of this is theoretical or idealistic, and I am not making this up. Every scene you just imagined came from a story or observation from real people like you and me in an actual healthy nation._
+_None of this is theoretical or idealistic. Every scene you just imagined came from a story or observation from real people like you and me in an actual healthy nation._
 
 This incredible vision is not a fantasy. You and other people can bring this vision to life.
 
@@ -80,23 +80,23 @@ I want to tell you the story of someone who chose to forget. Their story showed 
 
 I know someone who, in the early 1990s, thought about whether it was ok for the US to invade Iraq. She had never engaged in politics much, but as the United States invaded, she wondered, is the US really invading to bring democracy like the politicians say? Or is the real purpose to take Iraq's oil? Is it ok to kill people to take oil?
 
-These were very deep questions!
+These were very deep questions.
 
 Unfortunately, she was unable to find people to share her concerns with and speak her heart. Her husband and friends were involved with the war and seemed unwilling to question it. She was surrounded by people but felt alone, unable to discuss her thoughts and fears, and unable to consider how to respond with others.
 
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take antidepressants, which allowed her to numb the feeling of dissatisfaction without bravely responding to it. And she stopped asking such deep questions about her unhealthy nation.
 
-A person who doesn't have anyone to share their deepest thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.**
+A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.**
 
 This story showed me how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and learn to tolerate the numbness. It also showed me how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together_.**
 
-So find people that you trust to speak your heart to, and whom you likewise listen to. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy nation that is crazy!
+So find trustworthy people and tell them your thoughts and feelings, and listen to them too. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy nation that is crazy.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Find people with whom you can speak your heart</div>
 <div class="rev-act-body">It can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Create private spaces</div>
-<div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can be with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
+<div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can speak with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
 
 ### References
 
