@@ -1,6 +1,6 @@
 # Revolutionary Activities: This Book is Not Theoretical
 
-This is a book about The Deepest Revolution. It explores what healthy nations are like where justice and mutual respect are pervasive, why unhealthy nations all have terrible troubles like corruption and greed that never go away, and how to create healthy communities and eventually new healthy nations.
+This book is about The Deepest Revolution. It explores what healthy nations are like where justice and mutual respect are pervasive, why unhealthy nations all have terrible troubles like corruption and greed that never go away, and how to create healthy communities and eventually new healthy nations.
 
 But no one will give you a healthy nation to be part of. No one will hand you a beautiful way of life on a silver platter.
 
