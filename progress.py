@@ -33,6 +33,7 @@ chapters = {
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "Glossary.md"),
+    (1, 1, "Healthy Nations Referenced in this Book.md"),
     (1, 1, "Important Notes on Sensitive Topics.md"),
     (1, 1, "Copyright, Image Credits & Further Reading.md"),
     (1, 1, "Bibliography.md"),

@@ -61,7 +61,7 @@ Racism, hatred, and ignorance can be widely propagated by authorities for many r
 
 In another present-day example, the United States currently supports Israel's genocide of the Palestinians and punishes people who publicly oppose it.
 
-Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were literally counting the calories of food being allowed in to keep the Palestinians at starvation levels.[xxx-open air prison]<sup>,</sup>[xxx-israel count calories]
+Israel has occupied Palestine for decades, keeping Palestinians under intense surveillance. The control was so tight that even many years ago the Israelis were counting the calories of food being allowed in to keep the Palestinians at starvation levels.[xxx-open air prison]<sup>,</sup>[xxx-israel count calories]
 
 The Israelis began their all-out genocide in October 2023, with tremendous US support including weapons, ammunition, military intelligence, fuel, and political cover at the United Nations.[xxx-isrtimes intel support]<sup>,</sup>[xxx-uscongress israel support] But how bad has the violence really been? Many news stories say that 60,000 Palestinians have died -- surely a tragedy, but not genocide.[xxx-israeli pal deaths]
 

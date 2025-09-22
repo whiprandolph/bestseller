@@ -140,7 +140,7 @@
 ### 15 - The Biggest Secret in Human History
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Find people with whom you can speak your heart</div>
-</b><div class="rev-act-body">It can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you already have friends you trust, invite them to conversations so you can share whatever is in your heart, and likewise listen to them.</div></div>
+</b><div class="rev-act-body">It can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you have friends you trust, come together so you can share what is in your heart, listen to them, and respond to any concerns together.</div></div>
 
 
 

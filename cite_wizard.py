@@ -16,7 +16,7 @@ RIGHT = 2
 
 def output_biblio(biblio_dict):
     with open(final_biblio_path, 'w', encoding='utf-8') as final_biblio:
-        final_biblio.write(f"# Bibliography\n\n<table id=\"biblio_table\"><tbody>")
+        final_biblio.write(f"# Bibliography\n\n<table id=\"biblio_table\"><tbody id = \"biblio_table_body\">")
         for key, value in biblio_dict.items():
             if value['index']:
                 final_biblio.write(f"<tr><td colspan=\"3\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\"><span style=\"font-weight:bold\">{value['index']}DOTHERE</span> {value['original']}</div></td></tr>\n")

@@ -46,7 +46,7 @@ Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka ar
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
 <div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback.</div></div>
 
-#### Seeing the Trap of Low Standards
+### Seeing the Trap of Low Standards
 
 When people accept submissive obedience as normal, many unnecessary problems arise. These problems may seem inevitable, just part of the human experience. But in truth, they're only problems in unhealthy nations where people are trained not to hold themselves or each other to high standards.
 
@@ -167,7 +167,7 @@ Of course, in unhealthy nations some amount of submissiveness is required in ord
 
 The path for a group to build a new healthy nation and live in freedom will require everyone to hold themselves and others to high standards. To do this, we must learn how to spiritually grow without feeling guilt or shame.
 
-#### To Have High Standards, Learn to Grow Without Shame or Guilt
+### To Have High Standards, Learn to Grow Without Guilt or Shame
 
 Feelings of shame and guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People may resist feedback because they have been taught to feel shameful and guilty in the past, or treated unfairly, and don't want this to happen again. Others may have subconscious shame or guilt from childhood that gets triggered, creating automatic insecurity and defensiveness.**
 

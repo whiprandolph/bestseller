@@ -1,3 +1,49 @@
+### List of Healthy Nations
+Africa:
+Akamba
+Mbuti
+San
+
+Asia:
+Evenk
+Nivkh
+Jenu Kuruba
+Mongol
+Mosuo
+
+Australia:
+Gumbaynggirr
+
+Europe:
+Sami
+
+North America:
+Apache
+Cherokee
+Cheyenne
+Cree
+Crow
+Eskimo
+Huron
+Lakota
+Montagnais-Naskapi
+Nez Perce
+Nootka
+Ojibway
+Okanaga
+Potawatomi
+Sac and Fox
+Sioux
+Tzutujil Maya
+Zapatista
+
+South America:
+Ashaninka
+Yequana
+Tchimane
+Yuracare
+
+
 ### Image License Terms
 
 * Can create black-and-white version for print books and use original color photo online

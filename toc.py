@@ -104,7 +104,7 @@ def insert_and_return_toc(input_filename):
   for line in lines:
     line = line.strip()
     if 'biblio' not in lower_file_name:
-      assert line.count("_") %2 == 0 or (line.count('_') %2 == 1 and ('cite_table' in line or 'hawks' in line or 'undermining' in line)), "line '%s' has odd count of underscores, file %s" % (line, input_filename)
+      assert line.count("_") %2 == 0 or (line.count('_') %2 == 1 and ('cite_table' in line or 'final_list' in line or 'hawks' in line or 'undermining' in line)), "line '%s' has odd count of underscores, file %s" % (line, input_filename)
     if start_idx == 0: continue
     if search_terms:
       line_search(line, input_filename)

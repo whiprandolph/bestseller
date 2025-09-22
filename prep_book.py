@@ -36,6 +36,19 @@ BOOK_ADDED_STYLE_BASE = """
     font-size: 22pt;
     text-align:center;
   }
+  .nations_referenced_table {
+    display: table;
+    font-size:12pt;
+  }
+  .nations_referenced_tbody {
+    border:0;
+  }
+  .nations_referenced_header {
+
+  }
+  .quarterwidth {
+    width: 25%;
+  }
   p, .rev-act {\n
     font-size: 12pt;
     color:black;
@@ -75,7 +88,7 @@ BOOK_ADDED_STYLE_BASE = """
     margin:0em;
     table-layout: fixed;
   }
-  tbody {
+  #biblio_table_body {
     border:0px;
     margin:0px;
     font-size:6.9pt;
@@ -84,25 +97,25 @@ BOOK_ADDED_STYLE_BASE = """
     color: black;
   }
   .rev-act {
-    background-color: #e3e3e3;
+    background-color: #e9e9e9;
     padding: .75em;
   }
   .rev-act-first {
-    background-color: #e3e3e3;
+    background-color: #e9e9e9;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: .75em;
   }
   .rev-act-last {
-    background-color: #e3e3e3;
+    background-color: #e9e9e9;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1em;
   }
   .rev-act-middle {
-    background-color: #e3e3e3;
+    background-color: #e9e9e9;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;
@@ -358,7 +371,7 @@ def main():
 
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
-  assert len(full_list) == 27, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
+  assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
   full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
@@ -392,7 +405,7 @@ def main():
   os.startfile(book_final)
   make_phys_book()
   print("Skipping EPUB")
-  # make_epub()
+  make_epub()
   # cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
