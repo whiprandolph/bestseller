@@ -119,7 +119,8 @@ def add_subcites_to_biblio(biblio_dict, cite_to_biblio_line_dict, cite_to_subcit
         if "|" in cite:
             root_cite = cite.split("|")[0] + "]"
 
-        biblio_line = cite_to_biblio_line_dict[root_cite]
+        biblio_line = cite_to_biblio_line_dict.get(root_cite)
+        assert biblio_line, "biblio incomplete - ensure all cites are in TDR in Zotero, then create new CSV & copy biblio into raw_bibliography.md"
         prefixed_subcite = subcite # default
         if "the quran" in biblio_line:
             prefixed_subcite = "Verse %s" % subcite

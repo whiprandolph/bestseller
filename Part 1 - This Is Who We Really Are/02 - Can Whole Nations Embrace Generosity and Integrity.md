@@ -66,7 +66,7 @@ And yet as I read more about various healthy nations, I kept finding stories in 
 
 Nancy Basket, a woman of Cherokee descent, described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.[xxx-basket interview]
 
-People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Following the golden rule, each person treated the others the way they would want to be treated.
+People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Like people in all healthy nations, they lived by the golden rule, each person treating the others the way they would want to be treated.
 
 ### Trustworthy and Generous
 

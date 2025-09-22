@@ -68,7 +68,7 @@ On December 22, 1997, a paramilitary group called Máscara Roja murdered 45 wome
 
 Why did the Zapatistas stand up to the Mexican government? Why was it worth going through such difficult times?
 
-The Zapatistas had suffered under Spanish and Mexican rule for 500 years. Their rallying cry was _Ya Basta!_, _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Even with elections, they could not choose leaders they respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
+Their rallying cry was _Ya Basta!_, _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Even with elections, they could not choose leaders they respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
 
 One commander said, "Para todos, todo, para nosotros nada" -- For everyone, everything; for us, nothing. Each person offers their gifts for the good of the group. This person acknowledged that being a Zapatista was difficult. They sometimes only eat hard tortillas, and may fall sick due to poor food. They often sleep on hard floors or can't sleep for days and nights. Their lives are often at risk.[xxx-original instructions|return ancient council]
 

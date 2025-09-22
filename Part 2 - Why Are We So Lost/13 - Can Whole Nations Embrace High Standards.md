@@ -93,7 +93,7 @@ Even so-called liberation movements will be disappointing as long as people acce
 
 For example, black people and women were both treated abominably in the United States at the start of the 1900s, facing severe discrimination in the workplace, courtroom, and other areas of life. After more than a century of "women's liberation" and "black liberation" movements, what is the result? Women and black people can now become corrupt politicians, just like they can be selfish rich business owners, corrupt judges and police officers, and well-paid wage slaves.
 
-Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. Of course, many female and black spiritual leaders had to be corrupted or killed in order to corrupt the liberation movements.**
+Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. In practice, these were movements not to seek liberation, but to increase people's privilege and reduce the abuse they faced.**
 
 Since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these troubles persist today. When people accept submissive obedience as normal, they will even have low standards for liberation movements.
 
@@ -109,7 +109,7 @@ Revolutionaries like the Black Panthers and Zapatistas often kept working their 
 
 Unhealthy nations consistently train people to idolize the rich and powerful, and this has caused many women to have low standards for women leaders. Many parents encourage their daughters to pretend to be a princess and fantasize about being royalty, even though kings and queens consistently exploit the people they rule.
 
-Many young women aspire to leadership positions in business and politics, but corrupt women politicians are no improvement over corrupt men. British prime minister Margaret Thatcher vigorously oppressed labor unions,[xxx-conversation thatcher] and American secretary of state Hillary Clinton approved extra weapons sales to countries that bribed her, even while State Department reports described many human rights abuses in those countries.[xxx-clinton corrupt]
+Many young women aspire to leadership positions in politics, but corrupt women politicians are no better than corrupt men. British prime minister Margaret Thatcher oppressed labor unions,[xxx-conversation thatcher] and American secretary of state Hillary Clinton approved extra weapons sales to countries that bribed her, even while State Department reports described those countries' many human rights abuses.[xxx-clinton corrupt]
 
 Selfish women business executives can likewise do just as much harm as selfish men, leading corporations that produce vast amounts of toxic chemicals[xxx-lubrizol ceo] or lobby for needless wars while supplying the weapons.[xxx-opensecrets capitalizing on conflict]<sup>,</sup>[xxx-lockheedmartin.com ceo]
 
@@ -129,7 +129,7 @@ Nez Perce chief Joseph's advice to an American boy was simple: "be brave and tel
 
 Men of healthy nations show what it's like to live with total integrity and bravery, and they reveal just how far from this high standard most men in unhealthy nations typically live.
 
-Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior]
+Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior] They were capable of running 75 miles per day for three days straight while carrying their food.[xxx-indian running|p138]
 
 Huron men intentionally practiced bravery throughout their adult lives so they would be ready to protect their people from any injustice or threat. This included intentionally causing themselves pain to practice maintaining composure under duress.[xxx-huron farmers of the north|44]
 
@@ -145,13 +145,13 @@ Stories from healthy nations show what it's like when women can trust all the me
 
 All these stories show how low our standards for men are. When boys are trained for submissive obedience instead of deep bravery, they learn to "hold back" or "shut down" core parts of themselves, becoming spiritually lost as they do not know how to relate to themselves and the world in a good way.
 
-Men can learn to ignore their own humiliation and cowardice. Some become people-pleasers who stand for nothing, just trying to keep life comfortable. Others become selfish, standing only for their own needs. The fact that Martin Luther King Jr and Jesus Christ are so widely celebrated shows just how rare profoundly good men are in unhealthy nations.
+Men can learn to ignore their own humiliation and cowardice. Some become people-pleasers who stand for nothing, just trying to keep life comfortable. Others become selfish, standing only for their own needs. That Martin Luther King Jr and Jesus Christ are so revered shows just how rare profoundly good men are in unhealthy nations.
 
 Spiritually lost men may preen on social media, flaunt their wealth, or spend vast hours playing video games. Some men live vicariously by watching movies or professional sports, or they focus on superficial hobbies or making money, or obsess over political and religious dogmas.
 
 In 1877, the American military captured some Cheyenne women and children. The very next day, 500 Lakota and Cheyenne warriors launched an attack to try to retrieve them.[xxx-black elk speaks|footnotes] Women and children suffer many sexual and physical assaults in unhealthy nations -- where are the good men who would band together to stop this?
 
-Men who have been systematically trained to deny their feelings and do not know how to follow their sacred path may abandon their children and spouse, or get lost in drugs or alcohol. Even among men who stay with their family, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!
+Men who have been systematically trained to deny their feelings and not to follow their sacred path may abandon their family or beat them, or get lost in drugs or alcohol. Even among men who avoid these troubles, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!**
 
 Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of police whistleblowers who call out the police's own illegal activity, so the rest know to stay in line.[xxx-odoc|ch32]
 
@@ -165,7 +165,7 @@ To male readers, I say this: It is time to raise our standards. Cultivate your i
 
 Of course, in unhealthy nations some amount of submissiveness is required in order to survive. The Deepest Revolution requires the bravery and integrity to strategically choose when to submit and when to take a stand to do the most good. When you value and cultivate these qualities with others who hold each other to high standards, you will grow a depth of spiritual strength that few men in unhealthy nations ever achieve.
 
-The path to building new healthy nations and living in freedom will require everyone to learn to hold themselves and others to high standards. To do this, we must learn how to spiritually grow without feeling guilt or shame.
+The path for a group to build a new healthy nation and live in freedom will require everyone to hold themselves and others to high standards. To do this, we must learn how to spiritually grow without feeling guilt or shame.
 
 #### To Have High Standards, Learn to Grow Without Shame or Guilt
 
@@ -186,7 +186,7 @@ Think of a skill you learned as a child. Imagine, for example, that you learned 
 
 You practiced: you tried your best to ride straight, and sometimes you went straight and sometimes you didn't. When you made a mistake, you figured out what to learn and then practiced more. The more you practiced, the more proper technique became normal.
 
-Integrity, awareness, gratitude, and generosity are also skills, and you can practice them intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as ignoring certain feelings, or being afraid to tell the truth and lying instead.
+Integrity, awareness, gratitude, and generosity are also skills, and you can practice them intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as ignoring certain feelings or being afraid to tell the truth and lying instead.
 
 It is ok to feel disappointed in yourself anytime you fall short. But if you notice any shame or guilt, or any sense of inherent badness, acknowledge these feelings and let them go. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
 
@@ -210,6 +210,8 @@ These shame-free and guilt-free attitudes to spiritual growth are essential. Emb
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
 
 ### References
+
+[xxx-indian running|p138]-aaa (Nabokov, 1987, 138)
 
 [xxx-black elk speaks|footnotes]-aaa (Neihardt, 2014, "Footnotes")
 

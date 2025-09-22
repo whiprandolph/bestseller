@@ -24,44 +24,44 @@
 
 
 
-<b><div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #5<br/>Give first</div>
-</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
-
-
-
-<b><div class="rev-act-last"><div class="rev-act-header">Revolutionary Activity #6<br/>Receive graciously to have reciprocity over time</div>
-</b><div class="rev-act-body">Trading and bartering don't involve generosity because they are even exchanges in the moment. When you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing the feeling of gratitude within you to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back in reciprocity over time. If you do want to give the other person something, clarify that you're also giving a gift and not making a trade.</div></div>
-
-
-
-<b><div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #7<br/>Discover your own sacred gifts</div>
+<b><div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #5<br/>Discover your own sacred gifts</div>
 </b><div class="rev-act-body">You have sacred gifts to share, and there are many ways to find them. Choose one or more of these to help you identify your gifts: 1) Take time alone without distraction and feel in your heart what most matters to you, and how you can act in service of it. 2) Ask yourself what would be the most meaningful life you could imagine. 3) Notice what brings you special joy and or sparks curiosity. 4) Ask your friends when they have noticed you being the most joyful and engaged in life. 5) Notice what you feel angry about. Your anger can show you what you care about, or an injustice you want to make right.<br/><br/>If you do not get a clear answer quickly, have patience and keep investigating over time.</div></div>
 
 
 
 ### 04 - Imagine If Pervasive Generosity Was Normal
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Join or create a sharing group</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group</div>
 </b><div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: create a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 
 
 ### 06 - Why Are We So Lost
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Stand for what's right</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Stand for what's right</div>
 </b><div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #10<br/>Support someone else when they take a stand</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Support someone else when they take a stand</div>
 </b><div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her? In other words, how much easier was it for her to take a stand knowing that she would havee others' support?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 
 
 ### 07 - Why Are People So Selfish
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
 </b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+
+
+
+<b><div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #10<br/>Give first</div>
+</b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
+
+
+
+<b><div class="rev-act-last"><div class="rev-act-header">Revolutionary Activity #11<br/>Receive graciously to have reciprocity over time</div>
+</b><div class="rev-act-body">Trading and bartering don't involve generosity because they are even exchanges in the moment. When you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing your gratitude to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back in reciprocity over time. If you do want to give the other person something, clarify that you're also giving a gift and not making a trade.</div></div>
 
 
 

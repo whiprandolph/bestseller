@@ -102,14 +102,14 @@ def verify(toc_data, pdf, phys):
     'chap5':35,
     'chap6':42,
     'chap7':51,
-    'chap8':61,
-    'chap9':75,
-    'chap10':94,
-    'chap11':106,
-    'chap12':111,
-    'chap13':119,
-    'chap14':134,
-    'chap15':148,
+    'chap8':59,
+    'chap9':73,
+    'chap10':91,
+    'chap11':103,
+    'chap12':108,
+    'chap13':116,
+    'chap14':133,
+    'chap15':147,
     'chap16':154,
     'chap17':168,
     'chap18':182,
@@ -178,10 +178,10 @@ def output_table(toc_data, dimensions, phys):
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
   md.write("<body>\n\n<br/><br/><br/><br/><br/><br/><br/><br/><br/>")
-  md.write("<center><h1>The<br/>Deepest Revolution</h1><br/>\n\n")
-  md.write("<h4>William Randolph</h4><br/></center>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
-  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<center><span style=\"font-size:35pt;font-weight:bold\">The<br/>Deepest Revolution</span><br/><br/><br/>\n\n")
+  md.write("<h2>William Randolph</h2><br/></center>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
+  md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")

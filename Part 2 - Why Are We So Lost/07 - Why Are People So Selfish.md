@@ -66,6 +66,9 @@ Perhaps you think that wouldn't happen to you, but the fact that you do not dare
 
 And therefore the well-off are as trapped as anyone else. The paychecks may vary but the trap is the same. Yes, in a market economy you can choose your job, your boss, and your potential advancement. But the one thing you cannot choose is to not participate. You, just like me and everyone else, are trapped.
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+
 ### Gift Economies Reward and Maintain Generosity**
 
 Unlike profit economies that reward selfishness, gift economies reward sharing. To ensure that everyone is taken care of, gift economies move resources to where they are the most needed or where they will do the most good. 
@@ -112,8 +115,11 @@ In unhealthy nations where a few people dominate the rest and authorities forbid
 
 But it doesn't have to be this way. Individuals, communities, and whole nations are capable of generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+<div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #10<br/>Give first</div>
+<div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
+<div style="padding-bottom:.75em"></div>
+<div class="rev-act-last"><div class="rev-act-header">Revolutionary Activity #11<br/>Receive graciously to have reciprocity over time</div>
+<div class="rev-act-body">Trading and bartering don't involve generosity because they are even exchanges in the moment. When you receive someone's gift and try to make it an equal exchange by giving them something, you're not acknowledging their generosity and allowing your gratitude to grow. You're essentially receiving the object but rejecting the generosity behind it.<br/><br/>Next time someone does something kind for you, just say thanks and enjoy receiving the gift. Whether they're giving you a compliment, making you a meal, or anything else, do not try to give back something of equal value in the moment. Instead, let your feeling of gratitude grow and trust that you'll find ways to give back in reciprocity over time. If you do want to give the other person something, clarify that you're also giving a gift and not making a trade.</div></div>
 
 ### References
 
