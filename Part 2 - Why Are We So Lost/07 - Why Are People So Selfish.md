@@ -88,9 +88,9 @@ All life is divine beings giving their gifts. This recognition lies behind the f
 
 In gift economies, people take responsibility to learn where gifts are most needed or valued, and everyone helps circulate gifts until they get to that highest use. This is where the derogatory phrase "Indian giver" comes from: people of North American healthy nations (known as Indians) sometimes gave gifts to European colonists, noticed they weren't being used, and thus asked for them back so the gifts could be given elsewhere. European colonists thus saw "Indian giving" as a violation of their private property rights.
 
-Nancy Basket described how the Cherokee would commonly ensure gifts got where they were needed, and how European colonists misunderstood this: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
+Nancy Basket described how the Europeans commonly misunderstood the Cherokee gift economy: "We would know each other well enough to see what they might need. And if we would give somebody a gift and they didn't use it, we would be embarrassed. And we would either take it back or something else because it wasn't being used. She didn't need it. And people called us Indian givers for that."[xxx-basket interview]
 
-"Indian giver" became a negative label, describing someone who gave a gift and now selfishly wants it back. In reality, an Indian giver is behaving thoughtfully, paying attention to whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and pass it along to someone else who needs it more.
+"Indian giver" became a negative label for someone who gave a gift and now selfishly wants it back. In reality, they are behaving thoughtfully, noticing whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and give it to someone else who needs it more.
 
 Amazingly, gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
 
@@ -110,10 +110,10 @@ When everybody is expected to stand for what's right, this is the way of life th
 
 In unhealthy nations where a few people dominate the rest and authorities forbid people from seeking justice and upholding their own laws, most people are left trying to survive and get as comfortable as possible. Widespread selfishness is the result.
 
-But it doesn't have to be this way. Individuals, communities, and whole nations are capable of incredible generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
+But it doesn't have to be this way. Individuals, communities, and whole nations are capable of generosity when everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
 ### References
 

@@ -70,7 +70,7 @@ People would go back and forth between the new and old sites as they prepared th
 
 ### Trustworthy and Generous
 
-The more I read, the more I found stories of nations that currently or in the recent past were similar to the Ashaninka. Superficially, of course, they were and are different -- Eskimos in the arctic might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia. But I kept noticing deep, beautiful patterns that healthy nations seem to all share in common when they are able to live in a traditional way.
+I kept finding stories of nations that currently or in the recent past were similar to the Ashaninka. Superficially, of course, they were and are different -- Eskimos in the arctic might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia. But I kept noticing deep, beautiful patterns that healthy nations seem to all share in common when they are able to live in a traditional way.
 
 Besides the lack of police and prisons, I also noticed observers remarking on their deep integrity. When Ohiyesa, a Sioux man born in North America in the 1800s, visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."[xxx-from deep woods to civilization|civ college life east]
 

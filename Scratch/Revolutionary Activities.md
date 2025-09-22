@@ -61,7 +61,7 @@
 ### 07 - Why Are People So Selfish
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #11<br/>Notice when you hold back out of fear</div>
-</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear -- fear of losing friends, angering a spouse, losing their job, or getting punished. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Think of a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Are you proud of your choice? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
 
 
@@ -128,7 +128,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Learn without guilt or shame</div>
-</b><div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult said you should feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn, and just helped you grow from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
+</b><div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult urged you to feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
 
 
 

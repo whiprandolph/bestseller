@@ -14,7 +14,7 @@ What are common ways that rulers and lower authorities prevent cultural healing,
 
 ### Sabotaging Solidarity in Unhealthy Nations
 
-Authorities and wealthy people sabotage solidarity in countless ways.
+Authorities and wealthy people sabotage solidarity in many ways.
 
 #### Attacking our Spiritual Leaders
 

@@ -10,11 +10,11 @@ Little did I know that Kamana would introduce me to spiritual practices which ar
 
 ### The First Core Spiritual Practice: A Practical, Aware Gratitude
 
-I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude_ for the gifts of life by repeatedly immersing myself in the natural world. I went to the same place every day, sitting in the same spot, and observed the nonhumans. At first, I felt a bit bored. But the more I observed the world around me, the more I learned.
+I learned directly about the first spiritual practice of _cultivating a practical, aware gratitude_ for the gifts of life by repeatedly immersing myself in the natural world. I went to the same place every day and observed the nonhumans. At first, I felt a bit bored. But the more I observed the world around me, the more I learned.
 
 Over time, I learned which plants are edible, and which trees offer good wood for burning. I studied the language of birds, and what they could tell me about the rest of the forest.
 
-The more I learned how every creature and plant contributes to the web of life, the more grateful I felt. Some trees are especially good at holding the soil in place on the edge of a stream -- holding the soil down is a gift they give. Birds' songs can alert me to nearby animals that I cannot see myself. Animals give the gifts of meat for food and hides for clothing. Streams give water for drinking. The sun gives us all warmth and light.
+The more I learned how every creature contributes to the web of life, the more grateful I felt. Some trees are especially good at holding the soil in place on the edge of a stream -- holding the soil down is a gift they give. Birds' songs can alert me to nearby animals that I cannot see myself. Animals give the gifts of meat for food and hides for clothing. Streams give water for drinking. The sun gives us all warmth and light.
 
 All these things are gifts. No one makes the trees offer their gifts of shade or firewood. I can plant an apple tree and tend it, but I cannot make it bear fruit -- that is its gift.
 
@@ -24,7 +24,7 @@ The first core spiritual practice is to notice all the gifts we receive and feel
 
 The Haudenosaunee have their beautiful Thanksgiving Address, where they methodically name many kinds of life and give thanks for the gifts of each one.[xxx-kamana 2 nat|p1] Okanagan woman Jeannette Armstrong described how they love other species as brothers and sisters.[xxx-original instructions|armstrong] Potawatomi woman Robin Kimmerer described how humans are the "younger brothers of Creation" and our older nonhuman siblings can teach many gifts of wisdom.[xxx-braiding sweetgrass|skywoman falling]
 
-I grew up learning to give thanks to God by closing my eyes and trying to ignore my surroundings so I could focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea or feeling of God. And I thanked my mental idea of God for all the good things in my life.
+I grew up learning to give thanks to God by closing my eyes and ignoring my surroundings to focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea of God. And I thanked my mental idea of God for all the good things in life.
 
 Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around -- by teaching me something, feeding me or other animals, shading the soil so it would stay moist, and more. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.
 
