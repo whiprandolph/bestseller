@@ -137,7 +137,7 @@ Cultivating a practical aware gratitude and giving your sacred gifts are the fir
 
 The third core spiritual practice, living in reciprocity, completes the puzzle.
 
-Plenty of people practice feeling gratitude. But if you're not giving your own sacred gifts from that place of gratitude, then it's still not fully satisfying.
+Many people practice feeling gratitude. But if you're not giving your own sacred gifts from that place of gratitude, then it's still not fully satisfying.
 
 And some people cultivate a passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
@@ -185,7 +185,7 @@ One of the biggest lies in history is that there is only one messiah. Christians
 
 "Messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
 
-And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- all this and more makes it hard to take time without distraction to cultivate your sacred gifts and develop your spiritual strength. These troubles also make it hard to form relationships of reciprocity with people and the Earth.
+And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- so many challenges make it hard to take time without distraction to cultivate your sacred gifts and develop your spiritual strength. These troubles also make it hard to form relationships of reciprocity with people and the Earth.
 
 The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 

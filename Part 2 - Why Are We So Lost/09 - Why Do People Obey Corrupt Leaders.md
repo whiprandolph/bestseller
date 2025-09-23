@@ -40,7 +40,7 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible kjb|luke 23:2] He did not deny the charges.[xxx-bible esv|matthew 27:12]
 
-* _Christ was killed like a revolutionary:_ The two men killed with Christ were not just thieves; they were revolutionaries.[xxx-worldhistory jewish zealots] They were nailed to a cross and publicly left to die. The Romans used crucifixion to scare others away from revolutionary activities.**
+* _Christ was killed like a revolutionary:_ The two men killed with Christ were not just thieves. They were revolutionaries.[xxx-worldhistory jewish zealots] They were nailed to a cross and publicly left to die. The Romans used crucifixion to scare others away from revolutionary activities.
 
 Christ stood up for his people against oppressive authorities in worldly and spiritual ways, seeking to free them from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission.
 
@@ -135,7 +135,7 @@ Many authorities insist that their religion or ideology is "all or nothing" -- y
 
 There is a common saying that "the winners write the history books." The Roman authorities killed Jesus Christ, and then centuries later they decided which stories would be included in the Holy Bible which they forced on their empire, and they chose which aspects of that Bible would be emphasized in official teachings. And then they pretended that the Bible was the literal word of God, instead of an ideology imposed on conquered people by their rulers to train them for submissive obedience.
 
-Countless Christians have grown up since then believing that Christ really was obedient, and obedience really is good and ordained by God. Ruling classes in Europe and around the world have been happy for their conquered people to believe this pro-obedience religious ideology, and they have urged Christian missionaries to spread it, even many centuries after the fall of the Roman Empire.
+Many Christians have grown up since then believing that Christ really was obedient, and obedience really is good and ordained by God. Ruling classes in Europe and around the world have been happy for their conquered people to believe this pro-obedience religious ideology, and they have urged Christian missionaries to spread it, even many centuries after the fall of the Roman Empire.
 
 And tragically, when Christians embrace the pro-obedience Christian ideology instead of really studying Jesus Christ directly, Christians commonly act in ways that Jesus Christ himself would have strongly opposed. Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but they have urged people to embrace submissive obedience -- unlike Jesus Christ, who disobediently stood for justice even at personal risk. They have spread the beliefs that people are inherently sinful, and men have a rightful place over women -- unlike Jesus Christ who never taught these things. Wherever obedient Christians have gone, they've spread dictatorships where a few people dictate the laws and the rest submissively obey -- unlike their revolutionary spiritual leader Jesus Christ, who opposed the Roman dictatorship he lived in.
 
@@ -219,7 +219,7 @@ Authorities and their police try to maintain order, and what could be more disru
 
 Killing or imprisoning spiritual leaders is a key way that police maintain order. A declassified US FBI memo from the 1960s stated their goal: to 'Prevent the RISE OF A "MESSIAH" who could unify, and electrify, the militant black nationalist movement.' The memo named Martin Luther King Jr as a possible messiah.[xxx-fbi messiah]
 
-Every person is born with intrinsic strength and a moral compass, but countless people in unhealthy nations still believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually attack or kill the wisest, bravest and most generous servant-leaders among us.
+Every person is born with intrinsic strength and a moral compass, but many people in unhealthy nations still believe they need authorities' "leadership" and "strength" to keep them safe, unaware that authorities actually attack or kill the wisest, bravest and most generous servant-leaders among us.
 
 This explains how people have been trained to obey corrupt leaders over the centuries. Authorities attack or kill our spiritual leaders and then spread hurtful ideologies or distorted stories to encourage submissive obedience. Authorities also discourage people from learning what free societies are like, where everybody stands for what's right, nobody obeys corrupt leaders, and justice is normal.
 

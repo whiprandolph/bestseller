@@ -1,6 +1,6 @@
 ## Chapter 2: Can Whole Nations Embrace Generosity and Integrity?
 
-My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. Countless groups of people around the world, large and small, have lived with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
+My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. Many groups of people around the world, large and small, have lived with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
 
 What is not at all normal, in terms of our basic human nature, is how people live in the United States and every other unhealthy nation, past and present, that have dominated and warped people for millennia.
 

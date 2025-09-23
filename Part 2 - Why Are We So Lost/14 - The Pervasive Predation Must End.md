@@ -108,11 +108,11 @@ Child abuse or deprivation aren't all-or-nothing. Some people grow up with far m
 
 These emotional troubles can also make it difficult to have satisfying romantic and spousal relationships, limiting the connection and trust many people experience even in their families.
 
-The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful homes with little loving touch, double standards, emotional and physical abuse, and more. In adulthood, they tolerated being a cog in a machine.**
+The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful homes with troubles such as double standards, little loving touch, and emotional and physical abuse. In adulthood, they tolerated being a cog in a machine.
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself. The question is whether or not people are emotionally capable of having integrity and deep relationships. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
-Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are countless hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
+Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are many hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
 
 Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. When adults are not allowed to set good boundaries by standing for what's right, many people never learn to set healthy boundaries even in their personal lives, and thus struggle to set kind and firm boundaries with their children, which causes them to struggle. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful nation.
 

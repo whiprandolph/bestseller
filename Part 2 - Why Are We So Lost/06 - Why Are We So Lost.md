@@ -60,7 +60,7 @@ This shows why so many people of unhealthy nations are lost, with ineffective po
 
 As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates that ignore the root problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical as long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
-Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with everyone acting in solidarity to ensure that no one is mistreated? Few people have heard stories of how a whole village or nation can stand in solidarity, not just as an abstract idea but as a practical way of life. Let's look at an example so you can see what it's like.**
+Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with everyone acting in solidarity to ensure that no one is mistreated? Few people have heard stories of how a whole village or nation can stand in solidarity, not just as an abstract idea but as a practical way of life. Let's look at an example so you can see what it's like.
 
 ### The Nootka Stand in Solidarity
 

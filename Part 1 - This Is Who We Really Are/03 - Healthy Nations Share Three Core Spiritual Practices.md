@@ -18,7 +18,7 @@ The more I learned how every creature contributes to the web of life, the more g
 
 All these things are gifts. No one makes the trees offer their gifts of shade or firewood. I can plant an apple tree and tend it, but I cannot make it bear fruit -- that is its gift.
 
-At first I wondered -- how is meat a gift? Don't humans have to take it, killing animals that would rather live? When a nation of people has a reciprocal relationship with other animals, the humans actually benefit them. For example, when humans intentionally enrich deer habitat, there are more deer because of humans' presence, even including the hunting. When this reciprocity exists, humans give their gifts to the deer community, and deer give their gifts in return, helping sustain the humans that sustain them.**
+At first I wondered -- how is meat a gift? Don't humans have to take it, killing animals that would rather live? When a nation of people has a reciprocal relationship with other animals, the humans actually benefit them. For example, when humans intentionally enrich deer habitat, there are more deer because of humans' presence, even including hunting. When this reciprocity exists, humans give their gifts to the deer community, and deer give their gifts in return, helping sustain the humans that sustain them.**
 
 The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy nation has its own ways of expressing gratitude, but they all have _some_ way.
 
@@ -26,7 +26,7 @@ The Haudenosaunee have their beautiful Thanksgiving Address, where they methodic
 
 I grew up learning to give thanks to God by closing my eyes and ignoring my surroundings to focus on the prayer. I prayed by thinking thoughts in my head, directed to my idea of God. And I thanked my mental idea of God for all the good things in life.
 
-Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around -- by teaching me something, feeding me or other animals, shading the soil so it would stay moist, and more. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.
+Instead of closing my senses and thinking a prayer to my idea of God, I practiced keeping all my senses wide open and giving thanks to all the beings directly for their gifts. Instead of just having the feeling of gratitude or giving thanks vaguely, I practiced noticing the practical ways each being helped me or contributed to the web of life all around, such as by teaching me something, feeding me or other animals, or shading the soil so it would stay moist. Paying attention and noticing all the gifts I received was the path to cultivating _a practical, aware gratitude_ for the gifts of life.
 
 Once I started seeing nonhumans as teachers and feeling grateful for them, I started learning lessons too. I'll never forget my first clear lesson from a nonhuman, a hunting lesson from red-shouldered hawks. I was walking through a forest and observed a single hawk flying and screeching overhead. Red-shouldered hawks hunt small animals like mice and shrews, so they would be acutely aware of the predator flying above. I assumed the hawk wasn't interested in hunting, since otherwise, why make so much noise?
 

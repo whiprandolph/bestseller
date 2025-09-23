@@ -34,7 +34,7 @@ Find others who also want rich friendships, and practice the revolutionary activ
 
 Deep friendships usually take time to grow, but they will grow a lot faster if you have a clear intention for the kind of friendship you want to have, and the kind of friend you want to be. Speak openly with each other about the kind of relationship you want, and how you commit to showing up to make it happen. Listen to what the other person wants and what they are willing to commit to, and find your common ground. You don't need to agree to be revolutionaries; just focus on building a great friendship.
 
-Some people don't believe in deep friendships. Others only look for "perfect" people who never make mistakes, so they're constantly disappointed. Everyone makes mistakes, even Jesus Christ and Harriet Tubman. Look for people willing to walk a special journey together, one where you consistently bring out the best in each other and help each other acknowledge and grow from mistakes.**
+Some people don't believe in deep friendships. Others only look for "perfect" people who never make mistakes, so they're constantly disappointed. Everyone makes mistakes, even Jesus Christ and Harriet Tubman. Look for people willing to walk a special journey together, one where you consistently bring out the best in each other and help each other acknowledge and grow from mistakes.
 
 Many people have little time and energy to develop deep friendships due to all kinds of stressors, such as keeping their job, rearing children, and worrying about politics. Find ways to share your time and energy so that overworked parents can have some time away from kids without resorting to electronic "babysitters," or so people can feel resilient if their job goes away. If someone lives in a food desert, help them get fresh produce. If someone can't afford fresh produce, help them find a worktrade opportunity so they don't need to pay to eat well.
 
@@ -52,7 +52,7 @@ Holding yourself and others to a high standard and expecting others to do the sa
 
 Taking a stand when someone misbehaves is often not "nice" or comfortable. You must cultivate bravery so you can uphold your community's standards even when it's uncomfortable. With bravery, you can show a misbehaving person the mistake they're making, invite them to show up better, and hold a clear, healthy boundary if they choose not to change.
 
-High standards are not optional. You will not have a healthy community of deep trust without high standards. Countless people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
+High standards are not optional. You will not have a healthy community of deep trust without high standards. Many people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
 
 Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, or take a stand if someone is disrespected (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that others will share and care for each other in hard times (generosity). Trust that others will see and understand them (awareness). Trust that people will protect each other in dangerous moments (bravery and selfless violence).
 
@@ -120,7 +120,7 @@ So work with others to form a healthy community, making it as beautiful as you c
 
 ### Hold Good Boundaries to Keep Selfishness Out
 
-Many people don't learn to hold good boundaries in their personal life. Often people tolerate inappropriate behavior towards themselves, or act hurtfully towards others.**
+Many people don't learn to hold good boundaries in their personal life. Often people tolerate inappropriate behavior towards themselves, or act hurtfully towards others.
 
 This is because people in unhealthy nations are not allowed to set the boundaries they live by. Laws are imposed on them which they're not allowed to uphold, meaning most people live within boundaries that others choose and enforce. Much of the spiritual growth required to live in a healthy community involves learning how to hold good boundaries.
 
@@ -154,7 +154,7 @@ People cannot be afraid that any slip-up will cause them to be kicked out. There
 
 A person may lie or act selfishly because they don't trust others to handle the truth gracefully, or to remain friends after admitting their mistake. Counseling can also be a chance for the community to reflect on ways they unknowingly discourage good behavior.
 
-The essential attitude for holding good boundaries is this: _everyone is basically good, but some attitudes and behaviors such as dishonesty or cowardice are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can grow, or they must leave and take their hurtful attitudes and behaviors with them. Either way, the community maintains its high standards.**
+The essential attitude for holding good boundaries is this: _everyone is basically good, but some attitudes and behaviors such as dishonesty or cowardice are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can grow, or they must leave and take their hurtful attitudes and behaviors with them. Either way, the community maintains its high standards.
 
 Learning when to forgive and how to hold good boundaries may sound hard, but it is part of the art of being human, and in a healthy community no single person makes these decisions alone.
 
@@ -188,7 +188,7 @@ So spread the good news! Healthy nations do exist, and for those of us stuck in 
 Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a men's or women's group dedicated to spiritual growth**</div>
-<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts.</div></div>
+<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weakness.</div></div>
 
 ### References
 

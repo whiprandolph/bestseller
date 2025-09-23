@@ -95,7 +95,7 @@ Holding yourself and others to a high standard and expecting others to do the sa
 
 Taking a stand when someone misbehaves is often not "nice" or comfortable. You must cultivate bravery so you can uphold your community's standards even when it's uncomfortable. With bravery, you can show a misbehaving person the mistake they're making, invite them to show up better, and hold a clear, healthy boundary if they choose not to change.
 
-High standards are not optional. You will not have a healthy community of deep trust without high standards. Countless people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
+High standards are not optional. You will not have a healthy community of deep trust without high standards. Many people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
 
 Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, or take a stand if someone is disrespected (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that others will share and care for each other in hard times (generosity). Trust that others will see and understand them (awareness). Trust that people will protect each other in dangerous moments (bravery and selfless violence).
 

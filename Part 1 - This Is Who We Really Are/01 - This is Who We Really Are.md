@@ -56,7 +56,7 @@ Everywhere I look in my town, I see the same kind of corruption, each industry i
 
 I went grocery shopping, and found that almost everything for sale causes cancer, immune disorders, developmental disorders, and other troubles: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans.[xxx-leaf score nonstick chems]<sup>,</sup>[xxx-cbc news plastics food wrap]<sup>,</sup>[xxx-ewg dirty dozen food chems]
 
-Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of fraud, bribing government officials, manipulating research trials, misleading advertising, and more.[xxx-jama fin penalties]
+Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of problems like fraud, bribing government officials, manipulating research trials, and misleading advertising.[xxx-jama fin penalties]
 
 The Ashaninka don't have corruption like this. What lessons could I possibly learn from them to help make this nightmare end?
 
