@@ -3,7 +3,10 @@
 <table class="nations_referenced_table">
   <tbody class="nations_referenced_tbody">
     <tr>
-     <td class=quarterwidth><u><b>Africa</b></u></td><td class=quarterwidth></td><td class=quarterwidth></td> <td class=quarterwidth></td><td class=quarterwidth></td>
+     <td class=quarterwidth><u><b>Africa</b></u></td>
+     <td class=quarterwidth></td>
+     <td class=quarterwidth></td>
+     <td class=quarterwidth></td>
     </tr>
     <tr>
       <td class=quarterwidth>Akamba</td>
@@ -42,30 +45,13 @@
     <tr>
       <td class=quarterwidth><u><b>Australia</b></u></td>
       <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
+      <td class=quarterwidth><u><b>Europe</b></u></td>
       <td class=quarterwidth></td>
     </tr>
     <tr>
       <td class=quarterwidth>Gumbaynggirr</td>
       <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="nations_referenced_table">
-  <tbody class="nations_referenced_tbody">
-    <tr>
-      <td class=quarterwidth><u><b>Europe</b></u></td>
-      <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
-    </tr>
-    <tr>
       <td class=quarterwidth>Sami</td>
-      <td class=quarterwidth></td>
-      <td class=quarterwidth></td>
       <td class=quarterwidth></td>
     </tr>
   </tbody>
@@ -75,7 +61,6 @@
   <tbody class="nations_referenced_tbody">
     <tr>
       <td class=quarterwidth><u><b>North America</b></u></td>
-      <td class=quarterwidth></td>
       <td class=quarterwidth></td>
       <td class=quarterwidth></td>
       <td class=quarterwidth></td>
@@ -100,7 +85,7 @@
     </tr>
     <tr>
       <td class=quarterwidth>Nootka</td>
-      <td class=quarterwidth>Okanaga</td>
+      <td class=quarterwidth>Okanagan</td>
       <td class=quarterwidth>Potawatomi</td>
       <td class=quarterwidth>Sac and Fox</td>
     </tr>

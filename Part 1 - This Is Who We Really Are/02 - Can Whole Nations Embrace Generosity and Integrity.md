@@ -36,8 +36,6 @@ Priscilla Settee, a woman of the Cree people, described their reconciliation pro
 
 The Ju/'hoan San (these punctuation symbols refer to sounds that don't exist in English) have healing dances for people who aren't getting along, where they "put these two people next to each other so that they can come into harmony by dancing together... it's a technology of opening the heart so that healing energy can enter and so that people's hearts will be revealed to each other and any problems or enmity will go out from between them."[xxx-original instructions|peace technologies from the san bushmen of africa]
 
-Some people think these beautiful practices can only work in small groups, but these kinds of effective approaches have worked in both small and very large nations.
-
 ### So What's Their Secret?
 
 How do healthy nations mostly avoid crime? Isn't selfish, violent, or otherwise bad behavior just an unfortunate part of human nature?
@@ -90,7 +88,7 @@ How amazing would it be to live in a society where people don't accumulate money
 
 This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
-Haudenosaunee writers, in their book _Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
+Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
 
 ### When Even Prisoners of War Don't Want to Leave
 
@@ -100,11 +98,11 @@ Benjamin Franklin also noticed this, saying "No European who has tasted [Indian]
 
 Even when people of unhealthy nations were captured in war, they commonly liked living in a respectful society so much that they wanted to stay. When the French and Haudenosaunee engaged in an exchange of war prisoners in 1699, Cadwallader Colden noted how the French didn't want to return home after experiencing life in a healthy nation: "...notwithstanding the French Commissioners took all the Pains possible to carry Home the French, that were Prisoners with the [Haudenosaunee], and they had full Liberty from the Indians, few of them could be persuaded to return."[xxx-beyond geography|possession]
 
-In other words, French prisoners of war had lived in a non-abusive society and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."[xxx-beyond geography|possession]
+French prisoners of war had lived in a non-abusive society and liked it so much that few could be persuaded to go home. Colden noticed that this wasn't unique to the French, as "the English had as much Difficulty" and he wrote that this uneven prisoner exchange "has been found true on many other Occasions."[xxx-beyond geography|possession]
 
 This was obviously humiliating for colonial leaders who pretended not to abusively exploit their citizens, but it got worse. In a big prisoner exchange on the Muskingum River in 1764, white people had won out against the local healthy nations in war, but European leaders found the prisoner exchange unsatisfying. People of healthy nations who had been trapped in European prisons ran back to their communities with great joy. But when "civilized" Europeans got a little taste of living in a society where integrity, sharing, and reciprocity were a way of life, many desperately wanted to stay.[xxx-beyond geography|possession]
 
-In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy nation they'd been able to experience![xxx-beyond geography|possession]
+In fact, many white captives had to be _dragged away with their hands and feet tied_ to keep them from running back to the healthy nation they'd been able to experience.[xxx-beyond geography|possession]
 
 These healthy nations were a major threat to colonial leaders, because they showed that it was possible to live in a respectful way, without a few people ruling over the rest, without rich and poor, corruption, and all the injustices that unhealthy nations always experience. This explains why many European colonial leaders deliberately spread lies and hateful propaganda, such as calling people of healthy nations devil-worshippers and savages. Many colonial leaders in North America also punished anybody who tried to run away to live with nearby healthy nations.[xxx-lies my teacher told me|p107]
 
@@ -112,7 +110,7 @@ These healthy nations were a major threat to colonial leaders, because they show
 
 For a while I wondered how healthy nations could keep prisoners of war if they don't have prisons. I also had heard of healthy nations killing their captives -- how does that square with being a culture based on generosity and integrity?
 
-There are three ways to deal with war captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them respectfully. Some healthy nations have even tortured and released or killed their captives as a way to scare away powerful enemy nations. But once captives are accepted as residents, they are treated respectfully.**
+There are three ways to deal with war captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them well. Killing or releasing captives maintains that baseline of mutual respect among everyone within the nation, and even killing can be an act of service to one's neighbors if it helps protect the group. But once captives are accepted as residents, they are treated respectfully too.**
 
 People of healthy nations openly acknowledged that in traditional times they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the nation. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
@@ -120,7 +118,7 @@ Pretty Shield, a woman of the Crow nation, described how even captive people wer
 
 Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy nations ensure they keep that internal baseline of mutual respect.
 
-These stories show that the Ashaninka's beauty isn't unique. Every nation is unique, but there are common patterns that allow whole nations to maintain a baseline of mutual respect internally. Different nations might do this in different ways, but all healthy nations do or did somehow maintain a way of life where mutual respect is the norm within the nation. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
+These stories show that the Ashaninka's beauty isn't unique. Every nation is different, but there are common patterns that allow whole nations to maintain a baseline of mutual respect internally. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
 
 How do they do it? If a group of people wanted to live in such a beautiful way, what lessons could they learn from the Ashaninka and all these other healthy nations to make that possible?
 

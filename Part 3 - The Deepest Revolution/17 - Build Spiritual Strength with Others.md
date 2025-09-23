@@ -187,6 +187,9 @@ So spread the good news! Healthy nations do exist, and for those of us stuck in 
 
 Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a men's or women's group dedicated to spiritual growth**</div>
+<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts.</div></div>
+
 ### References
 
 [xxx-zapatista archive]-aaa (Archivo Histórico, n.d.)

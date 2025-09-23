@@ -437,6 +437,8 @@ def fixup_html(html_path, phys):
   
 
 def make_epub():
+  print("SKIPPING EPUB")
+  return
   print(" == Starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', epub_book_html_path,

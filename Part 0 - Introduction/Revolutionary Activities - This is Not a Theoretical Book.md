@@ -10,6 +10,6 @@ After studying many healthy nations and multiple Deep Revolutions, I noticed tha
 
 Sounds like a cool group of people to be around, right? 
 
-This book includes dozens of Revolutionary Activities meant to help you cultivate these qualities. I urge you to complete the activities. Let them challenge you. And don't just do each activity once, but do them repeatedly so they become a way of life. I know from experience that the more you work these activities, the deeper they will take you on a beautiful path of deep meaning and connection.
+This book includes Revolutionary Activities meant to help you cultivate these qualities. I urge you to complete the activities. Let them challenge you. And don't just do each activity once, but do them repeatedly so they become a way of life. I know from experience that the more you work these activities, the deeper they will take you on a beautiful path of deep meaning and connection.
 
 I believe that if you grew up in a healthy nation, many of these activities would be normal parts of your childhood training. But for people who didn't grow up this way, they'll train us to play a good part in the Deepest Revolution.

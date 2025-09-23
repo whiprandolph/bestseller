@@ -90,7 +90,7 @@ Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of be
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
-The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a meaningful, dignified path in service of the people and nonhumans they love. The divine voice isn't the endless mental chatter so many people experience; it feels more like a deep knowing, or even an irresistable force that guides you on your own sacred path. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work, and find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of those around them.
+The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a meaningful, dignified path in service of the people and nonhumans they love. The divine voice isn't the endless mental chatter so many people experience; it feels more like a deep knowing, or even an irresistible force that guides you on your own sacred path. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work, and find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of others.
 
 Tubman, King, and Christ only seem unusual because they gave their love fully in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
@@ -169,7 +169,7 @@ But how to form such deeply trusting, reciprocal relationships, where people sha
 
 All the revolutionary activities in this book are meant to help you generate exactly these kinds of relationships. When you practice keen awareness and question your assumptions, you will begin to really see other people for who they are, and who doesn't like being deeply seen by a caring person?
 
-When you practice standing for what's right and supporting others who take a stand, you'll show a courage that inspires trust in others -- and who doesn't want to trust their friends?
+When you practice standing for what's right and supporting others who take a stand, you'll show courage that inspires trust in others -- and who doesn't want to trust their friends?
 
 When you practice giving first and without expecting anything in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
 

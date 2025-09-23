@@ -1,6 +1,6 @@
 # Words of Gratitude
 
-Thanks to the nonhumans who helped me write this book. Thanks to the carolina wrens who lifted my spirits in the morning, the wild dandelions and chickweed that nourished me, and the trees on the edge of a local clearcut logging operation who reminded me to stand strong in the face of terrible things.
+Thanks to the nonhumans who helped me write this book. Thanks to the Carolina wrens who lifted my spirits in the morning, the wild dandelions and chickweed that nourished me, and the trees on the edge of a local clearcut logging operation who reminded me to stand strong in the face of terrible things.
 
 I would not have known how to feel grateful for the nonhumans' gifts if it weren't for the Kamana program. Thanks to Jon Young and all the contributors who produced it.
 

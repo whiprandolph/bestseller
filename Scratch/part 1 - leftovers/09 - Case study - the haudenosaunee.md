@@ -22,7 +22,7 @@ The Ashaninka taught me that a nation can maintain a deep, respectful internal p
 
 How were the nations of the Haudenosaunee Confederacy able to make a peace that has lasted so long? If people today wanted to make a lasting peace, what lessons could they learn from the Haudenosaunee's success?
 
-The Mohawks are one member nation in the Haudenosaunee Confederacy, and in the book _Basic Call to Consciousness_, a group of Mohawk writers gave many details about the Confederacy's founding and described the _Great Law of Peace_. The Great Law contains a huge amount of wisdom. Here's what I learned.
+The Mohawks are one member nation in the Haudenosaunee Confederacy, and in the book _A Basic Call to Consciousness_, a group of Mohawk writers gave many details about the Confederacy's founding and described the _Great Law of Peace_. The Great Law contains a huge amount of wisdom. Here's what I learned.
 
 First, healthy boundaries are essential, which are brought to life with shared agreements and reliable integrity.
 

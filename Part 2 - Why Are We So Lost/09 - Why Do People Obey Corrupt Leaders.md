@@ -40,9 +40,9 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible kjb|luke 23:2] He did not deny the charges.[xxx-bible esv|matthew 27:12]
 
-* _Christ was killed like a revolutionary:_ The two men killed with Christ were not just thieves; they were were revolutionaries.[xxx-worldhistory jewish zealots] They were nailed to a cross and publicly left to die. The Romans used crucifixion to scare others away from revolutionary activities.**
+* _Christ was killed like a revolutionary:_ The two men killed with Christ were not just thieves; they were revolutionaries.[xxx-worldhistory jewish zealots] They were nailed to a cross and publicly left to die. The Romans used crucifixion to scare others away from revolutionary activities.**
 
-Christ stood up for his people against oppressive authorities in wordly and spiritual ways, seeking to free them from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission.
+Christ stood up for his people against oppressive authorities in worldly and spiritual ways, seeking to free them from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission.
 
 Some Christians claim that Christ was obedient because he said, "Give back to Caesar what is Caesar's," suggesting people should pay their taxes.[xxx-bible niv|mark 12:17] But revolutionaries commonly debate whether to pay their taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
 
@@ -68,7 +68,7 @@ If you were a king, and you wanted to train your subjects to obey you, what woul
 
 And what would be a highly effective way of accomplishing that? How about imposing a religion that trained your subjects to believe that obeying authorities was good and morally right, and disobeying was evil and bad? 
 
-Every religion has aspects of wisdom and beauty. However, when ruling classes impose an ideology or religion, they consistently twist or distort this ancient wisdom and beauty so that people learn to submit to authorities instead of personally stand for what's right. Unfortunately, this is essentially how religions like Christianity, Islam, and Buddhism train people for submissive obedience.
+Every religion has aspects of wisdom and beauty. However, when ruling classes impose an ideology or religion, they consistently twist or distort this ancient wisdom and beauty so that people learn to submit to authorities instead of personally standing for what's right. Unfortunately, this is essentially how religions like Christianity, Islam, and Buddhism train people for submissive obedience.
 
 Roman emperor Theodosius imposed _his_ version of Christianity on ancient Rome, and he threatened severe punishment to anyone who didn't convert.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440] And what does the official Christian Bible say? According to 1-Peter 2:13: "Submit yourselves for the Lord's sake to every human authority: whether to the emperor, as the supreme authority, or to governors..."[xxx-bible niv|1 peter 2:13]
 

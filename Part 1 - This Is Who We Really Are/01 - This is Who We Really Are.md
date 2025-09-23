@@ -72,7 +72,7 @@ Anyone who confronts injustices and tries to uphold the law is punished, because
 
 I find disturbing stories at home too. My black roommate recently said that some white men had yelled at her to go back to her own country, wherever that was supposed to be. Another friend tells me stories of sexism anytime she describes her job.
 
-These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, and dishonest politicians... well, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
+These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, and dishonest politicians, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
 
 What am I supposed to learn from the Ashaninka? How can they be humans like me and other Americans, and they live in such a beautiful way, while we don't?
 
@@ -88,7 +88,7 @@ Part Two explores _how we lost our way_, why some nations are stuck with these t
 
 Part Three calls for _The Deepest Revolution_: our current way of life isn't working, so we must embrace that ancient way of life where respect is the norm, and it will take tremendous integrity, generosity, and bravery to do it.
 
-In addition to my own investigation and interviews, _The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy nations themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy nations, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow.
+_The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy nations themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy nations, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. It also draws from my own research and investigation, much of which was published in _One Disease One Cure._
 
 While each healthy nation is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy nations or respectful observers.
 

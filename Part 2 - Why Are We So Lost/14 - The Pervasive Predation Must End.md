@@ -14,7 +14,7 @@ Many secular authority figures have also raped children, and few have faced any 
 
 An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.[xxx-guardian portugal boys]<sup>,</sup>[xxx-guardian portugal president knew]
 
-How do you think the Portuguese people felt watching these legal proceedings carefully avoid the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
+How do you think the Portuguese people felt watching these legal proceedings carefully ignore the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
 
 Tragically, such disturbing troubles are common in unhealthy nations that punish you for seeking justice. Thus similar stories can be found in the United States.
 
@@ -98,7 +98,7 @@ Interviewers found that most war-volunteers were unable to feel deeply, describi
 
 In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
 
-Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put down others.
+Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put others down.
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
 
@@ -144,7 +144,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 * _Shame instead of dignity_: Authoritarian religions train people to feel shame, disconnection from the divinity of life around and within us, belief in inherent badness or selfishness, displeasure, low self-worth, and other negative qualities.
 
-* _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking make people easy to manipulate, so deep awareness is rare.
+* _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking makes people easy to manipulate, so deep awareness is rare.
 
 Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread, and so few people stand for what's right. The truth is that these hurtful qualities are only widespread in unhealthy nations where authorities punish those with the deepest integrity and bravery, who stand for justice no matter what. Childhood emotional wounds can cause a background sense of significant unease, insecurity, or inherent badness and this colors how such a person sees the world. When wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.**
 

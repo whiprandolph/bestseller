@@ -133,7 +133,7 @@ Apache man Geronimo described how young men were expected to show "no color of c
 
 Huron men intentionally practiced bravery throughout their adult lives so they would be ready to protect their people from any injustice or threat. This included intentionally causing themselves pain to practice maintaining composure under duress.[xxx-huron farmers of the north|44]
 
-Jean Liedloff was impressed by the strong, positive male presence she witnessed in Yequana households which she described as relaxed, peaceful and serene. The men were not permissive, holdings everyone to the highest standards, and boys loved to measure themselves against their fathers. Everyone took "pride in doing their best, in living up to the men's expectations as well as to one another's... By his behaviour, his own dignity and excellence in what he does, he shows their society's ways to the young."[xxx-continuum concept|growing up]
+Jean Liedloff was impressed by the strong, positive male presence she witnessed in Yequana households which she described as relaxed, peaceful and serene. The men were not permissive, holding everyone to the highest standards, and boys loved to measure themselves against their fathers. Everyone took "pride in doing their best, in living up to the men's expectations as well as to one another's... By his behaviour, his own dignity and excellence in what he does, he shows their society's ways to the young."[xxx-continuum concept|growing up]
 
 Sioux man Ohiyesa described how he was trained not to care for money or possessions, "because a true Indian always shares whatever he may possess." He said, "We never [had] any money... we valued nothing except honor." Sioux men would bravely share their last food with a hungry neighbor.[xxx-from deep woods to civilization|the way opens]
 
@@ -204,7 +204,7 @@ Self-acceptance is the foundation for spiritual growth, so your growth will be l
 
 When you hold yourself to high standards, your rate of growth will increase. You won't waste time feeling shame and guilt. You will just notice your mistakes, learn from them, and move on.
 
-These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create a relationships of deep trust, so that qualities like integrity, bravery, awareness, and generosity become normal.
+These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create relationships of deep trust, so that qualities like integrity, bravery, awareness, and generosity become normal.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
 <div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>

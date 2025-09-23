@@ -28,7 +28,7 @@ Market economies give wage slaves the flexibility to choose their job, and polit
 
 Soviet leaders claimed to guarantee citizens' "freedom, democracy, and basic human rights,"[xxx-stasi east german secret police|the sword of repression] while Canadian leadership likewise pretends to care about "defending human rights and democracy."[xxx-statement canada prime minister rights] Socialism and capitalism are just different forms of market economy that allow politicians to pretend that the workers are free.
 
-People of healthy nations -- who currently or in recent times lived in actual freedom -- recognize this truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people must work for others to survive, and not allowed to choose their own laws nor uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
+People of healthy nations -- who currently or in recent times lived in actual freedom -- recognize this truth. Sitting Bull said "The life of white men is slavery. They are prisoners in their towns or farms."[xxx-griid sitting bull speech] When people must work for others to survive, and are not allowed to choose their own laws nor uphold the laws they obey, widespread selfishness results, and that's what a slave society looks like.
 
 #### Maintaining Financial Desperation in Market Economies
 

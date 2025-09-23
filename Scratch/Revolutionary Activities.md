@@ -193,3 +193,8 @@
 
 
 
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a men's or women's group dedicated to spiritual growth**</div>
+</b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regulary and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts.</div></div>
+
+
+

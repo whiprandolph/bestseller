@@ -1,6 +1,6 @@
 ## Chapter 11: Can Whole Nations Embrace Awareness and Unity?
 
-When I first began doing nature connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. Iff a whole group of people regularly embraced these practices, they could feel closely connected indeed. There would be no place for sexism, racism and hatred.
+When I first began doing nature connection practices, I thought I would just connect with nonhumans. It turns out they helped me connect more deeply with people too. If a whole group of people regularly embraced these practices, they could feel closely connected indeed. There would be no place for sexism, racism and hatred.
 
 Every day, I go to my sit-spot and pay attention to the nonhumans. I ask questions like, what plants grow at what times of the year? What birds live there, and how do they interact with each other and the plants? What animals live there or pass through? I learned to pay attention with all my senses, my eyes, ears, taste, smell, touch, temperature, and more. I learned to feel curious about the experiences of the beings around me, and I supplemented my observations with research -- both by reading nature guide books and listening to stories from mentors.
 
@@ -26,7 +26,7 @@ When children complain about being forced to sit through boring or meaningless c
 
 As I became more empathetic and observant, I started treating everyone around me like an extension of me, whether men or women or children or nonhumans. Their awareness became an extension of my awareness. I paid attention to what other people observed or how they behaved and let it show me things I couldn't see by myself. I don't blindly trust everyone, but I take care to notice what lessons I can learn from others.
 
-Ultimately, I can only know my own experience, but this doesn't have to limit me when I cultivate deep awareness. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different than mine. I might not always agree with someone else's point of view, but I can at least understand their perspective which helps me understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
+Ultimately, I can only know my own experience, but this doesn't have to limit me when I cultivate deep awareness. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different from mine. I might not always agree with someone else's point of view, but I can at least understand their perspective which helps me understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 
 I strongly believe that these nature connection practices are key to generating unity among people and nonhumans in any nation. Once I started really noticing the perspectives of insects, bears and plants, it became easier to notice and understand other people's perspectives.
 

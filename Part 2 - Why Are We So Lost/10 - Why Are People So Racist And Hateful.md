@@ -79,7 +79,7 @@ President Trump is deporting many people for attending what he calls "illegal" p
 
 Similar manipulative behavior is happening in many unhealthy nations, including Germany[xxx-germany anti pales], Australia[xxx-austr anti pales], France[xxx-france anti pales], and other European countries[xxx-euro anti pales].
 
-And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said that all activists were being monitored with AI-enabled cameras, their protesting would be recorded and show up in background checks, and they would never be hired again.[xxx-thehill protester surveillance] In fact, North Carolina outlawed wearing face masks outside to make this surveillance even easier.[xxx-usnews palestine protest mask]
+And it's not just the government that tries to scare protesters away from acknowledging the truth: many business leaders want to scare people into submission too. One businessman, Kevin O'Leary, went on television and said that all activists were being monitored with AI-enabled cameras, their protests would be recorded and show up in background checks, and they would never be hired again.[xxx-thehill protester surveillance] In fact, North Carolina outlawed wearing face masks outside to make this surveillance even easier.[xxx-usnews palestine protest mask]
 
 Just like American slave owners scared poor and middle class white people into hating black people or remaining silent so they wouldn't oppose slavery, modern day authorities are trying to scare us into submission so we won't oppose their genocide.
 
