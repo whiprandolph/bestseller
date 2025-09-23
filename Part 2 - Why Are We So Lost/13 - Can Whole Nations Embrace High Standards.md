@@ -93,7 +93,7 @@ Even so-called liberation movements will be disappointing as long as people acce
 
 For example, black people and women were both treated abominably in the United States at the start of the 1900s, facing severe discrimination in the workplace, courtroom, and other areas of life. After more than a century of "women's liberation" and "black liberation" movements, what is the result? Women and black people can now become corrupt politicians, just like they can be selfish rich business owners, corrupt judges and police officers, and well-paid wage slaves.
 
-Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. In practice, these were movements not to seek liberation, but to increase people's privilege and reduce the abuse they faced.**
+Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. In practice, these were movements not to seek liberation, but to increase people's privilege and reduce the abuse they faced.
 
 Since the United States remains an unhealthy nation, and _every_ unhealthy nation _always_ has racism and sexism, these troubles persist today. When people accept submissive obedience as normal, they will even have low standards for liberation movements.
 
@@ -151,7 +151,7 @@ Spiritually lost men may preen on social media, flaunt their wealth, or spend va
 
 In 1877, the American military captured some Cheyenne women and children. The very next day, 500 Lakota and Cheyenne warriors launched an attack to try to retrieve them.[xxx-black elk speaks|footnotes] Women and children suffer many sexual and physical assaults in unhealthy nations -- where are the good men who would band together to stop this?
 
-Men who have been systematically trained to deny their feelings and not to follow their sacred path may abandon their family or beat them, or get lost in drugs or alcohol. Even among men who avoid these troubles, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!**
+Men who have been systematically trained to deny their feelings and not to follow their sacred path may abandon their family or beat them, or get lost in drugs or alcohol. Even among men who avoid these troubles, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!
 
 Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of police whistleblowers who call out the police's own illegal activity, so the rest know to stay in line.[xxx-odoc|ch32]
 
@@ -169,7 +169,7 @@ The path for a group to build a new healthy nation and live in freedom will requ
 
 ### To Have High Standards, Learn to Grow Without Guilt or Shame
 
-Feelings of shame and guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People may resist feedback because they have been taught to feel shameful and guilty in the past, or treated unfairly, and don't want this to happen again. Others may have subconscious shame or guilt from childhood that gets triggered, creating automatic insecurity and defensiveness.**
+Feelings of shame and guilt are some of the biggest obstacles to spiritual growth. They can also make a person resistant to receiving feedback from others, making it difficult for people to hold each other to high standards of behavior. People may resist feedback because they have been taught to feel shameful and guilty in the past, or treated unfairly, and don't want this to happen again. Others may have subconscious shame or guilt from childhood that gets triggered, creating automatic insecurity and defensiveness.
 
 Therefore, to effectively hold yourself and others to high standards and help people grow from their mistakes, learn how to pursue personal and collective growth without shame or guilt.
 
@@ -196,7 +196,7 @@ The book _One Disease One Cure_ contains many more suggestions for cultivating b
 
 Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. As long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
 
-For me, "spirituality" means how you relate to yourself and the world. Thus, "spiritual growth" means learning to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by identifying and giving your sacred gifts, and living in reciprocity.**
+For me, "spirituality" means how you relate to yourself and the world. Thus, "spiritual growth" means learning to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by identifying and giving your sacred gifts, and living in reciprocity.
 
 Recognizing two complementary truths will accelerate your spiritual growth. First, _you are already perfect,_ even with all your faults. Second, _you have unmet potential,_ and you must strive to fulfill it to give your deepest love. The first truth is about self-acceptance, and the second is about growth.
 

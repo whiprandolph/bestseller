@@ -24,7 +24,7 @@ While fear of physical punishment motivates workers in command economies, the fe
 
 Whether a lower class person is trying to survive, a middle-class person is trying to keep their comforts, or an entrepreneur is trying to get rich, all of them work for money and so all of them ultimately serve the people with money: the rich and the government which is the source of most money in the first place.
 
-Market economies give wage slaves the flexibility to choose their job, and politicians commonly pretend that this flexibility is the same as freedom, allowing them to pretend that the wage slaves live in a free country, and they should be proud and grateful.
+Market economies give wage slaves the flexibility to choose their job, and politicians commonly pretend that this flexibility is the same as freedom. Politicians pretend that the wage slaves live in a free country, and they should be proud and grateful.
 
 Soviet leaders claimed to guarantee citizens' "freedom, democracy, and basic human rights,"[xxx-stasi east german secret police|the sword of repression] while Canadian leadership likewise pretends to care about "defending human rights and democracy."[xxx-statement canada prime minister rights] Socialism and capitalism are just different forms of market economy that allow politicians to pretend that the workers are free.
 
@@ -69,7 +69,7 @@ And therefore the well-off are as trapped as anyone else. The paychecks may vary
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
 <div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
-### Gift Economies Reward and Maintain Generosity**
+### Gift Economies Reward and Maintain Generosity
 
 Unlike profit economies that reward selfishness, gift economies reward sharing. To ensure that everyone is taken care of, gift economies move resources to where they are the most needed or where they will do the most good. 
 

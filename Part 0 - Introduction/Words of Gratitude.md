@@ -1,6 +1,6 @@
 # Words of Gratitude
 
-Thanks to the nonhumans who helped me write this book. Thanks to the Carolina wrens who lifted my spirits in the morning, the wild dandelions and chickweed that nourished me, and the trees on the edge of a local clearcut logging operation who reminded me to stand strong in the face of terrible things.
+Thanks to all the nonhumans who helped me write this book. Thanks to the Carolina wrens who lifted my spirits in the morning, the wild dandelions and chickweed that nourished me, and the trees on the edge of a local clearcut logging operation who reminded me to stand strong in the face of terrible things.
 
 I would not have known how to feel grateful for the nonhumans' gifts if it weren't for the Kamana program. Thanks to Jon Young and all the contributors who produced it.
 
@@ -12,7 +12,7 @@ And thanks to those who studied people of healthy nations and wrote about them r
 
 Special thanks go to my editor Cindy Spitzer. I appreciated your patience as we worked and reworked the material. You supported my ambitious timelines and helped me change my writing style to make this as engaging as possible. I couldn't ask for a better editor. It has been a pleasure working with you.
 
-Thank you to the early readers for holding this book to a high standard. Your feedback made a big difference.
+Thank you to my early readers for holding this book to a high standard. Your feedback made a big difference.
 
 Thanks to Bob, Seraina, Nina, Owen, Tod and Lindsey for your support.
 
