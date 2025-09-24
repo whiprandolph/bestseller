@@ -70,7 +70,7 @@ People would go back and forth between the new and old sites as they prepared th
 
 I kept finding stories of nations that currently or in the recent past were similar to the Ashaninka. Superficially, of course, they were and are different -- Eskimos in the arctic might have very different clothes, food, or ceremonies than the Gumbaynggirr of Australia, or the Jenu Kuruba in Asia. But I kept noticing deep, beautiful patterns that healthy nations seem to all share in common when they are able to live in a traditional way.
 
-Besides the lack of police and prisons, I also noticed observers remarking on their deep integrity. When Ohiyesa, a Sioux man born in North America in the 1800s, visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."[xxx-from deep woods to civilization|civ college life east]
+Besides the lack of police and prisons, I also noticed observers remarking on their deep integrity. When Ohiyesa, a Sioux man born in the 1800s, visited an American city, he said, "I was cautioned against trusting strangers, and told that I must look out for pickpockets. Evidently there were some disadvantages connected with this mighty civilization, for we Indians seldom found it necessary to guard our possessions."[xxx-from deep woods to civilization|civ college life east]
 
 American S.M. Barrett described having complete trust in Apache leader Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise."[xxx-geronimo autobio|introductory]
 
@@ -108,15 +108,15 @@ These healthy nations were a major threat to colonial leaders, because they show
 
 ### Deep Respect, Even when Capturing Prisoners of War
 
-For a while I wondered how healthy nations could keep prisoners of war if they don't have prisons. I also had heard of healthy nations killing their captives -- how does that square with being a culture based on generosity and integrity?
+For a while I wondered how healthy nations could keep prisoners of war if they don't have prisons. I also had heard of some of these nations killing their captives -- how does that square with being a culture based on generosity and integrity?
 
-There are three ways to deal with war captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them well. Killing or releasing captives maintains that baseline of mutual respect among everyone within the nation, and even killing can be an act of service to one's neighbors if it helps protect the group. But once captives are accepted as residents, they are treated respectfully too.**
+There are three ways to deal with war captives that allow a nation to maintain a baseline of mutual respect internally: release the captive, kill them, or integrate them and treat them well. Killing or releasing captives maintains that baseline of mutual respect among everyone within the nation, and even killing can be an act of service to one's neighbors if it helps protect the group. But once captives are accepted as residents, they are treated respectfully too.
 
 People of healthy nations openly acknowledged that in traditional times they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the nation. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
 Pretty Shield, a woman of the Crow nation, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
 
-Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, healthy nations ensure they keep that internal baseline of mutual respect.
+Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, they keep that internal baseline of mutual respect.
 
 These stories show that the Ashaninka's beauty isn't unique. Every nation is different, but there are common patterns that allow whole nations to maintain a baseline of mutual respect internally. People embrace integrity and generosity towards their neighbors, and have systems of conflict resolution that work while avoiding unaccountable police and punitive prisons. Because generosity was or is so common, they don't have rich and poor, and leaders serve everyone.
 

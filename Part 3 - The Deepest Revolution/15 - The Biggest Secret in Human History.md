@@ -4,11 +4,11 @@ What do you think is the biggest secret in human history?
 
 What secret has been kept from billions of people across every continent going back centuries or even millennia?
 
-The most widespread and ancient secret is this: you could potentially live in a nation that maintains a respectful way of life among the people, and between the people and the Earth. That means we don't need unaccountable politicians to be tough on crime -- we could live without crime. We don't need to vote for the lesser evil -- we could have leaders that the whole nation trusts. We don't need to work unsatisfying jobs, be distrustful of our neighbors, and suffer all kinds of discrimination and financial stress while the rich keep getting richer.**
+The most widespread and ancient secret is this: you could potentially live in a nation that maintains a respectful way of life among the people, and between the people and the Earth. That means we don't need unaccountable politicians to be tough on crime -- we could live without crime. We don't need to vote for the lesser evil -- we could have leaders that the whole nation trusts. We don't need to work unsatisfying jobs, be distrustful of our neighbors, and suffer all kinds of discrimination and financial stress while the rich keep getting richer.
 
-We could have a way of life where trust is normal because integrity and generosity are normal too. Many nations around the world, now and in the recent past, show that this is not just possible, but the normal and healthy way for humans to live.**
+We could have a way of life where trust is normal because integrity and generosity are normal too. Many nations around the world, now and in the recent past, show that this is not just possible, but the normal and healthy way for humans to live.
 
-Why has this been such an epic, widely-kept secret? Of course: _this is what it's like to live in freedom._ However, ruling classes consistently train their conquered subjects to think they're already free so they won't see how much better life could be. For centuries, conquered people have been kept ignorant of the existence of healthy nations that show what freedom is like, or they've been trained to misunderstand them.**
+Why has this been such an epic, widely-kept secret? Of course: _this is what it's like to live in freedom._ However, ruling classes consistently train their conquered subjects to think they're already free so they won't see how much better life could be. For centuries, conquered people have been kept ignorant of the existence of healthy nations that show what freedom is like, or they've been trained to misunderstand them.
 
 When you know what to look for, the history books show this vividly.
 
@@ -18,7 +18,7 @@ Why would ruling classes work so hard to spread propaganda against healthy natio
 
 Ruling classes try to keep people in despair, not knowing that another way of life is possible without corruption, discrimination, and greed.
 
-But now you know the secret. You know that we're not free now, and you know what freedom is like. You know that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."**
+But now you know the secret. You know that we're not free now, and you know what freedom is like. You know that it's possible to live in a beautiful way, without all the cultural and political problems that can seem "just the way life is."
 
 Most people either haven't heard of healthy nations or they misunderstand them, so they have no standard of comparison, and they're likely to accept their unhealthy nation as "good enough." British prime minister Winston Churchill even said, "democracy is the worst form of government except for all those other forms that have been tried..."[xxx-churchill democracy]
 
@@ -34,11 +34,11 @@ At that moment, everything changes. _The secret is out!_
 
 Once you know what healthy nations are like, you have that standard of comparison. You can see that _voting will never lead to deep change because slaves have never voted their way to freedom._ You can see that endless debates between left and right, liberals and conservatives, and capitalists and socialists are distractions from having the conversations and taking the actions that might lead to the Deepest Revolution.
 
-Instead of engaging in unproductive political debates, what if you imagined the kind of world you wanted to live in? And what if you worked with others to bring your vision to life?**
+Instead of engaging in unproductive political debates, what if you imagined the kind of world you wanted to live in? And what if you worked with others to bring your vision to life?
 
 ### Imagine...
 
-Imagine having amazing friends, people who tell the truth, share, keep their promises, and support you in difficult times, and who expect the same from you.**
+Imagine having amazing friends, people who tell the truth, share, keep their promises, and support you in difficult times, and who expect the same from you.
 
 Imagine choosing to live with those friends so you're surrounded by neighbors you deeply trust, and who trust you.
 
@@ -86,9 +86,9 @@ Unfortunately, she was unable to find people to share her concerns with and spea
 
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take antidepressants, which allowed her to numb the feeling of dissatisfaction without bravely responding to it. And she stopped asking such deep questions about her unhealthy nation.
 
-A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.**
+A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
 
-This story shows how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and tolerate the numbness. It also shows how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together_.**
+This story shows how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and tolerate the numbness. It also shows how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together_.
 
 So find trustworthy people and tell them your thoughts and feelings, and listen to them too. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy nation that is crazy.
 

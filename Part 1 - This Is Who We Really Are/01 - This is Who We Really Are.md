@@ -94,7 +94,7 @@ While each healthy nation is unique, there are common aspects of their way of li
 
 The next chapter shows how the Ashaninka are not the exception. _They are the norm_. Those of us living in unhealthy nations that now dominate much of the Earth are _not_ the norm. 
 
-Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and so many other healthy nations show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
+Widespread racism, sexism, child abuse, pollution, corruption, crime, domestic violence, and all the rest may seem "just the way life is," but that's not true. The Ashaninka and many other healthy nations show us who we really are as humans. These troubles are not the result of supposedly-selfish human nature. If enough of us wake up and cultivate the courage, we can live without these troubles again.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #1<br/>Imagine a whole nation of caring people</div>
 <div class="rev-act-body">Take 5 minutes to imagine your life if everywhere you went, people welcomed you, fed you, sheltered you, protected you and included you like family. Imagine also if they trusted that you would show the same care for them as a normal way of life. How does that feel?</div></div>

@@ -132,10 +132,10 @@ BOOK_ADDED_STYLE_BASE = """
     font-size: 1.07em;
   }
   h3 {
-    font-size: .9em;
+    font-size: .87em;
   }
   h4 {
-    font-size: 0.85em;
+    font-size: 0.84em;
   }
   .rev-act-header {
     text-align: center;
@@ -260,8 +260,7 @@ def process_chapter(full_path, cite_to_index_dict, fix_citation=False):
   assert len(ref_start_line_check) == 0, "[xxx starts a line; ref: %s, file: %s" % (ref_start_line_check, full_path)
 
   header_check = [x for x in body.split("\n") if x.strip().startswith("##") and not ("[" not in x and "]" not in x and "(" not in x and ")" not in x) and "Audio" not in x]
-  # assert len(header_check) == 0, "edit-header; header: %s, file: %s" % (header_check, full_path)
-  print("SKIPPING HEADER CHECK")
+  assert len(header_check) == 0, "edit-header; header: %s, file: %s" % (header_check, full_path)
   start = body.find("[xxx")
 
   while start != -1:
@@ -271,9 +270,9 @@ def process_chapter(full_path, cite_to_index_dict, fix_citation=False):
     body = body[:start] + "<sup><a href=\"#cite_%s_dest\" id=\"cite_%s_src\" style=\"text-decoration:none\">%s</a></sup>" % (cite_num, cite_num, cite_num) + body[end:]
     start = body.find("[xxx", start+1)
 
-  # assert "**" not in blob, full_path
-  print("SKIPPING ** CHECK")
-
+  # only ** are in chap 18 We are the promised land.
+  assert "**" not in blob or ("**_" in blob and blob.count("**") == 2), full_path
+  
   return body
 
 
@@ -404,7 +403,6 @@ def main():
   make_online_pdf()
   os.startfile(book_final)
   make_phys_book()
-  print("Skipping EPUB")
   make_epub()
   # cleanup()
   end_time = time.time()
@@ -437,8 +435,8 @@ def fixup_html(html_path, phys):
   
 
 def make_epub():
-  # print("SKIPPING EPUB")
-  # return
+  print("SKIPPING EPUB")
+  return
   print(" == Starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', epub_book_html_path,

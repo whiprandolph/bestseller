@@ -28,12 +28,11 @@ chapters = {
     (1, 1, "The Biggest Secret in Human History.md"),
     (1, 1, "Build Your Spiritual Strength.md"),
     (1, 1, "Build Spiritual Strength with Others.md"),
-    # (1, 1, "REORG - Build Spiritual Strength with Others.md"),
     (1, 1, "The Deepest Revolution.md"),
   ],
   "Part 4 - Closing Notes": [
     (1, 1, "Glossary.md"),
-    (1, 1, "Healthy Nations Referenced in this Book.md"),
+    (1, 1, "Locations of Healthy Nations Referenced in this Book.md"),
     (1, 1, "Important Notes on Sensitive Topics.md"),
     (1, 1, "Copyright, Image Credits & Further Reading.md"),
     (1, 1, "Bibliography.md"),

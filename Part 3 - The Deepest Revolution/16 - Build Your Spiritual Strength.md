@@ -128,7 +128,7 @@ There are many ways to discover and give your gifts, as Chapter 3 described: you
 
 In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
 
 ### Cultivating Spiritual Strength, Part 3: Live in Reciprocity

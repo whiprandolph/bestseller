@@ -60,7 +60,7 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 ### Let's Be Brave Together
 
-Part 3 of this book will explore how you can work with others to create a beautiful way of life, a new nation of spiritually strong people living in actual freedom. It will explore how to create deep relationships and healthy communities which will be the building blocks of new healthy nations. This will require tremendous hard work, bravery and risk -- and _it's worth it_.**
+Later in this book, Part 3 explores how you can work with others to create a beautiful way of life, a new nation of spiritually strong people living in actual freedom. It offers ways to create deep relationships and healthy communities which will be the building blocks of new healthy nations. This requires tremendous hard work, bravery and risk -- and _it's worth it_.
 
 But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similar to how millions of people have lived since the dawn of time.
 

@@ -4,9 +4,50 @@ Can you imagine your life if everyone around you could be trusted to take care o
 
 Okanagan Jeannette Armstrong called this deep trust of knowing your community is there to sustain you "the most secure feeling in the world."[xxx-original instructions|armstrong]
 
-People in healthy nations deliberately create and maintain this "most secure feeling in the world" by consistently holding themselves and each other to high standards of respectful, generous, and cooperative behavior that benefits each individual because it benefits the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
+People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
 
-For those who want to create healthy communities that can lead to new healthy nations, we must commit to learning and practicing how to hold ourselves and each other to high standards too.
+Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a nation one community at a time.
+
+### Build a Nation One Community at a Time
+
+Instead of instituting a new overarching government, even after their revolution, the Zapatistas said clearly that the communities are "the core of all autonomy." They formed higher levels of councils to help the communities protect each other and share resources, but no "higher ups" interfere in the communities.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
+
+For this way of life to work, healthy communities must first exist where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns existed before the revolution, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to make a new healthy nation.
+
+To help form new healthy communities, the Zapatistas traveled around to meet people face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
+
+Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
+
+How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
+
+If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with or build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
+
+These healthy communities are groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, generosity, and deep connection with the Earth.
+
+The Zapatistas described how these healthy communities were absolutely essential for their revolution.
+
+Commander Ramona and major Ana Maria went to live in the jungle with dedicated revolutionaries in the 1980s, where they learned key skills like hunting and fighting and gained political consciousness. They joined around the age of 12 or 13, but accepted responsibilities as full adults and were obviously held to very high standards. At the age of 25, Ana Maria successfully led about a thousand people in a military assault to free a town from Mexican rule and Ramona directed the resulting peace negotiations.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
+
+Many other Zapatistas didn't change their lives as much as these women did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ana Maria said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had strong relationships with each other and the Earth, the revolution would have failed.[xxx-ezln ramona san crist]
+
+What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating strong relationships with each other and the Earth, and they already want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would they move on, seeking more receptive people elsewhere?
+
+It might seem hopeless to just gather a group of 5 or 10 people willing to build a different way of life together. Sure, you could be good to each other and serve the Earth locally, but maybe it seems impossible to form enough trust relationships to build a nation of many thousands or more.
+
+But if you can help create a community of 5, 10, or 50 people, it will be part of the fertile ground from which the Deepest Revolution will sprout. When organizers come around to recruit, offer training, give and receive mutual aid, and seek input on the new nation's laws, any community you help build will play an important role. And that community must exist first.
+
+This is what it means to _build a healthy nation one community at a time_. When you can form deep friendships with people who commit to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity are normal too.
+
+When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
+
+If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that most secure feeling in the world when they trust their community to protect them.
+
+Over time if we can form enough healthy communities, someday they may unite to form a healthy nation, or even many nations. 
+
+Healthy communities are the building blocks of healthy nations. If you could attend one of those sessions and discuss how to form a healthy community, what do you think you might learn?
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
+<div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
 
 ### Building a Healthy Community Starts with You
 
@@ -20,7 +61,7 @@ You've joined with other people into groups that continually share with each oth
 
 If you haven't completed all the activities yet, that's ok! These are life-long practices, meant to be done over and over until they become a way of life. If you haven't started, that's ok too. Now is a good time to start.
 
-### Build a Healthy Community by Building Spiritual Strength with Others
+### Build a Healthy Community One Person at a Time
 
 A great way to begin building a healthy community, and eventually a healthy nation, is to build the _most amazing friendships ever._
 
@@ -72,53 +113,10 @@ As a healthy community of people with high expectations, your group's standards 
 
 The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building new healthy nations.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want</div>
 <div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
-### Build a Nation One Community at a Time, and Build a Community One Person at a Time
-
-Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a nation one community at a time.
-
-Instead of instituting a new overarching government, even after their revolution, the Zapatistas said clearly that the communities are "the core of all autonomy." They formed higher levels of councils to help the communities protect each other and share resources, but no "higher ups" interfere in the communities.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
-
-For this way of life to work, healthy communities must first exist where people hold themselves and others to high standards so they can deeply trust each other. Mexican towns existed before the revolution, but with corrupt leaders and divisive politics, they were not suitable places to discuss how to make a new healthy nation.
-
-To help form new healthy communities, the Zapatistas traveled around to meet people face to face. Major Ana Maria described secretly hosting study sessions where people discussed how they could organize, learn and contribute.[xxx-bringing women in ezln]
-
-Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
-
-How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
-
-If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with or build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
-
-These healthy communities are groups of people that have their own agreements on how to live well together. They still live under ruling-class laws, but despite that, they have their own standards and choose their own way of life the best they can based on all the principles in this book, including integrity, generosity, and deep connection with the Earth.
-
-The Zapatistas described how these healthy communities were absolutely essential for their revolution.
-
-Commander Ramona and major Ana Maria went to live in the jungle with dedicated revolutionaries in the 1980s, where they learned key skills like hunting and fighting and gained political consciousness. They joined around the age of 12 or 13, but accepted responsibilities as full adults and were obviously held to very high standards. At the age of 25, Ana Maria successfully lead about a thousand people in a military assault to free a town from Mexican rule and Ramona directed the resulting peace negotiations.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
-
-Many other Zapatistas didn't change their lives as much as these women did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ana Maria said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had strong relationships with each other and the Earth, the revolution would have failed.[xxx-ezln ramona san crist]
-
-What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating strong relationships with each other and the Earth, and they already want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would they move on, seeking more receptive people elsewhere?
-
-It might seem hopeless to just gather a group of 5 or 10 people willing to build a different way of life together. Sure, you could be good to each other and serve the Earth locally, but maybe it seems impossible to form enough trust relationships to build a nation of many thousands or more.
-
-But if you can help create a community of 5, 10, or 50 people, it will be part of the fertile ground from which the Deepest Revolution will sprout. When organizers come around to recruit, offer training, give and receive mutual aid, and seek input on what the new nation's laws should be, any community you help build will play an important role. And that community must exist first.
-
-This is what it means to _build a healthy nation one community at a time_. When you can form deep friendships with people who commit to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity are normal too.
-
-When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
-
-If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that most secure feeling in the world when they trust their community to protect them.
-
-Over time if we can form enough healthy communities, someday they may unite to form a healthy nation, or even many nations. 
-
-So work with others to form a healthy community, making it as beautiful as you can while living under the imposed laws of your unhealthy nation. Even if nothing bigger ever happens, it will be good and worth the effort. And if the time is ever ripe for all the communities to come together to form a sovereign healthy nation, the community you help build will have an important role to play.
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
-<div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
-
-### Hold Good Boundaries to Keep Selfishness Out
+### Build Spiritual Strength with Others
 
 Many people don't learn to hold good boundaries in their personal life. Often people tolerate inappropriate behavior towards themselves, or act hurtfully towards others.
 
@@ -160,7 +158,7 @@ Learning when to forgive and how to hold good boundaries may sound hard, but it 
 
 Even the Zapatistas make mistakes. Major Moisés described their self-governance changes and said that "we are just learning and... it will take a while to get going well."[xxx-ezln new structure]
 
-This is why it's so important to cultivate spiritual strength together. Making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility.
+This is why it's important to cultivate spiritual strength together. Making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility.
 
 So commit to that path of deep spiritual growth with others. Expect that mistakes will happen, and learn to grow and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your community.
 
@@ -175,20 +173,20 @@ It would be hard enough to grow up surrounded by these hurtful qualities and the
 
 The Zapatistas showed that the path to freedom may be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And each of us can walk a similar path.
 
-With strong relationships in place and steady spiritual strength, you and your friends will be ready to address difficult questions, including how to build or acquire the needed weapons for self-defense, and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer a model for anyone who reads their publications.[xxx-zapatista archive]
+With strong relationships in place and steady spiritual strength, you and your friends will be ready to address difficult questions, including how to build or acquire the needed weapons for self-defense and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer helpful details in their publications.[xxx-zapatista archive]
 
 Just like the Zapatistas, every person in every unhealthy nation today has ancestors who once lived in healthy nations sometime in the past. For some it was only years or decades ago, for many others it's been centuries or millennia. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
 
-At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with open-hearted people feels wonderful. It feels so incredibly wonderful because _this is who we really are._
+At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with strong and caring people feels wonderful. It feels so incredibly wonderful because _this is who we really are._
 
 Each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation. It's our human nature to live in healthy nations embracing these qualities. "Human nature" describes how humans live when we can choose how to live, not how people behave when they're abused, threatened, chronically insecure, isolated, and unable to live in a deeply satisfying way.
 
-So spread the good news! Healthy nations do exist, and for those of us stuck in unhealthy nations, it doesn't have to be this way. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
+So spread the good news! you could potentially live in a nation that maintains a respectful way of life among the people, and between the people and the Earth. Cultivate your spiritual strength, and build deep relationships with other people and the Earth.
 
 Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a men's or women's group dedicated to spiritual growth**</div>
-<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weakness.</div></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a group dedicated to spiritual growth</div>
+<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 ### References
 

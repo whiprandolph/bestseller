@@ -91,7 +91,7 @@ Consider the real mechanisms keeping black people oppressed in the United States
 
 Federal prisoner surveys in 2008 showed that prison sexual assault is so rampant that, when combined with sexual assault rates outside of prison, there are more male-victim sexual assaults than female-victim in the United States.[xxx-odoc|ch24] Prisoners cannot legally choose not to work, and even if they could legally decline, prison administrators commonly violate the law with impunity, meaning they would force prisoners to work whether it was legal or not.[xxx-odoc|ch36]
 
-This would all be bad enough if drug use were a terrible crime that could only be stopped by imprisoning people, but researchers find that drug-treatment programs reduce both drug-use and crime more than imprisonment. In fact, research shows that going to prison increases drug use.[xxx-release from prison - a high risk of death for former inmates]<sup>,</sup>[xxx-addiction should be treated, not penalized]<sup>,</sup>[xxx-tops drug study|3]**
+This would all be bad enough if drug use were a terrible crime that could only be stopped by imprisoning people, but researchers find that drug-treatment programs reduce both drug-use and crime more than imprisonment. In fact, research shows that going to prison increases drug use.[xxx-release from prison - a high risk of death for former inmates]<sup>,</sup>[xxx-addiction should be treated, not penalized]<sup>,</sup>[xxx-tops drug study|3]
 
 John Ehrlichman was White House counsel in the Nixon administration, and he admitted that the whole "war on drugs," which has sent millions of people to prison, was implemented specifically to persecute people who opposed the rulers' oppressive policies. He told a reporter in 1994, "the Nixon White House... had two enemies: the antiwar left and black people... We knew we couldn't make it illegal to be either against the [Vietnam] war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news. Did we know we were lying about the drugs? Of course we did."[xxx-harpers magazine real purpose drug war]
 
@@ -148,13 +148,13 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-basic call to consciousness|p104]
 
-Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This shows that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.**
+Even centuries ago, the Haudenosaunee sometimes went through hard times such as famines or wars. This shows that living in a utopia doesn't mean life is easy. It means that you can trust the people around you to take care of each other when challenges arise.
 
-These principles show the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.**
+These principles show the importance of spiritual strength and what it means to live in a free society. When everyone in a nation has the spiritual strength to stand for what's right, each person will expect everyone else to likewise have that strength. And when everybody is expected to stand for justice, then justice and mutual respect become normal, and that's what a free society looks like.
 
-Part 3 offers a practical path to begin building a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and trust is pervasive.**
+Part 3 offers a practical path to begin building a healthy nation, starting with cultivating your spiritual strength and forming new healthy communities where people hold each other to high standards of good behavior so that integrity and generosity become normal, and trust is pervasive.
 
-Not everyone will want to walk this path, but you can find people who do. As healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.**
+Not everyone will want to walk this path, but you can find people who do. As healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.
 
 ### References
 

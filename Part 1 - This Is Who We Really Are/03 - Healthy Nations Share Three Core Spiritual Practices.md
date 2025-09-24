@@ -18,7 +18,7 @@ The more I learned how every creature contributes to the web of life, the more g
 
 All these things are gifts. No one makes the trees offer their gifts of shade or firewood. I can plant an apple tree and tend it, but I cannot make it bear fruit -- that is its gift.
 
-At first I wondered -- how is meat a gift? Don't humans have to take it, killing animals that would rather live? When a nation of people has a reciprocal relationship with other animals, the humans actually benefit them. For example, when humans intentionally enrich deer habitat, there are more deer because of humans' presence, even including hunting. When this reciprocity exists, humans give their gifts to the deer community, and deer give their gifts in return, helping sustain the humans that sustain them.**
+At first I wondered -- how is meat a gift? Don't humans have to take it, killing animals that would rather live? When a nation of people has a reciprocal relationship with other animals, the humans actually benefit them. For example, when humans intentionally enrich deer habitat, there are more deer because of humans' presence, even including hunting. When this reciprocity exists, humans give their gifts to the deer community, and deer give their gifts in return, helping sustain the humans that sustain them.
 
 The first core spiritual practice is to notice all the gifts we receive and feel grateful for them. Every healthy nation has its own ways of expressing gratitude, but they all have _some_ way.
 
@@ -49,15 +49,15 @@ Just like everybody else, you have sacred gifts, a life purpose, a way you can m
 
 Cultivating and giving one's sacred gifts fully is how a person gives their deepest love. Training a person to give their sacred gifts trains them to give their deepest love in life, and to be their best self.
 
-Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, or mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. The Haudenosaunee teach that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.[xxx-kamana 3 nat|15]
+Some people have a special calling to enrich the soil, find food during lean times, or mentor children. Others are fighters who protect their people, mediators who resolve conflict, or historians who keep ancient stories alive. I learned that it's up to each of us to find our sacred gift or gifts and our own unique way of making the world a better place. The Haudenosaunee teach that it's each of our responsibility to help each other find their gifts, since sometimes a person can struggle to discover them on their own.[xxx-kamana 3 nat|15]
 
-"Cultivating your gifts" means to develop any necessary skills and wisdom. For example, if you're a healer or fighter, then train to be the best healer or fighter you can be in service of people you love.**
+"Cultivating your gifts" means to develop any necessary skills and wisdom. For example, if you're a healer or fighter, then train to be the best healer or fighter you can be in service of people you love.
 
 Like the Thanksgiving Address and cultivating a practical, aware gratitude, I had a hard time with this practice too. I had never thought about my life purpose or what I deeply loved to do. Mostly I'd focused on building a safe and comfortable life, and I'd never thought about what I would do or give if I didn't feel constrained by needing a job. When I thought about it, I felt stressed and anxious.
 
 I knew I had a passion for learning and teaching self-defense even though I hadn't practiced in years. While continuing with the nature connection training, I enrolled in jiu jitsu martial arts classes. I was suddenly walking a more meaningful path, and I felt better.
 
-These two spiritual practices of gratitude and gift-giving are both so beautiful. The third core spiritual practice ties them all together.
+These two spiritual practices of gratitude and gift-giving are both beautiful. The third core spiritual practice ties them all together.
 
 ### The Third Core Spiritual Practice: Living in Reciprocity
 
@@ -85,7 +85,7 @@ I believe that a person's spirituality is simply how they relate to themselves a
 
 These three core spiritual practices are essential. You are the giving of your deepest love. Giving to others in gratitude for what we receive is who we are as humans.
 
-People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy nation, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, dignity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
+People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy nation, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
 
 Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among their people, and between people and the Earth?
 

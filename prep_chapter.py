@@ -15,8 +15,8 @@ from prep_book import BOOK_ADDED_STYLE_PHYS, fixup_html, PHYS, process_chapter
 
 import psutil
 import signal
-
-SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\13 - Can Whole Nations Embrace High Standards.md"
+SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"
+# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\13 - Can Whole Nations Embrace High Standards.md"
 process_name_to_kill = "librewolf.exe" # Replace with the actual process name
 
 def kill_librewolf():

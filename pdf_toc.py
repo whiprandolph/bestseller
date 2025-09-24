@@ -1,4 +1,5 @@
 import os
+import time
 import subprocess
 from pprint import pprint as pp
 from ttoc import is_chapter_name, is_main_part_intro, is_pre_or_post_material
@@ -93,27 +94,31 @@ def prep_pdf_toc(content_path, dimensions, phys):
 
 
 def verify(toc_data, pdf, phys):
+  
   if not phys:
     return
+  
+  verify_image_placements(pdf)
+  
   phys_checks = {
     'chap2':11,
     'chap3':20,
-    'chap4':29,
-    'chap5':35,
-    'chap6':42,
-    'chap7':51,
+    'chap4':28,
+    'chap5':34,
+    'chap6':41,
+    'chap7':50,
     'chap8':59,
     'chap9':73,
     'chap10':91,
     'chap11':103,
     'chap12':108,
     'chap13':116,
-    'chap14':133,
-    'chap15':147,
-    'chap16':154,
-    'chap17':168,
-    'chap18':182,
-    'page_count':197,
+    'chap14':132,
+    'chap15':146,
+    'chap16':152,
+    'chap17':166,
+    'chap18':180,
+    'page_count':196,
   }
   online_checks = {
     'chap2':11,
@@ -178,11 +183,13 @@ def output_table(toc_data, dimensions, phys):
     md.write("<style>\n@page {size: %sin %sin; }\n</style>\n" % (dimensions['width'], dimensions['height']))
 
   md.write("<body>\n\n<br/><br/><br/><br/><br/><br/><br/><br/><br/>")
+  md.write("<div style=\"margin-left: .90in; margin-right: .55in\">")
   md.write("<center><span style=\"font-size:35pt;font-weight:bold\">The<br/>Deepest Revolution</span><br/><br/><br/>\n\n")
   md.write("<h2>William Randolph</h2><br/></center>\n\n")
   md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n\n")
   md.write("<center>Copyright 2025 William Randolph</center>\n\n")
+  md.write("</div>")
   md.write("<div style=\"break-after:page\"></div>\n")
   md.write("<div style=\"margin-top:1in\"><center><b>Table of Contents</b></center></div>\n")
   md.write("<ol class=\"toc-list\" role=\"list\">\n")
@@ -290,6 +297,22 @@ def sample_pdf(book_pdf_path):
     breakpoint()
     a = 4 
 
+
+def verify_image_placements(pdf):
+  riot_1_page = pdf.pages[41]
+  riot_1_text = riot_1_page.extract_text().strip()
+  riot_2_page = pdf.pages[42]
+  riot_2_text = riot_2_page.extract_text().strip()
+
+  assert len(riot_1_page.images) == 2, "%d images found on us riot police page" % len(riot_1_page.images)
+  assert "Riot Police in Venezuela" in riot_1_text, "Venezuela riot police caption not found:\n\n" + riot_1_text
+  assert "Riot Police in China" in riot_1_text, "China riot police caption not found:\n\n" + riot_1_text
+
+
+  assert len(riot_2_page.images) == 1, "%d images found on us riot police page" % len(riot_2_page.images)
+  assert "Riot Police in the United States" in riot_2_text, "US riot police caption not found:\n\n" + riot_2_text
+  print("TEST PASSED: riot police pics in the right spot")
+
 def main(content_path, book_pdf_path, dimensions, phys):
   prep_pdf_toc(content_path, dimensions, phys)
   merge_pdfs(content_path, book_pdf_path, phys)
@@ -368,3 +391,4 @@ html {
 
 if __name__ == "__main__":
   main(r'C:\Users\whip\book_final\content_phys.pdf', r'C:\Users\whip\book_final\book-phys.pdf')
+

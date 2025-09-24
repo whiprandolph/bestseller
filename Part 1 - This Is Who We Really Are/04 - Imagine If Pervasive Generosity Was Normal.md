@@ -46,7 +46,7 @@ How do healthy nations of all kinds avoid hurtful selfishness?
 
 In every healthy nation I've found, people recognize that selfishness would be a tremendous threat if it were ever allowed to take hold, and they go to great lengths to help everyone feel comfortable with sharing generously.
 
-Even in healthy nations, someone may occasionally not get along with others, or start to feel disconnected or distrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
+Even in these nations, someone may occasionally not get along with others, or start to feel disconnected or distrustful. As a result, they may start acting selfishly, prioritizing their own needs over the needs of the group.
 
 Robin Kimmerer described how the traditional Potawatomi responded when they noticed someone behaving selfishly. If someone refused to share, they first counseled the person to help them feel comfortable sharing again. If the person insisted on acting greedily, they then escalated to ostracizing and, if necessary, even banishing them.[xxx-braiding sweetgrass|windigo footprints]
 
@@ -72,7 +72,7 @@ Anybody can see the problems and have opinions about what to do, but without kno
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 
-This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, try to diagnose social and political problems without knowing what healthy nations are even like. People argue endlessly, and the political troubles just continue.
+This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, try to diagnose social and political problems without knowing what a healthy nation is even like. People argue endlessly, and the political troubles just continue.
 
 But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see a real path to creating whole nations where respect is simply normal.
 

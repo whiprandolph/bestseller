@@ -171,20 +171,20 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts, or your most meaningful path</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts or your most meaningful path</div>
 </b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
 
 
 
 ### 17 - Build Spiritual Strength with Others
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Talk clearly about the kind of friendship you want</div>
-</b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
-
-
-
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want</div>
+</b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 
 
@@ -193,8 +193,8 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a men's or women's group dedicated to spiritual growth**</div>
-</b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts.</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a group dedicated to spiritual growth</div>
+</b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 
 

@@ -50,11 +50,11 @@ Finally all the warriors assembled. They set several safe havens where the wives
 
 Finally they tracked down the Mexicans, including two companies of infantry and two of cavalry. Geronimo sent flanking detachments and led advances over hours of vicious fighting. Many Mexicans and Apaches died, but in the end only Apache warriors remained, having vanquished the Mexicans. [xxx-geronimo autobio|kas-ki-yeh]
 
-The Apache warriors had used violence selflessly to protect their nation, communicating to the Mexicans that they could not attack Apache communities without facing any consequences.**
+The Apache warriors had used violence selflessly to protect their nation, communicating to the Mexicans that they could not attack Apache communities without facing any consequences.
 
 #### Selfless Violence, Example 3: The Zapatistas
 
-The Zapatistas are a healthy nation in southern North America, many of whose members are from local indigenous groups. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy nation where everyone upholds their laws.[xxx-ezln preparing 10 years]
+The Zapatistas are a healthy nation in southern North America, many of whose members are from local indigenous nations. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy nation where everyone upholds their laws.[xxx-ezln preparing 10 years]
 
 The Mexican military and the Zapatista military, known as the EZLN, clashed almost immediately in the Zapatistas' home region of Chiapas, Mexico in the south east. Police and military attacked them with dozens of helicopters and many thousands of soldiers.[xxx-interview with major ana maría: on the atrocities]
 

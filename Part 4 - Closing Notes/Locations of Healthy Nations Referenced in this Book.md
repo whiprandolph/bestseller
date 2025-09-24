@@ -1,4 +1,4 @@
-# Healthy Nations Referenced in this Book
+# Locations of Healthy Nations Referenced in this Book
 <br/>
 <table class="nations_referenced_table">
   <tbody class="nations_referenced_tbody">
