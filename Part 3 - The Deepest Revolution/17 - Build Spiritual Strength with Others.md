@@ -36,7 +36,7 @@ It might seem hopeless to just gather a group of 5 or 10 people willing to build
 
 But if you can help create a community of 5, 10, or 50 people, it will be part of the fertile ground from which the Deepest Revolution will sprout. When organizers come around to recruit, offer training, give and receive mutual aid, and seek input on the new nation's laws, any community you help build will play an important role. And that community must exist first.
 
-This is what it means to _build a healthy nation one community at a time_. When you can form deep friendships with people who commit to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity are normal too.
+This is what it means to _build a healthy nation one community at a time._ When you can form deep friendships with people who commit to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity are normal too.
 
 When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced that their way of life is under attack, and they will fight the revolutionaries.
 

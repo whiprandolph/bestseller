@@ -52,7 +52,7 @@ Imagine no boring classes, no unaccountable school authorities, and no meaningle
 
 Imagine going through a process where your nation chooses a leader, and people like Jesus Christ or Martin Luther King Jr are selected.
 
-Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence. When people embrace hurtful qualities like shame, low self-worth, or selfishness, and learn to hold back their deepest love, _people forget their innocence_.
+Imagine finding your childhood innocence again, joyfully offering your deepest love in each moment surrounded by other people giving theirs. Because of course no one loses their innocence. When people embrace hurtful qualities like shame, low self-worth, or selfishness, and learn to hold back their deepest love, _people forget their innocence._
 
 And anything that's been forgotten can be remembered again.
 
@@ -88,7 +88,7 @@ Over time, she became more stressed, and she and her husband began speaking of d
 
 A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
 
-This story shows how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and tolerate the numbness. It also shows how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together_.
+This story shows how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and tolerate the numbness. It also shows how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together._
 
 So find trustworthy people and tell them your thoughts and feelings, and listen to them too. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy nation that is crazy.
 

@@ -10,7 +10,7 @@ But what happens when a ruling class forces laws on the rest, protecting their o
 
 ### Profit Economies Reward and Maintain Selfishness
 
-Ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy_. "Profit" means getting more than one gives, and this is widely encouraged in profit economies that _move resources to people who already have them_. The more wealth a person has, the more additional wealth they are able to get.
+Ruling classes consistently impose a way of life that rewards selfishness, creating a _profit economy._ "Profit" means getting more than one gives, and this is widely encouraged in profit economies that _move resources to people who already have them._ The more wealth a person has, the more additional wealth they are able to get.
 
 Capitalism, socialism, and communism are all types of profit economy. Rich people control most of the wealth in capitalism, while the government controls more in socialism and communism.
 
@@ -42,7 +42,7 @@ Banks and landlords regulate the prices of houses and apartments, calculating th
 
 Authorities may make the drawbacks of poverty arbitrarily more terrible, including putting poor people in prison, shaming the poor, forcing them to eat less nutritious food, or taking away their children when they struggle to provide safe, clean homes.
 
-Financial desperation leads to _coerced consent_, where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job in order to survive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]
+Financial desperation leads to _coerced consent,_ where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job in order to survive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]
 
 In contrast, people of healthy nations have often been called lazy because they only work as hard as needed and no harder. Calling them lazy simultaneously shames them while tricking wage slaves into thinking that endless drudgery is virtuous.[xxx-canada lazy indian]<sup>,</sup>[xxx-australia lazy indian]
 

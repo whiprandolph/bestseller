@@ -15,8 +15,13 @@ from prep_book import BOOK_ADDED_STYLE_PHYS, fixup_html, PHYS, process_chapter
 
 import psutil
 import signal
-SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"
+
+# SOURCE_PATH = r"C:\Users\whip\tdr\Part 1 - This Is Who We Really Are\05 - Why Doesn't Everybody Live in This Beautiful Way.md"
+
+SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\10 - Why Are People So Racist And Hateful.md"
 # SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\13 - Can Whole Nations Embrace High Standards.md"
+# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\14 - The Pervasive Predation Must End.md"
+# SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"
 process_name_to_kill = "librewolf.exe" # Replace with the actual process name
 
 def kill_librewolf():

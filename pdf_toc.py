@@ -105,8 +105,8 @@ def verify(toc_data, pdf, phys):
     'chap3':20,
     'chap4':28,
     'chap5':34,
-    'chap6':41,
-    'chap7':50,
+    'chap6':40,
+    'chap7':49,
     'chap8':59,
     'chap9':73,
     'chap10':91,
@@ -241,13 +241,7 @@ def sample_pdf(book_pdf_path):
   part_two_path = book_pdf_path + " - part 2 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_one_path = book_pdf_path + " - part 1 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
   part_3_path = book_pdf_path + " - part 3 %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
-  bib_path = book_pdf_path + " - bib %s.pdf" % datetime.datetime.now().strftime("%B %d %p")
-
-  bib = PdfWriter()
-  bib.append(book_pdf_path, pages=PageRange("185:193"))
-  bib.write(bib_path)
-  bib.close()
-
+  
   print("  == Sampling PDF\n")
   part_two = PdfWriter()
   part_two.append(book_pdf_path, pages=PageRange("1"))
@@ -259,7 +253,7 @@ def sample_pdf(book_pdf_path):
   try:
     assert "Table of Contents" in part_two_reader.pages[0].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ToC)"
     assert "Why Are We So Lost" in part_two_reader.pages[1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (title page)"
-    assert "Explore paths to creating" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
+    assert "a new healthy nation in" in part_two_reader.pages[-1].extract_text(), "Part 2 page count change caused the excerpt to be misaligned (ending)"
   except AssertionError as exc:
     print(exc)
     breakpoint()
@@ -267,7 +261,7 @@ def sample_pdf(book_pdf_path):
 
   part_3 = PdfWriter()
   part_3.append(book_pdf_path, pages=PageRange("1"))
-  part_3.append(book_pdf_path, pages=PageRange("144:184"))
+  part_3.append(book_pdf_path, pages=PageRange("143:183"))
   part_3.write(part_3_path)
   part_3.close()
 
@@ -283,7 +277,7 @@ def sample_pdf(book_pdf_path):
 
   part_one = PdfWriter()
   part_one.append(book_pdf_path, pages=PageRange("1"))
-  part_one.append(book_pdf_path, pages=PageRange("4:41"))
+  part_one.append(book_pdf_path, pages=PageRange("4:40"))
   part_one.write(part_one_path)
   part_one.close()
 
@@ -299,9 +293,9 @@ def sample_pdf(book_pdf_path):
 
 
 def verify_image_placements(pdf):
-  riot_1_page = pdf.pages[41]
+  riot_1_page = pdf.pages[40]
   riot_1_text = riot_1_page.extract_text().strip()
-  riot_2_page = pdf.pages[42]
+  riot_2_page = pdf.pages[41]
   riot_2_text = riot_2_page.extract_text().strip()
 
   assert len(riot_1_page.images) == 2, "%d images found on us riot police page" % len(riot_1_page.images)

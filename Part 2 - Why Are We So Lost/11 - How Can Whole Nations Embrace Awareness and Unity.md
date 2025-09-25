@@ -28,7 +28,7 @@ As I became more empathetic and observant, I started treating everyone around me
 
 Ultimately, I can only know my own experience, but this doesn't have to limit me when I cultivate deep awareness. With enough practice asking questions and paying attention, I can see others' perspectives even if their experiences are really different from mine. I might not always agree with someone else's point of view, but I can at least understand their perspective which helps me understand their behavior. And when I get it wrong, that just becomes another chance to grow my observation skills and learn.
 
-I strongly believe that these nature connection practices are key to generating unity among people and nonhumans in any nation. Once I started really noticing the perspectives of insects, bears and plants, it became easier to notice and understand other people's perspectives.
+These nature connection practices are key to generating unity among people and nonhumans in any nation. Once I started really noticing the perspectives of insects, bears and plants, it became easier to notice and understand other people's perspectives.
 
 When everybody embraces these deep awareness practices, mutual understanding and empathy become common, helping any group find and maintain deep unity -- even in unhealthy nations.
 

@@ -24,9 +24,9 @@ Sioux parents didn't just model generosity; they actively encouraged generosity 
 
 This generosity doesn't just exist between the people in these societies. In every single beautiful nation I found, their generosity extended to the nonhumans as well. That is, the people live or lived in a way that benefits the nonhumans around them.  
 
-Jeannette Armstrong described the traditional Okanagan decision-making process called en'owkinwiwx, and how it very carefully took into account the full range of the humans' and nonhumans' needs. She was trained as a _land speaker_, and her role in their group decision-making was to consider every decision's effects on the land. In this way, the Okanagans made sure to always take the non-humans' needs into account.[xxx-original instructions|armstrong]
+Jeannette Armstrong described the traditional Okanagan decision-making process called en'owkinwiwx, and how it very carefully took into account the full range of the humans' and nonhumans' needs. She was trained as a _land speaker,_ and her role in their group decision-making was to consider every decision's effects on the land. In this way, the Okanagans made sure to always take the non-humans' needs into account.[xxx-original instructions|armstrong]
 
-In his book _Wolf Totem_, Jiang Rong describes living with Mongolian hunter-shepherds. These people recognized that while the wolves sometimes ate the people's sheep, the wolves also ate gazelles which would overeat and destroy the grassland if the wolves didn't keep them in check. Without the grassland, the sheep would die, and humans couldn't survive either. Thus the hunter-shepherds were very careful not to overhunt the wolves, ensuring the whole ecosystem could thrive.[xxx-wolf totem|chapter 2]
+In his book _Wolf Totem,_ Jiang Rong describes living with Mongolian hunter-shepherds. These people recognized that while the wolves sometimes ate the people's sheep, the wolves also ate gazelles which would overeat and destroy the grassland if the wolves didn't keep them in check. Without the grassland, the sheep would die, and humans couldn't survive either. Thus the hunter-shepherds were very careful not to overhunt the wolves, ensuring the whole ecosystem could thrive.[xxx-wolf totem|chapter 2]
 
 ### Generosity is the Norm
 
@@ -79,7 +79,7 @@ But we don't need to speculate about how to deal with our biggest political prob
 But first, I had to answer a big question: why doesn't everybody live in healthy nations now?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group</div>
-<div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group_. Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: create a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
+<div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group._ Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: create a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>
 
 ### References
 

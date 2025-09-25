@@ -68,7 +68,7 @@ On December 22, 1997, a paramilitary group called Máscara Roja murdered 45 wome
 
 Why did the Zapatistas stand up to the Mexican government? Why was it worth going through such difficult times?
 
-Their rallying cry was _Ya Basta!_, _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Even with elections, they could not choose leaders they respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
+Their rallying cry was _Ya Basta!,_ _Enough!_ Mexican rulers exploited them "without caring that we are dying of hunger and curable diseases, without caring that we have nothing, absolutely nothing, not a decent roof, no land, no work, no health, no food, no education." Even with elections, they could not choose leaders they respected or avoid corporate exploitation.[xxx-first declaration of the lacandon jungle]<sup>,</sup>[xxx-ezln preparing 10 years]
 
 One commander said, "Para todos, todo, para nosotros nada" -- For everyone, everything; for us, nothing. Each person offers their gifts for the good of the group. This person acknowledged that being a Zapatista was difficult. They sometimes only eat hard tortillas, and may fall sick due to poor food. They often sleep on hard floors or can't sleep for days and nights. Their lives are often at risk.[xxx-original instructions|return ancient council]
 
@@ -84,7 +84,7 @@ Immediately the Zapatistas put into effect laws which they had prepared in advan
 
 They passed laws preserving the seas, rivers, and forests. People could keep enough land to sustain their family, but no one was allowed to hoard land or productive equipment. When individuals owned more than a certain number of acres, the extra was redistributed for communal farming.[xxx-ezln ag law]
 
-_Redistributing wealth was a crucial part of creating a healthy nation_, as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will remain selfish.
+_Redistributing wealth was a crucial part of creating a healthy nation,_ as it ensured there would be no rich people to try and corrupt the leadership and society from within. When some people are allowed to stay rich, they will inevitably prioritize their own wealth and privilege over the wellbeing of the nation. In other words, they will remain selfish.
 
 By redistributing wealth early on and outlawing hoarding, the Zapatistas essentially removed deep selfishness in their society. This explains why they could have leaders who actually served the people: rich people were not constantly trying to corrupt their leadership because they didn't allow anyone to be rich.
 
@@ -98,7 +98,7 @@ The Black Panthers, Apaches, and Zapatistas showed what it's like to use selfles
 
 I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose selfless violence in service of the people they loved and in service of the Earth.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Learn to judge when violence is appropriate</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Judge for yourself when violence is appropriate</div>
 <div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? When do you think violence is appropriate, and when is it not?</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #18<br/>Learn self-defense</div>

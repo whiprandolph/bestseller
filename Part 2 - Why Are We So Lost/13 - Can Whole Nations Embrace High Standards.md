@@ -2,7 +2,7 @@
 
 Authorities systematically train conquered people to accept submissive obedience as legitimate and normal. People with this mindset expect little of themselves and others. They don't expect life to be deeply meaningful or others to be reliably trustworthy. Instead, they learn to focus mostly on themselves and pleasing others to protect themselves, rather than standing for what's right. Many people engage in superficial or wishful thinking about social change, and even adopt the ideologies of their abusers.
 
-The consequences of submissive obedience are devastating because it allows authorities to create and maintain all sorts of systemic problems, including widespread corruption, racism, sexism, hatred, child abuse, and greed. Many people accept and then adopt these hurtful attitudes and beliefs as their own, and nearly everyone accepts these problems as inevitable.
+The consequences of submissive obedience are devastating. Authorities create and maintain all sorts of systemic problems, including widespread corruption, racism, sexism, hatred, child abuse, and greed. Many people accept and then adopt these hurtful attitudes, beliefs and practices as their own, and nearly everyone accepts these problems as inevitable.
 
 Without exception, every unhealthy nation has these intractable problems, and none of them exist in any healthy nation I've studied.
 
@@ -173,7 +173,7 @@ Feelings of shame and guilt are some of the biggest obstacles to spiritual growt
 
 Therefore, to effectively hold yourself and others to high standards and help people grow from their mistakes, learn how to pursue personal and collective growth without shame or guilt.
 
-A key requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake_, not a bad person being bad. Trust that they want to show up in a good way and just don't know how. There's something they're missing, but if they could see it, they would learn and show up better.
+A key requirement is to have the attitude that, when someone lets you down, they are a _good person making a mistake,_ not a bad person being bad. Trust that they want to show up in a good way and just don't know how. There's something they're missing, but if they could see it, they would learn and show up better.
 
 Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life or community anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 

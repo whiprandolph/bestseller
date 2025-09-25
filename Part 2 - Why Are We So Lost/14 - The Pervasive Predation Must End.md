@@ -96,9 +96,9 @@ When children are repeatedly mistreated or deprived, they can learn to "hold bac
 
 Interviewers found that most war-volunteers were unable to feel deeply, describing relationships as a "burden." Investigating the war-volunteers' youth, researchers found that "the first act of sexual intercourse was emotionally and interpersonally insignificant to nearly all the boys." Only 5 out of 25 had any kind of emotional response. Of these five, two felt satisfied, one felt disappointed, and two of these five men felt disgust at their first sex. In adulthood, many war-volunteers sought sexual partners whom they described as "sluts, whores, easy lay," and researchers said, "superficiality and insincerity were the only stable emotional features of their response to women. There were almost no indications of guilt, embarrassment, reflection or self-criticism in their accounts of their activities."[xxx-true americanism|p137]
 
-In contrast, the war-resisters valued sexual relationships based on sharing, sensitivity, and self-restraint. The men who did not exhibit these qualities in early sexual encounters expressed regret and believed that they had lost out on chances for personal growth. Many described having learned lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
+In contrast, the war-resisters valued sexual relationships based on good communication and emotional openness. Most men had not exhibited these qualities in early sexual encounters and felt regret, saying they had lost out on chances for personal growth. Many described having learned lessons from women sexual partners, including how to relate to people, share, and enjoy life.[xxx-true americanism|p141]<sup>,</sup>[xxx-true americanism|p147]
 
-Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily "taught" to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put others down.
+Abusive or deprived childhoods profoundly affect people's capacity for pleasure and connection, with some people unable to feel deeply in adulthood and even rejecting deep pleasure and connection as a "burden." In other words, these war-volunteers were _not able_ to feel certain feelings. They lacked a capacity that seems inherent or normal to people raised in a respectful way. They weren't necessarily taught to objectify women and embrace double standards. Child abuse can train children to have insecurity and little or no empathy. Of course someone who doesn't feel deeply is more likely to treat others like objects, i.e. objectifying them. And insecure people tend to put others down.
 
 Even if ruling classes didn't manipulate elections, how are people supposed to agree on any political issues when some people value pleasure, connection and having a meaningful life, and others embrace superficiality and allow themselves to be cogs in a machine? 
 
@@ -112,7 +112,7 @@ The war-resisters had grown up with a respectful childhood, so respect was the n
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself. The question is whether or not people are emotionally capable of having integrity and deep relationships. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
-Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. There are many hurtful attitudes people can develop from disrespectful childhoods when they're unable to heal.
+Of course, not everyone trained for obedience becomes obedient. Some become people-pleasers, and others become self-centered. Every childhood is unique, and each child responds to their challenges in their own way. People can develop many hurtful attitudes from disrespectful childhoods when they're unable to heal.
 
 Abused people commonly abuse their children, and even many parents who mean well still act disrespectfully in ways they do not see due to their own emotional troubles. When adults are not allowed to set good boundaries by standing for what's right, many people never learn to set healthy boundaries even in their personal lives, and thus struggle to set kind and firm boundaries with their children, which causes them to struggle. This is only compounded by the stresses many parents feel due to financial insecurity, relationship troubles, and other challenges. In this way, each generation trains the next to have emotional troubles that, over time, effectively train people to tolerate a disrespectful nation.
 
@@ -126,29 +126,29 @@ Julian Assange said how people learn to tolerate abuse: "Every time we witness a
 
 What qualities would people need to cultivate to have the strength to live in a healthy nation? And how are adults trained to tolerate living in an unhealthy nation with widespread exploitation?
 
-* _Low-integrity_: Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy nations where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
+* _Low-integrity:_ Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy nations where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
 
-* _Cowardice instead of bravery_: When the police punish anyone who tries to take a stand against abusive authorities, they arrest the bravest people and scare the rest into holding back, tolerating abusive behavior, and focusing on their own comfort and safety instead. When bravery is punished, cowardice becomes common.
+* _Cowardice instead of bravery:_ When the police punish anyone who takes a stand against abusive authorities, they arrest the bravest people and scare the rest into holding back, tolerating abuse, and focusing on their own comfort and safety. When bravery is punished, cowardice becomes common.
 
-* _Selfishness instead of generosity_: Profit economies reward selfish, profit-seeking behavior rather than generosity.
+* _Selfishness instead of generosity:_ Profit economies reward selfish, profit-seeking behavior rather than generosity.
 
-* _Resentment instead of gratitude_: When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to feel resentment instead of gratitude for the gifts of life.
+* _Resentment instead of gratitude:_ When people live in financial desperation, learn to fear or resent their neighbors, learn to tolerate injustice, struggle with childhood emotional wounds, and do not know how to receive the gifts of the Earth, it is easy to feel resentment instead of gratitude for the gifts of life.
 
-* _Disconnection instead of connection with people_: When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have trusting and meaningful connections with many other people.
+* _Disconnection instead of connection with people:_ When authorities propagate racist, sexist, or hateful attitudes, punish people for upholding their own law, and sabotage solidarity movements, it becomes difficult to have trusting and meaningful connections with many other people.
 
-* _Disconnection instead of connection with nature_: Profit economies force people to seek money to survive, rather than build a mutually enriching relationship with the Earth.
+* _Disconnection instead of connection with nature:_ Profit economies force people to seek money to survive, rather than build a mutually enriching relationship with the Earth.
 
-* _Displeasure instead of pleasure_: Many people who are deprived of abundant loving touch in childhood may feel displeasure, dissatisfaction or disconnection as a normal, baseline experience of life and struggle to feel deep pleasure. And many religions discourage pleasure.
+* _Displeasure instead of pleasure:_ Many people who are deprived of abundant loving touch in childhood may feel displeasure, dissatisfaction or disconnection as a normal, baseline experience of life and struggle to feel deep pleasure. And many religions discourage pleasure.
 
-* _Forgetting instead of remembering_: Everybody has ancestors who lived in healthy nations in the past, but most have forgotten and think their unhealthy nation is "just how life is."
+* _Forgetting instead of remembering:_ Everybody has ancestors who lived in healthy nations in the past, but most have forgotten and think their unhealthy nation is "just how life is."
 
-* _Shame instead of dignity_: Authoritarian religions train people to feel shame, disconnection from the divinity of life around and within us, belief in inherent badness or selfishness, displeasure, low self-worth, and other negative qualities.
+* _Shame instead of dignity:_ Authoritarian religions train people to feel shame, disconnection from the divinity of life around and within us, belief in inherent badness or selfishness, displeasure, low self-worth, and other negative qualities.
 
-* _Ignorance instead of awareness_: Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking makes people easy to manipulate, so deep awareness is rare.
+* _Ignorance instead of awareness:_ Unhealthy nations often propagate hurtful racist or sexist assumptions, or rigid ideologies and dogmas about how life "should be," whether in economics, religion, or politics. Lazy or rigid thinking makes people easy to manipulate, so deep awareness is rare.
 
-Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread. The truth is that these hurtful qualities are only widespread in unhealthy nations because authorities create conditions that reward selfishness, discourage deep integrity and bravery, and punish or eliminate those who are willing stand for justice no matter what.
+Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread. The truth is that these hurtful qualities are only widespread in unhealthy nations because authorities create conditions that reward selfishness, discourage deep integrity and bravery, and punish those who stand for justice no matter what.
 
-Childhood emotional wounds often cause a lifetime of significant unease, insecurity, or feeling of inherent badness which colors the way many people in unhealthy nations tend to see the world. When such wounded children grow up in societies with widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.
+Childhood emotional wounds can cause a lifetime of significant unease, insecurity, or feeling of inherent badness which colors the way many people tend to see the world. When such wounded children grow up around widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.
 
 However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be trained.
 
@@ -162,9 +162,9 @@ To maintain this way of life, we are continually reconquered: our bravest, wises
 
 ### It is Time to End this Pervasive Predation
 
-Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account_.
+Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account._
 
-You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution_.
+You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution._
 
 ### References
 

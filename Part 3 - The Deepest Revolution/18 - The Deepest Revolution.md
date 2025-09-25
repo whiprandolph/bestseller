@@ -28,7 +28,7 @@ The night before his murder, Martin Luther King Jr said, "I've seen the promised
 
 I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and  no rulers.
 
-The promised land is definitely real, and I'll tell you what else I learned -- _**WE are the promised land**_. Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
+The promised land is definitely real, and I'll tell you what else I learned -- _**WE are the promised land**._ Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
 
 The path won't be easy, as Jesus Christ, Harriet Tubman, and other spiritual leaders around the world have shown. But now is the time. People are suffering as prison slaves. Pollution is causing all manner of diseases and destruction. Racism and sexism persist, as do wars that kill the poor and profit the rich. Nonhumans are suffering and dying in large numbers, and humans won't last long if we don't change course.
 

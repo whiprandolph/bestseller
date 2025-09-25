@@ -24,7 +24,7 @@ Thus, during Jesus' time, oppressed Jewish people longed for a "messiah," which 
 
 Jesus Christ saw huge amounts of needless suffering all around. A few people were rich and had far more than they needed, and many suffered needlessly from troubles like hunger, sickness, and poverty.
 
-Instead of merely obeying the law and tolerating these troubles, Christ consistently stood for what's right _even in violation of the law_. He had the spiritual strength to stand for what's right at great personal risk, knowing he would die for serving his people.
+Instead of merely obeying the law and tolerating these troubles, Christ consistently stood for what's right _even in violation of the law._ He had the spiritual strength to stand for what's right at great personal risk, knowing he would die for serving his people.
 
 Consider how incredibly disobedient Jesus Christ was:
 
@@ -50,13 +50,13 @@ Unfortunately for the Roman authorities, Jesus was extremely inspirational, and 
 
 The religion inspired by Jesus Christ kept spreading, and by the 300s CE, multiple sects existed. Finally, in 380 CE, something strange happened. The same Roman government that had killed Jesus Christ imposed Christianity as a religion on the Roman Empire, requiring people to worship Jesus Christ as their spiritual leader. Why?[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
-Instead of allowing this revolutionary Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity _that trained people for obedience_. The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
+Instead of allowing this revolutionary Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity _that trained people for obedience._ The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
 
 When Roman emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." Anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
 In many ways, the Roman state spread a religious ideology that _discouraged spiritual strength_ needed to stand up for what's right. Thus Christians were trained to _misunderstand their revolutionary spiritual leader Jesus Christ,_ even while authorities required them to worship Christ, a man of incredible spiritual strength.
 
-As a result, Christians have endlessly debated when to obey, how to obey, or whom to obey. But _the attitude of obedience itself is rarely questioned_, which is why every Christian society in history has had oppressive authorities that Christians have obeyed. And whenever Christians have had a revolution, they merely put different oppressive authorities in charge that likewise expect obedience.
+As a result, Christians have endlessly debated when to obey, how to obey, or whom to obey. But _the attitude of obedience itself is rarely questioned,_ which is why every Christian society in history has had oppressive authorities that Christians have obeyed. And whenever Christians have had a revolution, they merely put different oppressive authorities in charge that likewise expect obedience.
 
 So how exactly did Roman emperor Theodosius impose a version of Christianity that discouraged spiritual strength and encouraged obedience instead? It turns out that ruling classes around the world want to train people to obey corrupt authorities, and they commonly use similar tricks.
 
@@ -122,7 +122,7 @@ And what are the results of these hurtful religions and ideologies? Unhealthy na
 
 People learn to accept their obedience as normal. When people demand more jobs, lower taxes, less police brutality, or more funding for schools or hospitals, they're essentially demanding that their authorities please rule them better or more efficiently, and please oppress us a little less. Instead of accepting that they are not free and considering what to do about it, people may believe that they are "losing their rights" or "becoming less free" when their ruling class decides to restrict what speech or actions are allowed.
 
-In unhealthy nations, people only have a single political problem: they are not free. Citizens who ignore this root problem may do all sorts of things that can never lead to deep change, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, praying intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy nations_. This is the path to freedom.
+In unhealthy nations, people only have a single political problem: they are not free. Citizens who ignore this root problem may do all sorts of things that can never lead to deep change, such as voting, having unproductive political arguments with neighbors, worrying about their life after death, praying intensely by thinking thoughts in their head, or waiting for a prophet to be reborn and save them. People may do almost anything other than the one thing that could actually improve their spiritual, emotional, and physical lives immensely: _come together in solidarity, create their own laws, and uphold them to create new healthy nations._ This is the path to freedom.
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But remember that there is wisdom in every nation and religion. You can keep the wisdom you've found by studying Jesus Christ, Buddha, or Mohammad, and you are free to leave the hurtful or unhelpful aspects of these religions behind.
 
@@ -143,9 +143,9 @@ As long as people embrace submissive obedience, this sort of deep confusion will
 
 Muslims recognize Jesus Christ as a prophet, and Christians recognize Christ as the only Son of God. I urge everyone to be more like Jesus Christ, and stop being so obedient. _Be like Jesus Christ, and cultivate the spiritual strength to stand for what's right_ instead of passively tolerating needless suffering and corruption.
 
-Christians, Muslims, and others endlessly debate when it's appropriate to be obedient, and how authorities can use their power "properly." But healthy nations show the truth: to have a way of life with no corruption, no greed, and no discrimination, where respect is normal, there should be _no unaccountable authorities_ and _no submissive obedience_.
+Christians, Muslims, and others endlessly debate when it's appropriate to be obedient, and how authorities can use their power "properly." But healthy nations show the truth: to have a way of life with no corruption, no greed, and no discrimination, where respect is normal, there should be _no unaccountable authorities_ and _no submissive obedience._
 
-This is the root truth behind the _golden rule_, that ancient wisdom which authorities do their best to obscure. Jesus Christ said, "Do to others as you would have them do to you."[xxx-bible niv|luke 6:31] Buddhist scripture says, "Hurt not others with what pains yourself."[xxx-udanavarga|p252] A core Islamic Hadith (guidance) says "None of you will believe until you love for your brother what you love for yourself."[xxx-13th hadith]
+This is the root truth behind the _golden rule,_ that ancient wisdom which authorities do their best to obscure. Jesus Christ said, "Do to others as you would have them do to you."[xxx-bible niv|luke 6:31] Buddhist scripture says, "Hurt not others with what pains yourself."[xxx-udanavarga|p252] A core Islamic Hadith (guidance) says "None of you will believe until you love for your brother what you love for yourself."[xxx-13th hadith]
 
 When everyone stands for what's right, and everyone expects everyone else in their society to do the same, then the golden rule will be fully realized: each person will treat everyone else as they would want to be treated. The golden rule simply describes the normal way of life in healthy nations.
 
@@ -213,7 +213,7 @@ Furthermore, Christ did not intentionally die; he chose to do important work kno
 
 Martin Luther King Jr likewise confronted deep injustices, working to end racial oppression and imperialism in the United States in the 1950s and 1960s.[xxx-georgiaencyclopedia king] Like Jesus Christ, he carried on his work fully aware that he would be killed for it.[xxx-mlk final speech afscmd] And the United States government did indeed kill Martin Luther King Jr, as extensively documented at a trial in Memphis, Tennessee in 1999.[xxx-ratical king memphis trial]
 
-In unhealthy nations, _authorities consistently attack or kill our greatest spiritual leaders_, the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
+In unhealthy nations, _authorities consistently attack or kill our greatest spiritual leaders,_ the ones who show the most bravery and generosity, who act in deepest service, who work the hardest to end the injustices that always exist when a few people rule over the rest.
 
 Authorities and their police try to maintain order, and what could be more disruptive and threatening of the ruler-based social order than a true servant-leader who helps free their people?
 

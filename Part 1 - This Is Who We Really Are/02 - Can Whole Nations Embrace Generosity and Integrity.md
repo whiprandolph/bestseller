@@ -44,7 +44,7 @@ Actually, no. As later chapters show, when people live in respectful societies w
 
 And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, and humiliation of being imprisoned.
 
-Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Robin Kimmerer's book _Braiding Sweetgrass_, she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
+Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Robin Kimmerer's book _Braiding Sweetgrass,_ she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
 
 Banishing or killing someone for severe misbehavior, like hoarding wealth or killing someone in anger, appears to have been very rare.
 
@@ -88,7 +88,7 @@ How amazing would it be to live in a society where people don't accumulate money
 
 This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
-Haudenosaunee writers, in their book _A Basic Call to Consciousness_, described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
+Haudenosaunee writers, in their book _A Basic Call to Consciousness,_ described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
 
 ### When Even Prisoners of War Don't Want to Leave
 

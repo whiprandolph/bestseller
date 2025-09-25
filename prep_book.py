@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import time
 import ttoc
@@ -271,8 +272,19 @@ def process_chapter(full_path, cite_to_index_dict, fix_citation=False):
     start = body.find("[xxx", start+1)
 
   # only ** are in chap 18 We are the promised land.
-  assert "**" not in blob or ("**_" in blob and blob.count("**") == 2), full_path
-  
+  assert "**" not in blob or ("_**" in blob and blob.count("**") == 2), full_path
+  underscore_indices = [i for i, c in enumerate(blob) if c == '_']
+  questionable = [i for i in underscore_indices if blob[i+1] in ",.;:'?!"]
+  try:
+    assert not questionable or ("**_" in blob and blob.count("**") == 2), full_path
+  except Exception as exc:
+    print("Underscore - punctuation ordering problem:")
+    print("\n")
+    for i in questionable:
+      print(blob[i-40:min(i+50, len(blob))])
+    print("\n")
+    breakpoint()
+    a = 5
   return body
 
 
@@ -397,12 +409,10 @@ def main():
   print("About to start PDF...")
   # phys book has bw images
   # online book has color images and for epub, front cover only
-
   shutil.copyfile(cover_src_path, cover_dest_path)
-  print("Finished producing html")
-  make_online_pdf()
-  os.startfile(book_final)
   make_phys_book()
+  os.startfile(book_final)
+  make_online_pdf()
   make_epub()
   # cleanup()
   end_time = time.time()

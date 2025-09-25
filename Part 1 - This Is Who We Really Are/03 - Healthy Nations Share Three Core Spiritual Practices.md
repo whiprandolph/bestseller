@@ -69,7 +69,7 @@ In Africa, the Mbuti likewise rejected a government so-called "conservation" eff
 
 In South America, the Yuracares and Tchimanes work to prevent the destruction of their forests, where the Bolivian government wants to allow illegal road development, monocrop farming, and deforestation.[xxx-counterpunch tipnis] In northern Asia, the Evenk and Nivkh work to stop destructive Russian oil and gas extraction activities.[xxx-cultural survival sakhalin island]
 
-Everywhere I looked, I noticed healthy nations were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity_. This means you have a responsibility to give back to all the beings who give so much to you. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their human and nonhuman neighbors.
+Everywhere I looked, I noticed healthy nations were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity._ This means you have a responsibility to give back to all the beings who give so much to you. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their human and nonhuman neighbors.
 
 Robin Kimmerer noted how cultures of gratitude must incorporate reciprocity too, saying, "Each person, human or no, is bound to every other in a reciprocal relationship. Just as all beings have a duty to me, I have a duty to them." If you receive meat from an animal, you are bound to support the animal's community. When you eat corn, you have a responsibility to care for the soil it grows in. When you receive a river's gift of clear water, you are responsible for protecting the river. Kimmerer noted that learning and practicing these responsibilities is "an integral part of a human's education."[xxx-braiding sweetgrass|allegiance to gratitude]
 
@@ -85,7 +85,7 @@ I believe that a person's spirituality is simply how they relate to themselves a
 
 These three core spiritual practices are essential. You are the giving of your deepest love. Giving to others in gratitude for what we receive is who we are as humans.
 
-People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy nation, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure_, explores these connections even further.
+People may learn to "hold back" or "shut down" parts of themselves to survive in their unhealthy nation, giving less than their deepest love. But anyone and any group can commit to embracing these practices. This book will explore how they encourage beautiful traits, including deep awareness, generosity, reciprocity, bravery, integrity, joy, and strong servant-leadership. And my more in-depth book, _One Disease One Cure,_ explores these connections even further.
 
 Is it any wonder that nations which embrace these spiritual practices are able to maintain respectful relations among their people, and between people and the Earth?
 

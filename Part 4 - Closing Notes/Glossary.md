@@ -22,7 +22,7 @@ _Nation, healthy:_ Nations where the people agree on their laws and everyone is 
 
 _Nation, unhealthy:_ Nations where a ruling class imposes laws and expects submissive obedience from everyone else. Troubles like corruption, greed, discrimination, and child abuse become normalized and rampant, as do personal qualities like cowardice and superficiality. (5-14)
 
-_Reciprocity_: A way of life where gifts are never "paid back" and humans and nonhumans keep giving to each other, deepening mutual gratitude over time. (7, 17)
+_Reciprocity:_ A way of life where gifts are never "paid back" and humans and nonhumans keep giving to each other, deepening mutual gratitude over time. (7, 17)
 
 _Spirituality:_ How a person relates to themselves and the world. (3, 8, 13, 16)
 

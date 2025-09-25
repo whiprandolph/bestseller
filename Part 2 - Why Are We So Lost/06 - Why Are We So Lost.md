@@ -50,7 +50,7 @@ In unhealthy nations, where people are forbidden from holding their leaders acco
 
 As I was born and raised in an unhealthy nation, all this seemed normal and natural to me until I discovered healthy nations where people do not live this way.
 
-Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own nation and seek justice_. In healthy nations, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy nations, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
+Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own nation and seek justice._ In healthy nations, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy nations, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
 
 Unhealthy nations systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice.
 
@@ -66,7 +66,7 @@ Can you imagine living in a society where everyone accepts responsibility for se
 
 In healthy nations, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.
 
-In the book _Daughters of Copper Woman_, a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109-112]
+In the book _Daughters of Copper Woman,_ a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109-112]
 
 These "mirror" people were like magazine opinion writers who commented on all sorts of things. If a mirror thought that the council was about to do something foolish, they might show up at council and imitate one of the leader's every moves so that "every little wart on that person would show, every hole in their idea would suddenly look real big."[xxx-daughters of copper woman|109-112]
 
