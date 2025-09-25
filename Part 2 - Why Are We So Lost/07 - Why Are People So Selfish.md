@@ -42,13 +42,13 @@ Banks and landlords regulate the prices of houses and apartments, calculating th
 
 Authorities may make the drawbacks of poverty arbitrarily more terrible, including putting poor people in prison, shaming the poor, forcing them to eat less nutritious food, or taking away their children when they struggle to provide safe, clean homes.
 
-Financial desperation leads to _coerced consent,_ where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job in order to survive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]
+Financial desperation leads to _coerced consent,_ where workers who are desperate for money will consent to their own exploitation, each person choosing the least-bad job just to stay alive. People will even beg for a job where they can serve a master because even if they are being exploited, at least they can survive.[xxx-odoc|ch10]
 
 In contrast, people of healthy nations have often been called lazy because they only work as hard as needed and no harder. Calling them lazy simultaneously shames them while tricking wage slaves into thinking that endless drudgery is virtuous.[xxx-canada lazy indian]<sup>,</sup>[xxx-australia lazy indian]
 
 Insecurity is common at all levels of wealth. The poor have little money, and they may not know month to month how they will make ends meet. Even the rich feel insecure, knowing that their wealth is the only thing allowing them to live comfortably. With insecurity so widespread, is it any wonder so many people cling to whatever money they can get?
 
-Desperation causes many people to sacrifice their integrity, making it very difficult to have meaningful political conversations. This which explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."[xxx-quote investigator upton]
+Desperation causes many people to sacrifice their integrity, making it very difficult to have meaningful political conversations. This explains the famous quote from Upton Sinclair: "It is difficult to get a man to understand something, when his salary depends upon his not understanding it."[xxx-quote investigator upton]
 
 For example, coal miners commonly refuse to believe in climate change[xxx-coal climate change], and weapons manufacturers often refuse to consider how governments use their weapons.[xxx-weapons-used] Intentionally or not, nearly everyone in unhealthy nations supports inappropriate behavior, whether they work for dishonest news media, manufacture goods with toxic materials, or a thousand other ways.
 
@@ -62,12 +62,9 @@ But consider this. Can you stop? Can you step off your treadmill and quit workin
 
 And if you do have megawealth, you know deep down that you'd better not lose it, or you'll really learn what financial desperation is like.
 
-Perhaps you think that wouldn't happen to you, but the fact that you do not dare step off your job treadmill for very long is proof that you don't want to risk it. Whether we think much about it or not, we are all aware that we must work for money in order to survive and advance in our profit economy. 
+Perhaps you think that wouldn't happen to you, but the fact that you do not dare step off your job treadmill for very long or risk your retirement savings is proof that you don't want to risk it. Whether we think much about it or not, we are all aware that we must work for money in order to survive and advance in our profit economy. 
 
 And therefore the well-off are as trapped as anyone else. The paychecks may vary but the trap is the same. Yes, in a market economy you can choose your job, your boss, and your potential advancement. But the one thing you cannot choose is to not participate. You, just like me and everyone else, are trapped.
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
-<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
 
 ### Gift Economies Reward and Maintain Generosity
 

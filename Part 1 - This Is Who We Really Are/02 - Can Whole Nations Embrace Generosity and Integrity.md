@@ -4,9 +4,9 @@ My time with the Ashaninka felt shocking, but it turns out their generous and re
 
 What is not at all normal, in terms of our basic human nature, is how people live in the United States and every other unhealthy nation, past and present, that have dominated and warped people for millennia.
 
-Because most people alive today have never experienced nation-wide generosity and respect, the dominant unhealthy nations can seem quite normal to us.
+Because most people alive today have never experienced nation-wide generosity and respect, the corruption, greed and discrimination may seem inevitable, part of every human society.
 
-But they are not normal.
+But we can do much better.
 
 ### No Police, No Prisons, No Widespread Crime
 
@@ -42,7 +42,7 @@ How do healthy nations mostly avoid crime? Isn't selfish, violent, or otherwise 
 
 Actually, no. As later chapters show, when people live in respectful societies where everyone stands for what's right and gives generously as a normal way of life, the motivation to behave selfishly is greatly diminished.
 
-And when trouble does arise, misbehaving people get counseled at first, and if necessary, the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, and humiliation of being imprisoned.
+And when trouble does arise, misbehaving people get counseled at first, and the response escalates if the misbehavior continues. This gives people a chance to course-correct without the extreme stress, danger, and humiliation of being imprisoned.
 
 Traditional Potawatomi emphasized sharing and strongly discouraged selfishness. In Robin Kimmerer's book _Braiding Sweetgrass,_ she explained how anyone who took too much, to the detriment of the community, was "first counseled, then ostracized, and if the greed continued, they were eventually banished..."[xxx-braiding sweetgrass|windigo footprints]
 
@@ -76,13 +76,13 @@ American S.M. Barrett described having complete trust in Apache leader Geronimo,
 
 Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.[xxx-fighting cheyennes|introduction]
 
-I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- but also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, and Canada. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful nations.
+I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- and also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, and Canada. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful nations.
 
 And it's not just trustworthiness. I kept finding stories of incredible generosity -- not just occasionally, but as a normal way of life for whole nations.
 
 Jesuit Christian missionaries in the 1600s noted that the Huron would never let someone go without food or shelter. When someone's house burned down in the Huron village Ossossane, their neighbors came together to build a new one. Instead of having markets for trading or bartering, they embraced hospitality, gift-giving, and ceremonial exchanges. Visitors to a village were given food and shelter for as long as they wished to stay.[xxx-huron farmers of the north|p40]
 
-The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.[xxx-huron farmers of the north|p40]
+The Huron would publicly announce whenever someone donated a large amount towards a feast, funeral, or ceremony, and this raised the donor's status. People thus enjoyed accumulating goods so that they could give away as much as possible, and thus earn their neighbors' gratitude. Feasts were common as people sought to build up their stash of food only to give it away.[xxx-huron farmers of the north|p40]
 
 How amazing would it be to live in a society where people don't accumulate money to hoard it and enrich themselves, but gather wealth so they can share it with their neighbors?
 
@@ -114,7 +114,7 @@ There are three ways to deal with war captives that allow a nation to maintain a
 
 People of healthy nations openly acknowledged that in traditional times they treated their captives with respect, as that baseline of mutual respect really does apply to anyone within the nation. Ohiyesa wrote, "It was a point of honor in the old days to treat a captive with kindness."[xxx-indian heroes and great chieftains|sitting bull]
 
-Pretty Shield, a woman of the Crow nation, described how even captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
+Pretty Shield, a woman of the Crow nation, described how captive people were treated with the same decency as everyone else. When asked about captured women, she said, "because they were treated well they never tried to get away. They had the same rights as Crow women, and worked no harder." A Lakota woman named Good-trader was captured by the Crows and ended up having a loving family and later refused to return to the Lakota when she had the chance.[xxx-red mother|p173]
 
 Healthy nations do not incorporate captives as a permanent underclass of servants, which would create exploitative relationships within the nation. Even in the difficult situations created by war, they keep that internal baseline of mutual respect.
 

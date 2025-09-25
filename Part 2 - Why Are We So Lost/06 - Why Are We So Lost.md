@@ -42,7 +42,7 @@ _Riot Police in the United States_
 
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
 
-And who are the police protecting the rich and powerful from? Of course, they are protecting the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy nations. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
+And who are the police protecting the rich and powerful from? Of course, they protect the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy nations. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
 
 This is what it means to live in an unfree, unhealthy nation: people are threatened and punished for seeking justice for themselves and their neighbors.
 
@@ -61,6 +61,9 @@ This shows why so many people of unhealthy nations are lost, with ineffective po
 As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates that ignore the root problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical as long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
 Can you imagine living in a society where everyone accepts responsibility for seeking justice and upholding their laws, with everyone acting in solidarity to ensure that no one is mistreated? Few people have heard stories of how a whole village or nation can stand in solidarity, not just as an abstract idea but as a practical way of life. Let's look at an example so you can see what it's like.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Stand for what's right</div>
+<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
 
 ### The Nootka Stand in Solidarity
 
@@ -90,27 +93,24 @@ The mirror first encouraged empathy, asking people to imagine how a stranger mig
 
 I feel impressed that this woman calmly and clearly confronted the preacher's hurtful attitudes. She even invited her neighbors to have compassion for a stranger after he'd acted rudely. I also feel impressed that the people immediately recognized who was in the right and acted in support of the mostly-naked woman instead of the self-righteous man. This story shows that whole communities can act in solidarity and stand for a culture of mutual respect when conflict arises.
 
-This story showed me what it's like when everyone in a nation upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the clown when she was attacked. They had rules that worked for everyone, and everyone had the spiritual strength to uphold them.
+This story also shows what it's like when everyone in a nation upholds the rules for how people treat each other. The Nootka didn't have police; everybody took a stand to protect the mirror when she was attacked. They had rules that worked for everyone, and everyone had the spiritual strength to uphold them.
 
-And this solidarity was not a one-off event. It was a way of life. The clown walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.[xxx-daughters of copper woman|109-112]
-
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #7<br/>Stand for what's right</div>
-<div class="rev-act-body">When you act on your urge to stand for what's right, you bring justice, connection, and understanding into the world. Think about a time you saw someone disrespected, misunderstood, cheated, or attacked, whether on TV or in person. How did you respond? How could you have taken a stand to make the situation turn out better? Look for another instance where someone around you is disrespected, and find a way to help address the disrespect so it doesn't happen again.</div></div>
+And this solidarity was not a one-off event. It was a way of life. The mirror walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.[xxx-daughters of copper woman|109-112]
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Support someone else when they take a stand</div>
 <div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her? In other words, how much easier was it for her to take a stand knowing that she would have others' support?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 ### Solidarity and Generosity Used to be Universal
 
-A few thousand years ago, every human on Earth lived in a healthy nation where solidarity and widespread generosity among neighbors was simply normal and expected.
+A few thousand years ago, every human on Earth lived in a healthy nation where solidarity and widespread generosity among neighbors was normal and expected.
 
 In recent times, unhealthy nations have formed and spread around the world, trapping free people in abusive societies where a few people rule over the rest.
 
-Why are we so lost then? The problem is simple -- _we're not free, but we pretend that we are._ We don't choose the laws we live by, authorities impose laws and punish us for disobeying them. We're not allowed to stand for justice and uphold our own laws, because law enforcement is the police's job, and they have to follow orders.
+Why are we so lost then? The problem is simple -- _we're not free, but we pretend that we are._ We don't choose the laws we live by; authorities impose laws and punish us for disobeying them. We're not allowed to stand for justice and uphold our own laws, because law enforcement is the police's job, and they have to follow orders.
 
 We're not free, and any political movement that doesn't address this root problem is destined to achieve superficial change at best.
 
-When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put all of us in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.
+When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put people in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.
 
 When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem "just how life is." People can likewise raise their children to absorb fear, insecurity, and selfishness so they seem normal. But they're not normal.
 
@@ -118,9 +118,12 @@ You may not feel this affects you. Maybe you have enough goodies in your life or
 
 Regardless of which unhealthy nation you live in, and no matter how "safe" you feel, the answer is no. And because you know that, you have known since childhood that you must play along.
 
-But "playing along" is not who we really are. And because of that, I know that each of us -- including you -- have the power to help make things right.
+But "playing along" is not who we really are. And because of that, each of us -- including you -- have the power to help make things right.
 
 For many of us, we and our ancestors have been trapped in this way of life for a very long time. This may be painful to face, but we absolutely can -- and we must -- face the truth and stand up together to change it.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
+<div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to do what you need to do.</div></div>
 
 ### References
 

@@ -1,10 +1,10 @@
-## Chapter 14: The Pervasive Predation Must End
+## Chapter 14: This Pervasive Abuse Must End
 
 Sioux man Sitting Bull said, "The life of white men is slavery. They are prisoners in their towns or farms." How do you feel reading that? When I first read this, I thought he must be exaggerating.[xxx-griid sitting bull speech]
 
 How can well-off, even middle- or upper-class people be prisoners?
 
-Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy nations have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating predatory behavior instead of seeking justice, then abuse and exploitation become the norm.
+Just as prisoners have no influence over how the prison rules are enforced, the vast majority of people in unhealthy nations have no influence over how the laws are created or enforced. And just as prisoners have little influence on what happens in the cell across the hall, the vast majority of citizens, when they behave obediently, have little influence over what happens around them. When huge numbers of people resign themselves to tolerating abusive behavior instead of seeking justice, then abuse and exploitation become the norm.
 
 Sadly, child sexual abuse runs rampant in these conditions, including by unaccountable religious, business and political authorities. For example, researchers in Germany, Ireland, the USA and Australia have found many thousands of child sexual abuse victims just from Catholic priests in each country. One investigation into Catholic abuses in France alone found over 216,000 child sexual assault victims between 1950-2020. Universally, higher Catholic Church authorities covered up or stalled investigations into the abusive priests.[xxx-aljazeera catholic pedophilia]
 
@@ -26,7 +26,7 @@ How much child abuse is happening all around you right now, from authorities or 
 
 You would be punished if you intervened to stop child abuse, just like you'd be punished for trying to free unjustly imprisoned people or trying to stop a genocide.
 
-Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, predatory behavior becomes widespread, with the worst predators having the most wealth and power.
+Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, abusive behavior becomes widespread, with the worst predators having the most wealth and power.
 
 A staggering level of abusive behavior always occurs when people allow themselves to be ruled and choose not to stand for what's right. All these disturbing troubles will continue until you and the people around you can generate a healthy nation, where everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
@@ -50,13 +50,13 @@ Healthy nations see any disrespect as a cultural wound that affects everybody, a
 
 The Nootka soon allied with neighboring groups and successfully killed all of these conquistadors. They saw how important it was to their nation's survival to protect themselves from predators.[xxx-daughters of copper woman|p79]
 
-This shows the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, predatory behavior becomes normalized.
+This shows the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, abusive behavior becomes normalized.
 
 ### What Is It Like to be Conquered? And What Does That Have to Do With Me?
 
 Living in an unhealthy nation means being trapped with predators. The vast majority of people accept this as normal and inevitable, even if tragic. Living with predators is "just the way life is."
 
-But all of us have ancestors who once lived in healthy nations where everybody had dignity and stood for what's right as a normal way of life. This was the only way humans lived for millions of years. So what happened to cause so many people to tolerate abuse and predatory behavior? Why do so many people pretend things are fine when they're not, or blame poor people for problems caused by the rich, or accept living a meaningless life?
+But all of us have ancestors who once lived in healthy nations where everybody had dignity and stood for what's right as a normal way of life. This was the only way humans lived for millions of years. So what happened to cause so many people to tolerate abusive behavior? Why do so many people pretend things are fine when they're not, or blame poor people for problems caused by the rich, or accept living a meaningless life?
 
 Imagine, again, if you were a king and wanted to conquer free people and train them for submissive obedience. You could torture and kill disobedient adults to scare the rest into submission, but the adults all grew up with a basically respectful childhood so they have dignity and high self-worth. The adults know what it's like to have deep integrity and trust and to stand for a culture of mutual respect, even if it's not allowed. Even if you imposed a shaming, disconnecting, pro-obedience religion, few would accept it.
 
@@ -118,7 +118,7 @@ Abused people commonly abuse their children, and even many parents who mean well
 
 This shows how conquering is not a single event, but a continual process involving rampant child abuse. Child abuse is a core characteristic of every unhealthy nation that allows it to persist, generation after generation. That means _treating children respectfully is essential to creating healthy nations._
 
-Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate predatory behavior all around them?
+Unfortunately, deep training for submissive obedience does not end in childhood, but continues throughout adulthood. How are adults trained to tolerate abusive behavior all around them?
 
 ### When Adults Learn to "Hold Back" or "Shut Down" Parts of Themselves
 
@@ -156,13 +156,13 @@ However, no one is inherently bad, selfish or hateful. Hurtful qualities like se
 
 For millions of years, every child was trained for beautiful qualities, in part so they would have the strength to stand for a culture of mutual respect in solidarity with others. Only in recent times have people been trained otherwise.
 
-And what is the result? _Predatory behavior is pervasive._
+And what is the result? _Abusive behavior is pervasive._
 
 To maintain this way of life, we are continually reconquered: our bravest, wisest, and most generous spiritual leaders are attacked or killed. We are trapped in financial desperation and surrounded by deceit in the news media. Authoritarian religions train people to obey corrupt leaders. Leaders propagate racist, sexist, and hateful attitudes, and force poor people to fight their wars so the rich get even richer. Solidarity movements are continually sabotaged. Pollution and economic "development" poison and scar the living world that we're all part of. Selfishness is rewarded throughout the economy. And ongoing widespread childhood deprivation and abuse trains many people to support all this or resist ineffectively in countless different ways.
 
-### It is Time to End this Pervasive Predation
+### It is Time to End this Pervasive Abuse
 
-Ending this predation will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account._
+Ending this abuse will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account._
 
 You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution._
 

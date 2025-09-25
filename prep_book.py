@@ -412,6 +412,7 @@ def main():
   shutil.copyfile(cover_src_path, cover_dest_path)
   make_phys_book()
   os.startfile(book_final)
+  print("SKIPPING EBOOKS")
   make_online_pdf()
   make_epub()
   # cleanup()
@@ -445,8 +446,6 @@ def fixup_html(html_path, phys):
   
 
 def make_epub():
-  print("SKIPPING EPUB")
-  return
   print(" == Starting epub at %s" % time.ctime())
   subprocess.run(['pandoc', '-s', online_book_md_path,
                             '-o', epub_book_html_path,

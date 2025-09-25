@@ -1,14 +1,14 @@
 ## Chapter 4: Imagine If Generosity Was Normal
 
-Picture living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of scarcity, or war, you won't need to fend for yourself, because you live in a world where people take care of each other instead of thinking only of themselves, or taking advantage of their neighbors.
+Picture living in a world where people routinely look out for each other's health and safety. A nation of neighbors who ensure each person has food to eat, tools to share, and a place to sleep. Imagine feeling deeply safe at every stage of life knowing that, even in times of scarcity, or war, you won't need to fend for yourself, because you live in a world where people take care of each other.
 
-Hard to imagine, isn't it?
+Is that hard to imagine?
 
 In the United States, like every unhealthy nation, people generally do have to fend for themselves. Businesses must make a profit (take in more than they give out) or else they go under. And most people want to make as much money as possible too.
 
 This drive to get more than we give (trying to "get" rich or trying to "get" ahead) is not our human nature. We are born naturally wanting to give and receive. However, an unnatural imbalance occurs in unhealthy nations, where the economy rewards selfishness and people who don't make enough money must live with sickness, hunger, homelessness, isolation, shame, and worse.
 
-When you live in a nation where few people care if you eat tonight or what happens to you tomorrow, the self-centered desire to take as much as possible (i.e. to get rich) is naturally pervasive, and as a result, it seems quite normal.
+When you live in a nation where few people care if you have food to eat or a place to stay, the self-centered desire to take as much as possible (i.e. to get rich) is naturally pervasive, and as a result, it seems quite normal.
 
 But is it?
 

@@ -1,4 +1,4 @@
-## Chapter 17: Build Spiritual Strength with Others
+## Chapter 17: Build a Healthy Nation One Community at a Time
 
 Can you imagine your life if everyone around you could be trusted to take care of each other and to consistently stand for what's right no matter what? Where resources are freely shared and you never have to worry about affording food, shelter, or help when you need it most?
 
@@ -6,9 +6,9 @@ Okanagan Jeannette Armstrong called this deep trust of knowing your community is
 
 People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
 
-Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a nation one community at a time.
+Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a healthy nation one community at a time.
 
-### Build a Nation One Community at a Time
+### Build a Healthy Nation One Community at a Time
 
 Instead of instituting a new overarching government, even after their revolution, the Zapatistas said clearly that the communities are "the core of all autonomy." They formed higher levels of councils to help the communities protect each other and share resources, but no "higher ups" interfere in the communities.[xxx-ezln new structure] Top-level leaders really are merely conduits for the will of the people, not dictators.
 

@@ -15,7 +15,7 @@
 ### 03 - Healthy Nations Share Three Core Spiritual Practices
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #3<br/>Gratitude for the nonhumans' gifts</div>
-</b><div class="rev-act-body">Cultivating a practical, aware gratitude begins with noticing the gifts you receive. To start, go outside and find a nonhuman to observe closely, and ask what its gifts are.<br/><br/>For example, if you observed a tree, you would ask: how does the tree benefit all the life around it, including you? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Notice every gift that you can, and practice feeling grateful for them.</div></div>
+</b><div class="rev-act-body">Cultivating a practical, aware gratitude begins with noticing the gifts you receive. To start, go outside and find a nonhuman to observe closely, and ask what its gifts are.<br/><br/>For example, if you observed a tree, you would ask: how does the tree benefit all the life around it, including you? One way to find out is to ask "what would be different if the tree weren't there?" Does the tree provide nest sites for birds? Does it give you privacy or provide beautiful greenery? Does it hold the soil in place to prevent erosion? Notice all the gifts that you can, and practice feeling grateful for them.</div></div>
 
 
 
@@ -48,12 +48,12 @@
 
 
 
-### 07 - Why Are People So Selfish
-
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #9<br/>Notice when you hold back out of fear</div>
-</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to show up better.</div></div>
+</b><div class="rev-act-body">Everyone has an urge to stand for what's right, but many learn to hold back out of fear, such as fear of losing friends, angering a spouse, or losing a job. To cultivate spiritual strength, notice when you feel afraid and hold back.<br/><br/>Recall a time when you felt an urge to do a good deed, speak out, or stand up for someone else, but you held back. What were you afraid of? Next time you feel afraid, notice the fear and find the bravery to do what you need to do.</div></div>
 
 
+
+### 07 - Why Are People So Selfish
 
 <b><div class="rev-act-middle"><div class="rev-act-header">Revolutionary Activity #10<br/>Give first</div>
 </b><div class="rev-act-body">How can you form new friendships where sharing is the norm? Someone needs to give first to start a relationship of generous reciprocity.<br/><br/>Think of three ways you could give something to a total stranger, not knowing or caring whether or not they would respond generously. It could be simple like holding a door for someone, mentoring a child, or making a nutritious meal for someone who's sick or recovering from childbirth. Without any expectation of return, give to strangers in ways that, even if the relationship ended immediately, it would be ok. Notice which people show gratitude and give back in their own ways over time, and what relationships of reciprocity form.<br/><br/>When I was 12, I was in the lunch line in school, and a boy ahead of me discovered he didn't have money. I didn't know him, but I offered to buy him lunch, and he became one of my best friends. This taught me to give first before I've received anything, and just see what happens.</div></div>
@@ -176,7 +176,7 @@
 
 
 
-### 17 - Build Spiritual Strength with Others
+### 17 - Build a Healthy Nation One Community at a Time
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
