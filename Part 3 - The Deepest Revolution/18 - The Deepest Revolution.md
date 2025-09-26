@@ -22,7 +22,7 @@ Some people say the arc of history bends towards justice. I say the arc of histo
 
 Ultimately, we remain in an abusive nation because we tolerate it. Yes, there has been a massive amount of shame, violence, broken promises, lies, and spiritual wounding that make deep change really hard. Rulers and their servants use so many tricks and traps to get us to tolerate our own abuse and accept our submissiveness as legitimate and "just the way life is."
 
-The only way to end this abuse is to stand up for ourselves. That's the Deepest Revolution: when enough people stand together and take care of each other even at great personal risk in order to create a new way of life. The arc of history bends when enough people give their divine love fully, right now, rather than holding back hoping to avoid abuse for another day.
+The only way to end this abuse is to stand up for ourselves. That's the Deepest Revolution: when enough people stand together and take care of each other even at great personal risk in order to create a new way of life. The arc of history bends when enough people give their divine love fully, right now, rather than holding back, hoping to avoid abuse for another day.
 
 The night before his murder, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
 

@@ -10,7 +10,7 @@ _Cowardice:_ Prioritizing one's comfort over standing for what's right, the oppo
 
 _Freedom:_ A way of life without rulers, where everyone in a nation expects themselves and everyone else to stand for what's right. Everyone agrees on their laws and bravely upholds them so justice, protection, and mutual respect are normal. (5, 8, 17)
 
-_Healthy community:_ Communities where people hold each other to high standards of behavior, including generosity, integrity, and deep connection with the Earth so that mutual respect and justice are common. Healthy communities are the building blocks of healthy nations. (17)
+_Healthy community:_ Communities where people hold each other to high standards of behavior, including generosity, integrity, and deep connection with the Earth so that trust and mutual respect are common. Healthy communities are the building blocks of healthy nations. (17)
 
 _Integrity:_ The willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice. (6, 13, 17)
 
@@ -18,9 +18,9 @@ _Laws:_ Widely recognized standards of appropriate or inappropriate behavior in 
 
 _Nation:_ A group of people with laws and clear ways of responding to internal misbehavior or external threats. Communities within a nation protect each other from outside attack. (5)
 
-_Nation, healthy:_ Nations where the people agree on their laws and everyone is expected to bravely uphold them as a normal way of life so that justice and mutual respect are normal. Qualities like generosity, integrity, and connection with the Earth are widespread, so trust is widespread too. (Every chapter)
+_Nation, healthy:_ A nation where the people agree on their laws and everyone is expected to bravely uphold them as a normal way of life so that justice and mutual respect are normal. Qualities like generosity, integrity, and connection with the Earth are widespread, so trust is widespread too. (Every chapter)
 
-_Nation, unhealthy:_ Nations where a ruling class imposes laws and expects submissive obedience from everyone else. Troubles like corruption, greed, discrimination, and child abuse become normalized and rampant, as do personal qualities like cowardice and superficiality. (5-14)
+_Nation, unhealthy:_ A nation where a ruling class imposes laws and expects submissive obedience from everyone else. Troubles like corruption, greed, discrimination, and child abuse become normalized and rampant, as do personal qualities like cowardice and superficiality. (5-14)
 
 _Reciprocity:_ A way of life where gifts are never "paid back" and humans and nonhumans keep giving to each other, deepening mutual gratitude over time. (7, 17)
 
