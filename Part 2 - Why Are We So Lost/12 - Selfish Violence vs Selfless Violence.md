@@ -2,7 +2,7 @@
 
 Growing up in the United States, I heard a lot of people say that nonviolence is good, and violence is bad. And sure, peace may be preferable, but when another group attacks, and escape is impossible, a group of people may face a choice: use violence in self-defense, or submit to the attackers.
 
-Even though I desire peace, I don't see violence as inherently good or bad -- it's a question of how a person or group uses violence. Do they use violence selfishly, hurting others for their own personal benefit and lying about it? Or do people use violence selflessly in service of the group, in a way that benefits the people and nonhumans they love?
+Even though peace may be preferable, violence isn't inherently good or bad -- it's a question of how a person or group uses violence. Do they use violence selfishly, hurting others for their own personal benefit and lying about it? Or do people use violence selflessly in service of the group, in a way that benefits the people and nonhumans they love?
 
 ### Selfish Violence in Unhealthy Nations
 
@@ -18,7 +18,7 @@ In 1999, the Russian federal police secretly planted bombs in Russian apartment 
 
 No Russian authorities were punished for this. But the government blamed the attacks on Osama bin Laden and soon invaded Chechnya on the pretense of protecting Russia from terrorists.[xxx-nationalreview satter putin]
 
-Likewise, in the United States the government blamed Osama bin Laden for the 9/11 attacks in 2001, and used these as an excuse to invade Afghanistan and Iraq. However, in recent years the US federal police have released documents indicating that Saudi nationals on the payroll of the Saudi embassy supported the 9/11 attacks, including helping the 9/11 attackers with lodging, financing, and travel. The Saudi ambassador was the billionaire prince Bandar, a good friend of the US president George HW Bush, and both of their wealth was heavily tied to oil production.[xxx-cbs saudi intel]<sup>,</sup>[xxx-aljazeera saudi links]<sup>,</sup>[xxx-guardian bush saudi ties]<sup>,</sup>[xxx-jacobin 911 saudi]
+Likewise, the United States government blamed Osama bin Laden for the 9/11 attacks in 2001, and used these as an excuse to invade Afghanistan and Iraq. However, in recent years the US federal police have released documents indicating that Saudi nationals on the payroll of the Saudi embassy supported the 9/11 attacks, including helping the 9/11 attackers with lodging, financing, and travel. The Saudi ambassador was the billionaire prince Bandar, a good friend of US president George HW Bush who was the father of the president at the time of the attacks. Both of their wealth was heavily tied to oil production.[xxx-cbs saudi intel]<sup>,</sup>[xxx-aljazeera saudi links]<sup>,</sup>[xxx-guardian bush saudi ties]<sup>,</sup>[xxx-jacobin 911 saudi]
 
 Other evidence casts doubt on official explanations of the 9/11 attacks.[xxx-ae911truth witnesses explosion]<sup>,</sup>[xxx-ae911truth explosives] Somehow, the Saudis and Bush family escaped any investigation of their involvement. Like the Russian government, the American leaders got the war they wanted.
 
@@ -26,7 +26,7 @@ Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any 
 
 Many people hesitate to believe these stories, because it is so repugnant to imagine people of one's own country lying and acting so deeply selfishly. It's even more disturbing when it is our unaccountable leaders themselves acting so hurtfully.
 
-This is just a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior simply continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars. 
+This is just a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars.
 
 ### Selfless Violence in Healthy Nations
 
@@ -42,7 +42,7 @@ These warriors didn't risk violence for personal gain. They acted to protect the
 
 The Apache warrior Geronimo offered another example of selfless violence. In 1858, his people believed they were at peace with the Mexicans, and so when he and many other warriors went into a Mexican town to trade one day, they only left a small force to protect the women, children, and elders. When the warriors returned, they found that Mexican soldiers had killed the entire protection force and many of their families. Geronimo had lost more than anyone -- his mother, wife, and all his children were dead. He later told his biographer, "I had lost all."[xxx-geronimo autobio|kas-ki-yeh]<sup>,</sup>[xxx-geronimo autobio|family]
 
-The warriors were not prepared to fight the Mexicans that night, so they and their remaining families left to safety. After replenishing supplies, chief Mangus-Colorado called a war council, and the warriors decided to go to war. They invited other Apache groups to participate, and Geronimo went to them one by one, telling them what had happened, and asking them to participate in a war against the Mexicans.[xxx-geronimo autobio|kas-ki-yeh]
+The warriors were not prepared to fight the Mexicans that night, so they and their remaining families left to safety. After replenishing supplies, chief Mangus-Colorado called a war council, and the warriors decided to go to war. They invited other Apache groups to participate, and Geronimo went to them one by one, telling them what had happened and asking them to participate in a war against the Mexicans.[xxx-geronimo autobio|kas-ki-yeh]
 
 There was no draft, and none of the warriors were poor people seeking to escape poverty. Each one decided for themselves to fight as he or she saw fit, knowing the risks and deciding if it was worth it. Geronimo recruited many people.[xxx-geronimo autobio|kas-ki-yeh]
 
@@ -54,7 +54,7 @@ The Apache warriors had used violence selflessly to protect their nation, commun
 
 #### Selfless Violence, Example 3: The Zapatistas
 
-The Zapatistas are a healthy nation in southern North America, many of whose members are from local indigenous nations. After 500 years of oppression by the Spanish and Mexicans, and 10 years of careful planning, they rose up in revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy nation where everyone upholds their laws.[xxx-ezln preparing 10 years]
+The Zapatistas are a healthy nation in southern North America, many of whose members are from local indigenous nations. After 500 years of oppression by the Spanish and Mexicans and 10 years of careful planning, they rose up in deep revolution on January 1st, 1994. Unlike shallow revolutions that replace one ruling class with another, so that people remain submissive and their lives don't change much, the Zapatistas remembered how to have a healthy nation where everyone upholds their laws.[xxx-ezln preparing 10 years]
 
 The Mexican military and the Zapatista military, known as the EZLN, clashed almost immediately in the Zapatistas' home region of Chiapas, Mexico in the south east. Police and military attacked them with dozens of helicopters and many thousands of soldiers.[xxx-interview with major ana maría: on the atrocities]
 
@@ -90,16 +90,16 @@ By redistributing wealth early on and outlawing hoarding, the Zapatistas essenti
 
 And since redistributing wealth is normal and common in a gift economy, this wasn't just a one-off event. Redistributing wealth is a common, ongoing part of maintaining a way of life based on generous sharing.
 
-The Zapatistas also ended property taxes and vastly reduced rents.[xxx-ezln urban reform law] Everyone was free to arm themselves, and uphold their laws and organize their own self-protection groups.[xxx-ezln law rights and obligations] All prisoners were released except murderers, rapists, and drug trafficking bosses.[xxx-ezln justice law] They developed a system of leadership that ensured that no one passed laws on anyone else. Rather, different layers of councils, each layer covering a larger area, helped coordinate cooperation and collective self-defense as needed.[xxx-ezln new structure]
+The Zapatistas also ended property taxes and vastly reduced rents.[xxx-ezln urban reform law] Everyone was free to arm themselves, uphold their laws, and organize their own self-protection groups.[xxx-ezln law rights and obligations] All prisoners were released except murderers, rapists, and drug trafficking bosses.[xxx-ezln justice law] They developed a system of leadership that ensured that no one passed laws on anyone else. Rather, different layers of councils, each layer covering a larger area, helped coordinate cooperation and collective self-defense as needed.[xxx-ezln new structure]
 
 One fighter said, "We will always carry resistance and rebellion in our hearts, because we are guardians of Mother Earth, we are not the owners... We were born in it, we live in it, we are going to take care of it and we are going to protect it -- and if necessary, we will die for it."[xxx-wagingnonviolence in the face of assassinations]
 
 The Black Panthers, Apaches, and Zapatistas showed what it's like to use selfless violence in service of the community. No one in these stories used violence selfishly. 
 
-I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose selfless violence in service of the people they loved and in service of the Earth.
+I suspect everyone in these stories would have preferred peace. But when the options are either self-defense or submission, each of us must make a choice. They chose selfless violence in service of the people they loved and in service of the Earth. What would you choose?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Judge for yourself when violence is appropriate</div>
-<div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? When do you think violence is appropriate, and when is it not?</div></div>
+<div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? Decide for yourself when you think violence is appropriate, and when it is not.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #18<br/>Learn self-defense</div>
 <div class="rev-act-body">Self-defense is the ultimate act of self-respect. Learn how to defend yourself and the people you love from threats and violent attacks.</div></div>

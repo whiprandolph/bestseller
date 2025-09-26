@@ -110,7 +110,7 @@ Finally I ended the fast with some herbal tea. As I savored the tea, I thought a
 
 This fast showed me how much I distracted myself from my own feelings, and how disconnected I was from that inner voice. Instead of walking a meaningful path, I was walking a comfortable path that didn't feel very meaningful, and I had learned to distract myself from my resulting dissatisfaction. The fast showed me how transformative it could be to simply release all distractions and connect with that inner divine voice.
 
-In a sense, it felt like I was just "being myself," but I wasn't just doing whatever I was used to doing, or doing whatever I felt like. I was being my deepest self, connected with that inner voice that would never tolerate meaningless distractions as I walk a meaningful path.
+In a sense, it felt like I was just "being myself," but I wasn't doing whatever I was used to doing, or doing whatever I felt like. I was being my deepest self, connected with that inner voice that would never tolerate meaningless distractions.
 
 It is essential to get rid of all distractions so that you can hear that divine voice, as many spiritual leaders have shown. Jesus Christ famously began his ministry immediately after fasting for 40 days alone in the desert, during which time he confronted temptations to become wealthy and powerful, and instead chose a path of service.[xxx-bible niv|matthew 4:1-11]
 
@@ -129,7 +129,7 @@ There are many ways to discover and give your gifts, as Chapter 3 described: you
 In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts or your most meaningful path</div>
-<div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
+<div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
 
 ### Cultivating Spiritual Strength, Part 3: Live in Reciprocity
 
@@ -137,7 +137,7 @@ Cultivating a practical aware gratitude and giving your sacred gifts are the fir
 
 The third core spiritual practice, living in reciprocity, completes the puzzle.
 
-Many people practice feeling gratitude. But if you're not giving your own sacred gifts from that place of gratitude, then it's still not fully satisfying.
+Many people practice gratitude. But if you don't give your sacred gifts from that place of gratitude, then it's not fully satisfying.
 
 And some people cultivate a passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
@@ -151,13 +151,13 @@ When you're grateful to other people and nonhumans, and you feel an unstoppable 
 
 _Everything matters._
 
-Harriet Tubman faced extreme risk as she worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. Not only was she fully present and aware of the risks, she conveyed this importance to the people she rescued.[xxx-harriet moses of her people]
+Harriet Tubman faced extreme risk as she worked to free enslaved people. This meant that every aspect of preparation and execution was extremely important. She was fully aware of the risks, and she conveyed this importance to the people she rescued.[xxx-harriet moses of her people]
 
 For example, Tubman brought a gun, not only to protect herself from slavecatchers and their dogs, but also to keep the group together. The way was so difficult that men would sometimes give up, their feet sore and bleeding, claiming they could not take another step. They would say they were ready to die, or if their strength returned, go back to their old home. In order to protect the whole group from the torture and endless oppression they would face if they were caught, Tubman would point her revolver at the head of the exhausted man and say, "Dead niggers tell no tales; you go on or die!" Thus she ensured nobody betrayed the group, even accidentally, and made it possible for everyone to escape safely.[xxx-harriet moses of her people]
 
 As they escaped together, everyone needed to fully meet their potential and do their very best. Everything mattered, and Tubman held them to the highest standards as an act of love. By setting firm boundaries, she helped the men find their strength. 
 
-A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world continuously, and just as your presence can lift others' spirits, any emotional disconnection, carelessness, or unawareness can likewise affect other people and diminish people's energy around you. Okhi Forest and her young daughter visited the Zapatistas, and her daughter once dropped a broom on the ground without thinking about it. A Zapatista woman gently encouraged Forest's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
+A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world. Just as your presence can lift others' spirits, any emotional disconnection, carelessness, or unawareness can likewise affect other people's energy around you. Okhi Forest and her young daughter visited the Zapatistas, and her daughter once dropped a broom on the ground without thinking about it. A Zapatista woman gently encouraged Forest's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
 
 It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift not to be missed or taken for granted. When you give your deepest love you inspire others to give theirs, and when you hold back, this affects other people too.
 
@@ -171,11 +171,11 @@ All the revolutionary activities in this book are meant to help you generate exa
 
 When you practice standing for what's right and supporting others who take a stand, you'll show courage that inspires trust in others -- and who doesn't want to trust their friends?
 
-When you practice giving first and without expecting anything in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
+When you practice giving first without expecting anything in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
 
 When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends than you ever imagined.
 
-When you can cultivate deep relationships with people and nonhumans, they will give life a meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give your gifts when there are grateful people and nonhumans to receive them.
+When you cultivate deep relationships with people and nonhumans, they will give life a meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give them when there are grateful people and nonhumans to receive them.
 
 A person has spiritual strength if they give their love fully in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to cultivating a practical aware gratitude, walking the most meaningful path, and living in reciprocity, you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
@@ -189,9 +189,12 @@ And since everyone is a messiah, you are a messiah too. You may not feel ready t
 
 The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 
-Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultivate your spiritual strength. Give your deepest love, stand for what's right, and accept nothing less of yourself and others.
+Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultivate your spiritual strength. Give your deepest love and stand for what's right as a normal way of life.
 
 The world wants to be blessed by the light of your love.
+
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Make spiritual growth a regular and lifelong practice</div>
+<div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, patience, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. The activities in this book can help.</div></div>
 
 ### References
 

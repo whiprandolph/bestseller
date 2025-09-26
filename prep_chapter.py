@@ -18,7 +18,8 @@ import signal
 
 # SOURCE_PATH = r"C:\Users\whip\tdr\Part 1 - This Is Who We Really Are\05 - Why Doesn't Everybody Live in This Beautiful Way.md"
 
-SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\10 - Why Are People So Racist And Hateful.md"
+SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\16 - Build Your Spiritual Strength.md"
+# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\10 - Why Are People So Racist And Hateful.md"
 # SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\13 - Can Whole Nations Embrace High Standards.md"
 # SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\14 - This Pervasive Abuse Must End.md"
 # SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"

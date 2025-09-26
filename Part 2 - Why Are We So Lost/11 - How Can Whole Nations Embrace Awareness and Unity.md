@@ -8,7 +8,7 @@ Sitting there each day, I wondered, for example, why a bird would constantly loo
 
 I continually practiced feeling into the experiences of other living beings based on my observations. I imagined being a songbird and how terrifying it would be to have a sharp-shinned hawk swoop out of the sky and snatch me up in an instant. If I were a songbird, I would probably eat carefully too!
 
-Eventually I learned something really cool: plants and animals can help me notice parts of the landscape I can't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. I might not notice rodent poop directly, but birds can see the ultraviolet light reflected off the poop. If I notice birds responding to it, I can learn about the rodents' presence with the birds' help.
+Eventually I learned something really cool: plants and animals can help me notice parts of the landscape I can't observe directly. The movement of a bird might indicate a hidden possum moving through low brush. Or, some birds and other animals like deer can see ultraviolet light that is invisible to humans. Many people's clothes reflect ultraviolet light. I might not notice a person hiding in the woods, but birds can see the ultraviolet light reflected off the clothes. If I notice birds responding to it, I can learn about the hidden person's presence with the birds' help.
 
 The first of the three core spiritual practices -- cultivating a practical, aware gratitude -- helped me become much more aware of my environment, and grateful for all the life in it.
 
@@ -32,7 +32,7 @@ These nature connection practices are key to generating unity among people and n
 
 When everybody embraces these deep awareness practices, mutual understanding and empathy become common, helping any group find and maintain deep unity -- even in unhealthy nations.
 
-These practices also helped me make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When I continuously pay attention to what I observe, I notice what I know and what I don't know. There's little room for unexamined beliefs.
+These practices also help people make fewer foolish assumptions. Assumptions are simply unexamined beliefs. When you continuously pay attention to what you observe, you notice what you know and what you don't know. There's little room for unexamined beliefs.
 
 But this is not the only way that cultivating a practical, aware gratitude can help people maintain unity.
 

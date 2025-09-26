@@ -82,7 +82,7 @@
 ### 10 - Why Are People So Racist and Hateful
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #14<br/>Protect yourself from adopting racist or hateful beliefs</div>
-</b><div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you know someone from that group that you admire, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, look for stories at the library or online. If you live in the United States, I suggest finding someone from Russia, Iran, or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working in a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of millions of people.[xxx-arkhipov]<br/><br/>Finding a person to learn from does not mean you need to support the country's government. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're people too, probably stuck in an unhealthy nation like you.</div></div>
+</b><div class="rev-act-body">When all you hear are terrible stories about a country or ethnicity, it can be hard to remember that they're just people too. But if you know someone from that group that you admire, you're much less likely to fall for manipulative racist and hateful propaganda.<br/><br/>Think of a country or ethnicity that your government or news media commonly report in very negative ways. Then find a person from there that you can admire or learn from. You could try to meet someone who lives nearby, or if you cannot find anyone, look for stories at the library or online. If you live in the United States, I suggest finding someone from Russia, Iran, or Palestine.<br/><br/>For example, Vasily Arkhipov was a Russian naval officer working on a Soviet submarine during the Cuban Missile Crisis. One day during that tense standoff with the US in 1962, the two most senior officers wanted to launch nuclear weapons, falsely thinking that war had broken out after an American ship dropped explosives near their sub. All 3 top officers had to agree in order to fire the nuclear weapons, but Arkhipov, the most junior of the three officers, did not believe war had broken out, did not bow to pressure, and refused to launch nuclear weapons. He was right, war had not begun, and his integrity under pressure prevented global nuclear war and saved the lives of millions of people.[xxx-arkhipov]<br/><br/>Finding a person to learn from does not mean you need to support the country's government. But if you're ever tempted to feel racism or hatred towards a whole country or group, the admirable person you find will remind you that they're people too, probably stuck in an unhealthy nation like you.</div></div>
 
 
 
@@ -101,7 +101,7 @@
 ### 12 - Selfish Violence vs Selfless Violence
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Judge for yourself when violence is appropriate</div>
-</b><div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? When do you think violence is appropriate, and when is it not?</div></div>
+</b><div class="rev-act-body">Each person can have the strength to judge when violence is appropriate and when not. Think of 3 examples of selfish violence and selfless violence in service of a greater good. If necessary, do research to find three of each. What do the examples of selfish violence have in common? What do your examples of selfless violence have in common? Decide for yourself when you think violence is appropriate, and when it is not.</div></div>
 
 
 
@@ -122,8 +122,8 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Practice holding firm boundaries without encouraging others to feel shameful or guilty</div>
-</b><div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, practice acknowledging the problematic behavior, the impact it had, and what behavior you would rather see without putting the other person down or making any hurtful or dismissive comments towards them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Hold firm boundaries without encouraging others to feel shameful or guilty</div>
+</b><div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, acknowledge the problematic behavior, the impact it had, and what behavior you would rather see. Do not put the other person down or make any hurtful or dismissive comments to them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
 
 
 
@@ -172,28 +172,33 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts or your most meaningful path</div>
-</b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience and keep listening.</div></div>
+</b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
+
+
+
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Make spiritual growth a regular and lifelong practice</div>
+</b><div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, patience, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. The activities in this book can help.</div></div>
 
 
 
 ### 17 - Build a Healthy Nation One Community at a Time
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Serve the Earth Together</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Serve the Earth Together</div>
 </b><div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Talk clearly about the kind of friendship you want</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>Talk clearly about the kind of friendship you want</div>
 </b><div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>What does your path back to grace look like?</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>What does your path back to grace look like?</div>
 </b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. Decide what words you would need to hear from them, and what actions you would need to see for you to begin trusting them again. Imagine if you were in their shoes, and you realized you'd made a mistake. Think if you would want to be treated the same way.</div></div>
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Join a group dedicated to spiritual growth</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #35<br/>Join a group dedicated to spiritual growth</div>
 </b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 
