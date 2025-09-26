@@ -54,7 +54,7 @@ I realized that driving past a prison is like driving past a chattel slave plant
 
 Everywhere I look in my town, I see the same kind of corruption, each industry in its own way.
 
-I went grocery shopping, and found that almost everything for sale causes cancer, immune disorders, developmental disorders, and other troubles: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans.[xxx-leaf score nonstick chems]<sup>,</sup>[xxx-cbc news plastics food wrap]<sup>,</sup>[xxx-ewg dirty dozen food chems]
+I went grocery shopping, and found that almost everything for sale causes problems like cancer, immune disorders, and developmental disorders: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans.[xxx-leaf score nonstick chems]<sup>,</sup>[xxx-cbc news plastics food wrap]<sup>,</sup>[xxx-ewg dirty dozen food chems]
 
 Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of problems like fraud, bribing government officials, manipulating research trials, and misleading advertising.[xxx-jama fin penalties]
 

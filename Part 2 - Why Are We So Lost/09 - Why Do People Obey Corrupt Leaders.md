@@ -36,7 +36,7 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible esv|mark 11:15-18]
 
-* _Associated with other revolutionaries:_ Christ associated with Zealots, which were a Jewish revolutionary movement. At least one of Jesus's disciples was a Zealot. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
+* _Associated with other revolutionaries:_ Christ associated with Zealots, and at least one of his disciples was a Zealot. Zealots were revolutionaries. Among other things, Zealots were known for not paying taxes and even killing Roman tax collectors.[xxx-britannica jewish overview]<sup>,</sup>[xxx-worldhistory jewish zealots]
 
 * _At trial, Jesus was accused of challenging Roman authority:_ At his trial, among other things, Christ was accused of subverting the nation, encouraging illegal tax avoidance, and claiming he was the rightful leader of the Jews.[xxx-bible kjb|luke 23:2] He did not deny the charges.[xxx-bible esv|matthew 27:12]
 
@@ -54,7 +54,7 @@ Instead of allowing this revolutionary Christianity to spread and inspire more p
 
 When Roman emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." Anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
-In many ways, the Roman state spread a religious ideology that _discouraged spiritual strength_ needed to stand up for what's right. Thus Christians were trained to _misunderstand their revolutionary spiritual leader Jesus Christ,_ even while authorities required them to worship Christ, a man of incredible spiritual strength.
+In many ways, the Roman state spread a religious ideology that _discouraged the spiritual strength_ needed to stand up for what's right. Thus Christians were trained to _misunderstand their revolutionary spiritual leader Jesus Christ,_ even while authorities required them to worship Christ, a man of incredible spiritual strength.
 
 As a result, Christians have endlessly debated when to obey, how to obey, or whom to obey. But _the attitude of obedience itself is rarely questioned,_ which is why every Christian society in history has had oppressive authorities that Christians have obeyed. And whenever Christians have had a revolution, they merely put different oppressive authorities in charge that likewise expect obedience.
 
@@ -110,7 +110,7 @@ Religion is a major way that rulers have imposed sexism. Authoritarian religions
 
 If these holy books really are the Word of an All-Powerful God, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
 
-Tragically, even many non-religious ideologies encourage hurtful attitudes. For example, in my economics classes in college, I was taught that humans are basically selfish, and this is good because the "invisible hand of the market" will organize people and channel their selfishness into productive activities that are good for capitalist society.
+Tragically, even many non-religious ideologies encourage hurtful attitudes. For example, in my economics class in college, I was taught that humans are basically selfish, and this is good because the "invisible hand of the market" will organize people and channel their selfishness into productive activities that are good for capitalist society.
 
 Authoritarian ideologies train people to doubt their instincts, or see obedience as good, or believe they're disconnected from God, evil, shameful, inherently selfish or bad, or only conditionally good (if they obey authority figures). The list of hurtful beliefs is long!
 
@@ -126,7 +126,7 @@ In unhealthy nations, people only have a single political problem: they are not 
 
 I grew up as a Christian, believing in Jesus and God, and it was difficult for me to accept the perspectives in this chapter. But remember that there is wisdom in every nation and religion. You can keep the wisdom you've found by studying Jesus Christ, Buddha, or Mohammad, and you are free to leave the hurtful or unhelpful aspects of these religions behind.
 
-Many authorities insist that their religion or ideology is "all or nothing" -- you either believe everything, or you're cast out as an unbeliever. But that is simply bullying, pressuring people to adopt hurtful beliefs or attitudes just to stay in good standing in their community. Each of us has the power and the responsibility to choose which perspectives to embrace and which ones to let go.
+Many authorities insist that their religion or ideology is "all or nothing" -- you either believe everything, or you're cast out as an unbeliever. But that is just bullying, pressuring people to adopt hurtful beliefs or attitudes just to stay in good standing in their community. Each of us has the power and the responsibility to choose which perspectives to embrace and which ones to let go.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Choose what lessons you learn</div>
 <div class="rev-act-body">You have the power to choose which perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model. I kept this lesson, and I've learned much about bravery, generosity, and fasting from him. I was also taught that I should be obedient to God and human authorities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
@@ -161,7 +161,7 @@ In healthy nations, no one forces laws on anybody else that they don't like. _Ev
 
 "Following a leader" happens when people like the leader's directions. There is no threat involved. For example, the crowds of people who listened to Jesus _followed_ his spiritual leadership without any pressure or coercion because they valued his teachings and service, but they were forced to _obey_ Roman authorities whose leadership they didn't like, because they were threatened with punishment for disobeying.
 
-So how can a nation have leadership if no one obeys? It's simple: they _choose_ the leader whose direction they value, and if that leader begins to disappoint them, they choose a different leader. As Haudenosaunee man Segwalise said, the leaders are "there by the will of the people and when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+So how can a nation have leadership if no one obeys? It's simple: they _choose_ the leader whose direction they value, and if that leader begins to disappoint them, they choose a different one. As Haudenosaunee man Segwalise said, the leaders are "there by the will of the people and when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
 Thus people in healthy nations _choose whom to follow, and only follow as long as they value the leader's direction._ This allows them to have strong leaders, but no rulers.
 
@@ -179,7 +179,7 @@ Major Ana Maria described the hierarchy in the Zapatista military, and how she n
 
 Because each person accepts personal responsibility to _choose who to follow,_ healthy nations select incredibly capable military leaders. Healthy-nation militaries were formidable opponents for the United States until the late 1800s, which explains why the US army named so much military equipment after them, including the UH-72 Lakota utility helicopter, AH-64 Apache attack helicopter, and C-12 Huron transport aircraft.[xxx-medium weapon names]
 
-Even children are not raised to submissively obey their parents in healthy nations. People of healthy nations commonly describe life as a spiraling path, where the process of growing from child to elder is the process taking ever-greater responsibility for oneself and others, continually ensuring the community takes people's and the nonhumans' needs into account.[xxx-grandmothers light|p9]<sup>,</sup>[xxx-braiding sweetgrass|a mothers work]
+Even children are not raised to submissively obey their parents in healthy nations. People of healthy nations commonly describe life as a spiraling path, where the process of growing from child to elder is the process of taking ever-greater responsibility for oneself and others, continually ensuring the community takes people's and the nonhumans' needs into account.[xxx-grandmothers light|p9]<sup>,</sup>[xxx-braiding sweetgrass|a mothers work]
 
 This explains why young people of healthy nations are often very resilient and capable: instead of blindly obeying authority figures and tolerating meaningless or boring schoolwork, they're raised to take responsibility for themselves and others and they're only given meaningful work. Children raised this way are ready for challenges at each stage of life that surprise people in unhealthy nations.[xxx-continuum concept|growing up]
 
