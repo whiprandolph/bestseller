@@ -194,7 +194,7 @@ Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultiv
 The world wants to be blessed by the light of your love.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Make spiritual growth a regular and lifelong practice</div>
-<div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, patience, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. The activities in this book can help.</div></div>
+<div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, patience, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. In moments when you need to take a stand for what's right, you'll have the necessary spiritual strength because you practice that strength regularly. The activities in this book can help.</div></div>
 
 ### References
 
