@@ -297,14 +297,18 @@ def verify_image_placements(pdf):
   riot_1_text = riot_1_page.extract_text().strip()
   riot_2_page = pdf.pages[41]
   riot_2_text = riot_2_page.extract_text().strip()
+  try:
+    assert len(riot_1_page.images) == 2, "%d images found on venezuela/china riot police page" % len(riot_1_page.images)
+    assert "Riot Police in Venezuela" in riot_1_text, "Venezuela riot police caption not found:\n\n" + riot_1_text
+    assert "Riot Police in China" in riot_1_text, "China riot police caption not found:\n\n" + riot_1_text
 
-  assert len(riot_1_page.images) == 2, "%d images found on us riot police page" % len(riot_1_page.images)
-  assert "Riot Police in Venezuela" in riot_1_text, "Venezuela riot police caption not found:\n\n" + riot_1_text
-  assert "Riot Police in China" in riot_1_text, "China riot police caption not found:\n\n" + riot_1_text
 
-
-  assert len(riot_2_page.images) == 1, "%d images found on us riot police page" % len(riot_2_page.images)
-  assert "Riot Police in the United States" in riot_2_text, "US riot police caption not found:\n\n" + riot_2_text
+    assert len(riot_2_page.images) == 1, "%d images found on us riot police page" % len(riot_2_page.images)
+    assert "Riot Police in the United States" in riot_2_text, "US riot police caption not found:\n\n" + riot_2_text
+  except Exception as exc:
+    print(exc)
+    breakpoint()
+    a =5
   print("TEST PASSED: riot police pics in the right spot")
 
 def main(content_path, book_pdf_path, dimensions, phys):

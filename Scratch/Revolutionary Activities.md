@@ -152,7 +152,7 @@
 ### 16 - Build Your Spiritual Strength
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Release what isn't working</div>
-</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
+</b><div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good? Do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 
 
@@ -162,12 +162,12 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Give thanks for Earth's intangible gifts</div>
-</b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or birds or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
+</b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or fresh air or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice the same gratitude with people</div>
-</b><div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time during a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
+</b><div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time in a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
 
 
 
@@ -194,7 +194,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>What does your path back to grace look like?</div>
-</b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. Decide what words you would need to hear from them, and what actions you would need to see for you to begin trusting them again. Imagine if you were in their shoes, and you realized you'd made a mistake. Think if you would want to be treated the same way.</div></div>
+</b><div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. Decide what words you would need to hear from them, and what actions you would need to see for you to begin trusting them again. Ensure your path back to grace follows the golden rule, so you treat others the way you would want to be treated.</div></div>
 
 
 

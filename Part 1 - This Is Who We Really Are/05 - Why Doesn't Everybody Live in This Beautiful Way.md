@@ -22,17 +22,17 @@ And they share one core difference from all unhealthy nations:
 
 <center>__*In healthy nations, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
-A nation is any group of people with their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
+A nation is any group of people that protect each other from external threats and have their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
 
 Furthermore, in healthy nations, people expect each other to _uphold_ their law and seek justice. In unhealthy nations, people are expected to _obey_ the laws they're given and they're punished for disobedience. They're also punished for upholding the law themselves and seeking justice directly. After all, enforcing the law is the police's job, though the police have to follow orders too.
 
 In healthy nations, everyone stands for a culture of mutual respect, so they have strong leaders and nobody imposes law on anybody else. Everyone agrees on their rules for appropriate behavior, so they can live in a respectful way with each other and the Earth. And when someone behaves inappropriately, anyone may take initiative to hold that person accountable. Such healthy nations may fight with each other, but within the nation, they maintain a baseline of mutual respect.
 
-In unhealthy nations, one person or a few people rule over everyone else and demand obedience. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid everybody else from taking initiative to hold misbehaving people accountable.
+In unhealthy nations, one person or a few people rule over everyone else and demand obedience. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid the rest from directly holding misbehaving people accountable.
 
 Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease_ where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal.
 
-Every nation where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" differently in one unhealthy nation compared to another. But they all have some kind of racism, with groups of higher-privilege and lower-privilege. These troubles do not exist in societies where everyone stands for what's right, and everyone agrees on the rules they will live by.
+Every nation where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" differently in one unhealthy nation compared to another. But they all have some kind of racism, with groups of higher-privilege and lower-privilege. These troubles do not exist in societies where everyone stands for what's right, and everyone agrees on the rules they live by.
 
 That is very good news! It means there is a way to end all the most terrible troubles we face. There is a way to end discrimination, greed, pollution, and so many other problems. The path to ending these problems is also the path to freedom. We must work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
 
@@ -46,7 +46,7 @@ To me, a person has _spiritual strength_ if they give their deepest love in each
 
 Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. In difficult moments you may sometimes feel uncertain or scared or angry, but regardless how you feel or what's going on around you, you give your deepest love, and you stand for what's right no matter what.
 
-_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by, and you expect the same from them. Your neighbors expect nothing less than your deepest bravery and integrity as you uphold the laws everybody lives by so that justice becomes normal. _In a free society, everyone is expected to stand for what's right, and no one is punished for it._ Everyone is expected to cultivate the spiritual strength needed for this way of life.
+_Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by, and you expect the same from them so that justice becomes normal. _In a free society, everyone is expected to stand for what's right, and no one is punished for it._ Everyone is expected to cultivate the spiritual strength needed for this way of life.
 
 However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy nation punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy nations, no one has that freedom to uphold their own laws -- not even the rich.
 

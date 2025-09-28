@@ -10,7 +10,7 @@ ISBNs: 979-8-9920652-3-7 (Digital); 979-8-9920652-2-0 (Print)
 
 _Image Credits:_ Cover: _Sophia Mueller;_ Chapter 3: "Hawks Hunting": _Chelsea Spitzer;_ Chapter 6: "Riot Police in Venezuela": _AP Photo/Ariana Cubillos,_[xxx-venezuelan riot] "Riot Police in China": _AP Photo/Eugene Hoshiko,_[xxx-chinese riot] "Riot Police in the United States": _Graeme Sloan/Sipa USA;_[xxx-american riot]  Chapter 8: "Sabotaging Efforts at Deep Cultural Healing": _Chelsea Spitzer;_ Chapter 10: "When People Fall for Scams like Racism": _Chelsea Spitzer._ Reproduced with permission.
 
-_Further Reading:_ _One Disease One Cure_ offers a more comprehensive, detailed exploration of healthy and unhealthy nations (called "healthy and unhealthy cultures" in that book). It includes many themes which were not included in _The Deepest Revolution,_ including sexuality, privilege, entitlement, stories of creating healthy communities (called "healthy subcultures"), nutrition, ancient religious misunderstandings, and much more.
+_Further Reading:_ _One Disease One Cure_ offers a more comprehensive, detailed exploration of healthy and unhealthy nations. It includes many themes which were not included in _The Deepest Revolution,_ including sexuality, privilege, entitlement, stories of creating healthy communities (called "healthy subcultures" in that book), nutrition, ancient religious misunderstandings, and much more.
 
 Both _The Deepest Revolution_ and _One Disease One Cure_ are free to download and have a physical version available. Both books are available at http://thedeepestrevolution.com. All profits will be donated to protect people and the Earth from exploitation.
 

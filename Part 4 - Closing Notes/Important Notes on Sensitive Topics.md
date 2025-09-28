@@ -2,7 +2,7 @@
 
 #### Capitalization of People's Titles
 
-I chose not to capitalize anybody's title in this book, including president, chief, king, or doctor. Healthy nations maintain a baseline of mutual respect for everyone, and they consistently describe the importance of keeping everyone on the same level. For example, the San remind their hunters of how much they depend on their neighbors, and not to feel superior.[xxx-original instructions|peace technologies from the san bushmen of africa] Tzutujil Mayans expected new chiefs to give away all their things so everyone was on the same economic level.[xxx-secrets of the talking jaguar|p209]
+I chose not to capitalize anybody's title in this book, including president, chief, king, or minister. Healthy nations maintain a baseline of mutual respect internally, and they consistently describe the importance of keeping everyone on the same level. For example, the San remind their hunters of how much they depend on their neighbors, and not to feel superior.[xxx-original instructions|peace technologies from the san bushmen of africa] Tzutujil Mayans expected new chiefs to give away all their things so everyone was on the same economic level.[xxx-secrets of the talking jaguar|p209]
 
 Making titles lowercase reminded me that no one's title makes them special. And people without titles are no less worthy of respect.
 
@@ -20,7 +20,7 @@ This book uses widely recognized English names of healthy nations to make it acc
 
 In order to contrast healthy and unhealthy nations, I sought out stories from when each healthy nation could fully embrace their traditional practices and way of life. Many healthy nations have been unable to live in a traditional way since unhealthy nations imposed their laws and various forms of oppression.
 
-Okanagan Jeannette Armstrong described this when she said, "I'm not saying that [the Traditional Okanagan decision-making process is] there today, that it works today, but elements of it are still present and have been carried forward because we are only two generations since colonization began."[xxx-original instructions|armstrong]
+Okanagan Jeannette Armstrong described this when she said, "I'm not saying that [the traditional Okanagan decision-making process is] there today, that it works today, but elements of it are still present and have been carried forward because we are only two generations since colonization began."[xxx-original instructions|armstrong]
 
 This book refers to many traditional practices that were fully observed in the past and uses the past tense to describe these, especially when a speaker like Pretty Shield (Crow) or Black Elk (Lakota) spoke about them in the past tense. However, these nations continue to exist and embrace attitudes and practices from which others can learn a great deal.
 

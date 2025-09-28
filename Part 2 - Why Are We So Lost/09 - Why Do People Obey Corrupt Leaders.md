@@ -50,7 +50,7 @@ Unfortunately for the Roman authorities, Jesus was extremely inspirational, and 
 
 The religion inspired by Jesus Christ kept spreading, and by the 300s CE, multiple sects existed. Finally, in 380 CE, something strange happened. The same Roman government that had killed Jesus Christ imposed Christianity as a religion on the Roman Empire, requiring people to worship Jesus Christ as their spiritual leader. Why?[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
-Instead of allowing this revolutionary Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity _that trained people for obedience._ The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
+Instead of allowing revolutionary forms of Christianity to spread and inspire more people to become revolutionaries like Christ, the Roman emperor embraced it, but he embraced a specific version of Christianity _that trained people for obedience._ The Roman state trained Christian followers to think of themselves as lambs, to think of Jesus as obedient, and to think obedience is good.
 
 When Roman emperor Theodosius imposed _his_ version of Christianity on the Roman Empire, he said those who did not accept it were "demented and insane" and those who would not obey the new religion "shall be smitten first by divine vengeance and secondly by the retribution of our own initiative." Anyone who disagreed with the official Roman version of Christianity was threatened with severe punishment.[xxx-codex theodosianus xvi 1.2. the theodosian code|p440]
 
@@ -106,7 +106,7 @@ Of course, conquered people who feel afraid, nervous, dissatisfied, or miserable
 
 Deep pleasure is so integral to deep life satisfaction that many healthy nations have encouraged sexual pleasure outside the nuclear family, promoting solidarity and deep friendships. For example, some healthy nations such as the Kulina have special events where men and women can have sex with anyone they want except their spouse, promoting deep connections within and across communities. When sexual pleasure is discouraged, this way of building deep relationships and solidarity is also discouraged.[xxx-odoc|ch25]
 
-Religious authorities often put spiritual leaders on a pedestal, as if their spiritual strength was unique or an unattainable ideal. For example, Jesus Christ is often treated as if his grace and spiritual strength was unattainable by mere mortals, and while people should try to learn from him, it's ok and understandable that most people fall far short. This attitude of putting spiritual leaders on a pedestal prevents people from realizing that even Jesus Christ's spiritual strength could be normal in a society, and that we should all hold ourselves to that high standard and help each other reach it.
+Religious authorities often put spiritual leaders on a pedestal, as if their spiritual strength was unique or an unattainable ideal. For example, Jesus Christ is often treated as if his grace and spiritual strength was unattainable by mere mortals, and while people should try to learn from him, it's ok and understandable that most people fall far short. This attitude of putting spiritual leaders on a pedestal prevents people from realizing that Jesus Christ's spiritual strength could be normal in a society, and that we should all hold ourselves to that high standard and help each other reach it.[xxx-from deep woods to civilization|civ preached practiced]
 
 Religion is a major way that rulers have imposed sexism. Authoritarian religions commonly discourage solidarity between men and women by training men to see themselves as superior and training women to submit. The Islamic Quran notes that "Men are the caretakers of women, as men have been provisioned by Allah over women... And righteous women are devoutly obedient..."[xxx-quran|4:34] The Christian Bible says, "I [God] would have you know, that the head of every man is Christ; and the head of the woman is the man."[xxx-bible kjb|1 corinthians 11:3] Tibetan Buddhist authorities, prior to the 1951 Chinese takeover, stated that working women were bad luck, and "among ten women you'll find nine devils."[xxx-when serfs stood up|p329]
 
@@ -139,7 +139,7 @@ There is a common saying that "the winners write the history books." The Roman a
 
 Many Christians have grown up since then believing that Christ really was obedient, and obedience really is good and ordained by God. Ruling classes in Europe and around the world have been happy for their conquered people to believe this pro-obedience religious ideology, and they have urged Christian missionaries to spread it, even many centuries after the fall of the Roman Empire.
 
-And tragically, when Christians embrace the pro-obedience Christian ideology instead of really studying Jesus Christ directly, Christians commonly act in ways that Jesus Christ himself would have strongly opposed. Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but they have urged people to embrace submissive obedience -- unlike Jesus Christ, who disobediently stood for justice even at personal risk. They have spread the beliefs that people are inherently sinful, and men have a rightful place over women -- unlike Jesus Christ who never taught these things. Wherever obedient Christians have gone, they've spread dictatorships where a few people dictate the laws and the rest submissively obey -- unlike their revolutionary spiritual leader Jesus Christ, who opposed the Roman dictatorship he lived in.
+And tragically, when Christians embrace the pro-obedience Christian ideology instead of really studying Jesus Christ directly, Christians commonly act in ways that Jesus Christ himself would have strongly opposed. Christian missionaries have traveled the world ostensibly to share Jesus' wisdom, but they have urged people to amass wealth and embrace submissive obedience -- unlike Jesus Christ, who gave away his things and disobediently stood for justice even at personal risk. They have spread the beliefs that people are inherently sinful, and men have a rightful place over women -- unlike Jesus Christ who never taught these things. Wherever obedient Christians have gone, they've spread dictatorships where a few people dictate the laws and the rest submissively obey -- unlike their revolutionary spiritual leader Jesus Christ, who opposed the Roman dictatorship he lived in.
 
 As long as people embrace submissive obedience, this sort of deep confusion will remain.
 
@@ -171,7 +171,7 @@ Consider a military setting. In unhealthy nations, each soldier is expected to f
 
 In comparison, Apache man Geronimo said that warriors would assume various positions of leadership by common consent, and would only keep those positions as long as they led well.[xxx-geronimo autobio|preparation of a warrior]
 
-That is, each individual accepted _personal responsibility_ to help choose excellent leaders, and to ensure they were leading well. If a leader disappointed them, they would choose someone else.
+That is, each individual accepted _personal responsibility_ to help choose excellent leaders. If a leader disappointed them, they would choose someone else.
 
 In this way, lower-ranked warriors would accept their leader's directions, but they _chose_ to accept his directions because they valued his leadership. "Choosing to follow" a leader and "being forced to obey" may superficially look similar to outsiders. But when the warriors knew that the bravest and most selfless warrior among them was their leader, they didn't need to be threatened with punishment because they wanted to follow.
 
@@ -230,6 +230,8 @@ It is critically important to choose for yourself what to believe. Ancient spiri
 Only by tapping into your own power to choose what to believe and what principles to uphold can you help build a healthy nation without these deep troubles.
 
 ### References
+
+[xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 
 [xxx-ezln ramona san crist]-aaa (Rodríguez, 1994)
 

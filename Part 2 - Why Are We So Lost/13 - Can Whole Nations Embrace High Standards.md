@@ -123,7 +123,7 @@ There are many ways for wise and capable women to serve their people. But neithe
 
 #### Low Standards for Men
 
-Masculine mentors in healthy nations consistently emphasize two sacred gifts: integrity and bravery. These are qualities for everyone to embrace, and they are repeated often when men train boys.
+Masculine mentors in healthy nations consistently emphasize two qualities: integrity and bravery. These are qualities for everyone to embrace, and they are repeated often when men train boys.
 
 Nez Perce chief Joseph's advice to an American boy was simple: "be brave and tell the truth."[xxx-joseph brave truth|p336] Wikis' Cheyenne uncle likewise taught him there was "one thing more important than anything else, and that is to be brave... If you do that, the people will all know of it, and will look on you as a man." He also said, "always be truthful and honest with all your people."[xxx-when buffalo ran|lessons prairie]
 

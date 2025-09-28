@@ -1,12 +1,12 @@
 ## Chapter 16: Build Your Spiritual Strength
 
-So many aspects of our way of life in unhealthy nations keep us stuck. Your profit economy encourages you to focus on your own needs and make money just to survive. We are trained to care about certain things and ignore others, and where to put our attention, time, and money. Many "conventional" or "mainstream" values are somehow superficial or misguided.
+So many aspects of our way of life in unhealthy nations keep us stuck. The profit economy encourages us to focus on our own needs and make money just to survive. We are trained to care about certain things and ignore others, and where to put our attention, time, and money. Many "conventional" or "mainstream" values are somehow superficial or misguided.
 
 Growing up, I learned that the United States was the best country in the world, and I felt proud to live in a capitalist democracy. I looked forward to contributing to the United States' progress and growth throughout my life. As a church-going Christian, I bowed my head every night before dinner and prayed.
 
 Over time, as I learned all the things that I share in this book, I had to give up a lot of beliefs -- beliefs about the society I live in, beliefs about history, beliefs about myself and the future, beliefs about what matters and what doesn't matter.
 
-Giving up old beliefs and perspectives can be hard, even when it's obvious that they don't work. Don Cox described his own transformation. He had engaged in various kinds of activism to fight racial oppression in the US, but finally in 1967 he went to a conference where black people openly discussed oppression and revolution. Cox heard Black Panthers speak for the first time. He said, "I was drunk with this new world I had not even known existed. Pieces started falling into place. It was a cascade, a snowball rolling down the mountainside."[xxx-just another nigger|just another nigger]
+Giving up old beliefs and perspectives can be hard, even when it's obvious that they don't work. Don Cox described his own transformation. He had engaged in various kinds of activism to fight racial oppression in the US, but finally in 1967 he went to a conference where black people openly discussed revolution. Cox heard Black Panthers speak for the first time. He said, "I was drunk with this new world I had not even known existed. Pieces started falling into place. It was a cascade, a snowball rolling down the mountainside."[xxx-just another nigger|just another nigger]
 
 Then he described how hard this was: "Everything I had heard during the weekend helped me understand that all the efforts I had made up until then to be acceptable to mainstream society had just made me a 'good nigger.' I was simultaneously ashamed and furious. All I could do was cry." Cox eventually dedicated himself to freeing black Americans from oppression, becoming a senior leader in the Black Panthers.[xxx-just another nigger|just another nigger]
 
@@ -27,7 +27,7 @@ Embrace your curiosity, and open your mind to possibilities that may have seemed
 To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, where justice is normal and respect is pervasive, where neighbors share generously and trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth. _Part 3_ addresses these three themes.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Release what isn't working</div>
-<div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good or do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
+<div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good? Do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 ### Cultivating Spiritual Strength, Part 1: Practice Noticing the Gifts You Receive and Feeling Grateful
 
@@ -53,7 +53,7 @@ I learned to receive intangible gifts too -- the delight at seeing the sun refle
 
 The more I learned to receive the Earth's gifts, and the more I practiced feeling grateful, the more I saw gifts everywhere I looked. I felt surrounded by abundance, and grateful for life.
 
-The more I felt grateful for the living world, the harder it became to see how humans treat it.
+The more I felt grateful for the living world, the harder it became to see how most humans treat it.
 
 I kept driving past clear-cut forests, huge fields of empty clay destined to be cheap strip malls, dirty factories, and overpriced housing developments full of toxic building materials.
 
@@ -61,7 +61,7 @@ The more I felt the Earth's gifts in my bones, the deeper I felt the loss every 
 
 Eventually, I just had to find ways to protect the forest. I couldn't bear to see the nonhumans I loved being killed in senseless ways.
 
-I had an urge to protect the forest, an urge I couldn't ignore even if I wanted. I was too full of gratitude, too aware of the nonhumans' gifts to me and to each other, too aware of the divinity that lives in them just as it lives in me and all people -- so I couldn't ignore that desire to protect the rivers and forests I loved.
+I had an urge to protect the forest, an urge I couldn't ignore even if I wanted. I was too full of gratitude, too aware of the nonhumans' gifts to me and to each other, too aware of the divinity that lives in them just as it lives in me and all people. I couldn't ignore that desire to protect the rivers and forests I loved.
 
 There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. Cultivating this practical, aware gratitude helped me get on a good path.
 
@@ -69,10 +69,10 @@ There may be many ways to cultivate passion and deep connection with others. But
 <div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Give thanks for Earth's intangible gifts</div>
-<div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or birds or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
+<div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or fresh air or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice the same gratitude with people</div>
-<div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time during a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
+<div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time in a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
 
 ### Cultivating Spiritual Strength, Part 2: Nurture Your Sacred Gifts and Give Them in Service of the People and Nonhumans you Love
 
@@ -139,9 +139,9 @@ The third core spiritual practice, living in reciprocity, completes the puzzle.
 
 Many people practice gratitude. But if you don't give your sacred gifts from that place of gratitude, then it's not fully satisfying.
 
-And some people cultivate a passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
+And some people cultivate passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
-Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely enjoy their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create nuclear bombs their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
+Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely enjoy their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create weapons their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
 
 Gratitude without service can feel empty, and passion without that clear gratitude can easily become comfortable and ultimately meaningless. Ruling classes are only too happy for wage slaves to feel passionate about their jobs.
 

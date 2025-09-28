@@ -87,12 +87,12 @@
       <td class=quarterwidth>Nootka</td>
       <td class=quarterwidth>Okanagan</td>
       <td class=quarterwidth>Potawatomi</td>
-      <td class=quarterwidth>Sac and Fox</td>
+      <td class=quarterwidth>Sioux</td>
     </tr>
     <tr>
-      <td class=quarterwidth>Sioux</td>
       <td class=quarterwidth>Tzutujil Maya</td>
       <td class=quarterwidth>Zapatista</td>
+      <td class=quarterwidth></td>
       <td class=quarterwidth></td>
     </tr>
   </tbody>
