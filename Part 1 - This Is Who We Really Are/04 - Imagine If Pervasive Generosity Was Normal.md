@@ -12,7 +12,7 @@ When you live in a nation where few people care if you have food to eat or a pla
 
 But is it?
 
-Every healthy nation I've studied strongly promotes generosity (giving) and reciprocity (sharing with others who share with me) as a normal way of life. The following stories show what life is like when, instead of selfishness, generosity and reciprocity are normal.
+Every healthy nation I've studied strongly promotes generosity (giving) and reciprocity (sharing with others who share with me over time) as a normal way of life. The following stories show what life is like when, instead of selfishness, generosity and reciprocity are normal.
 
 ### Generosity from Birth
 
@@ -22,7 +22,7 @@ Sioux parents didn't just model generosity; they actively encouraged generosity 
 
 ### Generosity Towards All Life
 
-This generosity doesn't just exist between the people in these societies. In every single beautiful nation I found, their generosity extended to the nonhumans as well. That is, the people live or lived in a way that benefits the nonhumans around them.  
+This generosity doesn't just exist between the people in these societies. In every single beautiful nation I found, their generosity extends to the nonhumans as well. That is, the people live or lived in a way that benefits the nonhumans around them.  
 
 Jeannette Armstrong described the traditional Okanagan decision-making process called en'owkinwiwx, and how it very carefully took into account the full range of the humans' and nonhumans' needs. She was trained as a _land speaker,_ and her role in their group decision-making was to consider every decision's effects on the land. In this way, the Okanagans made sure to always take the non-humans' needs into account.[xxx-original instructions|armstrong]
 
@@ -38,7 +38,7 @@ Nancy Basket described one way that Cherokee women traditionally redistributed g
 
 Jesuit missionaries stayed with the Montagnais-Naskapi and noticed that men left household affairs almost entirely up to the women. Regardless how much food they brought in, it never lasted long because the women commonly shared the food with everyone. Paul Le Jeune wrote, "I have never seen my host ask a giddy young woman that he had with him what became of the provisions, although they were disappearing very fast." Generous sharing was simply normal.[xxx-commodity exchange and subordination]
 
-I've studied many different kinds of economies, including communism in the Soviet Union, capitalism in the United States, or socialism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
+I've studied many different kinds of economies, including socialism in the Soviet Union, capitalism in the United States, or communism in China. They may seem very different, but at their core, all these economies encourage and require selfishness.
 
 How do healthy nations of all kinds avoid hurtful selfishness?
 
@@ -68,15 +68,15 @@ Over time I got jaded. It seemed like corruption is just part of human nature, a
 
 For most of my life, I just did not know what a healthy nation looked like. I'd never found any "experts" who had any idea either.
 
-Anybody can see the problems and have opinions about what to do, but without knowing what healthy nations are like, it's just speculation.
+Anybody can see political problems and have opinions about what to do, but without knowing what healthy nations are like, it's just speculation.
 
 It's like if doctors only studied sick people but never encountered healthy people, and had no idea what "healthy" even looked like. Each doctor would have their own opinion, but without studying healthy people, their cures might not be helpful.
 
 This is essentially what happens when most people debate political and cultural problems in their country. People who have never even heard of healthy nations, much less experienced one, try to diagnose social and political problems without knowing what a healthy nation is even like. People argue endlessly, and the political troubles just continue.
 
-But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations gave me a _standard of comparison:_ once I studied common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, it helped me see the deep troubles in my unhealthy nation more clearly. Even better, these stories helped me see a real path to creating whole nations where respect is simply normal.
+But we don't need to speculate about how to deal with our biggest political problems. Stories of healthy nations offer a _standard of comparison:_ after studying common ways of life in these societies, such as how they avoid selfishness and encourage integrity and generosity, I could see the deep troubles in my unhealthy nation more clearly. Even better, these stories show a real path to creating whole nations where respect is just normal.
 
-But first, I had to answer a big question: why doesn't everybody live in healthy nations now?
+But first, we must answer a big question: why doesn't everybody live in healthy nations now?
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #6<br/>Join or create a sharing group</div>
 <div class="rev-act-body">We each have the ability to make generosity normal all around us. One way is to invite your friends together to found a _sharing group._ Find a way for the group to serve each of the individuals. For example, each month the group may travel to one person's home and help with home maintenance and gardening. Often the recipient will cook a big meal for everyone to celebrate after a long day. Another example: create a fund to which each person contributes $100/month, which your group can give or lend to anybody who needs help. Get creative and have fun thinking of how your sharing group can act generously towards each other or serve a meaningful cause.</div></div>

@@ -48,7 +48,7 @@ This is what it means to live in an unfree, unhealthy nation: people are threate
 
 In unhealthy nations, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption and crime?
 
-As I was born and raised in an unhealthy nation, all this seemed normal and natural to me until I discovered healthy nations where people do not live this way.
+As I was born and raised in an unhealthy nation, all this seemed normal and natural until I discovered healthy nations where people do not live this way.
 
 Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own nation and seek justice._ In healthy nations, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy nations, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
 
@@ -110,7 +110,7 @@ Why are we so lost then? The problem is simple -- _we're not free, but we preten
 
 We're not free, and any political movement that doesn't address this root problem is destined to achieve superficial change at best.
 
-When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put people in a false survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.
+When standing in solidarity to seek justice is outlawed, fear and insecurity become widespread and put people in an isolated survival mode that breeds and rewards selfishness and disrespect. Instead of pervasive generosity, selfishness is pervasive at every level in every unhealthy nation.
 
 When a generation of people cannot free themselves, that fear, insecurity, and selfishness can start to sink in and seem "just how life is." People can likewise raise their children to absorb fear, insecurity, and selfishness so they seem normal. But they're not normal.
 

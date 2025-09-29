@@ -90,7 +90,7 @@ Nancy Basket described how the Europeans commonly misunderstood the Cherokee gif
 
 "Indian giver" became a negative label for someone who gave a gift and now selfishly wants it back. In reality, they are behaving thoughtfully, noticing whether the gift is needed. If the gift goes unused, the so-called Indian giver exerts extra effort to retrieve the unused item and give it to someone else who needs it more.
 
-Amazingly, gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
+Gift-economy practices can seem offensive to people in profit economies, and profit-economy practices can seem offensive to people in gift economies.
 
 A person in a gift economy may feel upset if a person accepts a gift, doesn't use it, and then refuses to pass it on to someone else. A person from a profit economy may feel upset if they receive a gift only to find that the giver wants it back. Both sides may feel offended, and it reflects a fundamentally different perspective on sharing (and trusting others to share) versus hoarding (and not trusting others to share). Do gifts keep moving until they arrive where they are most needed? Or do people hoard possessions whether they need them or not?
 

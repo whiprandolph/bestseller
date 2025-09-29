@@ -127,7 +127,6 @@ Miller, R. (2015). American Indian Constitutions and Their Influence on the Unit
 Morgan, T. (2018, March 22). The NRA Supported Gun Control When the Black Panthers Had the Weapons. HISTORY. https://www.history.com/articles/black-panthers-gun-control-nra-support-mulford-act
 Mujeres 45% de las bases zapatistas. (2011, November 30). Cimacnoticias.Com.Mx. https://cimacnoticias.com.mx/2003/11/19/mujeres-45-de-las-bases-zapatistas/
 Myers, I. (2025, March 18). EWG's Dirty Dozen Guide to Food Chemicals: The top 12 to avoid | Environmental Working Group. EWG. https://www.ewg.org/consumer-guides/ewgs-dirty-dozen-guide-food-chemicals-top-12-avoid
-Nabokov, P. (1987). Indian Running. Ancient City Press.
 Nawawi. (n.d.). 40HadithNawawi: Hadith 13. 40HadithNawawi. Retrieved August 7, 2025, from https://40hadithnawawi.com/hadith/13-love-for-your-brother-what-you-love-for-yourself
 Neihardt, J. (2014). Black Elk Speaks. University of Nebraska Press.
 Nelson, M. (Ed.). (2008). Original Instructions. Bear and Company.

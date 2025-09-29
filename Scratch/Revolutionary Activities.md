@@ -133,7 +133,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
-</b><div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
+</b><div class="rev-act-body">Consistently facing your fears is one key way to cultivate bravery. Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do what you need to do.</div></div>
 
 
 
@@ -177,7 +177,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Make spiritual growth a regular and lifelong practice</div>
-</b><div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, patience, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. In moments when you need to take a stand for what's right, you'll have the necessary spiritual strength because you practice that strength regularly. The activities in this book can help.</div></div>
+</b><div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. In moments when you need to take a stand for what's right, you'll have the necessary spiritual strength because you practice that strength regularly. The activities in this book can help.</div></div>
 
 
 

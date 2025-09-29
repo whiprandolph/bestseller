@@ -10,7 +10,7 @@ But our troubles go deeper still.
 
 _A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is continually sabotaged. Instead, low integrity, cowardice, low mutual understanding, superficiality, and low self-worth become common.
 
-When people accept that corruption and greed are unavoidable aspects of their nation, they also come to think that these unwelcome personal qualities like cowardice and superficiality, while tragic, are unavoidable too. When these troubles start to seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
+When people accept that corruption and greed are unavoidable aspects of their nation, they also come to think that these unwelcome personal qualities like cowardice and superficiality, while tragic, are unavoidable too. When these qualities start to seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
 
 But there is good news. It is possible to live without troubles like discrimination and corruption. It's also possible to live in a nation where everyone embraces integrity, bravery, and generosity so that neighbors can deeply trust each other. Many stories of healthy nations living in traditional times show how high our standards can be, and reveal how low our standards currently are.
 
@@ -22,23 +22,19 @@ _Integrity:_ Every legal system around the world requires testifying under oath,
 
 In contrast, integrity was so pervasive among the traditional Apache that no one was compelled to take an oath because, according to Geronimo, "it is not believed that they will give false testimony in a matter relating to their own people."[xxx-geronimo autobio|Unwritten Laws of the Apaches]
 
-Can you imagine living in a community where high integrity is normal and expected, so that no one needs to be threatened to tell the truth?
-
 _Physical resilience:_ Crow woman Pretty Shield described how physically resilient her people used to be: "[W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
 _Generosity:_ A Christian missionary visited the Ojibway, Cheyenne, Cree and Sioux nations, describing how Jesus Christ selflessly gave away all his possessions, urged others to do the same, and dedicated his life to feeding, healing, and protecting his people. The missionary was told that, prior to colonization, Jesus Christ's level of selfless generosity was normal among them.[xxx-from deep woods to civilization|civ preached practiced]
 
-_Meaningful Education for Young People:_ One Nootka storyteller described how the women would often have their moon time at the same time each month, and they would go to a special house and enjoy a four-day party. They would sit on special soft moss and give their blood back to the Earth and play games and talk. Women would rub each others' back and make special tea if someone had cramps. This became a major opportunity for older women to mentor younger women. For example, young women learned the special Frog posture that could help relieve cramps and make childbirth easier.
-
-Can you imagine if adults took young people's education seriously, offering them the most meaningful and practical mentorship they could every day?
+_Meaningful Education for Young People:_ One Nootka storyteller described how the women would often have their moon time at the same time each month, and they would go to a special house and enjoy a four-day party. They would sit on special soft moss and give their blood back to the Earth and play games and talk. Women would massage each other and make special tea for cramps. This became a big opportunity for older women to mentor younger women. For example, young women learned the special Frog posture that could help relieve cramps and make childbirth easier.
 
 _Benefitting the Earth:_ Stories abound of people of healthy nations benefitting or enriching the Earth as a normal way of life. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a powerful bow so that the overall forest also benefitted.[xxx-the vision|p81]
 
-Their normal way of life benefits the Earth around them, increasing the natural abundance that they depend on.
+These are high standards. Total integrity is normal, and Jesus Christ's level of selfless generosity is considered normal too. Physical resilience and meaningful childhood education are also baseline expectations. Their normal way of life benefits the Earth around them, increasing the natural abundance that they depend on.
 
-When people bring out the best in each other, have high expectations, or hold each other to high standards, whole nations really are capable of maintaining that baseline of mutual respect among the people, and between people and the Earth.
+When people bring out the best in each other and hold each other to high standards, whole nations really can maintain a baseline of mutual respect among the people, and between people and the Earth.
 
-Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other caring people you know.
+Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other strong and caring people you know.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
 <div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of a time when someone brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, give up on a goal too easily, or tolerate an unsatisfying relationship or job without trying to change it. Help them find the strength to do what they need to do.</div></div>
@@ -60,11 +56,11 @@ Healthy nations show how capable and confident children and young adults can be,
 
 Martín Prechtel describes how, among the Tzutujil Maya, both boys and girls were sufficiently mature and skilled to contribute to the family by the age of 12, carrying their own weight or more.[xxx-secrets of the talking jaguar|p99-100]
 
-Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. As one Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young woman would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." Children raised with meaningful mentorship every day were ready for adulthood and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
+Young Nootka boys and girls were trained to have very strong physical endurance and very high standards. One Nootka woman storyteller said, "every day we had to get our bodies ready. So that when the time came to go from bein' a girl to bein' a woman, we'd be ready." Girls learned many skills including gathering fiber and weaving. When puberty arrived, the young woman would have a rite of passage where, after a big party with her family and friends, she dressed up in her finest clothes and was taken out into the ocean. Far from shore, she would strip down naked and dive into the ocean and the boat would leave her all alone. She would swim back to her family and friends who lit a fire on the beach for her return. As she approached, "they'd start to sing a victory song about how a girl went for a swim and a woman came home." Children raised with meaningful mentorship every day were ready for adulthood and other adults recognized it. When teenagers are treated respectfully, there is nothing to rebel against![xxx-daughters of copper woman|p101-102]
 
-Many adults assume that young teenagers cannot be mature enough to have respectful sexual relationships, but this is only typically true in unhealthy nations. When children are raised to take deep responsibility for themselves and others, feel their feelings, understand risk, and have good boundaries, the Mosuo show that young adults can have respectful and joyful relationships as teenagers.
+Many adults assume that young teenagers cannot be mature enough to have respectful sexual relationships, but this is only typically true in unhealthy nations. When children are raised to take responsibility for themselves and others, feel their feelings, understand risk, and have good boundaries, the Mosuo show that young adults can have respectful and joyful relationships as teenagers.[xxx-sex at dawn|love lust lagu]
 
-When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one for the family to enter and one all her own so she can easily have lovers visit. One visitor described young Mosuo women as "sassy and confident," and noted the lack of "broken homes," impoverished single mothers, and shameful divorces.
+When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one for the family to enter and one all her own so she can easily have lovers visit. One visitor described the young women as "sassy and confident," and noted the lack of "broken homes," impoverished single mothers, and shameful divorces.[xxx-sex at dawn|love lust lagu]
 
 In unhealthy nations, a major obstacle to having many sexual relationships is the fear of pregnancy and becoming a parent before the person is ready. However, expecting the two sexual partners to be the sole parental figures for any child is unnecessarily limiting. Each Mosuo man knows from boyhood that he will be a parent figure for his sister's children, and this frees both men and women to have sex without worrying about which man fathered which child. Mosuo women know they will always have a family and parenting support regardless what happens with their sexual relationships, which takes a lot of pressure off of them. One Mosuo woman described how they share parental responsibilities: "In place of one father, Mosuo children have many uncles who take care of them... We also have many mothers, because we call our aunts... 'little mother.'" Others outside the family help too.[xxx-sex at dawn|love lust lagu]
 
@@ -129,7 +125,7 @@ Nez Perce chief Joseph's advice to an American boy was simple: "be brave and tel
 
 Men of healthy nations show what it's like to live with total integrity and bravery, and they reveal just how far from this high standard most men in unhealthy nations typically live.
 
-Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior] They were capable of running 75 miles per day for three days straight while carrying their food.[xxx-indian running|p138]
+Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior] Young men had to cultivate this depth of bravery to be considered ready for marriage.[xxx-geronimo autobio|family]
 
 Huron men intentionally practiced bravery throughout their adult lives so they would be ready to protect their people from any injustice or threat. This included intentionally causing themselves pain to practice maintaining composure under duress.[xxx-huron farmers of the north|44]
 
@@ -143,9 +139,9 @@ I did not know what a good man was until I studied healthy nations where boys ar
 
 Stories from healthy nations show what it's like when women can trust all the men. One Cheyenne boy named Wikis was 5 or 6 years old when his village was suddenly attacked, and men instantly ran towards the threat while women gathered the children. Wikis said, "My mother rushed out and caught me by the hand... and then she stopped and in a shrill, sweet voice began to sing; and other women that were running about stopped too, and began to sing songs to encourage their husbands and brothers and sons to fight bravely; for enemies were attacking the camp..."[xxx-when buffalo ran|attack on the camp] The women would not have sung for untrustworthy men.
 
-All these stories show how low our standards for men are. When boys are trained for submissive obedience instead of deep bravery, they learn to "hold back" or "shut down" core parts of themselves, becoming spiritually lost as they do not know how to relate to themselves and the world in a good way.
+All these stories show how low our standards for men are. When boys are trained for submissive obedience, they are trained for cowardice instead of bravery and humiliation instead of dignity. This upbringing trains boys to "hold back" or "shut down" core parts of themselves, becoming spiritually lost as they do not know how to relate to themselves and the world in a good way.
 
-Men can learn to ignore their own humiliation and cowardice. Some become people-pleasers who stand for nothing, just trying to keep life comfortable. Others become selfish, standing only for their own needs. That Martin Luther King Jr and Jesus Christ are so revered shows just how rare profoundly good men are in unhealthy nations.
+Boys are raised to ignore their humiliation and cowardice so it seems normal. Some grow up to be people-pleasers who stand for nothing, just keeping life easy. Others become selfish, standing only for themselves. That Martin Luther King Jr and Jesus Christ are so revered shows how rare profoundly good men are in unhealthy nations.
 
 Spiritually lost men may preen on social media, flaunt their wealth, or spend vast hours playing video games. Some men live vicariously by watching movies or professional sports, or they focus on superficial hobbies or making money, or obsess over political and religious dogmas.
 
@@ -153,7 +149,7 @@ In 1877, the American military captured some Cheyenne women and children. The ve
 
 Men who have been systematically trained to deny their feelings and not to follow their sacred path may abandon their family or beat them, or get lost in drugs or alcohol. Even among men who avoid these troubles, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!
 
-Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of police whistleblowers who call out the police's own illegal activity, so the rest know to stay in line.[xxx-odoc|ch32]
+Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of brave police whistleblowers who call out the police's own illegal activity, scaring the rest into cowardly obedience.[xxx-odoc|ch32]
 
 Behind this superficiality, many men struggle with nagging questions like "when does life become meaningful?" or "why am I even here?" As Henry David Thoreau put it, "The mass of men lead lives of quiet desperation."[xxx-walden|economy] This also explains the saying that "Every man dies. Not every man really lives."[xxx-braveheart every man]
 
@@ -204,14 +200,14 @@ Self-acceptance is the foundation for spiritual growth, so your growth will be l
 
 When you hold yourself to high standards, your rate of growth will increase. You won't waste time feeling shame and guilt. You will just notice your mistakes, learn from them, and move on.
 
-These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create relationships of deep trust, so that qualities like integrity, bravery, awareness, and generosity become normal.
+These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create relationships of deep trust, where qualities like integrity, bravery, awareness, and generosity are normal.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
-<div class="rev-act-body">Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do the thing you're afraid to do.</div></div>
+<div class="rev-act-body">Consistently facing your fears is one key way to cultivate bravery. Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do what you need to do.</div></div>
 
 ### References
 
-[xxx-indian running|p138]-aaa (Nabokov, 1987, 138)
+[xxx-geronimo autobio|family]-aaa (Barrett, 2010, "The Family")
 
 [xxx-black elk speaks|footnotes]-aaa (Neihardt, 2014, "Footnotes")
 
