@@ -159,7 +159,6 @@ Ryan, C., & Jethá, C. (2010). Sex at Dawn. HarperCollins.
 Satter, D. (2016, August 15). The Bloody Czar. National Review. https://www.nationalreview.com/magazine/2016/08/15/vladimir-putin-presidency-russian-terrorism/
 Scahill, J. (2024, February 7). Netanyahu's War on Truth. The Intercept. https://theintercept.com/2024/02/07/gaza-israel-netanyahu-propaganda-lies-palestinians/
 Sharp, J. (2025). U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023. Congressional Research Service. https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.51.pdf
-'Sioux'/Lakota. (n.d.). Lakota Dakota Nakota Nation. Retrieved August 8, 2024, from https://lakotadakotanakotanation.org/sioux-lakota/
 Sirota, D., & Perez, A. (2015, May 26). Weapons Deals And The Clinton Foundation. International Business Times. https://www.ibtimes.com/clinton-foundation-donors-got-weapons-deals-hillary-clintons-state-department-1934187
 Skerk, J. (2022, September 29). Rural Europe Takes Action | The Sámi Environmental Programme. Resilience. https://www.resilience.org/stories/2022-09-29/rural-europe-takes-action-the-sami-environmental-programme/
 Sloan, G. (2020, August 30). DC: Police Violently Push Protesters From Black Lives Matter. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=8a49947717c1441e9ad149e1c2d8faa6&mediatype=photo

@@ -16,7 +16,7 @@ My short time with the Ashaninka in 2015 was utterly magical and changed my life
 
 ### Meet the Ashaninka
 
-Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, and a chance to join their feasts and entertainment, and generally invited into their nation as if I weren't a strange white American man who didn't even speak their language. They just welcomed me without asking anything in return.
+Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, a chance to join their singing and dancing, and generally invited into their communities as if I weren't a strange white America man who didn't even speak their language. They just welcomed me without asking anything in return.
 
 For example, whenever my host and I traveled around the region and needed to rest, we would stop at the next house and the hostess would bring us a fermented pink drink called peorentsi, along with some simple and filling food. They didn't do this because I was a special guest. Every traveler who needed to rest received food and drink with no expectation of trading or paying.
 
@@ -30,7 +30,7 @@ Everywhere I looked, it was like a story too good to be true. Their kids were fr
 
 These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. Everyone was free to protect themselves and each other as needed.
 
-Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader, but he wasn't richer than average . When visiting his home, I noticed it was the same size and had the same items as everyone else's.
+Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader, but he wasn't richer than average. When visiting his home, I noticed it was the same size and had the same items as everyone else's.
 
 Given their integrity and generosity, I wasn't surprised that no one seemed concerned about robbery. I never saw a building with doors, much less locks. Few of their houses even had walls!
 
@@ -48,15 +48,15 @@ A few months later, my father asked me what I had learned. I told him that I did
 
 The more I looked around in my own nation, the United States, the more urgent it seemed to figure out those lessons. Deceit, selfishness, ignorance, and unnecessary misery seem pervasive.
 
-For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of federal prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a prison sentence of only a few years if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
+For example, the American legal system doesn't actually guarantee a fair trial like I learned growing up. It turns out that 98% of federal prisoners don't get a trial at all -- prosecutors commonly threaten people with decades in prison, and then offer them a plea bargain. People are offered a shorter prison sentence if they admit their "guilt", regardless whether they're guilty or not. Afraid of losing at trial due to racism, inability to afford a lawyer, police deceit, or other reasons, many people accept this offer. So for 98% of prisoners, the legal system and public have no idea whether they're actually guilty![xxx-npr plea bargain]
 
-I realized that driving past a prison is like driving past a chattel slave plantation from two centuries ago: the slaves didn't "deserve" to be there; they were just captured and enslaved and put to work, or else they'd get punished. How are present-day prisoners in any different situation, if only 2% got a trial by jury where they actually got a chance to defend themselves in court? Prisoners cannot legally refuse to work either, just like chattel slaves of the past. It's like an ancient injustice just changed form, but never really went away.
+I realized that driving past a prison is like driving past a chattel slave plantation from two centuries ago: the slaves didn't "deserve" to be there; they were just captured and enslaved and put to work, or else they'd get punished. How are present-day prisoners in a different situation, if only 2% got a trial by jury where they actually got a chance to defend themselves in court? Prisoners cannot legally refuse to work either, just like chattel slaves of the past. It's like an ancient injustice just changed form, but never really went away.
 
 Everywhere I look in my town, I see the same kind of corruption, each industry in its own way.
 
 I went grocery shopping, and found that almost everything for sale causes problems like cancer, immune disorders, and developmental disorders: from pesticides in the food, to plastic wrapping, to non-stick coatings on pans.[xxx-leaf score nonstick chems]<sup>,</sup>[xxx-cbc news plastics food wrap]<sup>,</sup>[xxx-ewg dirty dozen food chems]
 
-Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of problems like fraud, bribing government officials, manipulating research trials, and misleading advertising.[xxx-jama fin penalties]
+Going to a pharmacy, I saw the same corruption there: drug after drug produced by pharmaceutical companies with a long track record of problems like fraud, misleading advertising, bribing government officials, and manipulating research trials.[xxx-jama fin penalties]
 
 The Ashaninka don't have corruption like this. What lessons could I possibly learn from them to help make this nightmare end?
 
@@ -72,7 +72,7 @@ Anyone who confronts injustices and tries to uphold the law is punished, because
 
 I find disturbing stories at home too. My black roommate recently said that some white men had yelled at her to go back to her own country, wherever that was supposed to be. Another friend tells me stories of sexism anytime she describes her job.
 
-These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I mostly try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, and dishonest politicians, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
+These troubles put me in a pickle. I don't like being a downer, so when I'm with friends I usually try to keep it light and positive. That means we mostly have superficial conversations about our hobbies, jobs, or other things. If we talked about the most important issues like pollution, corporate greed, and dishonest politicians, there'd be plenty to discuss, but few people are willing to talk about that. After all, if we can't do anything about it, then what's the point of acknowledging all these things anyway?
 
 What am I supposed to learn from the Ashaninka? How can they be humans like me and other Americans, and they live in such a beautiful way, while we don't?
 
@@ -82,13 +82,13 @@ It turns out, yes, there are more societies like the Ashaninka. Countless more!
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 
-Part One of this book is about the first lesson: _Integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans._ Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them.
+Part One of this book is about our human nature: _integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans._ Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. They are symptoms of a disease, and just because a disease is common does not make it part of human nature.
 
 Part Two explores _how we lost our way,_ why some nations are stuck with these troubles generation after generation.
 
-Part Three calls for _The Deepest Revolution:_ our current way of life isn't working, so we must embrace that ancient way of life where respect is the norm, and it will take tremendous integrity, generosity, and bravery to do it.
+Part Three calls for _The Deepest Revolution:_ our current way of life isn't working, so we must embrace an ancient way of life where respect is the norm. This will take tremendous integrity, generosity, and bravery, and it's worth it.
 
-_The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of the healthy nations themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy nations, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. It also draws from my own research, much of which was published in _One Disease One Cure._
+_The Deepest Revolution_ draws stories and quotes from many sources, including many books written by people of healthy nations themselves such as Robin Kimmerer's _Braiding Sweetgrass_ about the Potawatomi and Martín Prechtel's _Secrets of the Talking Jaguar_ about the Tzutujil Maya. Other sources come from people who interviewed or spent extended time with people of healthy nations, such as Anne Cameron's _Daughters of Copper Woman_ about the Nootka and Frank Linderman's _Pretty Shield_ about the Crow. It also draws from my own research, much of which was published in _One Disease One Cure._
 
 While each healthy nation is unique, there are common aspects of their way of life that enable them to maintain a baseline of mutual respect, and this book aims to explore those common patterns based on the words of people from healthy nations or respectful observers.
 

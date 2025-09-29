@@ -45,7 +45,7 @@ def output_biblio(biblio_dict):
 
 def map_cites():
     """
-    1. biblio_dict: create ordered dict of biblio entries that map to sub-bullets of (index, "page 4") or (index, "chapter x") (empty to start)
+    1. biblio_dict: create ordered dict of biblio entries that map to sub-bullets of (index, "page 4") or (index, "chapter x")
     {lower_biblio_line: {'index':None, 'sub_entries':list, 'original':Original_line}}
     2. cite_to_biblio_line_dict: create simple cite map of [xxx-foo] -> lower case biblio line
     {'[xxx-foo]':original} # no subcites in this map
@@ -60,6 +60,7 @@ def map_cites():
     add_subcites_to_biblio(biblio_dict, cite_to_biblio_line_dict, cite_to_subcite_dict)
     output_biblio(biblio_dict)
     create_cite_to_index_dict(cite_to_index_dict, biblio_dict, cite_to_biblio_line_dict, cite_to_subcite_dict)
+    verify_no_extra_bib_entries(cite_to_index_dict)
     return cite_to_index_dict
 
 def create_cite_to_index_dict(cite_to_index_dict, biblio_dict, cite_to_biblio_line_dict, cite_to_subcite_dict):  
@@ -252,12 +253,28 @@ def create_cite_to_biblio_line_dict(biblio_dict):
     # expected number of bibliographic lines
     if (len(cite_to_biblio_line_dict) != len(biblio_dict) or \
         set([num for num in cite_to_biblio_line_dict.values() if list(cite_to_biblio_line_dict.values()).count(num) > 1])):
-        print("Final cite checks failed: %s %s %s" % (len(cite_to_biblio_line_dict) != len(biblio_dict)-2,
+        print("Final cite checks failed: %s != %s %s" % (len(cite_to_biblio_line_dict), len(biblio_dict)-2,
         set([num for num in cite_to_biblio_line_dict.values() if list(cite_to_biblio_line_dict.values()).count(num) > 1])))
         breakpoint()
         a = 5
     return cite_to_biblio_line_dict
 
+
+def verify_no_extra_bib_entries(cite_to_index_dict):
+    with open(biblio_csv_path, 'r', encoding='utf-8') as csvfile:
+        csvlines = csv.reader(csvfile, delimiter=',', quotechar='"')
+        next(csvlines, None)
+        for pieces in csvlines:
+            csv_cite = pieces[35]
+            # account for subcites
+            for book_cite in cite_to_index_dict.keys():
+                if "|" in book_cite:
+                    book_cite = book_cite.split("|")[0] + "]"
+                if book_cite == csv_cite:
+                    break
+            else:
+                assert False, "Unused bib entry: %s" % csv_cite
+    print("No unused cites found")
 
 def main():
     map_cites()

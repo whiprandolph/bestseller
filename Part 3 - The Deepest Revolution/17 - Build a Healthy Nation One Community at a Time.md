@@ -4,7 +4,7 @@ Can you imagine your life if everyone around you could be trusted to take care o
 
 Okanagan Jeannette Armstrong called this deep trust of knowing your community is there to sustain you "the most secure feeling in the world."[xxx-original instructions|armstrong]
 
-People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, joyfulness, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
+People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
 
 Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a healthy nation one community at a time.
 
@@ -18,7 +18,7 @@ To help form new healthy communities, the Zapatistas traveled around to meet peo
 
 Zapatista women commanders Ramona and Susana traveled to dozens of communities where they read out the proposed Revolutionary Women's Law to women's groups. A women's group in each community gave feedback and ultimately had to approve the law to ensure that women would be fully respected in this new nation. Thousands of indigenous women were consulted.[xxx-everyday heroism makes the sparkles possible]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
 
-How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have formed if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
+How could the women have offered feedback and given their consent if the women's groups didn't exist in the first place? How could the study sessions have occurred if everyone in a given town were selfishly focused on their own life, and didn't care about building a healthy nation with others?
 
 If the communities of receptive people didn't exist, there would have been no one for the organizers to consult with or build a nation with. The respectful communities had to exist before they could be united into a respectful nation.
 
@@ -26,9 +26,9 @@ These healthy communities are groups of people that have their own agreements on
 
 The Zapatistas described how these healthy communities were absolutely essential for their revolution.
 
-Commander Ramona and major Ana Maria went to live in the jungle with dedicated revolutionaries in the 1980s, where they learned key skills like hunting and fighting and gained political consciousness. They joined around the age of 12 or 13, but accepted responsibilities as full adults and were obviously held to very high standards. At the age of 25, Ana Maria successfully led about a thousand people in a military assault to free a town from Mexican rule and Ramona directed the resulting peace negotiations.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
+Commander Ramona and major Ana Maria went to live in the jungle with dedicated revolutionaries in the 1980s, where they learned key skills like hunting and fighting and gained political consciousness. They joined at the age of about 13, but accepted responsibilities as full adults and were obviously held to very high standards. At the age of 25, Ana Maria successfully led about a thousand people in a military assault to free a town from Mexican rule and Ramona directed the resulting peace negotiations.[xxx-ezln ramona san crist]<sup>,</sup>[xxx-opendemocracy zapatista women law as it is lived today]
 
-Many other Zapatistas didn't change their lives as much as these women did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ana Maria said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had strong relationships with each other and the Earth, the revolution would have failed.[xxx-ezln ramona san crist]
+Many other Zapatistas didn't change their lives as much as these women and other men did; they seemed to live normal lives in Mexico but they still supported the revolution, and Ana Maria said these people played a vital role. The full-time revolutionaries had to have the support of the people to address challenges like helping them move around, get supplies, recruit, and blend in. Without the support of healthy communities of people who already had strong relationships with each other and the Earth, the revolution would have failed.[xxx-ezln ramona san crist]
 
 What would happen if there was a revolutionary movement to create a new healthy nation, and a representative came to your region? Would there be a community of people who are already receptive to what he or she has to say because they've already been cultivating strong relationships with each other and the Earth, and they already want to live in a healthy nation? If the representative hosted a study session, would anybody come? Or would they move on, seeking more receptive people elsewhere?
 
@@ -81,7 +81,7 @@ Many people have little time and energy to develop deep friendships due to all k
 
 Have fun together. Go on camping trips and share stories around the fire, make music in someone's living room, and celebrate milestones in kids' lives, like their first step or first successful hunt.
 
-Build up each other's dignity. Train self-defense and bravery together. Help each other remember what's important in life -- taking care of each other and the Earth. Being around excellent and beautiful people is a great antidote for the superficiality on TV.
+Build up each other's dignity. Train self-defense and bravery together. Help each other remember what's important in life -- taking care of each other and the Earth. Being around people with high standards is a great antidote for the superficiality on TV.
 
 Build spiritual strength together, with each person bringing out the best in everyone else. When you help each other and the Earth, living with high standards for yourself and each other, you will become more than a group of friends. You will become a healthy community, choosing your own beautiful way of life together despite the laws and pressures of your unhealthy nation.
 
@@ -107,7 +107,7 @@ Recall the Haudenosaunee writers' words: "if absolute justice was established in
 
 _Peace in a community doesn't come because people avoid conflict. Peace comes when everyone stands for what's right,_ confronting inappropriate behavior as needed to hold each other to high standards. When you do this, peace and trust will naturally follow.
 
-Do not rely on artificial intelligence chatbots (AI) to make your decisions or give you "advice." Every AI transcript is recorded and available to any corporation or agency that wants it. Chatbots are very manipulative, often saying what they "think" the user wants to hear, not what would aid their spiritual growth. There is no substitute for you developing the spiritual strength to stand for what's right as needed. Consult with trusted friends when you need support. If you don't have trusted friends yet, go find them. They will be glad to meet you!
+Do not rely on artificial intelligence chatbots (AI) to make your decisions or give you "advice." Every AI transcript is recorded and available to any corporation or agency that wants it. Chatbots are very manipulative, often saying what they "think" the user wants to hear, not what would aid their spiritual growth. There is no substitute for you developing the spiritual strength to stand for what's right as needed. Consult with trusted friends when you need support. If you don't have trusted friends yet, go find them. They will be glad to meet you.
 
 As a healthy community of people with high expectations, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, generosity, integrity, kindness, and bravery.
 
@@ -177,7 +177,7 @@ With strong relationships in place and steady spiritual strength, you and your f
 
 Just like the Zapatistas, every person in every unhealthy nation today has ancestors who once lived in healthy nations sometime in the past. For some it was only years or decades ago. For many others it's been centuries or millennia. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
 
-At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with strong and caring people feels wonderful. It feels so incredibly wonderful because _this is who we really are._
+At some point, our ancestors suffered something terrible, and eventually the unhealthy nation started to seem "just the way life is." But despite all the oppression, this truth remains: being treated with care and respect, feeding others and being fed, meeting life's needs with meaningful work, and living closely with strong and caring people feels wonderful. And it feels so incredibly wonderful because _this is who we really are._
 
 Each one of us has the same urges towards gratitude, integrity, sharing, and all the other beautiful qualities described in this book, even if some people have learned to ignore those urges in order to survive in their unhealthy nation. It's our human nature to live in healthy nations embracing these qualities. "Human nature" describes how humans live when we can choose how to live, not how people behave when they're abused, threatened, chronically insecure, isolated, and unable to live in a deeply satisfying way.
 
@@ -186,7 +186,7 @@ So spread the good news! You could potentially live in a nation that maintains a
 Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #35<br/>Join a group dedicated to spiritual growth</div>
-<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
+<div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with beautiful qualities such as integrity, kindness, generosity, bravery, and awareness. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 ### References
 

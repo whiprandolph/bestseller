@@ -22,7 +22,7 @@ Countless Americans and Europeans, when encountering healthy nations for the fir
 
 In the 1930s, when American dentist Weston Price visited many healthy nations around the world, he wrote, "few impressions can be more vivid than that of the absence of prisons and asylums."[xxx-nutr phys gen|phys ment moral deter]
 
-Benjamin Franklin seemed equally surprised by healthy nations he visited in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."[xxx-lies my teacher told me|p108]
+Benjamin Franklin seemed equally impressed by healthy nations he visited in the 1700s: "All their government is by Counsel of the Sages. There is no Force; there are no Prisons, no officers to compel Obedience, or inflict Punishment."[xxx-lies my teacher told me|p108]
 
 Indeed, Haudenosaunee writers noted, "We have no jails and do not need them."[xxx-basic call to consciousness|p49]
 
@@ -88,7 +88,7 @@ How amazing would it be to live in a society where people don't accumulate money
 
 This wasn't unique to the Huron, and these practices aren't just from the distant past. The Tzutujil Mayans were able to maintain their traditional way of life until about 1990, and Martín Prechtel described how they had a "self-impoverished theocracy" where people "loved to get more than someone else, just so they could dress fancily and give it all away to be big." Prechtel wrote how the Tzutujil Mayans became leaders: "To get anywhere in traditional Mayan society, you had to work really hard to get wealth, get appointed to office without campaigning, and then give it all away." Each time a leader rose to a new level in their hierarchy, he or she gave away all their things so that they were equally as impoverished as everyone else.[xxx-secrets of the talking jaguar|p275]<sup>,</sup>[xxx-secrets of the talking jaguar|p210]
 
-Haudenosaunee writers, in their book _A Basic Call to Consciousness,_ described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
+Haudenosaunee writers, in their book _Basic Call to Consciousness,_ described similar generosity in their traditional leaders: "To become a political leader, a person is required to be a spiritual leader; and to become a spiritual leader, a person must be extraordinarily generous in terms of material goods."[xxx-basic call to consciousness|p104]
 
 ### When Even Prisoners of War Don't Want to Leave
 

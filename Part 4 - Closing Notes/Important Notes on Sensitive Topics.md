@@ -38,8 +38,6 @@ Seeming contradictions can occur for many reasons. Often they are a simple misun
 
 [xxx-daughters of copper woman|p11]-aaa (Cameron, 1981, 11)
 
-[xxx-sioux or lakota]-aaa ("Sioux"/Lakota, n.d.)
-
 [xxx-sitting bull sioux]-aaa (Standing Rock Sioux Reservation, n.d.)
 
 [xxx-original instructions|armstrong]-aaa (Nelson, 2008, "An Okanagan Worldview of Society")

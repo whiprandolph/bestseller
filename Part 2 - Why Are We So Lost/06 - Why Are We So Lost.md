@@ -2,7 +2,7 @@
 
 Everybody is born with a sense of dignity, meaning that we each have a _natural impulse to stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society and seek justice.
 
-As I studied healthy nations, I repeatedly saw a common response in times of trouble: people come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
+People of healthy nations have a common response in times of trouble: they come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
 
 People born and raised in healthy nations would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while others went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
 
@@ -54,7 +54,7 @@ Every single human feels a deep urge to stand up for what's right, though many h
 
 Unhealthy nations systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice.
 
-In healthy nations, standing for what's right in solidarity with neighbors is not just encouraged -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
+In healthy nations, standing for what's right in solidarity with neighbors is not just allowed -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
 
 This shows why so many people of unhealthy nations are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- injustice and ineffective political movements become normalized.
 

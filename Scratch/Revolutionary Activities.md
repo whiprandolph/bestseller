@@ -122,7 +122,7 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Hold firm boundaries without encouraging others to feel shameful or guilty</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Hold firm boundaries without encouraging shame or guilt</div>
 </b><div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, acknowledge the problematic behavior, the impact it had, and what behavior you would rather see. Do not put the other person down or make any hurtful or dismissive comments to them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
 
 
@@ -199,7 +199,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #35<br/>Join a group dedicated to spiritual growth</div>
-</b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with integrity, kindness, generosity, bravery, awareness, and other beautiful qualities. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
+</b><div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with beautiful qualities such as integrity, kindness, generosity, bravery, and awareness. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 
 

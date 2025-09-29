@@ -118,33 +118,33 @@ Whether attacking activists, undermining social movements, or sponsoring astrotu
 
 Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of punishment.
 
-This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act[ed] more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
-What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _A Basic Call to Consciousness,_ Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
+What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _Basic Call to Consciousness,_ Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
 
 Long ago, several nations in eastern North America were suffering from a long period of violence, and eventually they decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.[xxx-encyclopedia haudenosaunee|p265]
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
-1. _Solidarity:_ As one people, they stood in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
+1. _Solidarity:_ As one people, they stand in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
 
-    Everyone was trained from birth to uphold the agreements of their society, and to defend anyone who was oppressed. They did not just make a strong government to keep them safe. They created a spiritually strong society of individuals who accepted responsibility for upholding rules that worked for everybody.[xxx-basic call to consciousness|p39]
+    Everyone is trained from birth to uphold the agreements of their society, and to defend anyone who is oppressed. They did not just make a strong government to keep them safe. Recognizing that "universal justice is the product of a spiritually strong society," they raise children to be spiritually strong adults who accept responsibility for upholding rules that work for everybody.[xxx-basic call to consciousness|p39]
 
 2. _Intentionally Avoiding Causes of Past Conflicts:_ The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.[xxx-basic call to consciousness|p34]
 
-3. _Acknowledging the Earth's Needs:_ The traditional Haudenosaunee took the nonhumans' needs into account, embracing strict laws of conservation and carefully avoiding degrading the land.[xxx-basic call to consciousness|p104]
+3. _Acknowledging the Earth's Needs:_ The Haudenosaunee take the nonhumans' needs into account, embracing strict laws of conservation and carefully avoid degrading the land.[xxx-basic call to consciousness|p104]
 
-    As a result, the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."[xxx-basic call to consciousness|p104]
+    As a result, in traditional times the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."[xxx-basic call to consciousness|p104]
 
 4. _Achieving Peace by Standing for Justice:_ When there is no justice, "peace" is actually submission. The Haudenosaunee's founders prioritized justice, saying that "if absolute justice was established in the world, peace would naturally follow."[xxx-basic call to consciousness|p104] They even prioritized justice over rigid rules, noting "the society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
 
-5. _Rejecting Private Property:_ The traditional Haudenosaunee wisely rejected private property and emphasized sharing. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-basic call to consciousness|p38]
+5. _Rejecting Private Property:_ The Haudenosaunee wisely reject private property and emphasize sharing. They wrote, "That idea (property) would produce slavery...[and] would destroy our culture, which requires that every individual live in service to the Spiritual Ways and The People."[xxx-basic call to consciousness|p105] They established the rule that "no one has a right to a greater share of the wealth of society than anyone else."[xxx-basic call to consciousness|p38]
 
-    Since the Haudenosaunee avoided selfishness, they did not need to fear anybody mooching off others' hard work and generosity.
+    Since the Haudenosaunee avoid selfishness, they do not need to fear anybody mooching off others' hard work and generosity.
 
-6. _Avoiding Conquering Other People:_ They committed to never impose taxes or religion on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-basic call to consciousness|p37]
+6. _Avoiding Conquering Other People:_ The founders committed to never impose taxes, religion, or any injustice on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-basic call to consciousness|p37]
 
-7. _Leaders Serve the People:_ They avoided factions,[xxx-basic call to consciousness|p34] and no government imposed laws on anyone. Their leaders were expected to be generous.[xxx-basic call to consciousness|p104]
+7. _Leaders Serve the People:_ They avoid factions,[xxx-basic call to consciousness|p34] and no government imposes laws on anyone. Their leaders are expected to be generous.[xxx-basic call to consciousness|p104]
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-basic call to consciousness|p104]
 

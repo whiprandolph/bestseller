@@ -1,3 +1,19 @@
+### Author Bio
+
+Since he was a little boy, William was interested in politics and history. Over time, he noticed he was reading the same stories over and over. Underpaid, poorly treated workers would try to unionize to get better wages, and rich businessmen would oppose them with the help of the police. Feminist movements would find sexism but never fully end it, just like minorities would fight racism and never fully end it. In countries around the world, journalists would write about corruption, but corruption would always continue.
+
+William kept reading about endless examples of corruption, lies, greed and discrimination, and it never went away no matter who people voted for. He wanted to help address these problems in his own country, but he didn't want to play out the same repeating stories. Plenty of brave activists around the world had already done their best for centuries to end different kinds of corruption, and in each nation, all the troubles persisted. William didn't see how he could do any better. What would it take to really have deep change?
+
+In 2014, he left his career behind to go find people living without these problems. After many months traveling through South America, learning new languages and getting robbed and almost killed several times, he had no leads and no ideas, and he finally gave up.
+
+The very next day, he made friends with a man who invited him to live with a healthy nation, the Ashaninka, featured in Chapter 1 of both books. William got to see what a whole nation is like without corruption and greed, without discrimination and hate, where people treat the Earth with respect.
+
+For the next decade, he studied dozens of nations who live or lived as beautifully as the Ashaninka, and they helped him see the root disease that causes so much endless corruption, greed, and needless suffering in unhealthy nations around the world. They showed him a path to working with others to create new healthy nations that maintain a baseline of respect internally, where trust is normal because integrity and generosity are normal too. That path is laid out in his second book, _The Deepest Revolution._ He hopes you will join him on that path.
+
+William lives in the southern Appalachian mountains of eastern North America.
+
+
+
 ### List of Healthy Nations
 Africa:
 Akamba
@@ -32,7 +48,6 @@ Nootka
 Ojibway
 Okanaga
 Potawatomi
-Sac and Fox
 Sioux
 Tzutujil Maya
 Zapatista

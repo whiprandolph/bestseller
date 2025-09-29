@@ -12,11 +12,11 @@ Then he described how hard this was: "Everything I had heard during the weekend 
 
 Bogaletch Gebre described her own powerful transformation. As a young adult, she underwent female genital mutilation in Ethiopia, being taught that it made her a "whole woman." Later in life, a friend learned of this and felt horrified, and at first Gebre defended the practice as she had for years. Then she "experienced an incredible awakening, then a tidal wave of anger, as I began to comprehend all that had been taken from me in ignorance... Tears of understanding flooded from me as I allowed the scientist in me to see, to examine in a new light, all that I remembered..." Gebre went on to lead a movement to abolish female genital mutilation.[xxx-original instructions|ethiopian women]
 
-### Finding the Courage to Release What Doesn't Work
+### Find the Courage to Release What Doesn't Work
 
 Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the desert before he could fully confront the urge to seek wealth and power that his unhealthy nation instilled in him, and instead choose a path of service. After his transformation, he began a ministry that went on to inspire others for 2,000 years.
 
-This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapter 8, 12 and 14), or that you live in a free society (Chapter 6).
+This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapters 8, 12 and 14), or that you live in a free society (Chapter 6).
 
 But in order for spiritual leaders like Jesus Christ, Don Cox, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
@@ -24,12 +24,12 @@ Giving up old beliefs is hard, but it becomes so much easier when you begin to s
 
 Embrace your curiosity, and open your mind to possibilities that may have seemed impossible before. As you free your mind from beliefs that don't work, and make space for perspectives that do, you will feel more empowered to make a difference for the people and nonhumans around you.
 
-To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, where justice is normal and respect is pervasive, where neighbors share generously and trust each other, and the community's decisions take the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth. _Part 3_ addresses these three themes.
+To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, with dignity instead of unacknowledged humiliation, with bravery instead of cowardice, where justice and trust are normal because integrity is normal too, where neighbors share generously and the community takes the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth. _Part 3_ addresses these three themes.
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Release what isn't working</div>
 <div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good? Do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
-### Cultivating Spiritual Strength, Part 1: Practice Noticing the Gifts You Receive and Feeling Grateful
+### Cultivate Spiritual Strength, Part 1: Practice Noticing the Gifts You Receive and Feeling Grateful
 
 Cultivating a practical, aware gratitude is the first step to build spiritual strength.
 
@@ -74,7 +74,7 @@ There may be many ways to cultivate passion and deep connection with others. But
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Practice the same gratitude with people</div>
 <div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time in a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
 
-### Cultivating Spiritual Strength, Part 2: Nurture Your Sacred Gifts and Give Them in Service of the People and Nonhumans you Love
+### Cultivate Spiritual Strength, Part 2: Nurture Your Sacred Gifts and Give Them in Service of the People and Nonhumans you Love
 
 When I study the great spiritual leaders I've found, something really stands out: it's like they are compelled to serve their people, and it would be unthinkable not to. It's as if they didn't have any choice in the matter.
 
@@ -131,7 +131,7 @@ In unhealthy nations that train people for a life of distraction, any practice t
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Make time to discover your sacred gifts or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
 
-### Cultivating Spiritual Strength, Part 3: Live in Reciprocity
+### Cultivate Spiritual Strength, Part 3: Live in Reciprocity
 
 Cultivating a practical aware gratitude and giving your sacred gifts are the first and second core spiritual practices. They're the first two steps of cultivating a deep spiritual strength.
 
@@ -157,13 +157,13 @@ For example, Tubman brought a gun, not only to protect herself from slavecatcher
 
 As they escaped together, everyone needed to fully meet their potential and do their very best. Everything mattered, and Tubman held them to the highest standards as an act of love. By setting firm boundaries, she helped the men find their strength. 
 
-A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world. Just as your presence can lift others' spirits, any emotional disconnection, carelessness, or unawareness can likewise affect other people's energy around you. Okhi Forest and her young daughter visited the Zapatistas, and her daughter once dropped a broom on the ground without thinking about it. A Zapatista woman gently encouraged Forest's daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
+A story from the Zapatistas shows how every moment matters, even in moments of joyful calm. Your energy ripples out into the world. Just as your presence can lift others' spirits, any emotional disconnection, carelessness, or unawareness can likewise affect other people's energy around you. Okhi Forest and her young daughter visited the Zapatistas, and her daughter once dropped a broom on the ground without thinking about it. A Zapatista woman gently encouraged her daughter, "Don't drop the broom carelessly like that, you can really affect a lot of people!"[xxx-original instructions|return ancient council]
 
 It's not that every moment becomes "serious" or stressful; it's simply an attitude that the world is alive, and every moment is a gift not to be missed or taken for granted. When you give your deepest love you inspire others to give theirs, and when you hold back, this affects other people too.
 
 Your love could light up the world, but it's hard to keep giving alone. And it's hard to give if you don't feel very grateful.
 
-When you cultivate deep relationships with other people and nonhumans, where each person is grateful for the other's gifts, something magical happens. It becomes unthinkable to give less than your fullest love, as that's simply what people expect of each other in deep relationships. And of course, it's satisfying to give your love to people who are grateful for it.
+When you cultivate deep relationships, where each person is grateful for the other's gifts, something magical happens. It becomes unthinkable to give less than your fullest love, as that's simply what people expect of each other in deep relationships. And of course, it's satisfying to give your love to people who are grateful for it.
 
 But how to form such deeply trusting, reciprocal relationships, where people share their gifts generously, and feel grateful for the gifts they receive?
 
@@ -175,7 +175,7 @@ When you practice giving first without expecting anything in return, that innoce
 
 When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends than you ever imagined.
 
-When you cultivate deep relationships with people and nonhumans, they will give life a meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give them when there are grateful people and nonhumans to receive them.
+When you cultivate deep relationships, they will give life a meaning all on their own. Your sacred gifts always matter, but you'll feel more energy to give them when there are grateful people and nonhumans to receive them.
 
 A person has spiritual strength if they give their love fully in each moment without holding back, and if they stand for what's right for themselves and others. If you really commit to cultivating a practical aware gratitude, walking the most meaningful path, and living in reciprocity, you'll find that spiritual strength that seems so elusive in unhealthy nations.
 
@@ -187,7 +187,7 @@ One of the biggest lies in history is that there is only one messiah. Christians
 
 And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- so many challenges make it hard to take time without distraction to cultivate your sacred gifts and develop your spiritual strength. These troubles also make it hard to form relationships of reciprocity with people and the Earth.
 
-The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't something separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
+The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 
 Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultivate your spiritual strength. Give your deepest love and stand for what's right as a normal way of life.
 
