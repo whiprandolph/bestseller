@@ -99,7 +99,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Seek the truth directly instead of believing rumors</div>
-</b><div class="rev-act-body">When hurtful and misleading rumors spread about someone, they can feel very insecure. People want to be seen for who they are, and people want to trust that their neighbors will actively verify the important facts instead of assuming that hurtful, false rumors are true. Anytime you hear a hurtful rumor, cultivate awareness and avoid assumptions by verifying the truth for yourself.</div></div>
+</b><div class="rev-act-body">When hurtful and false rumors spread about someone, they can feel very insecure. People want to be seen for who they are, and people want to trust that their friends will actively verify important facts instead of assuming that hurtful, false rumors are true. Next time you hear a hurtful rumor about somebody, cultivate awareness and avoid assumptions by verifying the truth for yourself.</div></div>
 
 
 
