@@ -98,25 +98,25 @@ BOOK_ADDED_STYLE_BASE = """
     color: black;
   }
   .rev-act {
-    background-color: #e9e9e9;
+    background-color: #e6e6e6;
     padding: .75em;
   }
   .rev-act-first {
-    background-color: #e9e9e9;
+    background-color: #e6e6e6;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: .75em;
   }
   .rev-act-last {
-    background-color: #e9e9e9;
+    background-color: #e6e6e6;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1em;
   }
   .rev-act-middle {
-    background-color: #e9e9e9;
+    background-color: #e6e6e6;
     padding-top: .75em;
     padding-left: 1em;
     padding-right: 1em;

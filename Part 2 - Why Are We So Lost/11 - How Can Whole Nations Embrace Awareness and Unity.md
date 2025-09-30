@@ -42,11 +42,11 @@ The Haudenosaunee show the kind of unity that comes from these nature connection
 
 The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:
 
-> Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings.[xxx-kamana 2 nat|p1]
+_Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings._[xxx-kamana 2 nat|p1]
 
-> We have now become like one being, with one body, one heart, one mind. We send our Prayers and special Thanksgiving Greetings to all the unborn Children of all the Future Generations. We send our thoughts to the many different Beings we may have missed during our Thanksgiving. With one mind we send our Thanksgiving and Greetings to all of the Nations of the World.[xxx-kamana 2 nat|p1]
+_We have now become like one being, with one body, one heart, one mind. We send our Prayers and special Thanksgiving Greetings to all the unborn Children of all the Future Generations. We send our thoughts to the many different Beings we may have missed during our Thanksgiving. With one mind we send our Thanksgiving and Greetings to all of the Nations of the World._[xxx-kamana 2 nat|p1]
 
-> Now our minds are one.[xxx-kamana 2 nat|p1]
+_Now our minds are one._[xxx-kamana 2 nat|p1]
 
 Healthy nations generate unity in many ways. In this example, I believe the Haudenosaunee become a people of one mind and one heart by collectively recognizing divinity in all things, recognizing their sacred place in divinity, and giving thanks together.
 
@@ -60,6 +60,9 @@ Racism and other kinds of discrimination do not have to exist. Whole nations are
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #16<br/>Cultivate awareness and connection with the living world</div>
 <div class="rev-act-body">No matter how much or little you know, the same basic practices can help you cultivate awareness and connection with the living world. Find a place within 15 minutes of your house where you can observe the wildlife -- a place you like to be. Go there every day, practice feeling gratitude for the nonhumans' gifts, and observe what's going on.<br/><br/>What trails do you see? What birds live there, and what are their lives like? Consider what desires and fears each animal or plant has, what relationships they have with each other, and what lessons they have to teach. _I strongly recommend looking for a nature connection mentor or program to help you on your path._</div></div>
+<div style="padding-bottom:.75em"></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #17<br/>Seek the truth directly instead of believing rumors</div>
+<div class="rev-act-body">When hurtful and misleading rumors spread about someone, they can feel very insecure. People want to be seen for who they are, and people want to trust that their neighbors will actively verify the important facts instead of assuming that hurtful, false rumors are true. Anytime you hear a hurtful rumor, cultivate awareness and avoid assumptions by verifying the truth for yourself.</div></div>
 
 ### References
 

@@ -39,7 +39,7 @@ I looked up through the forest canopy just in time to notice a second, silent ha
 
 ### The Second Core Spiritual Practice: Giving Your Sacred Gifts
 
-Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ unique contribution could be. No one had ever told me this, but each human also has sacred gifts to give, just like all the animals and plants. It only makes sense, since humans are divine creatures like everything else in Creation.
+Through my nature connection practices, I learned so many ways each creature contributes to the web of life, but I had never wondered what _my_ unique contribution could be. No one had ever told me this, but each human also has sacred gifts to give, just like all the plants and other animals. It only makes sense, since humans are divine creatures like everything else in Creation.
 
 Once again, every healthy nation I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." His elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
 
@@ -67,7 +67,7 @@ The Sioux led the Dakota Access Pipeline protests in 2016 in North America, seek
 
 In Africa, the Mbuti likewise rejected a government so-called "conservation" effort that tried to force them off their land while companies came to dig for gold. One hunter named Mapenzi said, "We know how to protect our forest because nobody knows it the way we do. We know where the animals give birth, where they sleep and during which periods one must never kill them... The animals that the modern law wants to conserve are already under our customary protection. These are the laws our ancestors established."[xxx-guardian mbuti] The Gumbaynggirr in Australia and Sami in northern Europe work to prevent logging old-growth forests.[xxx-australia example]<sup>,</sup>[xxx-resilience sami skerk]
 
-In South America, the Yuracares and Tchimanes protect their forests as the Bolivian government wants to allow illegal road development, monocrop farming, and deforestation.[xxx-counterpunch tipnis] In northern Asia, the Evenk and Nivkh work to stop destructive Russian oil and gas extraction activities.[xxx-cultural survival sakhalin island]
+In South America, the Yuracare and Tchimane protect their forests as the Bolivian government wants to allow illegal road development, monocrop farming, and deforestation.[xxx-counterpunch tipnis] In northern Asia, the Evenk and Nivkh work to stop destructive Russian oil and gas extraction activities.[xxx-cultural survival sakhalin island]
 
 Everywhere I looked, I noticed healthy nations were standing in solidarity with the Earth, sometimes even putting their lives on the line to do so. Eventually I understood this as the third core spiritual practice: _living in reciprocity._ This means you have a responsibility to give back to all the beings who give so much to you. This is not merely a nice idea; it is a core practice for individuals and groups who take responsibility for their human and nonhuman neighbors.
 

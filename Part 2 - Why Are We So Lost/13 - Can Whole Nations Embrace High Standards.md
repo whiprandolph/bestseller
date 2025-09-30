@@ -36,10 +36,10 @@ When people bring out the best in each other and hold each other to high standar
 
 Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other strong and caring people you know.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #19<br/>Hold yourself and others to a high standard</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Hold yourself and others to a high standard</div>
 <div class="rev-act-body">Think of a time when someone had faith in you, maybe even more faith than you had in yourself. Did someone help you find the self-respect to leave an abusive relationship? Did a coach help you cultivate the discipline to train at your sport and be the best you could be? Did a teacher help you realize you could be great at whatever you put your mind to? If this mentor did their job properly, they did not shame or punish you, but helped you see your unmet potential and urged you to reach it -- to be your best self, and not settle for less. Think of a time when someone brought out the best in you, holding you to a high standard.<br/><br/>Watch for an instance where someone lets themselves or others down. Perhaps they lie to someone or to themselves, give up on a goal too easily, or tolerate an unsatisfying relationship or job without trying to change it. Help them find the strength to do what they need to do.</div></div>
 <div style="padding-bottom:.75em"></div>
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #20<br/>Receive feedback graciously by looking for the lesson</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Receive feedback graciously by looking for the lesson</div>
 <div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback.</div></div>
 
 ### Seeing the Trap of Low Standards
@@ -74,7 +74,7 @@ She watched how, if a young child sullied the floor in the family's house, he wo
 
 In unhealthy nations, troubles at the national level are reflected in many families. Adults who aren't allowed to take deep responsibility for their community or nation -- because they're not allowed to choose their laws or uphold them -- often struggle to raise children to take full responsibility for themselves and others. Adults who are not allowed to hold others, and especially their leaders, to high standards of good behavior struggle to respectfully hold children to high standards. Parents who are used to submissive obedience often expect the same from their children, or they may reject rules entirely and not hold firm respectful boundaries, tolerating careless or disrespectful behavior. None of these attitudes teach children how to have good boundaries or high standards.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Hold firm boundaries without encouraging shame or guilt</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Hold firm boundaries without encouraging shame or guilt</div>
 <div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, acknowledge the problematic behavior, the impact it had, and what behavior you would rather see. Do not put the other person down or make any hurtful or dismissive comments to them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
 
 #### Low Standards for Politics
@@ -149,7 +149,7 @@ In 1877, the American military captured some Cheyenne women and children. The ve
 
 Men who have been systematically trained to deny their feelings and not to follow their sacred path may abandon their family or beat them, or get lost in drugs or alcohol. Even among men who avoid these troubles, how many boys feel grateful to their fathers for holding them to high standards? How many girls feel grateful to their fathers for showing them what a good man is like? Too few!
 
-Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of brave police whistleblowers who call out the police's own illegal activity, scaring the rest into cowardly obedience.[xxx-odoc|ch32]
+Some men join the police or military where they pretend to serve the public while obediently taking orders from unaccountable leaders, so they actually protect the rich and powerful. Authorities consistently threaten the careers and even lives of brave police whistleblowers who call out the police's own illegal activity, scaring the remaining officers into submissive obedience.[xxx-odoc|ch32]
 
 Behind this superficiality, many men struggle with nagging questions like "when does life become meaningful?" or "why am I even here?" As Henry David Thoreau put it, "The mass of men lead lives of quiet desperation."[xxx-walden|economy] This also explains the saying that "Every man dies. Not every man really lives."[xxx-braveheart every man]
 
@@ -173,7 +173,7 @@ A key requirement is to have the attitude that, when someone lets you down, they
 
 Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life or community anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Learn without guilt or shame</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Learn without guilt or shame</div>
 <div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult urged you to feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
 
 #### Everything is a Skill That Can be Practiced Without Guilt or Shame
@@ -184,7 +184,7 @@ You practiced: you tried your best to ride straight, and sometimes you went stra
 
 Integrity, awareness, gratitude, and generosity are also skills, and you can practice them intentionally too. Practice approaching life with these qualities, and notice when you fall short. Practice being aware of yourself whenever you make a mistake, such as ignoring certain feelings or being afraid to tell the truth and lying instead.
 
-It is ok to feel disappointed in yourself anytime you fall short. But if you notice any shame or guilt, or any sense of inherent badness, acknowledge these feelings and let them go. Just recognize that you made a mistake, learn from it, and do better next time. If you hurt or disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
+It is ok to feel disappointed in yourself if you fall short. But feelings of inherent badness or deep insecurity are unhealthy shame. If you notice this shame, acknowledge the feeling and let it go. Just recognize that you made a mistake, learn from it, and do better next time. If you disappointed someone else, acknowledge your mistake, do your best to make it right, learn whatever lessons you can, and commit to doing better. You are just practicing and learning.
 
 And just like you practiced steering before going for a long bike ride, you can practice these beautiful qualities outside the normal flow of life. For example, bravery is the ability to remain conscious and do what you know is right even if you feel uncomfortable or afraid. To practice, put yourself in uncomfortable or scary situations and practice maintaining your composure. If you're scared of dancing, face your fear and go dancing. If cold water feels uncomfortable, practice keeping your composure in cold water. Learn to feel _comfortable in the midst of discomfort_ so that nothing causes you to ever "hold back" or "shut down" parts of yourself.
 
@@ -202,7 +202,7 @@ When you hold yourself to high standards, your rate of growth will increase. You
 
 These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create relationships of deep trust, where qualities like integrity, bravery, awareness, and generosity are normal.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Practice bravery</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Practice bravery</div>
 <div class="rev-act-body">Consistently facing your fears is one key way to cultivate bravery. Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do what you need to do.</div></div>
 
 ### References

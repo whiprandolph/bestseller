@@ -2,7 +2,7 @@
 
 Everybody is born with a sense of dignity, meaning that we each have a _natural impulse to stand up for what's right_ for ourselves and our neighbors. When people only live by laws they support, that urge to stand for what's right is also the urge to uphold the laws of their society and seek justice.
 
-People of healthy nations have a common response in times of trouble: they come together, discuss the problem, and consider how to respond collectively so they can return to that respectful way of life that all humans expect from birth.
+People of healthy nations have a common response when someone behaves disrespectfully towards their neighbors: they come together, discuss the problem, and consider how to respond collectively so they can return to that baseline of mutual respect that all humans expect from birth.
 
 People born and raised in healthy nations would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while others went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
 
@@ -14,7 +14,7 @@ Why does such unjust behavior persist?
 
 ### Fierce Resistance to Justice
 
-Countless groups of people have tried countless times over centuries to come together and seek justice. And when they do, what do they face, time and time again?
+Countless groups of people have tried countless times over centuries to come together and seek justice in their unhealthy nation. And when they do, what do they face, time and time again?
 
 Regardless of the particular country, or the type of government or economy, whenever and wherever people in unhealthy nations seek justice, they face a similar response.
 
@@ -56,7 +56,7 @@ Unhealthy nations systematically train people from childhood to "hold back" or "
 
 In healthy nations, standing for what's right in solidarity with neighbors is not just allowed -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
 
-This shows why so many people of unhealthy nations are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- injustice and ineffective political movements become normalized.
+This shows why so many people of unhealthy nations are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- _injustice and ineffective political movements become normalized._
 
 As long as people accept their own submissive obedience as legitimate, they will be distracted by endless political debates that ignore the root problem. People may debate political issues looking at left-wing vs right-wing, republican vs democrat, capitalism vs communism, or monarchy vs democracy, but all these are tyrannical as long as a few people impose the law, and the rest obey it. Only when people stop accepting their own submissive obedience as legitimate can they begin to have meaningful political conversations.
 
@@ -75,7 +75,7 @@ These "mirror" people were like magazine opinion writers who commented on all so
 
 If a person were vain about their clothes, a mirror might follow behind them wearing tattered rags and their hair would be like a bird's nest full of mud and sticks, all looking similar to the vain person. If a person had a bad temper, a mirror might follow and have fits, hitting the sand with a rock or insulting birds and generally looking foolish. If a person became self-important, the mirror might follow along babbling like a baby, "until you finally heard what an ass you were bein'." And if a mirror started being mean or pushy, a second mirror might follow along and let the first one see how they were showing up.[xxx-daughters of copper woman|109-112]
 
-The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be shamed. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how ridiculous it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."[xxx-daughters of copper woman|109-112]
+The Nootka storyteller noted, "nobody would ever dare blow up at the [mirror]!" Anyone who did would be confronted. Mirrors did not make fun of people or act hurtfully. They helped people see what they looked like to others and how ridiculous it was to put so much emphasis on unimportant things like clothes or jewelry, "instead of what counts, like bein' nice to people, and bein' lovin'..."[xxx-daughters of copper woman|109-112]
 
 Christians arrived and started dividing up the land. They set up a church, and began trying to get the Nootka to attend, offering glass mirrors and other trinkets as enticements. At church, the preacher told them what to wear, how to live, and what to do. He insisted that men shouldn't wear kilts, and women should only have long dresses that covered them completely. He kept saying that everyone should live and dress like the white man.[xxx-daughters of copper woman|109-112]
 

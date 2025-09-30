@@ -6,7 +6,7 @@ I also studied unhealthy nations like Russia, Great Britain, Canada, and the Uni
 
 Do nations become unhealthy when the population gets too large? Some academic literature states that humans can only maintain tight knit communities of up to 150 people, a limit called "Dunbar's number." I commonly hear people claim that humans start behaving inappropriately towards each other in groups larger than 150, as accountability mechanisms supposedly start to break down then.[xxx-conversation dunbar number]
 
-But that doesn't make sense. The Ashaninka number more than 2,000 and everyone is treated respectfully.
+But that doesn't make sense. The Ashaninka number more than 2,000 and people treat each other respectfully.
 
 In 1674 CE, the Cherokee numbered about 50,000 and mutual respect was normal in their nation too.[xxx-cherokee pop and extent]
 
@@ -60,7 +60,7 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 ### Let's Be Brave Together
 
-Later in this book, Part 3 explores how you can work with others to create a beautiful way of life, a new nation of spiritually strong people living in actual freedom. It offers ways to create deep relationships and healthy communities which will be the building blocks of new healthy nations. This requires tremendous hard work, bravery and risk -- and _it's worth it._
+Later in this book, Part 3 explores how you can work with others to create a beautiful way of life, a new nation of spiritually strong people living in actual freedom. It offers ways to create deep relationships and healthy communities which will be the building blocks of new healthy nations based on the stories of others who have done this. This requires tremendous hard work, bravery and risk -- and _it's worth it._
 
 But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similar to how millions of people have lived since the dawn of time.
 

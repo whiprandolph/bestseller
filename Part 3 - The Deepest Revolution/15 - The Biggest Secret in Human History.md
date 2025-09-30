@@ -92,10 +92,10 @@ This story shows how easy it can be to ignore legitimate frustrations and fears,
 
 So find trustworthy people and tell them your thoughts and feelings, and listen to them too. When you can speak clearly with thoughtful, caring people in private, they will help you remember that you are sane, and it's your unhealthy nation that is crazy.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Find people with whom you can speak your heart</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Find people with whom you can speak your heart</div>
 <div class="rev-act-body">It can be extremely helpful to have thoughtful, trustworthy people to speak your heart to. If you don't know anybody you trust this much, look for new friends. Your future friends are out there, and they'll be glad to meet you. If you have friends you trust, come together so you can share what is in your heart, listen to them, and respond to any concerns together.</div></div>
 <div style="padding-bottom:.75em"></div>
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Create private spaces</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #26<br/>Create private spaces</div>
 <div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can speak with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
 
 ### References
