@@ -8,7 +8,7 @@ Without exception, every unhealthy nation has these intractable problems, and no
 
 But our troubles go deeper still.
 
-_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is continually sabotaged. Instead, low integrity, cowardice, low mutual understanding, superficiality, and low self-worth become common.
+_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is continually sabotaged. Instead, low integrity, cowardice, superficiality, low mutual understanding,  and low self-worth become common.
 
 When people accept that corruption and greed are unavoidable aspects of their nation, they also come to think that these unwelcome personal qualities like cowardice and superficiality, while tragic, are unavoidable too. When these qualities start to seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
 

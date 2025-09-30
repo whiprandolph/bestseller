@@ -38,7 +38,6 @@ Copp, T. (2023, October 13). Here's what military assistance the US is providing
 Cox, D. (2019). Just Another Nigger. Heyday.
 Cubillos, A. (2018, November 21). Venezuela Student Protest. Associated Press. https://newsroom.ap.org/editorial-photos-videos/detail?itemid=4216e2db097e4a4384950ed63e068a37&mediatype=photo
 Daly, J. (2004). The Watchful State. Northern Illinois University Press.
-Daniszewski, J. (2020, July 20). Why we will lowercase white. AP. https://blog.ap.org/announcements/why-we-will-lowercase-white
 Debunking the idea of Protected Areas. (2023, March 22). Community Networks Against Protected Areas. https://assets.survivalinternational.org/documents/2471/CNAPA_Concept_Note.docx
 DeCamp, J. (1996). The Franklin Cover-Up.
 Deforestation and Forest Degradation: The Causes, Effects, and Solutions. (2025, April 9). NRDC. https://www.nrdc.org/stories/deforestation-forest-degradation-causes-effects-solutions
@@ -122,6 +121,7 @@ Marcos, S. (2014, July 22). The Zapatista Women's Revolutionary Law as it is liv
 Maté, A. (2022, March 5). By using Ukraine to fight Russia, the US provoked Putin's war. Aaronmate.Net. https://www.aaronmate.net/p/by-using-ukraine-to-fight-russia
 Matthews, L. (2020, April 6). Nonstick Pans and Forever Chemicals: What You Need to Know. LeafScore. https://www.leafscore.com/eco-friendly-kitchen-products/the-problem-with-teflon-and-other-non-stick-pots-and-pans/
 McCormick, M. (n.d.). The Obedience and Sinlessness of Christ. The Gospel Coalition. Retrieved August 7, 2025, from https://www.thegospelcoalition.org/essay/obedience-sinlessness-christ/
+Meir, N. (2020, June 19). The decision to capitalize Black. AP. https://www.ap.org/the-definitive-source/announcements/the-decision-to-capitalize-black/
 Messiah. (n.d.). Oxford Reference. Retrieved August 19, 2024, from https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100152530
 Miller, R. (2015). American Indian Constitutions and Their Influence on the United States Constitution. Proceedings of the American Philosophical Society, 159(1). https://ssrn.com/abstract=2739936
 Morgan, T. (2018, March 22). The NRA Supported Gun Control When the Black Panthers Had the Weapons. HISTORY. https://www.history.com/articles/black-panthers-gun-control-nra-support-mulford-act
