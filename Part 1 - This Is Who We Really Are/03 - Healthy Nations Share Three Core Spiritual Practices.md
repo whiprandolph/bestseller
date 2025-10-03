@@ -43,7 +43,7 @@ Through my nature connection practices, I learned so many ways each creature con
 
 Once again, every healthy nation I studied recognized this to be true. Tony Ten Fingers described a Lakota phrase, "mitakuye oyasin," loosely meaning "everything is my relative." His elders also taught him a deeper meaning: "I have a burning desire in my heart to know how I fit into the Creation which is one living being."[xxx-kamana 3 nat|burning desire heart]
 
-Nancy Basket, a woman of Cherokee descent, said "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
+Nancy Basket said "Each lifetime you come with a medicine, a purpose that only you can get done. If you don't get it done, it won't get done. That's how important each person is. What is it that you love to do?"[xxx-basket interview]
 
 Just like everybody else, you have sacred gifts, a life purpose, a way you can make the world a better place -- _and only you can do it!_ All of Creation is simply divine creatures giving their sacred gifts. Thus the second core spiritual practice is to _cultivate and give your sacred gifts_ too.
 

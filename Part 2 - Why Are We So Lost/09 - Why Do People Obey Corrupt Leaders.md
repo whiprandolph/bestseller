@@ -20,7 +20,7 @@ However, the Bible shows that Jesus Christ was anything but obedient. To really 
 
 The Romans had conquered Jerusalem and the surrounding region about 60 years before Jesus was born. They imposed heavy taxes, unwanted imperialism, a client king that obeyed Roman authorities, and generally treated the people abusively. Many Jewish revolutionaries worked to free themselves from the Romans, longing for a country where Jews could be safe. Eventually this led to a series of wars between the Romans and the rebellious Jews, starting with the First Jewish Revolt in 66 CE, about 30 years after Jesus' death.[xxx-britannica jewish revolt]
 
-Thus, during Jesus' time, oppressed Jewish people longed for a "messiah," which means "savior" or "liberator."[xxx-oxford messiah] It's easy to understand why. The Jews wanted a revolutionary leader to help free them from oppressive Roman rule.
+Thus, during Jesus' time, oppressed Jewish people longed for a "messiah," which means "savior" or "liberator."[xxx-oxford messiah] It's easy to understand why. The Jews wanted a revolutionary leader to help save them from oppressive Roman rule.
 
 Jesus Christ saw huge amounts of needless suffering all around. A few people were rich and had far more than they needed, and many suffered needlessly from troubles like hunger, sickness, and poverty.
 

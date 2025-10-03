@@ -108,9 +108,15 @@
     </tr>
     <tr>
       <td class=quarterwidth>Ashaninka</td>
+      <td class=quarterwidth>Kulina</td>
       <td class=quarterwidth>Tchimane</td>
       <td class=quarterwidth>Yequana</td>
+    </tr>
+    <tr>
       <td class=quarterwidth>Yuracare</td>
+      <td class=quarterwidth></td>
+      <td class=quarterwidth></td>
+      <td class=quarterwidth></td>
     </tr>
   </tbody>
 </table>

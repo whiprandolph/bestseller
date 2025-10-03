@@ -2,7 +2,7 @@
 
 A human nation is a living organism. And just like a tree or lion or ant colony, a human nation can become injured.
 
-Any disrespect between two people is a type of cultural injury, not just a personal concern. Nancy Basket, a woman of Cherokee descent, says, "If there is trouble in a family, the whole nation suffers."[xxx-basket interview] Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."[xxx-letterfromjail.com]
+Any disrespect between two people is a type of cultural injury, not just a personal concern. Nancy Basket says, "If there is trouble in a family, the whole nation suffers."[xxx-basket interview] Martin Luther King Jr echoed this when he wrote, "Injustice anywhere is a threat to justice everywhere."[xxx-letterfromjail.com]
 
 Like all living organisms, injured human nations try to heal themselves. Healthy human nations heal their wounds of disrespectful behavior by deeply addressing the trouble and bringing back a baseline of mutual respect. This is the essence of cultural healing.
 
@@ -126,7 +126,7 @@ Long ago, several nations in eastern North America were suffering from a long pe
 
 It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
-1. _Solidarity:_ As one people, they stand in solidarity to ensure that if anyone were attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
+1. _Solidarity:_ As one people, they stand in solidarity to ensure that if anyone is attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
 
     Everyone is trained from birth to uphold the agreements of their society, and to defend anyone who is oppressed. They did not just make a strong government to keep them safe. Recognizing that "universal justice is the product of a spiritually strong society," they raise children to be spiritually strong adults who accept responsibility for upholding rules that work for everybody.[xxx-basic call to consciousness|p39]
 
