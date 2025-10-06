@@ -77,7 +77,7 @@ The Ford Foundation is the "philanthropic" organization based on the wealth of w
 
 The Ford Foundation was already known in the 1960s and 1970s for funding "moderate" political groups to try and attract black people away from revolutionary movements like the Black Panthers.[xxx-rockarch ford 60s race activism]
 
-Ford Foundation directors have included some of the most politically connected American capitalists, including John McCloy who also worked as president of the World bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank.[xxx-britannica mccloy] Other rich donors to Black Lives Matter-related groups include multi-billionaires Mark Zuckerberg[xxx-chan zuckerberg blm donation] (ceo of Facebook) and Pierre Omidyar[xxx-omidyar equity transformation] (cofounder of eBay).
+Ford Foundation directors have included some of the most politically connected American capitalists, including John McCloy who also worked as president of the World Bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank.[xxx-britannica mccloy] Other rich donors to Black Lives Matter-related groups include multi-billionaires Mark Zuckerberg[xxx-chan zuckerberg blm donation] (ceo of Facebook) and Pierre Omidyar[xxx-omidyar equity transformation] (cofounder of eBay).
 
 Just as the vast majority of activists in the astroturf Russian labor unions legitimately wanted change, many honest, well-meaning activists have supported Black Lives Matter. But sadly, the most influential people -- the funders and their choice of organizations and leaders they fund -- have found ways to direct that activist energy to effectively seek only moderate change and avert deep change.
 
@@ -128,7 +128,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 1. _Solidarity:_ As one people, they stand in solidarity to ensure that if anyone is attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
 
-    Everyone is trained from birth to uphold the agreements of their society, and to defend anyone who is oppressed. They did not just make a strong government to keep them safe. Recognizing that "universal justice is the product of a spiritually strong society," they raise children to be spiritually strong adults who accept responsibility for upholding rules that work for everybody.[xxx-basic call to consciousness|p39]
+    Everyone is trained from birth to uphold the agreements of their society, and to defend anyone who is oppressed. They did not just make a strong government to keep them safe. Recognizing that "universal justice is the product of a spiritually strong society," they raise children to be spiritually strong adults who accept responsibility for upholding rules that work for everyone.[xxx-basic call to consciousness|p39]
 
 2. _Intentionally Avoiding Causes of Past Conflicts:_ The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.[xxx-basic call to consciousness|p34]
 

@@ -18,7 +18,7 @@ I was amazed to discover that the Ashaninka had no police or prisons, yet they a
 
 Avoiding crime may seem impossible in societies numbering in the thousands or more, yet many large healthy human nations have lived this way -- not just occasionally, but for millions of years.
 
-Countless Americans and Europeans, when encountering healthy nations for the first time, have been surprised by the lack of crime or law enforcement. For example, when French Christian missionaries first visited the Huron in North America in the 1600s, they were amazed that thousands of people could get along so well without police or prisons.[xxx-huron farmers of the north|p71]
+Many Americans and Europeans, when encountering healthy nations for the first time, have been surprised by the lack of crime or law enforcement. For example, when French Christian missionaries first visited the Huron in North America in the 1600s, they were amazed that thousands of people could get along so well without police or prisons.[xxx-huron farmers of the north|p71]
 
 In the 1930s, when American dentist Weston Price visited many healthy nations around the world, he wrote, "few impressions can be more vivid than that of the absence of prisons and asylums."[xxx-nutr phys gen|phys ment moral deter]
 
@@ -30,7 +30,7 @@ In sharp contrast, the United States, France, and every other unhealthy nation a
 
 How can some nations live without police and prisons, and also no widespread crime, while other nations, chock full of police and prisons, have so much crime?
 
-It's not as if healthy nations don't have some troubles -- in any society, people sometimes don't get along. The difference is that they address disputes in ways that maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior without demanding humiliation or submission. And when mutual respect is the norm, any selfish or hurtful act stands out as something to be immediately addressed so everyone can return to that respectful baseline.
+It's not as if healthy nations don't have some troubles -- in any society, people sometimes don't get along. One difference is that they address disputes in ways that maintain a baseline of mutual respect among everybody, holding people to high standards of good behavior without demanding humiliation or submission. And when mutual respect is the norm, any selfish or hurtful act stands out as something to be immediately addressed so everyone can return to that respectful baseline.
 
 Priscilla Settee, a woman of the Cree people, described their reconciliation process where elders would consider how to bring a person "back into a balanced life" and help them "focus on what is important in life." Instead of believing that a troubled person is bad and deserves punishment, this more loving approach recognizes that the troubled person is basically good but off-balanced or missing something important. The goal is to help them regain their balance.[xxx-original instructions|definition of indigenous knowledge]
 

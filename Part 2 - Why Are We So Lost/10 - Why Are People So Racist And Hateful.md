@@ -48,7 +48,7 @@ Why did so many Germans learn to hate Jewish people after World War I? The Germa
 
 The political, military and business leaders wanted to avoid accountability for losing the war and spreading lies, so they propagated a "stab-in-the-back" narrative, blaming Jews, labor activists, liberals, and others for undermining the country.[xxx-odoc|ch22]
 
-A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazi's holocaust a few years later.[xxx-odoc|ch22]
+A tragic number of Germans believed this nonsense, and it wasn't an accident: propagating hate and ignorance towards Jews and activists and blaming them for Germany's WWI defeat was a way for the ruling class to avoid accountability. Tragically this was one step on the road to the Nazis' holocaust a few years later.[xxx-odoc|ch22]
 
 <center><img src="./images/polkas_vs_stripes.png" alt="When People Fall for Scams like Racism" height="252" width="597"/><br/>
 <i>People who fall for scams like racism see their neighbors as a threat and argue about nonsense while ignoring the real problems.</i></center>

@@ -32,7 +32,7 @@ And what if you could see that it doesn't need to be this way, that you and othe
 
 At that moment, everything changes. _The secret is out!_
 
-Once you know what healthy nations are like, you have that standard of comparison. You can see that _voting will never lead to deep change because slaves have never voted their way to freedom._ You can see that endless debates between left and right, liberals and conservatives, and capitalists and socialists are distractions from conversations and actions that might lead to the Deepest Revolution.
+Once you know what healthy nations are like, you have that standard of comparison. You can see that _voting will never lead to deep change because slaves have never voted their way to freedom._ You can see that endless debates between left and right, liberals and conservatives, and capitalists and socialists are distractions from the conversations and actions that might lead to the Deepest Revolution.
 
 Instead of engaging in unproductive political debates, what if you imagined the kind of world you wanted to live in? And what if you worked with others to bring your vision to life?
 

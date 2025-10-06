@@ -52,7 +52,7 @@ The Nootka soon allied with neighboring groups and successfully killed all of th
 
 This shows the importance of maintaining that internal baseline of mutual respect. As the stories of widespread child abuse in unhealthy nations show, once a nation allows disrespect and tolerates predators, abusive behavior becomes normalized.
 
-### What Is It Like to be Conquered? And What Does That Have to Do With Me?
+### What Is It Like to be Conquered? And What Does That Have to Do With You?
 
 Living in an unhealthy nation means being trapped with predators. The vast majority of people accept this as normal and inevitable, even if tragic. Living with predators is "just the way life is."
 

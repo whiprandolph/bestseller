@@ -82,7 +82,7 @@ It turns out, yes, there are more societies like the Ashaninka. Countless more!
 
 What I've learned is nothing short of revolutionary for those of us not living this way now.
 
-Part One of this book is about our human nature: _integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans._ Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. They are symptoms of a disease, and just because a disease is common does not make it part of human nature.
+Part One of this book is about our human nature: _integrity, bravery, generosity, service, and intimate connection with the Earth -- these are who we really are as humans._ Discrimination, hatred, greed, corruption, and exploitation are not part of human nature, they're not inevitable, and whole nations of people can live without them. They are symptoms of a disease, and just because a disease is common right now does not make it part of human nature.
 
 Part Two explores _how we lost our way,_ why some nations are stuck with these troubles generation after generation.
 
