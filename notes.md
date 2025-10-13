@@ -206,9 +206,21 @@ MY TAKEAWAYS:
 
 * 690 - June 25 invoice
 
+* more invoices
+
 #### Copyrights (300)
 
 * AP for two riot police pics: $300 total, paid 7.5.25
+
+* review copyrights - should be more, added for ODOC
+
+#### Other costs
+
+* canva costs
+
+* amazon proof costs
+
+* skip / website costs
 
 ### Reader support
 
