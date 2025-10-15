@@ -185,7 +185,7 @@ BOOK_ADDED_STYLE_ONLINE = """
 
 chap_ids = set()
 
-cover_src_path = os.path.join(repo_root_dir, "images\\online_front_cover.png")
+cover_src_path = os.path.join(repo_root_dir, "images/online_front_cover.png")
 cover_dest_path = os.path.join(pub_dir, "online_front_cover.png")
 phys_book_md_path = os.path.join(pub_dir, "book_phys.md")
 online_book_md_path = os.path.join(pub_dir, "book_online.md")
@@ -407,7 +407,7 @@ def main():
   # online book has color images and for epub, front cover only
   shutil.copyfile(cover_src_path, cover_dest_path)
   make_phys_book()
-  os.startfile(pub_dir)
+  subprocess.Popen(["open", pub_dir])
   make_online_pdf()
   make_epub()
   cleanup()
@@ -418,7 +418,7 @@ def main():
 
 
 def make_online_pdf():
-  server_string = "python -m http.server -d %s" % pub_dir
+  server_string = ["python3", "-m", "http.server", "-d", pub_dir]
   print(" == Starting server: %s (online book)" % server_string)
   server = subprocess.Popen(server_string)
   try:
@@ -481,7 +481,7 @@ def update_images_bw():
 
 def make_phys_book():
   
-  server_string = "python -m http.server -d %s" % pub_dir
+  server_string = ["python3", "-m", "http.server", "-d", pub_dir]
   print(" == Starting server again (physical book): %s (%s)" % (server_string, time.ctime()))
   server = subprocess.Popen(server_string)
   try:
@@ -491,7 +491,7 @@ def make_phys_book():
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
     fixup_html(phys_book_html_path, phys=True)
-    subprocess.run(['node', rf'{repo_root_dir}/tdr_js/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    proc = subprocess.run(['node', rf'{repo_root_dir}/tdr_js/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path, dimensions=PHYS, phys=True)
   finally:
     server.terminate()
