@@ -6,12 +6,13 @@ import ttoc
 import shutil
 import zipfile
 import pdf_toc
+import threading
 import subprocess
 import cite_wizard
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
-from ttoc import is_main_part_intro, repo_root_dir, books_dir, tdr_root_dir, images_source, intermediate_html, images_dest, pub_dir
+from ttoc import is_main_part_intro, repo_root_dir, js_dir, books_dir, tdr_root_dir, images_source, intermediate_html, images_dest, pub_dir
 from progress import chapters 
 
 """
@@ -319,34 +320,6 @@ def build_ref_map(ref_blob):
     ref_map[xxx] = official
   return ref_map
 
-"""
-def write_cites(cite_list):
-  with open(citations_path, 'w', encoding='utf-8') as citations_handle:
-    citations_handle.write("# Citations\n\n")
-    citations_handle.write("<table class=\"cite_table\">")
-    for chap, cites in cite_list:
-      if not cites:
-        continue
-
-      citations_handle.write("<tr><td><b>%s</b></td></tr>" % chap)
-      cites_iterable = iter(cites)
-      for chap_id, cite_num, cite in cites_iterable:
-      #citations_handle.write("## %s\n\n" % chap)
-      #for chap_id, cite_num, cite in cites:
-        #citations_handle.write("<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (chap_id, cite_num, chap_id, cite_num, cite_num, cite))
-        cell_contents = "<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (chap_id, cite_num, chap_id, cite_num, cite_num, cite)
-        try:
-          next_chap_id, next_cite_num, next_cite = next(cites_iterable)
-          # Even number of cites, row has two cells
-          cell_contents_2 = "<a href=\"#cite_%s_%s_src\" id=\"cite_%s_%s_dest\" style=\"text-decoration:none\">%s</a>. %s<br/>\n" % (next_chap_id, next_cite_num, next_chap_id, next_cite_num, next_cite_num, next_cite)
-          citations_handle.write("<tr><td>%s</td><td>%s</td></tr>\n\n" % (cell_contents, cell_contents_2))
-        except Exception as exc:
-          # odd number of cites, close out the row
-          citations_handle.write("<tr><td>%s</td><td></td></tr>\n\n" % cell_contents)
-
-    citations_handle.write("</table>")
-    citations_handle.write("<div style=\"break-after:page\"></div>\n")
-"""
 
 def fix_biblio():
   lines = open(bib_path, 'r', encoding='utf-8').readlines()[2:]
@@ -370,7 +343,6 @@ def fix_biblio():
 
 def main():
 
-  print("Starting at %s" % time.ctime())
   start_time = time.time()
   shutil.rmtree(pub_dir)
   os.mkdir(pub_dir)
@@ -379,7 +351,6 @@ def main():
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
   assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
-  full_cite_list = []
   with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
     for file_name in full_list:
       if "bibliography" in file_name.lower():
@@ -389,27 +360,24 @@ def main():
       if 'Part ' not in file_name:
         chap_line = body.split("\n", 1)[0]
         assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
-      # if cite_list:
-        # chapter_name = body.split("\n", 1)[0].strip("## ").strip()
-        # full_cite_list.append((chapter_name, cite_list))
-    # write_cites(full_cite_list)
     fix_biblio()
-    # cite_blob = open(citations_path, 'r', encoding='utf-8').read()
     bib_blob = open(tmp_bib_path, 'r', encoding='utf-8').read()
-    # book_md.write("%s\n\n" % cite_blob)
     book_md.write("%s\n\n" % bib_blob)
-    book_md.close()
-  subprocess.run(['pandoc', '-s', online_book_md_path,
-                            '-o', online_book_html_path])
-  fixup_html(online_book_html_path, phys=False)
-  print("About to start PDF...")
-  # phys book has bw images
-  # online book has color images and for epub, front cover only
-  shutil.copyfile(cover_src_path, cover_dest_path)
-  make_phys_book()
+  
+  print("About to start final production...")
+  threads = (
+    threading.Thread(target=make_phys_book),
+    threading.Thread(target=make_online_pdf),
+    threading.Thread(target=make_epub)
+  )
+  for thread in threads:
+    thread.start()
+
   subprocess.Popen(["open", pub_dir])
-  make_online_pdf()
-  make_epub()
+
+  for thread in threads:
+    thread.join()
+
   cleanup()
   end_time = time.time()
   #time_diff = #timedelta(seconds=end_time-start_time)
@@ -418,12 +386,15 @@ def main():
 
 
 def make_online_pdf():
-  server_string = ["python3", "-m", "http.server", "-d", pub_dir]
+  subprocess.run(['pandoc', '-s', online_book_md_path,
+                            '-o', online_book_html_path])
+  server_string = ["python3", "-m", "http.server", "2000", "-d", pub_dir]
   print(" == Starting server: %s (online book)" % server_string)
   server = subprocess.Popen(server_string)
   try:
+    fixup_html(online_book_html_path, phys=False)
     print(" == Creating online content.pdf")
-    subprocess.run(['node', f'{repo_root_dir}/tdr_js/online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    subprocess.run(['node', f'{js_dir}/online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS, phys=False)
   finally:
     server.terminate()
@@ -450,6 +421,7 @@ def make_epub():
   html = open(epub_book_html_path, 'r', encoding='utf-8').read()
   html = html.replace("</header>", "</header><div style=\"page-break-after:page\"></div><center>Copyright 2025 William Randolph</center><div style=\"page-break-after:page\"></div>")
   open(epub_book_html_path, 'w', encoding='utf-8').write(html)
+  shutil.copyfile(cover_src_path, cover_dest_path)
   subprocess.run(['ebook-convert', epub_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
                                    '--level1-toc', '//h:h1',
@@ -491,7 +463,7 @@ def make_phys_book():
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
     fixup_html(phys_book_html_path, phys=True)
-    proc = subprocess.run(['node', rf'{repo_root_dir}/tdr_js/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    proc = subprocess.run(['node', rf'{js_dir}/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path, dimensions=PHYS, phys=True)
   finally:
     server.terminate()
