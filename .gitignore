@@ -20,3 +20,5 @@
 *.PDF
 *.json
 *.JSON
+*DS_Store
+*.swp

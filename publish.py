@@ -11,7 +11,7 @@ from collections import Counter
 """
 REMINDER: citation-notes can have parens, so read first open paren and last close paren! (eastman (ohiyeas)...)
 """
-
+raise Exception("Is this module used?")
 gdrive=None
 
 docx_root_dir = r"C:\Users\whip\book_docx"

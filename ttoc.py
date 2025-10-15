@@ -19,22 +19,25 @@ What ttoc does
 
 
 """
-
-source_dir = r"C:\Users\whip\tdr"
-md_dir = r"C:\Users\whip\tdr-md-publish"
-html_dir = r"C:\Users\whip\tdr-book-html"
-md_images_dir = os.path.join(source_dir, 'images')
+books_dir = rf"/Users/hickory/Books"
+tdr_root_dir = f"{books_dir}/tdr"
+repo_root_dir = rf"{tdr_root_dir}/repo"
+js_dir = rf"{repo_root_dir}/tdr_js"
+html_dir = rf"{tdr_root_dir}/html"
+md_images_dir = os.path.join(repo_root_dir, 'images')
 top_images_dir = os.path.join(html_dir, 'images')
-pdf_dir = r"C:\Users\whip\tdr-book-pdf"
-md_publish_dir = r"C:\Users\whip\tdr-md-publish"
-why_so_lost_html = r"C:\Users\whip\tdr-book-html\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
-why_so_lost_docx = r"C:\Users\whip\tdr-md-publish\Part 2 - Why Are We So Lost\06 - Why Are We So Lost.docx"
-odoc_chapters_root = r"C:\Users\whip\huhc\chapters"
-rev_act_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities.md")
-rev_act_sheet_path = os.path.join(source_dir, "Scratch", "Revolutionary Activities Sheet.csv")
-final_biblio_path = os.path.join(source_dir, "Part 4 - Closing Notes", "Bibliography.md")
-raw_biblio_path = os.path.join(source_dir, "Part 4 - Closing Notes", "raw_bibliography.md")
-biblio_csv_path = r"C:\Users\whip\tdr\Scratch\TDR.csv"
+md_publish_dir = rf"{tdr_root_dir}/md"
+why_so_lost_html = rf"{html_dir}/Part 2 - Why Are We So Lost\06 - Why Are We So Lost.html"
+odoc_chapters_root = rf"{books_dir}/huhc/repo/chapters"
+rev_act_path = os.path.join(repo_root_dir, "Scratch", "Revolutionary Activities.md")
+rev_act_sheet_path = os.path.join(repo_root_dir, "Scratch", "Revolutionary Activities Sheet.csv")
+final_biblio_path = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "Bibliography.md")
+raw_biblio_path = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "raw_bibliography.md")
+biblio_csv_path = rf"{tdr_root_dir}/Scratch/TDR.csv"
+intermediate_html = f"{tdr_root_dir}/html"
+pub_dir = rf"/{tdr_root_dir}/pub/"
+images_source = f"{intermediate_html}/images"
+images_dest = os.path.join(pub_dir, "images")
 
 
 PUBLISH = True
@@ -105,7 +108,7 @@ def get_file_list(ignore_images = False):
     path_list = []
     chapter_number = 1
     for part_name, chapter_names in chapters.items():
-        part_path = os.path.join(source_dir, part_name)
+        part_path = os.path.join(repo_root_dir, part_name)
         for a, b, chapter_name in chapter_names:
             if is_chapter_name(chapter_name, part_path):
               chapter_path = os.path.join(part_path, "%02d - %s" % (chapter_number, chapter_name))
@@ -163,7 +166,7 @@ def transform(file_list):
             a = 4
 
         if 'images' in file_path:
-            md_path = file_path.replace(source_dir, md_dir)
+            md_path = file_path.replace(repo_root_dir, md_publish_dir)
             if not os.path.exists(os.path.dirname(md_path)):
                 os.mkdir(os.path.dirname(md_path))
             
@@ -179,7 +182,7 @@ def transform(file_list):
         else:
             md_path = file_path
         
-        md_publish_path = md_path.replace(source_dir, md_publish_dir)
+        md_publish_path = md_path.replace(repo_root_dir, md_publish_dir)
         if not os.path.exists(os.path.dirname(md_publish_path)):
             os.mkdir(os.path.dirname(md_publish_path))
         md_contents = get_md(md_path)

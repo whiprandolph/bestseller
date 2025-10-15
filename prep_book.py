@@ -11,7 +11,7 @@ import cite_wizard
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
-from ttoc import is_main_part_intro
+from ttoc import is_main_part_intro, repo_root_dir, books_dir, tdr_root_dir, images_source, intermediate_html, images_dest, pub_dir
 from progress import chapters 
 
 """
@@ -21,9 +21,7 @@ Checks to add:
 
 """
 
-repo_root_dir = r"C:\Users\whip\tdr"
 
-book_final = r"C:\Users\whip\tdr_published_files"
 
 PHYS = {"width":6, 'height':9}
 
@@ -188,25 +186,23 @@ BOOK_ADDED_STYLE_ONLINE = """
 chap_ids = set()
 
 cover_src_path = os.path.join(repo_root_dir, "images\\online_front_cover.png")
-cover_dest_path = os.path.join(book_final, "online_front_cover.png")
-phys_book_md_path = os.path.join(book_final, "book_phys.md")
-online_book_md_path = os.path.join(book_final, "book_online.md")
-phys_book_html_path = os.path.join(book_final, "book_phys.html")
-online_book_html_path = os.path.join(book_final, "book_online.html")
-epub_book_html_path = os.path.join(book_final, "book_epub.html")
-book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
-book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
-book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
-online_content_pdf_path = os.path.join(book_final, "content_online.pdf")
-phys_content_pdf_path = os.path.join(book_final, "content_phys.pdf")
-online_book_pdf_path = os.path.join(book_final, "The Deepest Revolution.pdf")
-phys_book_pdf_path = os.path.join(book_final, "The Deepest Revolution -- PHYSICAL.pdf")
-index_path = os.path.join(book_final, "index.pdf")
-citations_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\Citations.md"
-bib_path = r"C:\Users\whip\tdr\Part 4 - Closing Notes\Bibliography.md"
-tmp_bib_path = os.path.join(book_final, "tmp_biblio.md")
-images_source = r"C:\Users\whip\tdr-book-html\images"
-images_dest = os.path.join(book_final, "images")
+cover_dest_path = os.path.join(pub_dir, "online_front_cover.png")
+phys_book_md_path = os.path.join(pub_dir, "book_phys.md")
+online_book_md_path = os.path.join(pub_dir, "book_online.md")
+phys_book_html_path = os.path.join(pub_dir, "book_phys.html")
+online_book_html_path = os.path.join(pub_dir, "book_online.html")
+epub_book_html_path = os.path.join(pub_dir, "book_epub.html")
+book_epub_path = os.path.join(pub_dir, "The Deepest Revolution.epub")
+book_zip_path = os.path.join(pub_dir, "The Deepest Revolution.zip")
+book_zip_dir = os.path.join(pub_dir, "The Deepest Revolution -- Zip")
+online_content_pdf_path = os.path.join(pub_dir, "content_online.pdf")
+phys_content_pdf_path = os.path.join(pub_dir, "content_phys.pdf")
+online_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution.pdf")
+phys_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution -- PHYSICAL.pdf")
+index_path = os.path.join(pub_dir, "index.pdf")
+citations_path = f"{repo_root_dir}/Part 4 - Closing Notes/Citations.md"
+bib_path = f"{repo_root_dir}/Part 4 - Closing Notes/Bibliography.md"
+tmp_bib_path = os.path.join(pub_dir, "tmp_biblio.md")
 
 #assert False, "Disabled while making updates"
 
@@ -376,8 +372,8 @@ def main():
 
   print("Starting at %s" % time.ctime())
   start_time = time.time()
-  shutil.rmtree(book_final)
-  os.mkdir(book_final)
+  shutil.rmtree(pub_dir)
+  os.mkdir(pub_dir)
   cite_to_index_dict = cite_wizard.map_cites()
 
   shutil.copytree(images_source, images_dest)
@@ -411,7 +407,7 @@ def main():
   # online book has color images and for epub, front cover only
   shutil.copyfile(cover_src_path, cover_dest_path)
   make_phys_book()
-  os.startfile(book_final)
+  os.startfile(pub_dir)
   make_online_pdf()
   make_epub()
   cleanup()
@@ -422,12 +418,12 @@ def main():
 
 
 def make_online_pdf():
-  server_string = "python -m http.server -d %s" % book_final
+  server_string = "python -m http.server -d %s" % pub_dir
   print(" == Starting server: %s (online book)" % server_string)
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating online content.pdf")
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    subprocess.run(['node', f'{repo_root_dir}/tdr_js/online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS, phys=False)
   finally:
     server.terminate()
@@ -485,7 +481,7 @@ def update_images_bw():
 
 def make_phys_book():
   
-  server_string = "python -m http.server -d %s" % book_final
+  server_string = "python -m http.server -d %s" % pub_dir
   print(" == Starting server again (physical book): %s (%s)" % (server_string, time.ctime()))
   server = subprocess.Popen(server_string)
   try:
@@ -495,7 +491,7 @@ def make_phys_book():
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
                               '-o', phys_book_html_path])
     fixup_html(phys_book_html_path, phys=True)
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    subprocess.run(['node', rf'{repo_root_dir}/tdr_js/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path, dimensions=PHYS, phys=True)
   finally:
     server.terminate()
@@ -504,8 +500,8 @@ def make_phys_book():
 
 def cleanup():
   print("Cleaning up... (%s)" % time.ctime())
-  for filename in os.listdir(book_final):
-    path = os.path.join(book_final, filename)
+  for filename in os.listdir(pub_dir):
+    path = os.path.join(pub_dir, filename)
     if not (online_book_pdf_path in path) and online_book_pdf_path != path and phys_book_pdf_path != path and book_epub_path != path:
       if os.path.isdir(path):
         shutil.rmtree(path)

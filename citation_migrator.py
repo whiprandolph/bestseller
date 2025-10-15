@@ -1,3 +1,3 @@
-tdr_root = r"C:\Users\whip\tdr"
-huhc_root = r"C:\Users\whip\huhc\chapters"
+tdr_root = r"/Users/hickory/Books/repos/tdr"
+huhc_root = r"/Users/hickory/Books/repos/huhc/chapters"
 

@@ -6,10 +6,6 @@ import ttoc
 from pprint import pprint as pp
 from pprint import pformat
 
-
-source_dir = r"C:\Users\whip\tdr"
-md_dir = r"C:\Users\whip\tdr-md-publish"
-
 LEFT = 0
 MIDDLE = 1
 RIGHT = 2

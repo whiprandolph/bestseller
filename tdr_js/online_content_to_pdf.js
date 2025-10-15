@@ -14,7 +14,7 @@ const puppeteer = require('puppeteer');
     printBackground: true,
     headerTemplate: '<div id="header-template"></div>',
     footerTemplate: '<div id="footer-template" style="font-size:11px !important; color:#000000; position:absolute; left:.55in; top:8.65in;"> <span class="pageNumber"></span> </div>',
-    path:'C:\\Users\\whip\\tdr_published_files\\content_online.pdf',
+    path:'/Users/hickory/Books/tdr/pub/content_online.pdf',
   });
 
   await browser.close();

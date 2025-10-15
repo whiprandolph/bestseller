@@ -8,7 +8,7 @@ const puppeteer = require('puppeteer');
   await page.pdf({
     displayHeaderFooter: false,
     preferCSSPageSize: true,
-    path:'C:\\Users\\whip\\tdr_published_files\\toc_phys.pdf',
+    path:'/Users/hickory/Books/tdr/pub/toc_phys.pdf',
     margin: {
       top: '0px',
       bottom: '0px',
