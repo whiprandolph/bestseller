@@ -1,8 +1,8 @@
 import re
 import os
 import csv
-from ttoc import get_file_list, biblio_csv_path, raw_biblio_path, final_biblio_path
 import ttoc
+from ttoc import get_file_list, biblio_csv_path, raw_biblio_path, final_biblio_path_pdf, final_biblio_path_epub
 from pprint import pprint as pp
 from pprint import pformat
 
@@ -10,8 +10,23 @@ LEFT = 0
 MIDDLE = 1
 RIGHT = 2
 
-def output_biblio(biblio_dict):
-    with open(final_biblio_path, 'w', encoding='utf-8') as final_biblio:
+def output_biblio_epub(biblio_dict):
+    with open(final_biblio_path_epub, 'w', encoding='utf-8') as final_biblio:
+        final_biblio.write("# Bibliography\n\n<div id=\"biblio_container\">")
+        for key, value in biblio_dict.items():
+            if value['index']:
+                final_biblio.write(f"<div class=\"epub-bib-singleton-row\"><div class=\"biblio-div\" id=\"cite_{value['index']}_dest\"><span style=\"font-weight:bold\">{value['index']}DOTHERE</span> {value['original']}</div></div>\n")
+            else:
+                final_biblio.write(f"<div class=\"epub-bib-singleton-row\"><div class=\"biblio-div\">{value['original']}</div></div>\n")
+                final_biblio.write(f"<div class=\"sub-entry-container\">")
+                for sub_entry in value['sub_entries']:
+                    final_biblio.write(f"\t<div class=\"biblio-div biblio-sub-entry\" id=\"cite_{sub_entry[0]}_dest\"><span style=\"font-weight:bold\">{sub_entry[0]}DOTHERE</span> {sub_entry[2]}</div>\n")
+                final_biblio.write("</div>") # end sub-entry-container
+
+        final_biblio.write("</div>") # end-biblio-container
+
+def output_biblio_pdf(biblio_dict):
+    with open(final_biblio_path_pdf, 'w', encoding='utf-8') as final_biblio:
         final_biblio.write(f"# Bibliography\n\n<table id=\"biblio_table\"><tbody id = \"biblio_table_body\">")
         for key, value in biblio_dict.items():
             if value['index']:
@@ -54,7 +69,8 @@ def map_cites():
     cite_to_biblio_line_dict = create_cite_to_biblio_line_dict(biblio_dict)
     cite_to_subcite_dict, cite_to_index_dict = create_cite_to_subcite_and_index_dicts()
     add_subcites_to_biblio(biblio_dict, cite_to_biblio_line_dict, cite_to_subcite_dict)
-    output_biblio(biblio_dict)
+    output_biblio_pdf(biblio_dict)
+    output_biblio_epub(biblio_dict)
     create_cite_to_index_dict(cite_to_index_dict, biblio_dict, cite_to_biblio_line_dict, cite_to_subcite_dict)
     verify_no_extra_bib_entries(cite_to_index_dict)
     return cite_to_index_dict

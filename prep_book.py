@@ -9,25 +9,81 @@ import pdf_toc
 import threading
 import subprocess
 import cite_wizard
+from enum import Enum
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
-from ttoc import is_main_part_intro, repo_root_dir, js_dir, books_dir, tdr_root_dir, images_source, intermediate_html, images_dest, pub_dir
+from ttoc import is_main_part_intro, repo_root_dir, js_dir, images_source, images_dest, pub_dir, final_biblio_path_epub, final_biblio_path_pdf
 from progress import chapters 
 
 """
 Checks to add:
 * every cite references an item in biblio
 * every biblio item has >= 1 cite
-
 """
 
+cover_src_path = os.path.join(repo_root_dir, "images/online_front_cover.png")
+cover_dest_path = os.path.join(pub_dir, "online_front_cover.png")
 
+## MD
+online_pdf_book_md_path = os.path.join(pub_dir, "book_online_pdf.md")
+phys_book_md_path = os.path.join(pub_dir, "book_phys.md")
+epub_book_md_path = os.path.join(pub_dir, "book_epub.md")
+
+## HTML
+phys_html_path = os.path.join(pub_dir, "book_phys.html")
+online_pdf_book_html_path = os.path.join(pub_dir, "book_online_pdf.html")
+epub_book_html_path = os.path.join(pub_dir, "book_epub.html")
+
+## FINAL
+online_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution.pdf")
+phys_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution -- PHYSICAL.pdf")
+book_epub_path = os.path.join(pub_dir, "The Deepest Revolution.epub")
+
+online_content_pdf_path = os.path.join(pub_dir, "content_online.pdf")
+phys_content_pdf_path = os.path.join(pub_dir, "content_phys.pdf")
+
+class Version(Enum):
+  EPUB = 1
+  ONLINE_PDF = 2
+  PHYS = 3
 
 PHYS = {"width":6, 'height':9}
 
 BOOK_ADDED_STYLE_BASE = """
-
+  <style>\n
+  .rev-act-header {
+    text-align: center;
+    font-weight: bold;
+  }
+  blockquote {
+    color: black;
+  }
+  .rev-act {
+    background-color: #e6e6e6;
+    padding: .75em;
+  }
+  .rev-act-first {
+    background-color: #e6e6e6;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .75em;
+  }
+  .rev-act-last {
+    background-color: #e6e6e6;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+  }
+  .rev-act-middle {
+    background-color: #e6e6e6;
+    padding-top: .75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .75em;
+  }
   .title {
     font-size: 40pt;
     text-align:center;
@@ -42,9 +98,6 @@ BOOK_ADDED_STYLE_BASE = """
   }
   .nations_referenced_tbody {
     border:0;
-  }
-  .nations_referenced_header {
-
   }
   .quarterwidth {
     width: 25%;
@@ -62,6 +115,9 @@ BOOK_ADDED_STYLE_BASE = """
   .part-intro {
     font-size: 38px;
   }
+"""
+
+BOOK_ADDED_STYLE_BOTH_PDF = BOOK_ADDED_STYLE_BASE + """
 
   td {
     word-wrap: break-word;
@@ -93,34 +149,6 @@ BOOK_ADDED_STYLE_BASE = """
     margin:0px;
     font-size:6.9pt;
   }
-  blockquote {
-    color: black;
-  }
-  .rev-act {
-    background-color: #e6e6e6;
-    padding: .75em;
-  }
-  .rev-act-first {
-    background-color: #e6e6e6;
-    padding-top: .75em;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: .75em;
-  }
-  .rev-act-last {
-    background-color: #e6e6e6;
-    padding-top: .75em;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1em;
-  }
-  .rev-act-middle {
-    background-color: #e6e6e6;
-    padding-top: .75em;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: .75em;
-  }
   h1, h2, h3, h4, h5, h6 {
     margin-top: 1.2em;
   }
@@ -137,24 +165,34 @@ BOOK_ADDED_STYLE_BASE = """
   h4 {
     font-size: 0.84em;
   }
-  .rev-act-header {
-    text-align: center;
-    font-weight: bold;
-  }
   body {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
-    /*max-width:40em;*/
   }
-</style>
-</html>
-""" 
+"""
 
 # no left/right margin differences online
-BOOK_ADDED_STYLE_PHYS = """
-  <style>\n
+BOOK_ADDED_STYLE_EPUB = BOOK_ADDED_STYLE_BASE + """
+  .epub-bib-singleton-row {
+    font-size:12pt;
+  }
+  .sub-entry-container {
+    padding-left: 30px;
+  }
+  .biblio-div {
+  
+  }
+  .biblio-sub-entry {
+    font-size:11pt;
+  }
+  </style>
+  </html>
+"""
+
+BOOK_ADDED_STYLE_PHYS = BOOK_ADDED_STYLE_BOTH_PDF + """
+
   @page :left {
     size: %sin %sin;
     margin-left: .55in;
@@ -169,11 +207,13 @@ BOOK_ADDED_STYLE_PHYS = """
     margin-top: .55in;
     margin-bottom: .55in
   }
-  %s
-""" % (PHYS['width'], PHYS['height'], PHYS['width'], PHYS['height'], BOOK_ADDED_STYLE_BASE)
+  </style>
+  </html>
+""" % (PHYS['width'], PHYS['height'], PHYS['width'], PHYS['height'])
 
-BOOK_ADDED_STYLE_ONLINE = """
-    <style>\n
+# no left/right margin differences online
+BOOK_ADDED_STYLE_ONLINE_PDF = BOOK_ADDED_STYLE_BOTH_PDF + """
+
     @page {
     size: %sin %sin;
     margin-left: .55in;
@@ -181,33 +221,18 @@ BOOK_ADDED_STYLE_ONLINE = """
     margin-top: .55in;
     margin-bottom: .55in
   }
-  %s
-""" % (PHYS['width'], PHYS['height'], BOOK_ADDED_STYLE_BASE)
+  </style>
+  </html>
+""" % (PHYS['width'], PHYS['height'])
 
 chap_ids = set()
-
-cover_src_path = os.path.join(repo_root_dir, "images/online_front_cover.png")
-cover_dest_path = os.path.join(pub_dir, "online_front_cover.png")
-phys_book_md_path = os.path.join(pub_dir, "book_phys.md")
-online_book_md_path = os.path.join(pub_dir, "book_online.md")
-phys_book_html_path = os.path.join(pub_dir, "book_phys.html")
-online_book_html_path = os.path.join(pub_dir, "book_online.html")
-epub_book_html_path = os.path.join(pub_dir, "book_epub.html")
-book_epub_path = os.path.join(pub_dir, "The Deepest Revolution.epub")
-book_zip_path = os.path.join(pub_dir, "The Deepest Revolution.zip")
-book_zip_dir = os.path.join(pub_dir, "The Deepest Revolution -- Zip")
-online_content_pdf_path = os.path.join(pub_dir, "content_online.pdf")
-phys_content_pdf_path = os.path.join(pub_dir, "content_phys.pdf")
-online_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution.pdf")
-phys_book_pdf_path = os.path.join(pub_dir, "The Deepest Revolution -- PHYSICAL.pdf")
-index_path = os.path.join(pub_dir, "index.pdf")
-citations_path = f"{repo_root_dir}/Part 4 - Closing Notes/Citations.md"
-bib_path = f"{repo_root_dir}/Part 4 - Closing Notes/Bibliography.md"
-tmp_bib_path = os.path.join(pub_dir, "tmp_biblio.md")
 
 #assert False, "Disabled while making updates"
 
 def verify_epub():
+  book_zip_path = os.path.join(pub_dir, "The Deepest Revolution.zip")
+  book_zip_dir = os.path.join(pub_dir, "The Deepest Revolution -- Zip")
+
   # Verify all images in file
   shutil.copyfile(book_epub_path, book_zip_path)
 
@@ -217,7 +242,7 @@ def verify_epub():
   for path in os.listdir(book_zip_dir):
     if path.lower().endswith('png') or path.lower().endswith('jpg'):
       img_count+=1
-  # should be 3 for contents, 4 w/cover
+  # should be 6 for contents, 7 w/cover
   assert img_count == 7, "Invalid image count, %s" % img_count
   shutil.rmtree(book_zip_dir)
   os.remove(book_zip_path)
@@ -321,7 +346,7 @@ def build_ref_map(ref_blob):
   return ref_map
 
 
-def fix_biblio():
+def fix_biblio(bib_path):
   lines = open(bib_path, 'r', encoding='utf-8').readlines()[2:]
   
   fixed_lines = []
@@ -338,7 +363,7 @@ def fix_biblio():
         line = line.replace(link, "<a href=\"%s\" style=\"color:black\">%s</a>" % (link, link)) + "</div>"
     assert "\">\">" not in line, line
     fixed_lines.append(line)
-  open(tmp_bib_path, 'w', encoding='utf-8').write("# Bibliography\n\n%s\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines))
+  return "# Bibliography\n\n%s\n\n<div style=\"break-after:page\"></div>" % '\n\n'.join(fixed_lines)
 
 
 def main():
@@ -351,20 +376,27 @@ def main():
   shutil.copytree(images_source, images_dest)
   full_list = ttoc.get_file_list(ignore_images=True)
   assert len(full_list) == 28, "full list w/unexpected length: %s\n\n%s" % (len(full_list), full_list)
-  with open(online_book_md_path, 'w', encoding='utf-8') as book_md:
-    for file_name in full_list:
-      if "bibliography" in file_name.lower():
-        continue
-      body = process_chapter(file_name, cite_to_index_dict)
-      book_md.write("%s\n" % body)
-      if 'Part ' not in file_name:
-        chap_line = body.split("\n", 1)[0]
-        assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
-    fix_biblio()
-    bib_blob = open(tmp_bib_path, 'r', encoding='utf-8').read()
-    book_md.write("%s\n\n" % bib_blob)
-  
+  base_book_pieces = []
+  for file_name in full_list:
+    if "bibliography" in file_name.lower():
+      continue
+    body = process_chapter(file_name, cite_to_index_dict)
+    if 'Part ' not in file_name:
+      chap_line = body.split("\n", 1)[0]
+      assert chap_line.startswith("## ") or chap_line.startswith("# "), chap_line
+    base_book_pieces.append("%s\n" % body)
+  base_book_md = "".join(base_book_pieces)
+
+  bib_blob_epub = fix_biblio(final_biblio_path_epub)
+  bib_blob_pdf = fix_biblio(final_biblio_path_pdf)
+  both_pdf_base_md = "".join((base_book_md, bib_blob_pdf))
+  epub_base_md = "".join(("<div style=\"page-break-after:page\"></div><center>Copyright 2025 William Randolph</center><div style=\"page-break-after:page\"></div>", base_book_md, bib_blob_epub))
+  open(online_pdf_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
+  open(phys_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
+  open(epub_book_md_path, 'w', encoding='utf-8').write(epub_base_md)
+
   print("About to start final production...")
+
   threads = (
     threading.Thread(target=make_phys_book),
     threading.Thread(target=make_online_pdf),
@@ -386,13 +418,13 @@ def main():
 
 
 def make_online_pdf():
-  subprocess.run(['pandoc', '-s', online_book_md_path,
-                            '-o', online_book_html_path])
+  subprocess.run(['pandoc', '-s', online_pdf_book_md_path,
+                            '-o', online_pdf_book_html_path])
   server_string = ["python3", "-m", "http.server", "2000", "-d", pub_dir]
   print(" == Starting server: %s (online book)" % server_string)
   server = subprocess.Popen(server_string)
   try:
-    fixup_html(online_book_html_path, phys=False)
+    fixup_html(online_pdf_book_html_path, Version.ONLINE_PDF)
     print(" == Creating online content.pdf")
     subprocess.run(['node', f'{js_dir}/online_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=online_content_pdf_path, book_pdf_path=online_book_pdf_path, dimensions=PHYS, phys=False)
@@ -400,27 +432,36 @@ def make_online_pdf():
     server.terminate()
 
 
-def fixup_html(html_path, phys):
+def fixup_html(html_path, version: Version):
   book_html = open(html_path, 'r', encoding='utf-8').read()
-  ADDED_STYLE = BOOK_ADDED_STYLE_ONLINE
-  if phys:
+  ADDED_STYLE = None
+  if version == Version.ONLINE_PDF:
+    ADDED_STYLE = BOOK_ADDED_STYLE_ONLINE_PDF
+  elif version == Version.PHYS:
     ADDED_STYLE = BOOK_ADDED_STYLE_PHYS
+  else:
+    ADDED_STYLE = BOOK_ADDED_STYLE_EPUB
   book_html = book_html.replace("</html>", ADDED_STYLE)
   book_html = book_html.replace("**", "")
   book_html = book_html.replace("DOTHERE", ".")
   open(html_path, 'w', encoding='utf-8').write(book_html)
-  
+
+
+def pandoc_epub_fix():
+  html = open(epub_book_html_path, 'r', encoding='utf-8').read()
+  pieces = html.split("body {", 1)
+  end = pieces[1].split("}", 1)[1]
+  open(epub_book_html_path, 'w', encoding='utf-8').write(pieces[0] + end)
+
 
 def make_epub():
   print(" == Starting epub at %s" % time.ctime())
-  subprocess.run(['pandoc', '-s', online_book_md_path,
+  subprocess.run(['pandoc', '-s', epub_book_md_path,
                             '-o', epub_book_html_path,
                             '--metadata', 'title=The Deepest Revolution',
                             '--metadata', 'author=William Randolph'])
-  fixup_html(epub_book_html_path, phys=False)
-  html = open(epub_book_html_path, 'r', encoding='utf-8').read()
-  html = html.replace("</header>", "</header><div style=\"page-break-after:page\"></div><center>Copyright 2025 William Randolph</center><div style=\"page-break-after:page\"></div>")
-  open(epub_book_html_path, 'w', encoding='utf-8').write(html)
+  fixup_html(epub_book_html_path, Version.EPUB)
+  pandoc_epub_fix()
   shutil.copyfile(cover_src_path, cover_dest_path)
   subprocess.run(['ebook-convert', epub_book_html_path, book_epub_path,
                                    '--cover', cover_dest_path,
@@ -458,11 +499,10 @@ def make_phys_book():
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating phys content.pdf")
-    shutil.copy(online_book_md_path, phys_book_md_path)
     update_images_bw()
     subprocess.run(['pandoc', '-s', phys_book_md_path, # make pdf w/real index
-                              '-o', phys_book_html_path])
-    fixup_html(phys_book_html_path, phys=True)
+                              '-o', phys_html_path])
+    fixup_html(phys_html_path, Version.PHYS)
     proc = subprocess.run(['node', rf'{js_dir}/phys_content_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
     pdf_toc.main(content_path=phys_content_pdf_path, book_pdf_path=phys_book_pdf_path, dimensions=PHYS, phys=True)
   finally:

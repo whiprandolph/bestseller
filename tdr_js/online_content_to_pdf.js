@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
 (async() => {
   const browser = await puppeteer.launch({headless:true});
   const page = await browser.newPage();
-  await page.goto('http://localhost:2000/book_online.html', {waitUntil: 'networkidle2'});
+  await page.goto('http://localhost:2000/book_online_pdf.html', {waitUntil: 'networkidle2'});
   await page.pdf({
     displayHeaderFooter: true,
     preferCSSPageSize: true,

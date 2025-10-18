@@ -31,12 +31,12 @@ why_so_lost_html = rf"{html_dir}/Part 2 - Why Are We So Lost\06 - Why Are We So 
 odoc_chapters_root = rf"{books_dir}/huhc/repo/chapters"
 rev_act_path = os.path.join(repo_root_dir, "Scratch", "Revolutionary Activities.md")
 rev_act_sheet_path = os.path.join(repo_root_dir, "Scratch", "Revolutionary Activities Sheet.csv")
-final_biblio_path = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "Bibliography.md")
+final_biblio_path_pdf = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "Bibliography_PDF.md")
+final_biblio_path_epub = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "Bibliography_EPUB.md")
 raw_biblio_path = os.path.join(repo_root_dir, "Part 4 - Closing Notes", "raw_bibliography.md")
 biblio_csv_path = rf"{repo_root_dir}/Scratch/TDR.csv"
-intermediate_html = f"{tdr_root_dir}/html"
 pub_dir = rf"{tdr_root_dir}/pub"
-images_source = f"{intermediate_html}/images"
+images_source = f"{html_dir}/images"
 images_dest = os.path.join(pub_dir, "images")
 
 
