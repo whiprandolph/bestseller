@@ -8,7 +8,7 @@ Without exception, every unhealthy nation has these intractable problems, and no
 
 But our troubles go deeper still.
 
-_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is continually sabotaged. Instead, low integrity, cowardice, superficiality, low mutual understanding,  and low self-worth become common.
+_A person's integrity is their willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice._ But integrity becomes rare when people are forbidden from standing for justice and solidarity is sabotaged. Instead, low integrity, cowardice, superficiality, ignorance, and low self-worth become common.
 
 When people accept that corruption and greed are unavoidable aspects of their nation, they also come to think that these unwelcome personal qualities like cowardice and superficiality, while tragic, are unavoidable too. When these qualities start to seem normal, people's expectations or standards for themselves and others fall. After all, why expect deep integrity or generosity from anybody if you're just going to be let down?
 
@@ -18,21 +18,21 @@ The path to creating new healthy nations requires learning how to hold ourselves
 
 ### Healthy Nations Show How High Our Standards Can Be
 
-_Integrity:_ Every legal system around the world requires testifying under oath, and threatens people with severe punishment for lying. The assumption is that people can't be counted on to tell the truth unless they are afraid of being punished.
+_Integrity:_ Every legal system requires testifying under oath and threatens people with severe punishment for lying. The assumption is that people can't be trusted unless they fear punishment.
 
 In contrast, integrity was so pervasive among the traditional Apache that no one was compelled to take an oath because, according to Geronimo, "it is not believed that they will give false testimony in a matter relating to their own people."[xxx-geronimo autobio|Unwritten Laws of the Apaches]
 
 _Physical resilience:_ Crow woman Pretty Shield described how physically resilient her people used to be: "[W]hen I was young, if in winter a person fell into icy water, he got out, took off his wet clothes, and rolled in the snow, rubbing his body with it, and got warm. Then, after squeezing out the water, he put on his clothes and forgot about getting wet... Now my people wear gloves, and too many clothes. We are soft as mud."[xxx-red mother|p84]
 
-_Generosity:_ A Christian missionary visited the Ojibway, Cheyenne, Cree and Sioux nations, describing how Jesus Christ selflessly gave away all his possessions, urged others to do the same, and dedicated his life to feeding, healing, and protecting his people. The missionary was told that, prior to colonization, Jesus Christ's level of selfless generosity was normal among them.[xxx-from deep woods to civilization|civ preached practiced]
+_Generosity:_ A Christian missionary visited the Ojibway, Cheyenne, Cree and Sioux nations, describing how Jesus Christ gave away all his possessions, urged others to do the same, and dedicated his life to feeding, healing, and protecting his people. The missionary was told that, prior to colonization, Jesus Christ's level of selfless generosity was normal among them.[xxx-from deep woods to civilization|civ preached practiced]
 
 _Meaningful Education for Young People:_ One Nootka storyteller described how the women would often have their moon time at the same time each month, and they would go to a special house and enjoy a four-day party. They would sit on special soft moss and give their blood back to the Earth and play games and talk. Women would massage each other and make special tea for cramps. This became a big opportunity for older women to mentor younger women. For example, young women learned the special Frog posture that could help relieve cramps and make childbirth easier.
 
-_Benefitting the Earth:_ Stories abound of people of healthy nations benefitting or enriching the Earth as a normal way of life. Robin Kimmerer described how Black Ash trees actually became _more abundant_ in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a powerful bow so that the overall forest also benefitted.[xxx-the vision|p81]
+_Benefitting the Earth:_ Stories abound of people of healthy nations benefitting or enriching the Earth as a normal way of life. Robin Kimmerer described how Black Ash trees became more abundant in regions where it was respectfully harvested by Mohawk and Potawatomi basket makers, and this remains true today.[xxx-braiding sweetgrass|wisgaak gokpenagen] Apache man Stalking Wolf described how he respectfully harvested a sapling to make a powerful bow so that the forest also benefitted.[xxx-the vision|p81]
 
 These are high standards. Total integrity is normal, and Jesus Christ's level of selfless generosity is considered normal too. Physical resilience and meaningful childhood education are also baseline expectations. Their normal way of life benefits the Earth around them, increasing the natural abundance that they depend on.
 
-When people bring out the best in each other and hold each other to high standards, whole nations really can maintain a baseline of mutual respect among the people, and between people and the Earth.
+When people bring out the best in each other and hold each other to high standards, whole nations can maintain a baseline of mutual respect among the people, and between people and the Earth.
 
 Remember, members of nations such as the Potawatomi, Crow, Apache, and Nootka are people like anyone else. They have attitudes, skills and awareness that anyone could cultivate -- including you and other strong and caring people you know.
 
@@ -60,7 +60,7 @@ Young Nootka boys and girls were trained to have very strong physical endurance 
 
 Many adults assume that young teenagers cannot be mature enough to have respectful sexual relationships, but this is only typically true in unhealthy nations. When children are raised to take responsibility for themselves and others, feel their feelings, understand risk, and have good boundaries, the Mosuo show that young adults can have respectful and joyful relationships as teenagers.[xxx-sex at dawn|love lust lagu]
 
-When a Mosuo girl reaches puberty around 13 or 14, her new bedroom has two doors, one for the family to enter and one all her own so she can easily have lovers visit. One visitor described the young women as "sassy and confident," and noted the lack of "broken homes," impoverished single mothers, and shameful divorces.[xxx-sex at dawn|love lust lagu]
+When a Mosuo girl reaches puberty, her new bedroom has two doors, one for the family to enter and one all her own so she can easily have lovers visit. One visitor described the young women as "sassy and confident," and noted the lack of "broken homes," impoverished single mothers, and shameful divorces.[xxx-sex at dawn|love lust lagu]
 
 In unhealthy nations, a major obstacle to having many sexual relationships is the fear of pregnancy and becoming a parent before the person is ready. However, expecting the two sexual partners to be the sole parental figures for any child is unnecessarily limiting. Each Mosuo man knows from boyhood that he will be a parent figure for his sister's children, and this frees both men and women to have sex without worrying about which man fathered which child. Mosuo women know they will always have a family and parenting support regardless what happens with their sexual relationships, which takes a lot of pressure off of them. One Mosuo woman described how they share parental responsibilities: "In place of one father, Mosuo children have many uncles who take care of them... We also have many mothers, because we call our aunts... 'little mother.'" Others outside the family help too.[xxx-sex at dawn|love lust lagu]
 
@@ -76,10 +76,13 @@ In unhealthy nations, troubles at the national level are reflected in many famil
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #22<br/>Hold firm boundaries without encouraging shame or guilt</div>
 <div class="rev-act-body">Next time someone acts hurtfully towards you or someone you care about, acknowledge the problematic behavior, the impact it had, and what behavior you would rather see. Do not put the other person down or make any hurtful or dismissive comments to them. Trust that they want to know if they made a mistake and will grow from the experience. Many people are not used to being treated this way, with both respect and healthy boundaries, so be ready to help them understand what you expect of them. If they truly are not willing to hold themselves to a high standard, you will see this clearly, and you can decide not to cooperate any more.</div></div>
+<div style="padding-bottom:.75em"></div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Notice how you tolerate boredom</div>
+<div class="rev-act-body">Tolerating boredom is a key way many people learn to live with low standards. Notice how you tolerate boredom. Do you seek fake excitement or connection by watching TV, playing video games, watching pornography, counting your money, or getting into meaningless arguments? Do you keep yourself busy with work and chores, or ignore your feelings with alcohol or drugs? Anytime you feel bored, notice how you distract yourself, and choose to do something interesting instead such as making music, training self-defense, or joining a revolution. When life is interesting, it is easier to quiet your mind so that you can even enjoy moments when you're not doing anything at all.</div></div>
 
 #### Low Standards for Politics
 
-Low standards are pervasive everywhere in unhealthy nations, especially in politics. 
+Low standards are pervasive in politics. 
 
 Politicians may brag about being "tough on crime," but they never talk about _ending crime._ Ending crime would require people to create a healthy nation like the Mosuo, who have so little crime that their language has no words for "murder" or "rape."[xxx-sex at dawn|love lust lagu]
 
@@ -109,7 +112,7 @@ Many young women aspire to leadership positions in politics, but corrupt women p
 
 Selfish women business executives can likewise do just as much harm as selfish men, leading corporations that produce vast amounts of toxic chemicals[xxx-lubrizol ceo] or lobby for needless wars while supplying the weapons.[xxx-opensecrets capitalizing on conflict]<sup>,</sup>[xxx-lockheedmartin.com ceo]
 
-A common theme in healthy nations is _balance,_ ensuring both women and men have positions of influence without corruption. Male and female partners usually served as Tzutujil Mayan chiefs together.[xxx-secrets of the talking jaguar|p202]
+A common theme in healthy nations is _balance,_ ensuring both women and men have influence without corruption. Male and female partners usually served as Tzutujil Mayan chiefs together.[xxx-secrets of the talking jaguar|p202]
 
 The traditional Cherokee had a White Council of women who led during peacetime and a Red Council of men who led in war. Cherokee woman Rebecca Adamson said, "The goal was the balance, the harmony, the bringing together of both wisdoms and both energies for the good of the Nation."[xxx-original instructions|first nations survival]
 
@@ -125,7 +128,7 @@ Nez Perce chief Joseph's advice to an American boy was simple: "be brave and tel
 
 Men of healthy nations show what it's like to live with total integrity and bravery, and they reveal just how far from this high standard most men in unhealthy nations typically live.
 
-Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior] Young men had to cultivate this depth of bravery to be considered ready for marriage.[xxx-geronimo autobio|family]
+Apache man Geronimo described how young men were expected to show "no color of cowardice, or weakness of any kind." All boys were trained to be warriors who would protect their people. Geronimo stated the minimal, entry-level requirement: "[once the youth] has proven beyond question that he can bear hardships without complaint, and that he is a stranger to fear, he is admitted to the council of the warriors in the lowest rank."[xxx-geronimo autobio|preparation of a warrior] Only young men with this depth of bravery were considered ready for marriage.[xxx-geronimo autobio|family]
 
 Huron men intentionally practiced bravery throughout their adult lives so they would be ready to protect their people from any injustice or threat. This included intentionally causing themselves pain to practice maintaining composure under duress.[xxx-huron farmers of the north|44]
 
@@ -173,7 +176,7 @@ A key requirement is to have the attitude that, when someone lets you down, they
 
 Some people are so stuck that they don't grow even with repeated respectful feedback, and you may need to set boundaries and not allow their hurtful behavior in your life or community anymore. But if someone acts hurtfully and you start with the attitude that they're "bad," they will be resistant to any feedback that you offer.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Learn without guilt or shame</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Learn without guilt or shame</div>
 <div class="rev-act-body">Think of a time you made a mistake and you felt guilty or shameful in response, perhaps because an adult urged you to feel this way. How much harder did those feelings make it to learn from your mistake? How helpful would it have been if the person trusted that you wanted to learn from the experience? Next time you make a mistake, learn what you can, notice any feelings of guilt or shame, and just let them go.</div></div>
 
 #### Everything is a Skill That Can be Practiced Without Guilt or Shame
@@ -190,7 +193,7 @@ And just like you practiced steering before going for a long bike ride, you can 
 
 The book _One Disease One Cure_ contains many more suggestions for cultivating bravery, integrity, and other qualities.
 
-Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, as part of a group of friends that bring out the best in each other. As long as you're truly committed to that path of spiritual growth, mistakes are simply learning opportunities along the way.
+Spiritual growth can be joyful rather than stressful when you approach it without shame and guilt, and with friends that bring out the best in each other. As long as you're truly committed to spiritual growth, mistakes are just learning opportunities.
 
 For me, "spirituality" means how you relate to yourself and the world. Thus, "spiritual growth" means learning to relate to yourself and the world in a better way, including with integrity, awareness, bravery, joy, generosity, respect for the Earth, and healthy personal boundaries. The three core spiritual practices lead to spiritual growth by helping you relate to the world with gratitude, by identifying and giving your sacred gifts, and living in reciprocity.
 
@@ -202,7 +205,7 @@ When you hold yourself to high standards, your rate of growth will increase. You
 
 These shame-free and guilt-free attitudes to spiritual growth are essential. Embrace them to hold yourself and others to high standards and create relationships of deep trust, where qualities like integrity, bravery, awareness, and generosity are normal.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #24<br/>Practice bravery</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #25<br/>Practice bravery</div>
 <div class="rev-act-body">Consistently facing your fears is one key way to cultivate bravery. Think of a fear that you're avoiding right now. You may have lied and you're afraid to admit it, or you're afraid to quit an unsatisfying job. Face your fear, recognize that you can handle whatever comes, and do what you need to do.</div></div>
 
 ### References

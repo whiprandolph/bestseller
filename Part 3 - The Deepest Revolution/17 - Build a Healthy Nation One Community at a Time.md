@@ -46,7 +46,7 @@ Over time if we can form enough healthy communities, someday they may unite to f
 
 Healthy communities are the building blocks of healthy nations. If you could attend one of those sessions and discuss how to form a healthy community, what do you think you might learn?
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>Serve the Earth Together</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Serve the Earth Together</div>
 <div class="rev-act-body">People can have unity when they all deeply care about the same things. This is part of the magic of the Haudenosaunee's Thanksgiving Address -- among other things, it's a public statement where they remind themselves of their shared gratitude for the Earth, and how important the Earth is to them.<br/><br/>Build unity with others by caring for the Earth together. Whether you're protecting a forest or river from destruction or pollution, or enriching the soil or creating new bird habitat, find a practical way to work with others to give back to the nonhumans who give us humans so much.</div></div>
 
 ### Building a Healthy Community Starts with You
@@ -113,7 +113,7 @@ As a healthy community of people with high expectations, your group's standards 
 
 The Haudenosaunee writers described how their "society was founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38] Such a society can only exist when everyone has that spiritual strength to stand for what's right. And building new healthy communities where people joyfully cultivate that spiritual strength together is part of the path to building a new healthy nation.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #34<br/>Talk clearly about the kind of friendship you want</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #35<br/>Talk clearly about the kind of friendship you want</div>
 <div class="rev-act-body">Think about what kind of friendships you want. Approach someone with whom you want a strong friendship, and ask if they'd like to discuss the sort of relationship you two could have. Tell them clearly what you want, such as a friendship where each person can rely on the other to tell the truth, to share, and protect and support each other in hard times. Tell them that you're willing to commit to these things -- whatever qualities you choose -- to make this friendship real. Ask them what they want in the friendship and what they will commit to. Find common ground, so you're both excited about the quality of friendship you're committing to have with each other.<br/><br/>When you set clear, high standards and meet them, and help each other grow from mistakes, this creates deep trust faster than just "letting the relationship happen."</div></div>
 
 ### Build Spiritual Strength with Others
@@ -162,7 +162,7 @@ This is why it's important to cultivate spiritual strength together. Making your
 
 So commit to that path of deep spiritual growth with others. Expect that mistakes will happen, and learn to grow and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your community.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #35<br/>What does your path back to grace look like?</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #36<br/>What does your path back to grace look like?</div>
 <div class="rev-act-body">Think of someone who disappointed you recently. Perhaps they lied to you or didn't keep a promise. Decide what words you would need to hear from them, and what actions you would need to see for you to begin trusting them again. Ensure your path back to grace follows the golden rule, so you treat others the way you would want to be treated.</div></div>
 
 ### If the Zapatistas Can Do It, So Can We
@@ -185,7 +185,7 @@ So spread the good news! You could potentially live in a nation that maintains a
 
 Someday you may live in a free nation, or perhaps you will lay the groundwork so that a future generation can. Even if you're just good to the Earth and the people around you right now, no matter what else happens, it will be worth it.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #36<br/>Join a group dedicated to spiritual growth</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #37<br/>Join a group dedicated to spiritual growth</div>
 <div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with beautiful qualities such as integrity, kindness, generosity, bravery, and awareness. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 ### References
