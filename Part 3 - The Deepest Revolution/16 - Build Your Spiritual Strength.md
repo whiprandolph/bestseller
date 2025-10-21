@@ -20,7 +20,7 @@ This kind of transformation seems common among activists and spiritual leaders. 
 
 But in order for spiritual leaders like Jesus Christ, Don Cox, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
-Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on authoritarian democracy or "divinely-ordained" monarchy when you see how free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
+Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on "divinely-ordained" monarchy or authoritarian "democracy" when you see how free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
 
 Embrace your curiosity, and open your mind to possibilities that may have seemed impossible before. As you free your mind from beliefs that don't work, and make space for perspectives that do, you will feel more empowered to make a difference for the people and nonhumans around you.
 
@@ -33,7 +33,7 @@ To live in a healthy nation, you will need to embrace a very different way of li
 
 Cultivating a practical, aware gratitude is the first step to build spiritual strength.
 
-To me, a person has _spiritual strength_ if they give their love fully in each moment without holding back, and if they stand for what's right for themselves and others. So what does that have to do with gratitude?
+To me, a person has _spiritual strength_ if they give their love fully without holding back, and if they stand for what's right for themselves and others. So what does that have to do with gratitude?
 
 When I notice and feel gratitude for others' gifts, it makes it hard for me not to give my own gifts in turn. I didn't understand this till I began nature connection practices and feeling grateful for all the gifts I received.
 
@@ -65,8 +65,10 @@ I had an urge to protect the forest, an urge I couldn't ignore even if I wanted.
 
 There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. Cultivating this practical, aware gratitude helped me get on a good path.
 
+Deep gratitude can help you too. Practice noticing the gifts you receive, and practice feeling grateful. Keep practicing gratitude until it becomes your baseline approach to life, looking for beauty even if life doesn't seem to offer you much. When you feel that urge to give back, grateful for the gifts you receive, you'll be on a good path too. 
+
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Learn to receive the tangible gifts of the Earth</div>
-<div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
+<div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to gratefully receive them.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 <div style="padding-bottom:.75em"></div>
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Give thanks for Earth's intangible gifts</div>
 <div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or fresh air or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
@@ -102,9 +104,9 @@ Some years ago, I felt stuck in life, so I decided to do a special fast alone in
 
 I spent most of the time feeling stressed, because I was so used to having distractions like my job, reading the news, even nervous eating. In other words, it took awhile to calm down and just be with that inner voice that I'd learned to ignore.
 
-Before the fast, I often felt stressed, and it was difficult for me to savor sensual pleasures. I rarely even tasted my food, as I commonly read books or news articles or watched videos while I ate. I'd learned to distract myself from the deep dissatisfaction I was feeling.
+Before the fast, I often felt stressed, and it was difficult for me to savor sensual pleasures. I rarely even tasted my food, as I commonly read news articles or watched videos while I ate. I'd learned to distract myself from the deep dissatisfaction I was feeling.
 
-I had no great insight during this fast. I just slowly calmed down. I never felt hungry, and only occasionally felt thirsty. I knew from previous fasting what it's like to eat or drink water out of nervousness, so I knew not to worry, and my thirst quickly went away.
+I had no great insight during this fast. I just slowly calmed down. I never felt hungry, and only occasionally felt thirsty. I knew from previous fasting what it's like to eat or drink out of nervousness, so I knew not to worry, and my thirst quickly went away.
 
 Finally I ended the fast with some herbal tea. As I savored the tea, I thought about how I would normally read or watch a video while drinking, and I was filled with revulsion. The thought of distracting myself from my own meaningful experience was terrible, even though just four days earlier it had seemed entirely normal.
 
@@ -112,7 +114,7 @@ This fast showed me how much I distracted myself from my own feelings, and how d
 
 In a sense, it felt like I was just "being myself," but I wasn't doing whatever I was used to doing, or doing whatever I felt like. I was being my deepest self, connected with that inner voice that would never tolerate meaningless distractions.
 
-It is essential to get rid of all distractions so that you can hear that divine voice, as many spiritual leaders have shown. Jesus Christ famously began his ministry immediately after fasting for 40 days alone in the desert, during which time he confronted temptations to become wealthy and powerful, and instead chose a path of service.[xxx-bible niv|matthew 4:1-11]
+It is essential to get rid of all distractions so that you can hear that divine voice, as many spiritual leaders have shown. Jesus Christ famously began his ministry immediately after fasting for 40 days alone in the desert, where he confronted temptations to become wealthy and powerful, and instead chose a path of service.[xxx-bible niv|matthew 4:1-11]
 
 Ohiyesa described how, among the traditional Sioux, praying alone in the wilderness "was customary with the best young men."[xxx-indian heroes and great chieftains|crazy horse]
 
@@ -120,7 +122,7 @@ Apache man Stalking Wolf described how the vision quest "provides all the answer
 
 "Command from Creator," "divine voice," "sacred gifts," and "deepest love" are all ways of saying the same thing. That divine voice is inside you right now, and it's waiting for you to listen so you can walk your divine path and offer your own sacred gifts, or your deepest love. All it takes is the courage to release distractions and feel that deepest part of you that others in your unhealthy nation haven't always welcomed.
 
-You matter, and there's a reason you're alive. You have sacred gifts, special ways of making the world a better place that only you can give. Any moment you're not giving your gifts, the world becomes poorer.
+You matter, and there's a reason you're alive. You have sacred gifts, special ways of making the world a better place that only you can give. Any time you don't give your gifts, the world becomes poorer.
 
 Commit to discovering and giving your own sacred gifts, and living the most meaningful life imaginable in service of the people and nonhumans you love.
 
@@ -171,7 +173,7 @@ All the revolutionary activities in this book are meant to help you generate exa
 
 When you practice standing for what's right and supporting others who take a stand, you'll show courage that inspires trust in others -- and who doesn't want to trust their friends?
 
-When you practice giving first without expecting anything in return, that innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll give back too.
+When you practice giving first without expecting anything in return, your innocent generosity will inspire the same in others, who will know they can give to you and trust that over time you'll share too.
 
 When you practice noticing the gifts of the nonhumans and develop mutual relationships with them, you'll make more nonhuman friends than you ever imagined.
 
@@ -185,7 +187,7 @@ One of the biggest lies in history is that there is only one messiah. Christians
 
 "Messiah" just means savior or liberator, someone who helps free people from oppression.[xxx-oxford messiah] Tubman, Christ, and King were all messiahs, each serving their people in their own way. In healthy nations, everyone stands for justice in one way or another, therefore _everyone_ is a messiah.
 
-And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your sacred gifts and find your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed -- so many challenges make it hard to take time without distraction to cultivate your sacred gifts and develop your spiritual strength. These troubles also make it hard to form relationships of reciprocity with people and the Earth.
+And since everyone is a messiah, you are a messiah too. You may not feel ready to cultivate your spiritual power, or perhaps you feel too busy or afraid. There's a reason authoritarian religions encourage shame and low self-worth, schools train children for cowardly obedience, politicians and the media keep people divided and scared, and profit economies keep workers busy and stressed. We're trained to be slaves with a life of stress and distraction, afraid of our spiritual power. These troubles also make it hard to form reciprocal relationships with people and the Earth.
 
 The distractions are real, but so is the divine voice speaking to you right now, as it has since your birth. This divine voice isn't separate from you; each one of us is divinity in human form, and that includes you. If you're like most people, you've only learned to hold back or shut down parts of your divine self in order to survive in your unhealthy nation.
 

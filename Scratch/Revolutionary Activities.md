@@ -167,7 +167,7 @@
 
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Learn to receive the tangible gifts of the Earth</div>
-</b><div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
+</b><div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to gratefully receive them.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 
 
 
