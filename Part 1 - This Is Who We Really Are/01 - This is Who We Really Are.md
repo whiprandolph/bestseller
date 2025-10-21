@@ -16,7 +16,7 @@ My short time with the Ashaninka in 2015 was utterly magical and changed my life
 
 ### Meet the Ashaninka
 
-Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, a chance to join their singing and dancing, and generally invited into their communities as if I weren't a strange white America man who didn't even speak their language. They just welcomed me without asking anything in return.
+Before we entered Ashaninka territory, Mike said to expect exceptional generosity. But nothing prepared me for what I found. Everywhere I went, no matter what was happening, I was constantly offered food, drink, a place to rest, a chance to join their singing and dancing, and generally invited into their communities as if I weren't a strange white American man who didn't even speak their language. They just welcomed me without asking anything in return.
 
 For example, whenever my host and I traveled around the region and needed to rest, we would stop at the next house and the hostess would bring us a fermented pink drink called peorentsi, along with some simple and filling food. They didn't do this because I was a special guest. Every traveler who needed to rest received food and drink with no expectation of trading or paying.
 

@@ -52,7 +52,7 @@ As I was born and raised in an unhealthy nation, all this seemed normal and natu
 
 Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own nation and seek justice._ In healthy nations, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy nations, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
 
-Unhealthy nations systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice.
+Unhealthy nations systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice. Each person responds in their own way. People can learn to habitually ignore certain feelings or urges, develop narrow-minded, selfish or hurtful attitudes, or ignore some aspects of reality, leading to all kinds of strange emotional and spiritual disturbances.
 
 In healthy nations, standing for what's right in solidarity with neighbors is not just allowed -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
 

@@ -20,7 +20,7 @@ This kind of transformation seems common among activists and spiritual leaders. 
 
 But in order for spiritual leaders like Jesus Christ, Don Cox, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
-Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on authoritarian democracy or divinely-ordained monarchy when you see how free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
+Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on authoritarian democracy or "divinely-ordained" monarchy when you see how free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
 
 Embrace your curiosity, and open your mind to possibilities that may have seemed impossible before. As you free your mind from beliefs that don't work, and make space for perspectives that do, you will feel more empowered to make a difference for the people and nonhumans around you.
 
@@ -141,7 +141,7 @@ Many people practice gratitude. But if you don't give your sacred gifts from tha
 
 And some people cultivate passion, but if it's not offered in gratitude to the humans and nonhumans you love, what good is it?
 
-Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely enjoy their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics, and help create weapons their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
+Some people find passion for abstract things like scientific research, engineering, and writing. But when people merely enjoy their work and do not pay attention to the consequences of the work their bosses order them to do, terrible things happen. Physicists may love physics and help create weapons their rulers use in ways they later regret. Civil engineers may obsess about building codes and construct well-built prisons that corrupt legal systems use to unjustly persecute activists and the poor.
 
 Gratitude without service can feel empty, and passion without that clear gratitude can easily become comfortable and ultimately meaningless. Ruling classes are only too happy for wage slaves to feel passionate about their jobs.
 

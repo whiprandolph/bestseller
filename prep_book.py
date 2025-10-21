@@ -391,16 +391,16 @@ def main():
   bib_blob_pdf = fix_biblio(final_biblio_path_pdf)
   both_pdf_base_md = "".join((base_book_md, bib_blob_pdf))
   epub_base_md = "".join(("<div style=\"page-break-after:page\"></div><center>Copyright 2025 William Randolph</center><div style=\"page-break-after:page\"></div>", base_book_md, bib_blob_epub))
-  open(online_pdf_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
-  open(phys_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
-  open(epub_book_md_path, 'w', encoding='utf-8').write(epub_base_md)
+  
+  
+  
 
   print("About to start final production...")
 
   threads = (
-    threading.Thread(target=make_phys_book),
-    threading.Thread(target=make_online_pdf),
-    threading.Thread(target=make_epub)
+    threading.Thread(target=make_phys_book, args=(both_pdf_base_md,)),
+    threading.Thread(target=make_online_pdf, args=(both_pdf_base_md,)),
+    threading.Thread(target=make_epub, args=(epub_base_md,))
   )
   for thread in threads:
     thread.start()
@@ -417,7 +417,8 @@ def main():
   print("Elapsed time: %s" % time_diff)
 
 
-def make_online_pdf():
+def make_online_pdf(both_pdf_base_md):
+  open(online_pdf_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
   subprocess.run(['pandoc', '-s', online_pdf_book_md_path,
                             '-o', online_pdf_book_html_path])
   server_string = ["python3", "-m", "http.server", "2000", "-d", pub_dir]
@@ -454,8 +455,8 @@ def pandoc_epub_fix():
   open(epub_book_html_path, 'w', encoding='utf-8').write(pieces[0] + end)
 
 
-def make_epub():
-  print(" == Starting epub at %s" % time.ctime())
+def make_epub(epub_base_md):
+  open(epub_book_md_path, 'w', encoding='utf-8').write(epub_base_md)
   subprocess.run(['pandoc', '-s', epub_book_md_path,
                             '-o', epub_book_html_path,
                             '--metadata', 'title=The Deepest Revolution',
@@ -492,8 +493,8 @@ def update_images_bw():
   open(phys_book_md_path, 'w', encoding='utf-8').write(phys_book_md)
 
 
-def make_phys_book():
-  
+def make_phys_book(both_pdf_base_md):
+  open(phys_book_md_path, 'w', encoding='utf-8').write(both_pdf_base_md)
   server_string = ["python3", "-m", "http.server", "-d", pub_dir]
   print(" == Starting server again (physical book): %s (%s)" % (server_string, time.ctime()))
   server = subprocess.Popen(server_string)

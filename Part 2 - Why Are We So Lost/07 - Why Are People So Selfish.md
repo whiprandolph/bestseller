@@ -56,7 +56,7 @@ People with integrity face this reality, but few do, as people would recognize t
 
 _Profit economies make it dangerous to have integrity._ Thus it's not just politicians who are corrupt. In one way or another, profit economies corrupt nearly everybody, from the topmost political leaders and business executives to the vast majority of individuals.
 
-Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think this does not pertain to you? Perhaps you like your job, your company has an ethical-sounding mission statement, and you have enough money to survive and even enjoy your days off. Maybe you also have money for a rainy day or retirement. Maybe you are sitting pretty.
+Of course, some people have a comfortable life in their profit economy, and maybe you're one of them. If so, do you think this does not pertain to you? Perhaps you like your job, your company has an ethical-sounding mission statement, and you have enough money to survive and even enjoy your days off. Maybe you have money for a rainy day or retirement. Maybe you are sitting pretty.
 
 But consider this. Can you stop? Can you step off your treadmill and quit working for money whenever you please to focus on more meaningful work? And if you did, how long could you keep it up? Unless you have megawealth, some day you would have to return to paid work or face financial desperation. Maybe your friends or family would help you for a while, but sooner or later, you'd likely be in trouble. Unlike those in healthy nations, in the profit economy of an unhealthy nation, you're not surrounded by people who will share food and shelter and ensure your survival needs are met during difficult times.
 
