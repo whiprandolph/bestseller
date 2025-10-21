@@ -77,7 +77,6 @@ People of healthy nations do not just avoid polluting the Earth; they actively s
 
 <div class="rev-act-first"><div class="rev-act-header">Revolutionary Activity #4<br/>Give from gratitude</div>
 <div class="rev-act-body">Do something kind and no-strings-attached for someone who has done something kind for you, or for anybody who looks like they need help. Get creative with what you can offer, such as helping move heavy things, lifting someone's spirits when they're feeling down, or helping them find a job. Practice feeling gratitude for what they've given you, or if they're a stranger, practice feeling thankful for what other strangers have given you, and give from that place of gratitude. Do not give in exchange or to "pay them back" because this is not a trade. Savor the pleasure of giving just for the joy of it.</div></div>
-<div style="padding-bottom:.75em"></div>
 
 ### Carry Your Gifts with Conviction
 

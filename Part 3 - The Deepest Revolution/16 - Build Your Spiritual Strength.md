@@ -26,7 +26,7 @@ Embrace your curiosity, and open your mind to possibilities that may have seemed
 
 To live in a healthy nation, you will need to embrace a very different way of life than your unhealthy nation trained you for. A way of life without submissive obedience, with dignity instead of unacknowledged humiliation, with bravery instead of cowardice, where justice and trust are normal because integrity is normal too, where neighbors share generously and the community takes the Earth's needs into account. For a group to make this way of life real, each person will need 1) deep spiritual strength, 2) deep connections with other like-minded people, and 3) a deep connection with the Earth. _Part 3_ addresses these three themes.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #27<br/>Release what isn't working</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Release what isn't working</div>
 <div class="rev-act-body">Reflect on your life, and think of one belief you have that isn't working. Do you keep voting, hoping someday the government won't be corrupt? Do you believe people are inclined to sin or that obedience is good? Do you have shame about your body, and so you have self-doubt or low self-worth? Do you think rich people are better than poor, and you judge people by how much money they have instead of how much they serve the people around them? Do you believe other people are basically untrustworthy, and so you struggle to form deeply trusting relationships?<br/><br/>Take some time and think of a belief or attitude that hasn't served you, and embrace one that might serve you better.</div></div>
 
 ### Cultivate Spiritual Strength, Part 1: Practice Noticing the Gifts You Receive and Feeling Grateful
@@ -65,13 +65,13 @@ I had an urge to protect the forest, an urge I couldn't ignore even if I wanted.
 
 There may be many ways to cultivate passion and deep connection with others. But this deep gratitude helped me feel a love in my heart and desire to serve nonhumans I'd never experienced before. Earlier in life, I didn't give my sacred gifts to the nonhumans, and I didn't stand for what's right and protect them. Cultivating this practical, aware gratitude helped me get on a good path.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #28<br/>Learn to receive the tangible gifts of the Earth</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Learn to receive the tangible gifts of the Earth</div>
 <div class="rev-act-body">Have you ever felt curious to learn how to navigate by starlight, eat wild foods, build a house of natural materials, or make fire by rubbing sticks together? Situational awareness, nutrition, housing, and fire are all examples of the endless gifts that the Earth can provide if you learn how to receive them with gratitude.<br/><br/>Notice any curiosity you've felt about some aspect of the nonhuman world, even going back to your childhood. Whatever it is, follow that curiosity. Learn how to make fire, forage wild foods, or wherever your curiosity guides you so that you begin to receive the gifts of the Earth.</div></div>
 <div style="padding-bottom:.75em"></div>
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #29<br/>Give thanks for Earth's intangible gifts</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Give thanks for Earth's intangible gifts</div>
 <div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or fresh air or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 <div style="padding-bottom:.75em"></div>
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Practice the same gratitude with people</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Practice the same gratitude with people</div>
 <div class="rev-act-body">What tangible and intangible gifts do you receive from people around you? Is there a child whose smile lifts your spirits, or an older friend who has mentored you? Have family members helped you pay for school, or friends supported you during a difficult time in a relationship? Notice the gifts you receive and feel grateful for them. Express your gratitude to the people directly so they know the impact they had on you.</div></div>
 
 ### Cultivate Spiritual Strength, Part 2: Nurture Your Sacred Gifts and Give Them in Service of the People and Nonhumans you Love
@@ -128,7 +128,7 @@ There are many ways to discover and give your gifts, as Chapter 3 described: you
 
 In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #31<br/>Make time to discover your sacred gifts or your most meaningful path</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Make time to discover your sacred gifts or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
 
 ### Cultivate Spiritual Strength, Part 3: Live in Reciprocity
@@ -193,7 +193,7 @@ Focusing on your survival or comfort is ultimately unsatisfying. Instead, cultiv
 
 The world wants to be blessed by the light of your love.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Make spiritual growth a regular and lifelong practice</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #33<br/>Make spiritual growth a regular and lifelong practice</div>
 <div class="rev-act-body">Religions like Christianity and Islam encourage people to gather at least weekly to study their religious teachings as a lifelong practice. Make your spiritual growth likewise a regular, intentional, lifelong practice. Find exercises or opportunities to practice things like bravery, gratitude, joy, integrity, humility, generosity, compassion, and awareness so they become your normal, baseline approach to life. In moments when you need to take a stand for what's right, you'll have the necessary spiritual strength because you practice that strength regularly. The activities in this book can help.</div></div>
 
 ### References

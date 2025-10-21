@@ -2,36 +2,32 @@ import os
 import time
 import subprocess
 from pprint import pprint as pp
-from ttoc import is_chapter_name, is_main_part_intro, is_pre_or_post_material
+from ttoc import is_chapter_name, is_main_part_intro, is_pre_or_post_material, images_source, images_dest, pub_dir, repo_root_dir, js_dir
 from pprint import pprint as pprint
 from progress import chapters
 import datetime
 from pypdf import PdfReader, PdfWriter, PageRange
 
 SAMPLE = False
-md_root_dir = r"C:\Users\whip\tdr"
 
-book_final = r"C:\Users\whip\tdr_published_files"
-chapters_dir = r"C:\Users\whip\tdr"
-online_book_html_path = os.path.join(book_final, "book_online.html")
-book_epub_path = os.path.join(book_final, "The Deepest Revolution.epub")
-book_zip_path = os.path.join(book_final, "The Deepest Revolution.zip")
-book_zip_dir = os.path.join(book_final, "The Deepest Revolution -- Zip")
-toc_online_pdf_path = os.path.join(book_final, "toc_online.pdf")
-toc_phys_pdf_path = os.path.join(book_final, "toc_phys.pdf")
-book_cover_path = os.path.join(book_final, "online_front_cover.png")
-toc_online_html_path = os.path.join(book_final, "toc_online.html")
-toc_phys_html_path = os.path.join(book_final, "toc_phys.html")
+online_book_html_path = os.path.join(pub_dir, "book_online.html")
+book_epub_path = os.path.join(pub_dir, "The Deepest Revolution.epub")
+book_zip_path = os.path.join(pub_dir, "The Deepest Revolution.zip")
+book_zip_dir = os.path.join(pub_dir, "The Deepest Revolution -- Zip")
+toc_online_pdf_path = os.path.join(pub_dir, "toc_online.pdf")
+toc_phys_pdf_path = os.path.join(pub_dir, "toc_phys.pdf")
+book_cover_path = os.path.join(pub_dir, "online_front_cover.png")
+toc_online_html_path = os.path.join(pub_dir, "toc_online.html")
+toc_phys_html_path = os.path.join(pub_dir, "toc_phys.html")
 
 PHYS_TOC_MARGIN = '.85'
 ONLINE_TOC_MARGIN = '.45'
 
-images_source = r"C:\Users\whip\tdr-book-html\images"
-images_dest = os.path.join(book_final, "images")
+images_dest = os.path.join(pub_dir, "images")
 
 def get_name(grouping, chapter_name, chapter_number, idx):
   add_to_chapter_counter = 0
-  grouping_path = os.path.join(chapters_dir, grouping)
+  grouping_path = os.path.join(repo_root_dir, grouping)
   non_chapter_path = os.path.join(grouping_path, chapter_name)
   chapter_path = os.path.join(grouping_path, "%02d - %s" % (chapter_number, chapter_name))
   document_path = non_chapter_path
@@ -219,9 +215,9 @@ def output_table(toc_data, dimensions, phys):
 
   print("  == Making ToC PDF\n")
   if phys:
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\phys_toc_to_pdf.js'])
+    subprocess.run(['node', rf'{js_dir}/phys_toc_to_pdf.js'])
   else:
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\online_toc_to_pdf.js'])
+    subprocess.run(['node', rf'{js_dir}/online_toc_to_pdf.js'])
 
 def merge_pdfs(content_path, book_pdf_path, phys):
   toc_pdf_path = toc_online_pdf_path
@@ -388,5 +384,5 @@ html {
 """
 
 if __name__ == "__main__":
-  main(r'C:\Users\whip\book_final\content_phys.pdf', r'C:\Users\whip\book_final\book-phys.pdf')
+  main(rf'{pub_dir}/content_phys.pdf', fr'{pub_dir}/book-phys.pdf')
 

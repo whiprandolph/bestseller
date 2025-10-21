@@ -16,3 +16,6 @@
 *.CSV
 *.json
 *.JSON
+*DS_Store
+*.swp
+node_modules*

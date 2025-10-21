@@ -9,20 +9,17 @@ import subprocess
 from datetime import timedelta
 from pprint import pprint as pp
 from pypdf import PdfReader, PdfWriter
-from ttoc import is_main_part_intro
+from ttoc import is_main_part_intro, repo_root_dir, pub_dir, js_dir
 from progress import chapters 
 from prep_book import BOOK_ADDED_STYLE_PHYS, fixup_html, PHYS, process_chapter
 
 import psutil
 import signal
 
-# SOURCE_PATH = r"C:\Users\whip\tdr\Part 1 - This Is Who We Really Are\05 - Why Doesn't Everybody Live in This Beautiful Way.md"
+# SOURCE_PATH = rf"{repo_root_dir}/Part 1 - This Is Who We Really Are\05 - Why Doesn't Everybody Live in This Beautiful Way.md"
 
-SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\16 - Build Your Spiritual Strength.md"
-# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\10 - Why Are People So Racist And Hateful.md"
-# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\13 - Can Whole Nations Embrace High Standards.md"
-# SOURCE_PATH = r"C:\Users\whip\tdr\Part 2 - Why Are We So Lost\14 - This Pervasive Abuse Must End.md"
-# SOURCE_PATH = r"C:\Users\whip\tdr\Part 3 - The Deepest Revolution\17 - Build Spiritual Strength with Others.md"
+SOURCE_PATH = rf"{repo_root_dir}/Part 3 - The Deepest Revolution\16 - Build Your Spiritual Strength.md"
+# SOURCE_PATH = rf"{repo_root_dir}/Part 2 - Why Are We So Lost\10 - Why Are People So Racist And Hateful.md"
 process_name_to_kill = "librewolf.exe" # Replace with the actual process name
 
 def kill_librewolf():
@@ -42,10 +39,9 @@ Checks to add:
 * every biblio item has >= 1 cite
 
 """
-ADD_BLANK_FIRSt_PAGE = True
-repo_root_dir = r"C:\Users\whip\tdr"
+ADD_BLANK_FIRST_PAGE = True
 
-tmp_dir = r"C:\Users\whip\tdr_published_files\tmp_dir"
+tmp_dir = rf"{pub_dir}tmp_dir"
 
 chap_ids = set()
 
@@ -59,7 +55,7 @@ def main():
     shutil.rmtree(tmp_dir)
   os.mkdir(tmp_dir)
   added_page = ""
-  if ADD_BLANK_FIRSt_PAGE:
+  if ADD_BLANK_FIRST_PAGE:
      added_page = "<div style=\"break-after:page\"></div>\n"
   open(md_path, 'w', encoding='utf-8').write(added_page + process_chapter(md_source, {}, fix_citation=True))  
   
@@ -80,7 +76,7 @@ def make_phys_book(html_path, pdf_path):
   server = subprocess.Popen(server_string)
   try:
     print(" == Creating test_chapter.pdf")
-    subprocess.run(['node', r'C:\Users\whip\tdr_js\test_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
+    subprocess.run(['node', rf'{js_dir}/test_to_pdf.js', '--paper-width=%s' % PHYS['width'], '--paper-height=%s' % PHYS['height']])
   finally:
     server.terminate()
   pass

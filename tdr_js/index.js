@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer');
   await page.goto('http://localhost:8000/index.html', {waitUntil: 'networkidle2'});
   await page.pdf({
     displayHeaderFooter: false,
-    path:'C:\\Users\\whip\\tdr_published_files\\index.pdf',
+    path:'/Users/hickory/Books/tdr/pub/index.pdf',
     margin: {
       top: '100px',
       bottom: '100px',
