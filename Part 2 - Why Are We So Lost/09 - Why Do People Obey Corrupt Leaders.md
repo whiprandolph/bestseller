@@ -6,7 +6,7 @@ Obeying corrupt, unaccountable leaders is considered normal in unhealthy nations
 
 _How on Earth do so many people think it is OK to obediently follow the rules of corrupt leaders?_ How did people get to the point where they submissively obey laws they don't agree with and corrupt authorities they don't like, and then accept their own obedience as legitimate and normal?
 
-Nearly all religious and political authorities insist on and promote obedience. To make obedience seem normal and right, they have purposely hidden or distorted important aspects of history by controlling the contents of holy books like the Bible, Torah, and Quran, as well as history books and other teaching materials, and emphasizing the aspects that promote obedience.
+Nearly all religious and political authorities insist on and promote obedience. To make obedience seem normal and right, they have purposely hidden or distorted important aspects of history by controlling the contents of holy books like the Bible, Torah, and Quran, as well as history books and other teaching materials, and emphasized the aspects that promote obedience.
 
 No example better reveals how this distortion works than the real story of history's most misunderstood spiritual leader: Jesus Christ.
 
@@ -14,7 +14,7 @@ No example better reveals how this distortion works than the real story of histo
 
 For almost 2,000 years, Christian authorities have taught Christian followers to be obedient, and to see Jesus Christ as an example of righteous obedience.
 
-Elder Delbert Stapley of the Church of Jesus Christ of Latter Day Saints claims, "Jesus Christ, the Only Begotten Son of God, learned perfect obedience."[xxx-latterday jesus obed] Catholic Sara Perla claims, "Christ asks for our obedience in many ways."[xxx-catholic jesus obed] Evangelical Christian Micah McCormick wrote, "Jesus Christ came as the incarnated divine Son to live a human life of perfect obedience and submission."[xxx-tgc jesus obed]
+One elder of the Church of Jesus Christ of Latter Day Saints claims, "Jesus Christ, the Only Begotten Son of God, learned perfect obedience."[xxx-latterday jesus obed] A Catholic leader claims, "Christ asks for our obedience in many ways."[xxx-catholic jesus obed] An Evangelical Christian pastor wrote, "Jesus Christ came as the incarnated divine Son to live a human life of perfect obedience and submission."[xxx-tgc jesus obed]
 
 However, the Bible shows that Jesus Christ was anything but obedient. To really understand Jesus, we must understand the times he lived in.
 
@@ -44,7 +44,7 @@ Consider how incredibly disobedient Jesus Christ was:
 
 Christ stood up for his people against oppressive authorities in worldly and spiritual ways, seeking to free them from Roman rule. He was publicly tortured to death to scare others away from having the spiritual strength to stand for what's right because the Roman government didn't want people to stand for what's right -- they wanted people to obey, and so they tried to scare the public into submission.
 
-Some Christians claim that Christ was obedient because he said, "Give back to Caesar what is Caesar's," suggesting people should pay their taxes.[xxx-bible niv|mark 12:17] But revolutionaries commonly debate whether to pay their taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
+Some Christians claim that Christ was obedient because he said, "Give back to Caesar what is Caesar's," suggesting people should pay their taxes.[xxx-bible niv|mark 12:17] But revolutionaries commonly debate whether to pay taxes. Should you pay taxes to avoid government harassment, so you can focus on liberating your people? Or do you choose not to pay taxes to a corrupt government and face the consequences? Christ clearly was one of these revolutionaries who chose to pay taxes while seeking to liberate his people. 
 
 Unfortunately for the Roman authorities, Jesus was extremely inspirational, and a religion formed that continued to spread his teachings after he died. The revolutionary movement also continued, with a series of Jewish-Roman rebellions occurring between 66 and 135 CE. None were successful.[xxx-britannica jewish overview]
 

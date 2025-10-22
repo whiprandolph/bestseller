@@ -38,7 +38,7 @@ Instead of engaging in unproductive political debates, what if you imagined the 
 
 ### Imagine...
 
-Imagine having amazing friends, people who tell the truth, share, keep their promises, and support you in difficult times, and who expect the same from you.
+Imagine having amazing friends who tell the truth, share, keep their promises, and support you in difficult times, and who expect the same from you.
 
 Imagine choosing to live with those friends so you're surrounded by neighbors you deeply trust, and who trust you.
 

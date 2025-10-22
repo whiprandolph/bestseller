@@ -79,15 +79,19 @@ The Ford Foundation was already known in the 1960s and 1970s for funding "modera
 
 Ford Foundation directors have included some of the most politically connected American capitalists, including John McCloy who also worked as president of the World Bank, high commissioner for Occupied Germany after World War II, assistant secretary of war, and chairman of Chase Manhattan Bank.[xxx-britannica mccloy] Other rich donors to Black Lives Matter-related groups include multi-billionaires Mark Zuckerberg[xxx-chan zuckerberg blm donation] (ceo of Facebook) and Pierre Omidyar[xxx-omidyar equity transformation] (cofounder of eBay).
 
-Just as the vast majority of activists in the astroturf Russian labor unions legitimately wanted change, many honest, well-meaning activists have supported Black Lives Matter. But sadly, the most influential people -- the funders and their choice of organizations and leaders they fund -- have found ways to direct that activist energy to effectively seek only moderate change and avert deep change.
+Just as the vast majority of activists in the astroturf Russian labor unions legitimately wanted change, many well-meaning activists have supported Black Lives Matter. But sadly, the most influential people -- the funders and their choice of organizations and leaders they fund -- have found ways to direct that activist energy to effectively seek only moderate change and avert deep change.
 
 After 10 years, what was there to show? Many wealthy and powerful people implemented superficial changes that might feel rewarding and give the appearance that Black Lives Matter was making progress, but which do not end the oppression of black people. The government announced a new federal holiday called Juneteenth in honor of the end of chattel slavery. Companies like Zoom and Google allow people to choose their skin color in their profiles. Some large news companies and publishers have decided to go all-out by capitalizing the letter "b" when writing about black people.[xxx-ap capitalize black] Wow, what progress!
 
-Many companies include (or used to include) some variation of "diversity, equity, and inclusion" projects geared towards helping employees get along and work productively together. Corporate officers that claim to oppose racism commonly discuss microaggressions that hurt an individual's feelings but do not address the massive macroaggressions which generate systems of prison slavery.[xxx-shrm microaggressions corporation]
+Many companies include (or used to include) some variation of "diversity, equity, and inclusion" projects geared towards helping employees work productively together. Corporate officers that claim to oppose racism commonly discuss microaggressions that hurt an individual's feelings but do not address the massive macroaggressions which generate systems of prison slavery.[xxx-shrm microaggressions corporation]
 
 What are those macroaggressions that a grassroots liberation movement might inspire people to fight against?
 
-Consider the real mechanisms keeping black people oppressed in the United States. When police spend extra time patrolling poor black neighborhoods and black people get longer prison sentences than whites for the same offense, black people end up spending much more time in prison than white people for the same crimes.[xxx-odoc|ch20] Police commonly commit perjury in court when it suits them, as found in repeated academic studies spanning decades and acknowledged by many police officers, judges and lawyers themselves in interviews, meaning that the legal system knowingly tolerates false evidence.[xxx-odoc|ch32] Studies show that 98% of federal prisoners plea-bargain, meaning they are threatened with such long prison sentences that they plead guilty in exchange for a shorter sentence. Plea bargaining sends people to prison whether or not they are actually guilty without going to trial.[xxx-npr plea bargain]
+Consider the real mechanisms keeping black people oppressed in the United States. When police spend extra time patrolling poor black neighborhoods and black people get longer prison sentences than whites for the same offense, black people end up spending much more time in prison than white people for the same crimes.[xxx-odoc|ch20]
+
+Many police officers commit perjury in court when it suits them and commonly get away with it, as found in repeated academic studies spanning decades and acknowledged by many police officers, judges, and lawyers themselves in interviews, meaning that the legal system knowingly tolerates false evidence.[xxx-odoc|ch32] Police deceit is so common that they have their own term for it: "testilying," a combination of "testify" and "lying."[xxx-nytimes promotions not punishments] Studies show that 98% of federal prisoners plea-bargain, meaning they are threatened with such long prison sentences that they plead guilty in exchange for a shorter sentence. Plea bargaining sends people to prison whether or not they are actually guilty without going to trial.[xxx-npr plea bargain]
+
+Corrupt higher authorities encourage corruption in the police. Police whistleblowers who call out corruption consistently risk losing their careers, and sometimes their lives.[xxx-odoc|ch32]
 
 Federal prisoner surveys in 2008 showed that prison sexual assault is so rampant that, when combined with sexual assault rates outside of prison, there are more male-victim sexual assaults than female-victim in the United States.[xxx-odoc|ch24] Prisoners cannot legally choose not to work, and even if they could legally decline, prison administrators commonly violate the law with impunity, meaning they would force prisoners to work whether it was legal or not.[xxx-odoc|ch36]
 
@@ -157,6 +161,8 @@ Part 3 offers a practical path to begin building a healthy nation, starting with
 Not everyone will want to walk this path, but you can find people who do. As healthy communities form, they will be the building blocks of future healthy nations that embrace a respectful way of life among the people, and between the people and the Earth.
 
 ### References
+
+[xxx-nytimes promotions not punishments]-aaa (Goldstein, 2018)
 
 [xxx-tops drug study|3]-aaa (Drug Abuse Treatment Evaluation, 1983, 3)
 

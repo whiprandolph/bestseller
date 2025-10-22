@@ -117,6 +117,7 @@
            <z:Website><dc:title>Survival International</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Jenu Kuruba</dc:title>
+        <dc:date>2024-08-24</dc:date>
         <z:language>en</z:language>
         <dc:identifier>
             <dcterms:URI>
@@ -218,6 +219,7 @@
            <z:Website><dc:title>Native Land Digital</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Ho-de-no-sau-nee-ga (Haudenosaunee)</dc:title>
+        <dc:date>2024-07-02 11:54:46</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://native-land.ca/maps/territories/haudenosauneega-confederacy/</rdf:value>
@@ -368,7 +370,7 @@
         </dc:identifier>
         <dc:description>[xxx-harriet moses of her people]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_100">
+    <bib:Book rdf:about="#item_55">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -484,7 +486,7 @@
         <dcterms:dateSubmitted>2024-07-03 17:15:12</dcterms:dateSubmitted>
         <dc:description>[xxx-quote investigator upton]</dc:description>
     </bib:Document>
-    <bib:BookSection rdf:about="#item_145">
+    <bib:BookSection rdf:about="#item_88">
         <z:itemType>bookSection</z:itemType>
         <dcterms:isPartOf>
            <bib:Book><dc:title>The Theodosian Code</dc:title></bib:Book>
@@ -714,16 +716,6 @@
                <foaf:name>Open Secrets</foaf:name>
             </foaf:Organization>
         </dc:publisher>
-        <bib:contributors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Evers-Hillstrom</foaf:surname>
-                        <foaf:givenName>Karl</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:contributors>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -734,6 +726,16 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Evers-Hillstrom</foaf:surname>
+                        <foaf:givenName>Karl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
         <dc:title>Capitalizing on Conflict: How defense contractors and foreign nations lobby for arms sales</dc:title>
         <dc:date>2021-02-25</dc:date>
         <dc:identifier>
@@ -750,6 +752,7 @@
            <z:Website><dc:title>Lubrizol</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Rebecca Liebert</dc:title>
+        <dc:date>2024-07-15 13:55:32</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.lubrizol.com/Our-Company/CEO-and-Leadership/Leadership/Rebecca-Liebert</rdf:value>
@@ -907,7 +910,7 @@
         <dc:description>[xxx-half has never been told]</dc:description>
         <dc:identifier>ISBN 978-0-465-04470-2</dc:identifier>
     </bib:Book>
-    <bib:Article rdf:about="#item_299">
+    <bib:Article rdf:about="#item_155">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -947,7 +950,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_358"/>
+        <link:link rdf:resource="#item_167"/>
         <dc:title>Kevin O'Leary's dystopian fantasy of ruining the lives of campus protesters</dc:title>
         <dc:date>2024-05-26</dc:date>
         <dc:identifier>
@@ -958,7 +961,7 @@
         <dcterms:dateSubmitted>2024-07-17 03:06:58</dcterms:dateSubmitted>
         <dc:description>[xxx-thehill protester surveillance]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_358">
+    <z:Attachment rdf:about="#item_167">
         <z:itemType>attachment</z:itemType>
         <dc:title>Kevin O'Leary's dystopian fantasy of ruining the lives of campus protesters</dc:title>
         <dc:identifier>
@@ -967,10 +970,10 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-17 03:07:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_361">
+    <bib:Book rdf:about="#item_169">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -997,7 +1000,7 @@
         <dc:description>[xxx-lhasa vol 1]</dc:description>
         <prism:volume>1</prism:volume>
     </bib:Book>
-    <bib:Book rdf:about="#item_369">
+    <bib:Book rdf:about="#item_171">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1050,7 +1053,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_388"/>
+        <link:link rdf:resource="#item_185"/>
         <dc:title>Access to justice for women victims of violence in the Americas</dc:title>
         <dc:date>2007</dc:date>
         <dc:identifier>
@@ -1062,7 +1065,7 @@
         <dc:description>[xxx-ohchr americas violence women]</dc:description>
         <prism:number>OEA/Ser.L/V/II. Doc. 68</prism:number>
     </bib:Report>
-    <z:Attachment rdf:about="#item_388">
+    <z:Attachment rdf:about="#item_185">
         <z:itemType>attachment</z:itemType>
         <dc:title>Organization of American States - 2007 - Access to justice for women victims of violence in.pdf</dc:title>
         <dc:identifier>
@@ -1071,10 +1074,10 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-17 14:59:11</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_390">
+    <bib:Book rdf:about="#item_186">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1183,6 +1186,7 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>Nuremberg Diary-by Gustave Gilbert Interview with Herman Goering</dc:title>
+        <dc:date>2024-07-17 21:14:15</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.mit.edu/people/fuller/peace/war_goering.html</rdf:value>
@@ -1224,7 +1228,7 @@
         <dc:description>[xxx-encyclopedia haudenosaunee]</dc:description>
         <dc:identifier>ISBN 0-313-30880-2</dc:identifier>
     </bib:Book>
-    <bib:Book rdf:about="#item_471">
+    <bib:Book rdf:about="#item_236">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1302,7 +1306,7 @@
         <dcterms:dateSubmitted>2024-07-20 02:47:11</dcterms:dateSubmitted>
         <dc:description>[xxx-britannica utopia]</dc:description>
     </bib:Document>
-    <bib:Interview rdf:about="#item_506">
+    <bib:Interview rdf:about="#item_249">
         <z:itemType>interview</z:itemType>
         <z:interviewees>
             <rdf:Seq>
@@ -1370,7 +1374,7 @@
         <dc:description>[xxx-stasi east german secret police]</dc:description>
         <dc:identifier>ISBN 978-0-7867-2441-3</dc:identifier>
     </bib:Book>
-    <bib:Article rdf:about="#item_557">
+    <bib:Article rdf:about="#item_288">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -1430,8 +1434,9 @@
                <dc:title>Vipassana Research Institute</dc:title>
             </z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_640"/>
+        <link:link rdf:resource="#item_335"/>
         <dc:title>The First Discourse of the Buddha</dc:title>
+        <dc:date>2024-07-21 21:58:29</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.vridhamma.org/discourses/first-discourse-of-buddha</rdf:value>
@@ -1440,7 +1445,7 @@
         <dcterms:dateSubmitted>2024-07-21 21:58:29</dcterms:dateSubmitted>
         <dc:description>[xxx-vridhamma first discourse]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_640">
+    <z:Attachment rdf:about="#item_335">
         <z:itemType>attachment</z:itemType>
         <dc:title>The First Discourse of the Buddha | Vipassana Research Institute</dc:title>
         <dc:identifier>
@@ -1449,7 +1454,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-21 21:58:37</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.violence.de/prescott/bulletin/article.pdf">
@@ -1528,7 +1533,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_701"/>
+        <link:link rdf:resource="#item_379"/>
         <dc:title>First Declaration of the Lacandon Jungle (Google Translate, Trans.)</dc:title>
         <dc:date>1994-01-01</dc:date>
         <dc:identifier>
@@ -1539,7 +1544,7 @@
         <dcterms:dateSubmitted>2024-07-23</dcterms:dateSubmitted>
         <dc:description>[xxx-first declaration of the lacandon jungle]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_701">
+    <z:Attachment rdf:about="#item_379">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1548,7 +1553,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:16:13</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1994/01/26/heroismo-cotidiano-hace-posible-que-existan-los-destellos/">
@@ -1556,7 +1561,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_705"/>
+        <link:link rdf:resource="#item_383"/>
         <dc:title>Everyday heroism makes the sparkles possible (Google Translate, Trans.)</dc:title>
         <dc:date>1994-01-26</dc:date>
         <dc:identifier>
@@ -1567,7 +1572,7 @@
         <dcterms:dateSubmitted>2024-07-23 15:26:45</dcterms:dateSubmitted>
         <dc:description>[xxx-everyday heroism makes the sparkles possible]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_705">
+    <z:Attachment rdf:about="#item_383">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1576,7 +1581,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:26:51</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1995/02/13/entrevista-a-la-mayor-ana-maria-sobre-las-barbaridades-y-la-guerra-sucia-del-gobierno-federal/">
@@ -1584,7 +1589,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_709"/>
+        <link:link rdf:resource="#item_385"/>
         <dc:title>Interview with Mayor Ana María: about the atrocities and the dirty war of the federal government (Google Translate, Trans.)</dc:title>
         <dc:date>1995-02-13</dc:date>
         <z:language>en</z:language>
@@ -1596,7 +1601,7 @@
         <dcterms:dateSubmitted>2024-07-23</dcterms:dateSubmitted>
         <dc:description>[xxx-interview with major ana maría: on the atrocities]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_709">
+    <z:Attachment rdf:about="#item_385">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1605,7 +1610,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:43:24</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://palabra.ezln.org.mx/comunicados/2005/2005_06_20_b.htm">
@@ -1622,7 +1627,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_711"/>
+        <link:link rdf:resource="#item_387"/>
         <dc:title>On the Reasons for the General Red Alert (Google Translate, Trans.)</dc:title>
         <dc:date>2005-06-20</dc:date>
         <dc:identifier>
@@ -1633,7 +1638,7 @@
         <dcterms:dateSubmitted>2024-07-23 15:46:31</dcterms:dateSubmitted>
         <dc:description>[xxx-on the reasons for the general red alert]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_711">
+    <z:Attachment rdf:about="#item_387">
         <z:itemType>attachment</z:itemType>
         <dc:title>Down left</dc:title>
         <dc:identifier>
@@ -1642,7 +1647,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:46:32</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/">
@@ -1650,7 +1655,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_713"/>
+        <link:link rdf:resource="#item_389"/>
         <dc:title>Revolutionary Agriculture Law (Google Translate, Trans.)</dc:title>
         <dc:date>1993-12-31</dc:date>
         <dc:identifier>
@@ -1661,7 +1666,7 @@
         <dcterms:dateSubmitted>2024-07-23 15:52:53</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln ag law]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_713">
+    <z:Attachment rdf:about="#item_389">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1670,7 +1675,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:52:55</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1993/12/31/ley-de-derechos-y-obligaciones-de-los-pueblos-en-lucha/">
@@ -1678,7 +1683,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_715"/>
+        <link:link rdf:resource="#item_391"/>
         <dc:title>Law on the Rights and Obligations of Peoples in Struggle (Google Translate, Trans.)</dc:title>
         <dc:date>1993-12-31</dc:date>
         <dc:identifier>
@@ -1689,7 +1694,7 @@
         <dcterms:dateSubmitted>2024-07-23 15:54:53</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln law rights and obligations]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_715">
+    <z:Attachment rdf:about="#item_391">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1698,7 +1703,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:54:59</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1993/12/31/ley-de-justicia/">
@@ -1706,7 +1711,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_717"/>
+        <link:link rdf:resource="#item_393"/>
         <dc:title>Justice Law (Google Translate, Trans.)</dc:title>
         <dc:date>1993-12-31</dc:date>
         <dc:identifier>
@@ -1717,7 +1722,7 @@
         <dcterms:dateSubmitted>2024-07-23 15:56:43</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln justice law]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_717">
+    <z:Attachment rdf:about="#item_393">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -1726,7 +1731,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-07-23 15:56:45</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Book rdf:about="urn:isbn:0-03-079550-8">
@@ -1810,7 +1815,7 @@
         <dc:description>[xxx-braiding sweetgrass]</dc:description>
         <dc:identifier>ISBN 978-1-57131-335-5</dc:identifier>
     </bib:Book>
-    <bib:Book rdf:about="#item_723">
+    <bib:Book rdf:about="#item_399">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1863,7 +1868,7 @@
         <dc:description>[xxx-daughters of copper woman]</dc:description>
         <dc:identifier>ISBN 0-88974-022-4</dc:identifier>
     </bib:Book>
-    <bib:Book rdf:about="#item_726">
+    <bib:Book rdf:about="#item_402">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1976,7 +1981,7 @@
         <dc:description>[xxx-illustrated native american]</dc:description>
         <dc:identifier>ISBN 1-57215-859-X</dc:identifier>
     </bib:Book>
-    <bib:Book rdf:about="#item_732">
+    <bib:Book rdf:about="#item_408">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1997,7 +2002,7 @@
         <dc:date>2010</dc:date>
         <dc:description>[xxx-geronimo autobio]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_737">
+    <bib:Book rdf:about="#item_412">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2023,7 +2028,7 @@
         <dc:date>2016</dc:date>
         <dc:description>[xxx-black elk life of an american visionary]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_739">
+    <bib:Book rdf:about="#item_414">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2044,7 +2049,7 @@
         <dc:date>2013-01-08</dc:date>
         <dc:description>[xxx-indian heroes and great chieftains]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_740">
+    <bib:Book rdf:about="#item_415">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2152,7 +2157,7 @@
         <dc:description>[xxx-sex at dawn]</dc:description>
         <dc:identifier>ISBN 978-0-06-200293-8</dc:identifier>
     </bib:Book>
-    <bib:Article rdf:about="#item_746">
+    <bib:Article rdf:about="#item_421">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2175,7 +2180,7 @@
         <dc:date>July 1962</dc:date>
         <dc:description>[xxx-the ku klux klan: a study in reconstruction politics]</dc:description>
     </bib:Article>
-    <bib:Book rdf:about="#item_749">
+    <bib:Book rdf:about="#item_424">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2196,7 +2201,7 @@
         <dc:date>2005</dc:date>
         <dc:description>[xxx-when buffalo ran]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_750">
+    <bib:Book rdf:about="#item_425">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2222,7 +2227,7 @@
         <dc:date>1976</dc:date>
         <dc:description>[xxx-when serfs stood up]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_753">
+    <bib:Book rdf:about="#item_428">
         <z:itemType>book</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -2264,7 +2269,7 @@
         <dc:description>[xxx-kamana 2 nat]</dc:description>
         <prism:volume>2</prism:volume>
     </bib:Book>
-    <bib:Book rdf:about="#item_754">
+    <bib:Book rdf:about="#item_429">
         <z:itemType>book</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -2312,7 +2317,7 @@
         <dc:description>[xxx-kamana 3 nat]</dc:description>
         <prism:volume>3</prism:volume>
     </bib:Book>
-    <bib:Book rdf:about="#item_762">
+    <bib:Book rdf:about="#item_434">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2377,12 +2382,6 @@
            <z:AutomaticTag><rdf:value>World news</rdf:value></z:AutomaticTag>
         </dc:subject>
         <dc:subject>
-           <z:AutomaticTag><rdf:value>Europe</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>UK news</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Child protection</rdf:value>
             </z:AutomaticTag>
@@ -2391,7 +2390,13 @@
            <z:AutomaticTag><rdf:value>Children</rdf:value></z:AutomaticTag>
         </dc:subject>
         <dc:subject>
+           <z:AutomaticTag><rdf:value>Europe</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
            <z:AutomaticTag><rdf:value>Portugal</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>UK news</rdf:value></z:AutomaticTag>
         </dc:subject>
         <dc:title>Portugal's elite linked to paedophile ring</dc:title>
         <dc:date>2002-11-27T11:38:01.000Z</dc:date>
@@ -2403,7 +2408,7 @@
         <dcterms:dateSubmitted>2024-07-28 17:11:44</dcterms:dateSubmitted>
         <dc:description>[xxx-guardian portugal president knew]</dc:description>
     </bib:Article>
-    <bib:Book rdf:about="#item_908">
+    <bib:Book rdf:about="#item_571">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2435,6 +2440,7 @@
            <z:Website><dc:title>Sitting Bull College</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Standing Rock Sioux Reservation</dc:title>
+        <dc:date>2024-08-02 12:37:52</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe/</rdf:value>
@@ -2448,7 +2454,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_924"/>
+        <link:link rdf:resource="#item_585"/>
         <dc:title>Urban Reform Law (Google Translate, Trans.)</dc:title>
         <dc:date>1993-12-31</dc:date>
         <dc:identifier>
@@ -2459,7 +2465,7 @@
         <dcterms:dateSubmitted>2024-08-03 00:05:11</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln urban reform law]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_924">
+    <z:Attachment rdf:about="#item_585">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2468,7 +2474,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 00:05:12</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/2023/11/13/ninth-part-the-new-structure-of-zapastista-autonomy/">
@@ -2476,7 +2482,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_928"/>
+        <link:link rdf:resource="#item_589"/>
         <dc:title>Ninth Part: The new structure of Zapastista Autonomy (Google Translate, Trans.)</dc:title>
         <dc:date>2023-11-14</dc:date>
         <dc:identifier>
@@ -2487,7 +2493,7 @@
         <dcterms:dateSubmitted>2024-08-03 00:10:25</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln new structure]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_928">
+    <z:Attachment rdf:about="#item_589">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2496,7 +2502,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 00:10:31</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://wagingnonviolence.org/wr/2021/08/assassinations-paramilitary-terror-zapatista-struggle-sovereignty/">
@@ -2514,7 +2520,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_934"/>
+        <link:link rdf:resource="#item_595"/>
         <dc:title>In the face of assassinations and paramilitary terror, the Zapatista struggle for sovereignty continues</dc:title>
         <dc:date>2021-08-02</dc:date>
         <dc:identifier>
@@ -2525,7 +2531,7 @@
         <dcterms:dateSubmitted>2024-08-03 00:28:14</dcterms:dateSubmitted>
         <dc:description>[xxx-wagingnonviolence in the face of assassinations]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_934">
+    <z:Attachment rdf:about="#item_595">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2534,7 +2540,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 00:28:21</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1994/01/04/subcomandante-marcos-nos-hemos-estado-preparando-en-la-montana-desde-hace-diez-anos/">
@@ -2549,7 +2555,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_938"/>
+        <link:link rdf:resource="#item_599"/>
         <dc:title>Subcomandante Marcos: We have been preparing in the mountains for ten years</dc:title>
         <dc:date>1994-01-04</dc:date>
         <dc:identifier>
@@ -2560,7 +2566,7 @@
         <dcterms:dateSubmitted>2024-08-03 00:35:50</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln preparing 10 years]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_938">
+    <z:Attachment rdf:about="#item_599">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2569,7 +2575,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 00:35:55</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.opendemocracy.net/en/zapatista-womens-revolutionary-law-as-it-is-lived-today/">
@@ -2587,7 +2593,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_940"/>
+        <link:link rdf:resource="#item_601"/>
         <dc:title>The Zapatista Women's Revolutionary Law as it is lived today</dc:title>
         <dc:date>2014-07-22</dc:date>
         <dc:identifier>
@@ -2598,7 +2604,7 @@
         <dcterms:dateSubmitted>2024-08-03 00:42:49</dcterms:dateSubmitted>
         <dc:description>[xxx-opendemocracy zapatista women law as it is lived today]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_940">
+    <z:Attachment rdf:about="#item_601">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2607,7 +2613,45 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 00:42:55</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.nytimes.com/2018/03/19/nyregion/new-york-police-perjury-promotions.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>New York Times</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goldstein</foaf:surname>
+                        <foaf:givenName>Joseph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_627"/>
+        <dc:title>Promotions, Not Punishments, for Officers Accused of Lying</dc:title>
+        <dc:date>2018-03-20</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2018/03/19/nyregion/new-york-police-perjury-promotions.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-03 11:20:47</dcterms:dateSubmitted>
+        <dc:description>[xxx-nytimes promotions not punishments]</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_627">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://archive.is/7eAqZ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-03 11:21:05</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://harpers.org/archive/2016/04/legalize-it-all/">
@@ -2628,7 +2672,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_972"/>
+        <link:link rdf:resource="#item_633"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>Portugal</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -2706,7 +2750,7 @@
         <dcterms:dateSubmitted>2024-08-03 11:41:39</dcterms:dateSubmitted>
         <dc:description>[xxx-harpers magazine real purpose drug war]</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_972">
+    <z:Attachment rdf:about="#item_633">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -2715,7 +2759,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 11:41:45</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Report rdf:about="https://archives.nida.nih.gov/sites/default/files/monograph51.pdf">
@@ -2802,7 +2846,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_989"/>
+        <link:link rdf:resource="#item_650"/>
         <dc:title>Release from Prison-A High Risk of Death for Former Inmates</dc:title>
         <dc:date>2007-01-11</dc:date>
         <dc:identifier>
@@ -2821,7 +2865,7 @@
         <prism:number>2</prism:number>
         <dc:identifier>ISSN 0028-4793</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_989">
+    <z:Attachment rdf:about="#item_650">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
@@ -2830,7 +2874,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-03 16:11:57</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.violence.de/prescott/hustler-new/article.html">
@@ -2938,6 +2982,7 @@
            <z:Blog><dc:title>Greenpeace</dc:title></z:Blog>
         </dcterms:isPartOf>
         <dc:title>Koch Industries: Secretly Funding the Climate Denial Machine</dc:title>
+        <dc:date>2024-08-04 07:05:17</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/</rdf:value>
@@ -2986,6 +3031,7 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>John J. McCloy</dc:title>
+        <dc:date>2024-08-04 13:46:42</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.britannica.com/biography/John-J-McCloy</rdf:value>
@@ -3017,6 +3063,7 @@
             </z:Website>
         </dcterms:isPartOf>
         <dc:title>Impact</dc:title>
+        <dc:date>2024-08-04 14:01:19</dc:date>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://impact.blacklivesmatter.com/</rdf:value>
@@ -3031,6 +3078,7 @@
            <z:Blog><dc:title>M4BL</dc:title></z:Blog>
         </dcterms:isPartOf>
         <dc:title>About Us</dc:title>
+        <dc:date>2024-08-04 14:03:15</dc:date>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://m4bl.org/about-us/</rdf:value>
@@ -3060,6 +3108,7 @@
            <z:Website><dc:title>SHRM</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>10 Microaggressions Companies Must Avoid</dc:title>
+        <dc:date>2024-08-04 14:32:24</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.shrm.org/topics-tools/news/inclusion-diversity/10-microaggressions-to-avoid</rdf:value>
@@ -3099,6 +3148,7 @@
            <z:Website><dc:title>Stasi-Unterlagen-Archiv</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Introduction-Ministry for State Security</dc:title>
+        <dc:date>2024-08-04 14:54:50</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.stasi-unterlagen-archiv.de/the-stasi/introduction/</rdf:value>
@@ -3191,6 +3241,7 @@
             </foaf:Organization>
         </dc:publisher>
         <dc:title>2021 Tax Form 990-PF Chan Zuckerberg Initiative Foundation</dc:title>
+        <dc:date>2024-08-04 15:34:11</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://projects.propublica.org/nonprofits/organizations/455002209/202233199349108343/full</rdf:value>
@@ -3199,7 +3250,7 @@
         <dcterms:dateSubmitted>2024-08-04 15:34:11</dcterms:dateSubmitted>
         <dc:description>[xxx-chan zuckerberg blm donation]</dc:description>
     </bib:Report>
-    <bib:Book rdf:about="#item_1101">
+    <bib:Book rdf:about="#item_753">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -3270,7 +3321,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1104"/>
+        <link:link rdf:resource="#item_756"/>
         <dc:title>Funding a Social Movement: The Ford Foundation and Civil Rights, 1965-1970</dc:title>
         <dc:date>2020-11-04</dc:date>
         <dc:identifier>
@@ -3281,7 +3332,7 @@
         <dcterms:dateSubmitted>2024-08-04 16:23:38</dcterms:dateSubmitted>
         <dc:description>[xxx-rockarch ford 60s race activism]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1104">
+    <z:Attachment rdf:about="#item_756">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -3290,7 +3341,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-04 16:23:46</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.theguardian.com/uk/2012/jan/20/undercover-police-children-activists">
@@ -3410,6 +3461,7 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>The FBI Sets Goals for COINTELPRO</dc:title>
+        <dc:date>2024-08-04</dc:date>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://shec.ashp.cuny.edu/items/show/814</rdf:value>
@@ -3485,7 +3537,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1135"/>
+        <link:link rdf:resource="#item_781"/>
         <dc:title>DC: Police Violently Push Protesters From Black Lives Matter</dc:title>
         <dc:date>2020-08-30</dc:date>
         <dc:identifier>
@@ -3496,7 +3548,7 @@
         <dcterms:dateSubmitted>2024-08-04 22:12:42</dcterms:dateSubmitted>
         <dc:description>[xxx-american riot]</dc:description>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_1135">
+    <z:Attachment rdf:about="#item_781">
         <z:itemType>attachment</z:itemType>
         <dc:title>Pulaski native Dalton's KSP Post 11 riot squad helps in Louisville | Kentucky | somerset-kentucky.com</dc:title>
         <dc:identifier>
@@ -3505,7 +3557,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-04 22:12:53</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://newsroom.ap.org/editorial-photos-videos/detail?itemid=4216e2db097e4a4384950ed63e068a37&amp;mediatype=photo">
@@ -3523,7 +3575,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1137"/>
+        <link:link rdf:resource="#item_783"/>
         <dc:title>Venezuela Student Protest</dc:title>
         <dc:date>2018-11-21</dc:date>
         <dc:identifier>
@@ -3534,7 +3586,7 @@
         <dcterms:dateSubmitted>2024-08-04 22:14:18</dcterms:dateSubmitted>
         <dc:description>[xxx-venezuelan riot]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1137">
+    <z:Attachment rdf:about="#item_783">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -3543,7 +3595,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-04 22:14:25</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://newsroom.ap.org/editorial-photos-videos/detail?itemid=2f230e39a6274de7aa94e6a5361be7cc&amp;mediatype=photo">
@@ -3561,7 +3613,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1139"/>
+        <link:link rdf:resource="#item_785"/>
         <dc:title>APTOPIX China Protest Plant</dc:title>
         <dc:date>2012-07-28</dc:date>
         <dc:identifier>
@@ -3572,7 +3624,7 @@
         <dcterms:dateSubmitted>2024-08-04 22:29:56</dcterms:dateSubmitted>
         <dc:description>[xxx-chinese riot]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1139">
+    <z:Attachment rdf:about="#item_785">
         <z:itemType>attachment</z:itemType>
         <dc:title>Chinese city kills project after protest | CTV News</dc:title>
         <dc:identifier>
@@ -3581,7 +3633,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-04 22:30:04</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.nationalreview.com/magazine/2016/08/15/vladimir-putin-presidency-russian-terrorism/">
@@ -3641,6 +3693,7 @@
            <z:Website><dc:title>AE911Truth</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Explosive Features | Twin Towers</dc:title>
+        <dc:date>2024-08-04 23:31:00</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ae911truth.org/evidence/explosive-features</rdf:value>
@@ -3649,7 +3702,7 @@
         <dcterms:dateSubmitted>2024-08-04 23:31:00</dcterms:dateSubmitted>
         <dc:description>[xxx-ae911truth explosives]</dc:description>
     </bib:Document>
-    <bib:Book rdf:about="#item_1148">
+    <bib:Book rdf:about="#item_794">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -3738,7 +3791,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1160"/>
+        <link:link rdf:resource="#item_806"/>
         <dc:title>Mujeres Zapatistas: la inclusión de las demandas de género</dc:title>
         <dc:date>12/2013</dc:date>
         <dc:identifier>
@@ -3750,7 +3803,7 @@
         <dc:description>[xxx-bringing women in ezln]</dc:description>
         <bib:pages>133-142</bib:pages>
     </bib:Article>
-    <z:Attachment rdf:about="#item_1160">
+    <z:Attachment rdf:about="#item_806">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
@@ -3759,7 +3812,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-10 02:10:00</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://cimacnoticias.com.mx/2003/11/19/mujeres-45-de-las-bases-zapatistas/">
@@ -3767,7 +3820,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>cimacnoticias.com.mx</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1162"/>
+        <link:link rdf:resource="#item_808"/>
         <dc:title>Mujeres 45% de las bases zapatistas</dc:title>
         <dc:date>2011-11-30</dc:date>
         <dc:identifier>
@@ -3778,7 +3831,7 @@
         <dcterms:dateSubmitted>2024-08-10 02:11:25</dcterms:dateSubmitted>
         <dc:description>[xxx-cimacnoticias ezln women percent]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1162">
+    <z:Attachment rdf:about="#item_808">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -3787,7 +3840,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-10 02:11:31</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100152530">
@@ -3796,6 +3849,7 @@
            <z:Website><dc:title>Oxford Reference</dc:title></z:Website>
         </dcterms:isPartOf>
         <dc:title>Messiah</dc:title>
+        <dc:date>2024-08-20 03:20:12</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100152530</rdf:value>
@@ -3940,7 +3994,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1216"/>
+        <link:link rdf:resource="#item_856"/>
         <dc:title>Evidence Is Mounting That the Saudis Had a Hand in 9/11</dc:title>
         <dc:date>2024-05-24</dc:date>
         <dc:identifier>
@@ -3951,7 +4005,7 @@
         <dcterms:dateSubmitted>2024-08-24 12:42:44</dcterms:dateSubmitted>
         <dc:description>[xxx-jacobin 911 saudi]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1216">
+    <z:Attachment rdf:about="#item_856">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -3960,7 +4014,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-24 12:42:49</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext">
@@ -3995,8 +4049,8 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1225"/>
-        <link:link rdf:resource="#item_1226"/>
+        <link:link rdf:resource="#item_864"/>
+        <link:link rdf:resource="#item_865"/>
         <dc:title>Counting the dead in Gaza: difficult but essential</dc:title>
         <dc:date>2024-07-20</dc:date>
         <dc:identifier>
@@ -4008,7 +4062,7 @@
         <dc:description>[xxx-lancet palestinian casualties]</dc:description>
         <bib:pages>237-238</bib:pages>
     </bib:Article>
-    <z:Attachment rdf:about="#item_1225">
+    <z:Attachment rdf:about="#item_864">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
@@ -4017,10 +4071,10 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-24 23:47:11</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_1226">
+    <z:Attachment rdf:about="#item_865">
         <z:itemType>attachment</z:itemType>
         <dc:title>PubMed entry</dc:title>
         <dc:identifier>
@@ -4037,7 +4091,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>CBS News</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1235"/>
+        <link:link rdf:resource="#item_874"/>
         <dc:title>FBI releases declassified documents about investigating ties between Saudi government and Sept. 11 attacks</dc:title>
         <dc:date>2021-11-04</dc:date>
         <dc:identifier>
@@ -4048,7 +4102,7 @@
         <dcterms:dateSubmitted>2024-08-29 15:40:03</dcterms:dateSubmitted>
         <dc:description>[xxx-cbs saudi intel]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1235">
+    <z:Attachment rdf:about="#item_874">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4057,7 +4111,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-29 15:40:26</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1993/12/31/ley-revolucionaria-de-mujeres/">
@@ -4065,7 +4119,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Enlace Zapatista</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1239"/>
+        <link:link rdf:resource="#item_878"/>
         <dc:title>Ley Revolucionaria de Mujeres</dc:title>
         <dc:date>1993-12-31</dc:date>
         <dc:identifier>
@@ -4076,7 +4130,7 @@
         <dcterms:dateSubmitted>2024-08-29 17:46:34</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln rev women law]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1239">
+    <z:Attachment rdf:about="#item_878">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4085,10 +4139,10 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2024-08-29 17:46:41</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_1253">
+    <bib:Book rdf:about="#item_892">
         <z:itemType>book</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -4171,8 +4225,9 @@
                 </rdf:li>
             </rdf:Seq>
         </z:directors>
-        <link:link rdf:resource="#item_1277"/>
+        <link:link rdf:resource="#item_916"/>
         <dc:title>Braveheart (1995)-Quotes-IMDb</dc:title>
+        <dc:date>2025-07-14 13:47:06</dc:date>
         <z:language>en-US</z:language>
         <z:libraryCatalog>www.imdb.com</z:libraryCatalog>
         <dc:identifier>
@@ -4183,7 +4238,7 @@
         <dcterms:dateSubmitted>2025-07-14 13:47:06</dcterms:dateSubmitted>
         <dc:description>[xxx-braveheart every man]</dc:description>
     </bib:Recording>
-    <z:Attachment rdf:about="#item_1277">
+    <z:Attachment rdf:about="#item_916">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4192,7 +4247,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-07-14 13:47:13</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://jamanetwork.com/journals/jama/fullarticle/2772953">
@@ -4255,7 +4310,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1284"/>
+        <link:link rdf:resource="#item_921"/>
         <dc:title>New study indicates chemicals from grocery stickers may be leaching into foods. Here's what you need to know</dc:title>
         <dc:date>2023-04-06</dc:date>
         <dc:identifier>
@@ -4266,7 +4321,7 @@
         <dcterms:dateSubmitted>2025-08-03 20:09:04</dcterms:dateSubmitted>
         <dc:description>[xxx-cbc news plastics food wrap]</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_1284">
+    <z:Attachment rdf:about="#item_921">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4275,7 +4330,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-03 20:09:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.ewg.org/consumer-guides/ewgs-dirty-dozen-guide-food-chemicals-top-12-avoid">
@@ -4293,7 +4348,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1286"/>
+        <link:link rdf:resource="#item_923"/>
         <dc:title>EWG's Dirty Dozen Guide to Food Chemicals: The top 12 to avoid | Environmental Working Group</dc:title>
         <dc:date>2025-03-18</dc:date>
         <z:shortTitle>EWG's Dirty Dozen Guide to Food Chemicals</z:shortTitle>
@@ -4305,7 +4360,7 @@
         <dcterms:dateSubmitted>2025-08-03 20:10:04</dcterms:dateSubmitted>
         <dc:description>[xxx-ewg dirty dozen food chems]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1286">
+    <z:Attachment rdf:about="#item_923">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4314,7 +4369,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-03 20:10:15</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.leafscore.com/eco-friendly-kitchen-products/the-problem-with-teflon-and-other-non-stick-pots-and-pans/">
@@ -4332,7 +4387,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1288"/>
+        <link:link rdf:resource="#item_925"/>
         <dc:title>Nonstick Pans and Forever Chemicals: What You Need to Know</dc:title>
         <dc:date>2020-04-06</dc:date>
         <dc:identifier>
@@ -4343,7 +4398,7 @@
         <dcterms:dateSubmitted>2025-08-03 20:14:33</dcterms:dateSubmitted>
         <dc:description>[xxx-leaf score nonstick chems]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1288">
+    <z:Attachment rdf:about="#item_925">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4352,7 +4407,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-03 20:14:40</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Report rdf:about="https://bettermarkets.org/wp-content/uploads/2022/05/BetterMarkets_Wall_Street_RAP_Sheet_Report_052022.pdf">
@@ -4377,7 +4432,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>EWG</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1291"/>
+        <link:link rdf:resource="#item_928"/>
         <dc:title>Tapped out: America's drinking water and the health risks hidden behind legal limits</dc:title>
         <dc:date>2025-02</dc:date>
         <dc:identifier>
@@ -4388,7 +4443,7 @@
         <dcterms:dateSubmitted>2025-08-03 22:55:06</dcterms:dateSubmitted>
         <dc:description>[xxx-ewg state drinking water]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1291">
+    <z:Attachment rdf:about="#item_928">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4397,7 +4452,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-03 22:55:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.nrdc.org/stories/deforestation-forest-degradation-causes-effects-solutions">
@@ -4405,7 +4460,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>NRDC</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1293"/>
+        <link:link rdf:resource="#item_930"/>
         <dc:title>Deforestation and Forest Degradation: The Causes, Effects, and Solutions</dc:title>
         <dc:date>2025-04-09</dc:date>
         <dc:identifier>
@@ -4416,7 +4471,7 @@
         <dcterms:dateSubmitted>2025-08-03 22:59:45</dcterms:dateSubmitted>
         <dc:description>[xxx-nrdc logging climate change]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1293">
+    <z:Attachment rdf:about="#item_930">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4425,7 +4480,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-03 23:00:03</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Book rdf:about="https://1disease-1cure.com/">
@@ -4470,7 +4525,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1298"/>
+        <link:link rdf:resource="#item_933"/>
         <dc:title>World Revolution / Postcolonial Paradise: Utopian Visions of the &quot;Soviet East&quot; in the 1920-30s</dc:title>
         <dc:date>2019-08-27</dc:date>
         <dc:identifier>
@@ -4481,7 +4536,7 @@
         <dcterms:dateSubmitted>2025-08-04 21:27:49</dcterms:dateSubmitted>
         <dc:description>[xxx-ussr worker paradise]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1298">
+    <z:Attachment rdf:about="#item_933">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4490,7 +4545,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-04 21:27:59</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.britannica.com/topic/The-Star-Spangled-Banner">
@@ -4508,7 +4563,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1300"/>
+        <link:link rdf:resource="#item_935"/>
         <dc:title>The Star-Spangled Banner | USA, National Anthem, Lyrics, Song, &amp; Meaning | Britannica</dc:title>
         <dc:date>2025-08-03</dc:date>
         <dc:identifier>
@@ -4519,7 +4574,7 @@
         <dcterms:dateSubmitted>2025-08-04</dcterms:dateSubmitted>
         <dc:description>[xxx-britannica usa anthem]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1300">
+    <z:Attachment rdf:about="#item_935">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4528,7 +4583,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-04 21:32:06</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/1994/03/07/comandanta-ramona-y-mayor-ana-maria-las-demandas-son-las-mismas-de-siempre-justicia-tierras-trabajo-educacion-e-igualdad-para-las-mujeres/">
@@ -4546,7 +4601,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1304"/>
+        <link:link rdf:resource="#item_937"/>
         <dc:title>Comandanta Ramona y Mayor Ana María: Las demandas son las mismas de siempre: justicia, tierras, trabajo, educación e igualdad para las mujeres</dc:title>
         <dc:date>1994-03-08</dc:date>
         <dc:identifier>
@@ -4557,7 +4612,7 @@
         <dcterms:dateSubmitted>2025-08-05</dcterms:dateSubmitted>
         <dc:description>[xxx-ezln ramona san crist]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1304">
+    <z:Attachment rdf:about="#item_937">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4566,7 +4621,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-05 20:02:02</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.aaronmate.net/p/by-using-ukraine-to-fight-russia">
@@ -4584,7 +4639,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1308"/>
+        <link:link rdf:resource="#item_939"/>
         <dc:title>By using Ukraine to fight Russia, the US provoked Putin's war</dc:title>
         <dc:date>2022-03-05</dc:date>
         <dc:identifier>
@@ -4595,7 +4650,7 @@
         <dcterms:dateSubmitted>2025-08-05</dcterms:dateSubmitted>
         <dc:description>[xxx-mate us ukraine coup]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1308">
+    <z:Attachment rdf:about="#item_939">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4604,7 +4659,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 00:31:46</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Book rdf:about="urn:isbn:100297846302">
@@ -4639,8 +4694,9 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>Mutual Aid</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1311"/>
+        <link:link rdf:resource="#item_942"/>
         <dc:title>The Black Panther Party</dc:title>
+        <dc:date>2025-08-05</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.mutualaid.coop/history/black-panther-party/</rdf:value>
@@ -4649,7 +4705,7 @@
         <dcterms:dateSubmitted>2025-08-05</dcterms:dateSubmitted>
         <dc:description>[xxx-panthers food clothes]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1311">
+    <z:Attachment rdf:about="#item_942">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4658,7 +4714,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 01:16:02</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.history.com/articles/black-panthers-gun-control-nra-support-mulford-act">
@@ -4676,7 +4732,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1313"/>
+        <link:link rdf:resource="#item_944"/>
         <dc:title>The NRA Supported Gun Control When the Black Panthers Had the Weapons</dc:title>
         <dc:date>2018-03-22</dc:date>
         <dc:identifier>
@@ -4687,7 +4743,7 @@
         <dcterms:dateSubmitted>2025-08-05</dcterms:dateSubmitted>
         <dc:description>[xxx-history panthers guns]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1313">
+    <z:Attachment rdf:about="#item_944">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4696,7 +4752,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 01:20:09</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.scholarsatrisk.org/report/2018-11-21-central-university-of-venezuela/">
@@ -4704,7 +4760,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>Scholars at Risk</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1315"/>
+        <link:link rdf:resource="#item_946"/>
         <dc:title>2018-11-21 Central University of Venezuela</dc:title>
         <dc:date>2018-11-21</dc:date>
         <dc:identifier>
@@ -4715,7 +4771,7 @@
         <dcterms:dateSubmitted>2025-08-06 13:46:01</dcterms:dateSubmitted>
         <dc:description>[xxx-venezuela protest reason]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1315">
+    <z:Attachment rdf:about="#item_946">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4724,7 +4780,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 13:46:08</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.theguardian.com/world/2012/oct/17/israeli-military-calorie-limit-gaza">
@@ -4740,7 +4796,7 @@
                 </dcterms:isPartOf>
             </bib:Part>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1317"/>
+        <link:link rdf:resource="#item_948"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>World news</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -4773,7 +4829,7 @@
         <dcterms:dateSubmitted>2023-06-03</dcterms:dateSubmitted>
         <dc:description>[xxx-israel count calories]</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_1317">
+    <z:Attachment rdf:about="#item_948">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4782,7 +4838,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 17:22:46</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.timesofisrael.com/heres-what-military-assistance-the-us-is-providing-israel-since-hamas-assault/">
@@ -4798,7 +4854,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1319"/>
+        <link:link rdf:resource="#item_950"/>
         <dc:title>Here's what military assistance the US is providing Israel since Hamas assault</dc:title>
         <dc:date>2023-10-13</dc:date>
         <z:libraryCatalog>www.timesofisrael.com</z:libraryCatalog>
@@ -4814,7 +4870,7 @@
         <dc:title>The Times of Israel</dc:title>
         <dc:identifier>ISSN 0040-7909</dc:identifier>
     </bib:Newspaper>
-    <z:Attachment rdf:about="#item_1319">
+    <z:Attachment rdf:about="#item_950">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4823,7 +4879,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 17:37:52</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Report rdf:about="https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.51.pdf">
@@ -4859,8 +4915,9 @@
                <dc:title>Palestinian Central Bureau of Statistics</dc:title>
             </z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1324"/>
+        <link:link rdf:resource="#item_953"/>
         <dc:title>PCBS | The International Population Day, 11/07/2023</dc:title>
+        <dc:date>2025-08-06</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.pcbs.gov.ps/post.aspx?lang=en&amp;ItemID=4544</rdf:value>
@@ -4869,7 +4926,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-pal 2023 pop]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1324">
+    <z:Attachment rdf:about="#item_953">
         <z:itemType>attachment</z:itemType>
         <dc:title>PCBS | The International Population Day, 11/07/2023</dc:title>
         <dc:identifier>
@@ -4878,7 +4935,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:01:36</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.cbc.ca/news/world/trump-gaza-population-relocation-1.7457559">
@@ -4896,7 +4953,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1326"/>
+        <link:link rdf:resource="#item_955"/>
         <dc:title>'1.7 million' Palestinians in Gaza? Trump's statement raises questions about death toll | CBC News</dc:title>
         <dc:date>2025-02-13</dc:date>
         <dc:identifier>
@@ -4907,7 +4964,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-trump pales pop]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1326">
+    <z:Attachment rdf:about="#item_955">
         <z:itemType>attachment</z:itemType>
         <dc:title>'1.7 million' Palestinians in Gaza? Trump's statement raises questions about death toll | CBC News</dc:title>
         <dc:identifier>
@@ -4916,7 +4973,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:05:20</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker">
@@ -4931,7 +4988,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1331"/>
+        <link:link rdf:resource="#item_957"/>
         <dc:title>Israel-Gaza war in maps and charts: Live tracker</dc:title>
         <dc:date>2025-04-17</dc:date>
         <dc:identifier>
@@ -4942,7 +4999,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-israeli pal deaths]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1331">
+    <z:Attachment rdf:about="#item_957">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4951,7 +5008,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:09:55</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.barrons.com/video/prime-minister-benjamin-netanyahu-described-the-attacks-as-avagery-we-have-not-seen-since-the-holocaust/3D1FF6B4-E612-45A2-BC90-87BA79F875DD">
@@ -4968,7 +5025,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1333"/>
+        <link:link rdf:resource="#item_959"/>
         <dc:title>Prime Minister Benjamin Netanyahu described the attacks as 'savagery... we have not seen since the Holocaust'</dc:title>
         <dc:date>2023-10-11</dc:date>
         <dc:identifier>
@@ -4979,7 +5036,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-pales holocaust comparison]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1333">
+    <z:Attachment rdf:about="#item_959">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -4988,7 +5045,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:15:32</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.bbc.com/news/articles/c4gp979w055o">
@@ -5006,7 +5063,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1335"/>
+        <link:link rdf:resource="#item_961"/>
         <dc:title>Trump pulls $400 million from Columbia University over Gaza protests</dc:title>
         <dc:date>2025-03-08</dc:date>
         <dc:identifier>
@@ -5017,7 +5074,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-trump illegal prot]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1335">
+    <z:Attachment rdf:about="#item_961">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5026,7 +5083,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:31:01</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://palestinelegal.org/news/2024/5/23/new-report-analyzes-crackdown-on-palestine-solidarity-in-the-usnbsp">
@@ -5044,7 +5101,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1337"/>
+        <link:link rdf:resource="#item_963"/>
         <dc:title>New Report Analyzes Crackdown on Palestine Solidarity in the U.S.</dc:title>
         <dc:date>2024-05-24</dc:date>
         <dc:identifier>
@@ -5055,7 +5112,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-biden pales protest suppress]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1337">
+    <z:Attachment rdf:about="#item_963">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5064,7 +5121,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:34:26</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://trt.global/world/article/18216880">
@@ -5082,7 +5139,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1339"/>
+        <link:link rdf:resource="#item_965"/>
         <dc:title>TRT Global-Repression and resistance: How Germany is stifling pro-Palestinian voie</dc:title>
         <dc:date>2024-10-07</dc:date>
         <dc:identifier>
@@ -5093,7 +5150,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-germany anti pales]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1339">
+    <z:Attachment rdf:about="#item_965">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5102,7 +5159,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 18:58:31</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.caitlinjohnst.one/p/australia-unveils-plan-to-fight-antisemitism">
@@ -5120,7 +5177,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1341"/>
+        <link:link rdf:resource="#item_967"/>
         <dc:title>Australia Unveils Plan To Fight 'Antisemitism' By Crushing Free Speech</dc:title>
         <dc:date>2024-12-17</dc:date>
         <dc:identifier>
@@ -5131,7 +5188,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-austr anti pales]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1341">
+    <z:Attachment rdf:about="#item_967">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5140,7 +5197,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 19:08:05</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://www.bbc.com/news/world-europe-67088547">
@@ -5164,7 +5221,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1343"/>
+        <link:link rdf:resource="#item_969"/>
         <dc:title>French police break up pro-Palestinian demo after ban</dc:title>
         <dc:date>2023-10-12</dc:date>
         <dc:identifier>
@@ -5175,7 +5232,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-france anti pales]</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_1343">
+    <z:Attachment rdf:about="#item_969">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5184,7 +5241,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 19:16:07</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://viewer.mapme.com/875ac156-c9a9-4664-a26a-fca8e96d0260">
@@ -5217,7 +5274,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1346"/>
+        <link:link rdf:resource="#item_972"/>
         <dc:title>ICE arrests Palestinian activist Mahmoud Khalil</dc:title>
         <dc:date>2025-03-09</dc:date>
         <dc:identifier>
@@ -5228,7 +5285,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-arrest khalil]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1346">
+    <z:Attachment rdf:about="#item_972">
         <z:itemType>attachment</z:itemType>
         <dc:title>ICE arrests Palestinian activist Mahmoud Khalil | AP News</dc:title>
         <dc:identifier>
@@ -5237,7 +5294,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 19:26:38</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.newarab.com/news/german-police-crack-down-palestinian-activists-berlin">
@@ -5245,7 +5302,7 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>New Arab</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1348"/>
+        <link:link rdf:resource="#item_974"/>
         <dc:title>German police crack down on Palestinian activists in Berlin</dc:title>
         <dc:date>2022-05-17</dc:date>
         <dc:identifier>
@@ -5256,7 +5313,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-arrest majed]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1348">
+    <z:Attachment rdf:about="#item_974">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5265,7 +5322,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 19:34:13</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.newstatesman.com/politics/2025/07/the-palestine-action-crackdown">
@@ -5283,7 +5340,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1350"/>
+        <link:link rdf:resource="#item_976"/>
         <dc:title>The Palestine Action crackdown</dc:title>
         <dc:date>2025-07-22</dc:date>
         <dc:identifier>
@@ -5294,7 +5351,7 @@
         <dcterms:dateSubmitted>2025-08-06</dcterms:dateSubmitted>
         <dc:description>[xxx-arrest huda]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1350">
+    <z:Attachment rdf:about="#item_976">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5303,7 +5360,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-06 20:23:06</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.churchofjesuschrist.org/study/eng/general-conference/1977/10/the-blessings-of-righteous-obedience">
@@ -5323,7 +5380,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1355"/>
+        <link:link rdf:resource="#item_978"/>
         <dc:title>The Blessings of Righteous Obedience</dc:title>
         <dc:date>1977-10-01</dc:date>
         <dc:identifier>
@@ -5334,7 +5391,7 @@
         <dcterms:dateSubmitted>2025-08-07</dcterms:dateSubmitted>
         <dc:description>[xxx-latterday jesus obed]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1355">
+    <z:Attachment rdf:about="#item_978">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5343,7 +5400,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-07 11:05:27</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.thegospelcoalition.org/essay/obedience-sinlessness-christ/">
@@ -5361,8 +5418,9 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1357"/>
+        <link:link rdf:resource="#item_980"/>
         <dc:title>The Obedience and Sinlessness of Christ</dc:title>
+        <dc:date>2025-08-07</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.thegospelcoalition.org/essay/obedience-sinlessness-christ/</rdf:value>
@@ -5371,7 +5429,7 @@
         <dcterms:dateSubmitted>2025-08-07</dcterms:dateSubmitted>
         <dc:description>[xxx-tgc jesus obed]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1357">
+    <z:Attachment rdf:about="#item_980">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5380,7 +5438,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-07 11:07:34</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://catholicproject.catholic.edu/obedience-virtue-and-counsel/">
@@ -5398,7 +5456,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1359"/>
+        <link:link rdf:resource="#item_982"/>
         <dc:title>Obedience: Virtue and Counsel</dc:title>
         <dc:date>2022-09-15</dc:date>
         <dc:identifier>
@@ -5409,7 +5467,7 @@
         <dcterms:dateSubmitted>2025-08-07</dcterms:dateSubmitted>
         <dc:description>[xxx-catholic jesus obed]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1359">
+    <z:Attachment rdf:about="#item_982">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5418,7 +5476,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-07 11:32:46</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://40hadithnawawi.com/hadith/13-love-for-your-brother-what-you-love-for-yourself">
@@ -5433,8 +5491,9 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1361"/>
+        <link:link rdf:resource="#item_984"/>
         <dc:title>40HadithNawawi: Hadith 13</dc:title>
+        <dc:date>2025-08-07</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://40hadithnawawi.com/hadith/13-love-for-your-brother-what-you-love-for-yourself</rdf:value>
@@ -5443,7 +5502,7 @@
         <dcterms:dateSubmitted>2025-08-07</dcterms:dateSubmitted>
         <dc:description>[xxx-13th hadith]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1361">
+    <z:Attachment rdf:about="#item_984">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5452,7 +5511,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-07 15:17:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Book rdf:about="urn:isbn:0-415-24481-1">
@@ -5497,7 +5556,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1366"/>
+        <link:link rdf:resource="#item_987"/>
         <dc:title>Islam and Four Essential Freedoms</dc:title>
         <dc:date>2019-08-28</dc:date>
         <dc:identifier>
@@ -5508,7 +5567,7 @@
         <dcterms:dateSubmitted>2025-08-08</dcterms:dateSubmitted>
         <dc:description>[xxx-islam freedom]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1366">
+    <z:Attachment rdf:about="#item_987">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5517,7 +5576,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-08 11:59:32</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.ubf.org/resources/show/jesus-died-for-our-sins-and-was-risen">
@@ -5537,7 +5596,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1368"/>
+        <link:link rdf:resource="#item_989"/>
         <dc:title>JESUS DIED FOR OUR SINS AND WAS RISEN</dc:title>
         <dc:date>2025-04-05</dc:date>
         <dc:identifier>
@@ -5548,7 +5607,7 @@
         <dcterms:dateSubmitted>2025-08-08</dcterms:dateSubmitted>
         <dc:description>[xxx-jesus died for sins]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1368">
+    <z:Attachment rdf:about="#item_989">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5557,10 +5616,10 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-08 12:04:13</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_1371">
+    <bib:Book rdf:about="#item_990">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -5601,7 +5660,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1373"/>
+        <link:link rdf:resource="#item_992"/>
         <dc:title>The Worst Form of Government</dc:title>
         <dc:date>1947-11-11</dc:date>
         <dc:identifier>
@@ -5612,7 +5671,7 @@
         <dcterms:dateSubmitted>2025-08-10</dcterms:dateSubmitted>
         <dc:description>[xxx-churchill democracy]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1373">
+    <z:Attachment rdf:about="#item_992">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5621,7 +5680,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-11 03:20:11</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.historytools.org/stories/vasili-arkhipov-the-unsung-hero-who-saved-the-world-from-nuclear-annihilation">
@@ -5629,7 +5688,7 @@
         <dcterms:isPartOf>
            <z:Blog><dc:title>History Tools</dc:title></z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1375"/>
+        <link:link rdf:resource="#item_994"/>
         <dc:title>Vasili Arkhipov: The Unsung Hero Who Saved the World from Nuclear Annihilation</dc:title>
         <dc:date>2024-05-26</dc:date>
         <dc:identifier>
@@ -5640,7 +5699,7 @@
         <dcterms:dateSubmitted>2025-08-25</dcterms:dateSubmitted>
         <dc:description>[xxx-arkhipov]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1375">
+    <z:Attachment rdf:about="#item_994">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5649,7 +5708,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-08-25 11:34:51</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://enlacezapatista.ezln.org.mx/category/1994/">
@@ -5657,8 +5716,9 @@
         <dcterms:isPartOf>
            <z:Website><dc:title>Enlace Zapatista</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_1377"/>
+        <link:link rdf:resource="#item_996"/>
         <dc:title>Archivo Histórico</dc:title>
+        <dc:date>2025-09-07</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://enlacezapatista.ezln.org.mx/category/1994/</rdf:value>
@@ -5667,7 +5727,7 @@
         <dcterms:dateSubmitted>2025-09-07</dcterms:dateSubmitted>
         <dc:description>[xxx-zapatista archive]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1377">
+    <z:Attachment rdf:about="#item_996">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5676,7 +5736,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-09-07 09:52:58</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://journals.library.ualberta.ca/aps/index.php/aps/article/view/29340">
@@ -5710,7 +5770,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1379"/>
+        <link:link rdf:resource="#item_998"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>colonization</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -5747,7 +5807,7 @@
         <prism:number>2</prism:number>
         <dc:identifier>ISSN 1923-3299</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_1379">
+    <z:Attachment rdf:about="#item_998">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
@@ -5756,14 +5816,14 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-09-12 14:36:24</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:BookSection rdf:about="urn:isbn:978-981-9939-59-6">
+    <bib:BookSection rdf:about="urn:isbn:978-981-99-3959-6">
         <z:itemType>bookSection</z:itemType>
         <dcterms:isPartOf>
             <bib:Book>
-                <dc:identifier>ISBN 978-981-9939-59-6</dc:identifier>
+                <dc:identifier>ISBN 978-981-99-3959-6</dc:identifier>
                 <dc:title>Sustaining Employability Through Work-life Learning: Practices and Policies</dc:title>
             </bib:Book>
         </dcterms:isPartOf>
@@ -5881,7 +5941,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1383"/>
+        <link:link rdf:resource="#item_1002"/>
         <dc:title>What Do Australia’s Coal Miners Think of Climate Change?</dc:title>
         <dc:date>2022-02-14</dc:date>
         <dc:identifier>
@@ -5892,7 +5952,7 @@
         <dcterms:dateSubmitted>2025-09-13</dcterms:dateSubmitted>
         <dc:description>[xxx-coal climate change]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1383">
+    <z:Attachment rdf:about="#item_1002">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5901,7 +5961,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-09-13 23:07:26</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://iasj.org/as-war-leads-to-more-orders-weapons-makers-should-embrace-human-rights/">
@@ -5927,7 +5987,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1385"/>
+        <link:link rdf:resource="#item_1004"/>
         <dc:title>As War Leads to More Orders, Weapons Makers Should Embrace Human Rights</dc:title>
         <dc:date>2023-04-27</dc:date>
         <dc:identifier>
@@ -5938,7 +5998,7 @@
         <dcterms:dateSubmitted>2025-09-13</dcterms:dateSubmitted>
         <dc:description>[xxx-weapons-used]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1385">
+    <z:Attachment rdf:about="#item_1004">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -5947,15 +6007,15 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-09-13 23:14:33</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_1386">
+    <bib:Book rdf:about="#item_1005">
         <z:itemType>book</z:itemType>
         <dc:title>King James Version Bible</dc:title>
         <dc:description>[xxx-bible kjb]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_1387">
+    <bib:Book rdf:about="#item_1006">
         <z:itemType>book</z:itemType>
         <z:translators>
             <rdf:Seq>
@@ -5970,12 +6030,12 @@
         <dc:title>The Quran</dc:title>
         <dc:description>[xxx-quran]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_1388">
+    <bib:Book rdf:about="#item_1007">
         <z:itemType>book</z:itemType>
         <dc:title>English Standard Version Bible</dc:title>
         <dc:description>[xxx-bible esv]</dc:description>
     </bib:Book>
-    <bib:Book rdf:about="#item_1389">
+    <bib:Book rdf:about="#item_1008">
         <z:itemType>book</z:itemType>
         <dc:title>New International Version Bible</dc:title>
         <dc:description>[xxx-bible niv]</dc:description>
@@ -6003,7 +6063,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_1393"/>
+        <link:link rdf:resource="#item_1010"/>
         <dc:title>Weapons Deals And The Clinton Foundation</dc:title>
         <dc:date>2015-05-26</dc:date>
         <dc:identifier>
@@ -6014,7 +6074,7 @@
         <dcterms:dateSubmitted>2025-09-20</dcterms:dateSubmitted>
         <dc:description>[xxx-clinton corrupt]</dc:description>
     </bib:Document>
-    <z:Attachment rdf:about="#item_1393">
+    <z:Attachment rdf:about="#item_1010">
         <z:itemType>attachment</z:itemType>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
@@ -6023,7 +6083,7 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2025-09-20 15:20:24</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
+        <z:linkMode>3</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
 </rdf:RDF>

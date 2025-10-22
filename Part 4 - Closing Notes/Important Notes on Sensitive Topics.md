@@ -8,7 +8,7 @@ Making titles lowercase reminded me that no one's title makes them special. And 
 
 #### On Sharing Others' Stories
 
-If someone published their stories in a book available to the public, I chose to include some of the stories here with attribution and a respectful retelling. Whenever I privately received a story or perspective about healthy nations, I asked permission to share and for feedback to ensure it was presented as intended.
+If someone published their stories in a book available to the public, I chose to include some of the stories here with attribution and a respectful retelling. Whenever I privately received a story or perspective about healthy nations, I asked permission to share and got feedback to ensure it was presented as intended.
 
 I did my best to quote or summarize all stories and cultural practices correctly, and distinguish between my own beliefs and those of others. I accept responsibility for any mistakes or misinterpretations I may have made.
 
