@@ -26,7 +26,7 @@ How much child abuse is happening all around you right now, from authorities or 
 
 You would be punished if you intervened to stop child abuse, just like you'd be punished for trying to free unjustly imprisoned people or trying to stop a genocide.
 
-Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, abusive behavior becomes widespread, with the worst predators having the most wealth and power.
+Just like all of your neighbors, you would be punished for standing for what's right, and because so many people accept this way of life as legitimate, abusive behavior is widespread, with the worst predators having the most wealth and power.
 
 A staggering level of abusive behavior always occurs when people allow themselves to be ruled and choose not to stand for what's right. All these disturbing troubles will continue until you and the people around you can generate a healthy nation, where everyone stands for a culture of mutual respect, and nobody rules over anybody else.
 
@@ -68,7 +68,7 @@ The Lakota and Nootka offer tragic examples, as they were ultimately unable to p
 
 Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
 
-At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for himself and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
+At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
 
 At Catholic boarding schools, Nootka girls learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were dirty and sinful, had no valuable opinions, and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 

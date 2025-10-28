@@ -12,7 +12,7 @@ Why has this been such an epic, widely-kept secret? Of course: _this is what it'
 
 When you know what to look for, the history books show this vividly.
 
-Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends. Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom.
+Just as the American, German, and other authorities are falsely calling anti-genocide protesters "antisemitic" today and using that as an excuse to punish them, for centuries European colonial authorities likewise have falsely called people of healthy nations "ignorant", "savages," "uneducated," and "the antichrist." Centuries of lies and manipulation in North and South America, Africa, Australia, and around the world trained conquered people to fear and hate free people of healthy nations instead of seeing them as potential mentors, allies, and friends.[xxx-odoc|ch22] Chapter 2 showed that sometimes the secret got out, and some colonists did indeed run away to live in freedom.
 
 Why would ruling classes work so hard to spread propaganda against healthy nations? David Mantell, author of the _True Americanism_ study, said it clearly: "It is difficult to live in a permanent state of rebellion, and rebellions rarely occur when people do not have standards of comparison or do not see the chance of changing their circumstances."[xxx-true americanism|p27]
 
@@ -86,7 +86,7 @@ Unfortunately, she was unable to find people to share her concerns with and spea
 
 Over time, she became more stressed, and she and her husband began speaking of divorce. She had the career and family of her dreams but was unhappy and felt stuck and alone. Finally, she decided to take antidepressants, which allowed her to numb the feeling of dissatisfaction without bravely responding to it. And she stopped asking such deep questions about her unhealthy nation.
 
-A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
+A person who doesn't have anyone to share their thoughts and feelings with can easily feel trapped, unable to respond to their frustrations and fears. Many people cope by numbing their feelings with endless distractions, such as staring at their phone, focusing on superficial hobbies, taking antidepressants, drug and alcohol abuse, or overworking. These are simply ways people learn to "hold back" or "shut down" parts of themselves to avoid feeling their own dissatisfaction when they don't see a way to meaningfully respond.
 
 This story shows how easy it can be to ignore legitimate frustrations and fears, to numb the feelings and tolerate the numbness. It also shows how important it is to _share your thoughts and feelings with trusted friends, hear theirs, and consider how to respond together._
 
@@ -99,6 +99,8 @@ So find trustworthy people and tell them your thoughts and feelings, and listen 
 <div class="rev-act-body">To really speak your heart with trusted friends, you need privacy. Learn how to create surveillance-free spaces so you can speak with trusted friends with no recording devices present. For example, do experiments with your phone to discover how sensitive the microphone is, and how and where it can be safely stored so you can speak freely.</div></div>
 
 ### References
+
+[xxx-odoc|ch22]-aaa (Randolph, 2024, "Chapter 22: Imposing And Maintaining Hatred")
 
 [xxx-true americanism|p27]-aaa (Mantell, 1974, 27)
 

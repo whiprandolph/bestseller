@@ -13,6 +13,25 @@ For the next decade, he studied dozens of nations who live or lived as beautiful
 William lives in the southern Appalachian mountains of eastern North America.
 
 
+### Interview Prep Notes
+
+#### Pripo
+
+* mostly about relationships, knowing your feelings, setting boundaries, trust, community, connection, belonging
+  * also autonomy, differentiation, merging
+
+Good intro:
+
+* Noticed I was seeing the same problems over and over - racism, sexism, corruption. But in France, Great Britain, Russia, USA - no feminism movement has ever... racism... journalists/corruption...
+
+Peronal problems also are common - people can not know how they feel, or feel afraid to express themselves. People can have poor boundaries, letting other people mistreat them, mistreating others, or both -- and often not even noticing it!
+
+Why are these problems so common in so many nations around the world?
+
+There are societies where everyone agrees on their boundaries, and everyone upholds them so that mutual respect is the norm.....
+
+
+
 
 ### List of Healthy Nations
 Africa:

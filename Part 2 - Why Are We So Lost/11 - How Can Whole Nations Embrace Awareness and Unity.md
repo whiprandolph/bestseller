@@ -38,9 +38,9 @@ But this is not the only way that cultivating a practical, aware gratitude can h
 
 ### Generating Unity by Giving Thanks Together
 
-The Haudenosaunee show the kind of unity that comes from these nature connection practices. They have a very special Thanksgiving Address where they methodically go through different forms of life and give thanks to each. They thank the medicine herbs for removing sickness and the fish for purifying water. They give thanks to the trees for providing shelter and food. They give thanks to all the divine beings who give so much to create the web of life that we're all part of.
+The Haudenosaunee show the kind of unity that comes from these nature connection practices. They have a very special Thanksgiving Address where they methodically go through different forms of life and give thanks to each. They thank the medicine herbs for removing sickness and the fish for purifying water. They give thanks to the trees for providing shelter and food. They give thanks to all the divine beings who give so much to create the web of life that we're all part of.[xxx-kamana 2 nat|p1]
 
-The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:
+The Haudenosaunee open every gathering with the Thanksgiving Address, calling it the Words Before All Else. While each rendition is unique, the version I learned ends in this way:[xxx-kamana 2 nat|p1]
 
 _Now we have arrived in a very special place where dwells the Great Spirit that moves through all things. As one mind we turn our thoughts to the Creator with Thanksgiving and Greetings._[xxx-kamana 2 nat|p1]
 

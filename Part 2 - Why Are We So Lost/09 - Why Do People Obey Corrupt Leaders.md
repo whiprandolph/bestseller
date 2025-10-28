@@ -191,7 +191,7 @@ Liedloff wrote, "There was no attempt to force or even to persuade him to come w
 
 Solidarity is a core value in every healthy nation. So what happens when people disagree on something important, such as where to live or whether to fight a war? Don't they still need to choose a leader, and isn't that leader going to make a decision that many of them don't like, and just have to live with?
 
-Actually, no. In healthy nations, when there is a big dispute, the community may split into smaller groups so that each group has full unity. Because they can split up as needed, often there aren't hard feelings and the new smaller communities may remain friends and help each other in emergencies.
+Actually, no. In healthy nations, when there is a big dispute, communities may split into smaller groups so that each group has full unity. Because they can split up as needed, often there aren't hard feelings and the new smaller communities may remain friends and help each other in emergencies.
 
 For example, Pretty Shield described how her Crow community had a quarrel in about 1832 and divided into two groups, the Mountain Crows and River Crows. Pretty Shield was born a Mountain Crow but went to live with an aunt who was a River Crow. She said, "This separation from my mother and my sisters was in fact not a very real one, because all the Crows came together often." The Crows never considered living unhappily together and letting the majority impose a way of life that the minority resented. After separating, each group had a way of life and leadership that was satisfactory to all, and the groups remained friendly.[xxx-red mother|p21]
 

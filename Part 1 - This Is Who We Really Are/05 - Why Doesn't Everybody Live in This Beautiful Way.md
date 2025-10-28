@@ -30,7 +30,7 @@ In healthy nations, everyone stands for a culture of mutual respect, so they hav
 
 In unhealthy nations, one person or a few people rule over everyone else and demand obedience. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid the rest from directly holding misbehaving people accountable.
 
-Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and poverty are all merely _common symptoms caused by the root cultural disease_ where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal.
+Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and needless poverty are all merely _common symptoms caused by the root cultural disease_ where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal.
 
 Every nation where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" differently in one unhealthy nation compared to another. But they all have some kind of racism, with groups of higher-privilege and lower-privilege. These troubles do not exist in societies where everyone stands for what's right, and everyone agrees on the rules they live by.
 
