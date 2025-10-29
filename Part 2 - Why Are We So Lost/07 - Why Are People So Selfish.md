@@ -74,7 +74,7 @@ I experienced a gift economy among the Ashaninka where sharing food, tools, land
 
 Nancy Basket, a woman of Cherokee descent, summarized the traditional Cherokee culture of sharing this way: "If we all had a lot, then everybody had a lot. If there wasn't a whole lot, then no one had a whole lot."[xxx-basket interview]
 
-Sioux man Ohiyesa described the Sioux culture of sharing when he wrote, "During the summer, when Nature is at her best, and provides abundantly for the [Indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."[xxx-indian child life|early hardships]
+Ohiyesa of the Sioux described their traditional culture of sharing when he wrote, "During the summer, when Nature is at her best, and provides abundantly for the [Indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."[xxx-indian child life|early hardships]
 
 Amazingly, when people born into profit economies encounter people born into gift economies, they can each feel offended by the other. How is that possible?
 

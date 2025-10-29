@@ -153,9 +153,9 @@ When everyone stands for what's right, and everyone expects everyone else in the
 
 Fewer people would believe submissive obedience is necessary if they knew what free societies are like where people live without it. Following are some examples showing how whole nations live without _any_ submissive obedience.
 
-### How Can People Follow Their Nation's Laws Without Submissive Obedience?
+### How Can People Live Together Without Submissive Obedience?
 
-Every nation has laws, whether the nation is healthy or not. But when the laws work for everyone, there's no need for submissive obedience.
+Every nation has laws, whether the nation is healthy or not. But when the laws serve everyone, there's no need for submissive obedience.
 
 In healthy nations, no one forces laws on anybody else that they don't like. _Everyone is expected to uphold their laws, not obey them._ In this way, they have laws they follow, but no obedience. Each person is expected to have the same spiritual strength as Jesus Christ to stand for what's right no matter what.
 
@@ -163,9 +163,9 @@ In healthy nations, no one forces laws on anybody else that they don't like. _Ev
 
 "Following a leader" happens when people like the leader's directions. There is no threat involved. For example, the crowds of people who listened to Jesus _followed_ his spiritual leadership without any pressure or coercion because they valued his teachings and service, but they were forced to _obey_ Roman authorities whose leadership they didn't like, because they were threatened with punishment for disobeying.
 
-So how can a nation have leadership if no one obeys? It's simple: they _choose_ the leader whose direction they value, and if that leader begins to disappoint them, they choose a different one. As Haudenosaunee man Segwalise said, the leaders are "there by the will of the people and when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+How can a nation have leaders if no one obeys? It's simple: they _choose_ the leader whose direction they value, and if that leader disappoints them, they choose a different one. Oren Lyons of the Haudenosaunee said the leaders are "there by the will of the people and when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
-Thus people in healthy nations _choose whom to follow, and only follow as long as they value the leader's direction._ This allows them to have strong leaders, but no rulers.
+Thus people in healthy nations _choose whom to follow, and only follow as long as they value the leader's direction._ This accountability allows them to have strong leaders, but no rulers.
 
 Consider a military setting. In unhealthy nations, each soldier is expected to follow orders of commanders who are not accountable to the soldier, or be severely punished. Soldiers do not choose which commander or which orders to follow.
 

@@ -148,7 +148,7 @@ What qualities would people need to cultivate to have the strength to live in a 
 
 Many Christians are willing to believe that people are sinful and the world is sinful because qualities like dishonesty, selfishness, and cowardice are so widespread. The truth is that these hurtful qualities are only widespread in unhealthy nations because authorities create conditions that reward selfishness, discourage deep integrity and bravery, and punish those who stand for justice no matter what.
 
-Childhood emotional wounds can cause a lifetime of significant unease, insecurity, or feeling of inherent badness which colors the way many people see the world. When such wounded children grow up around widespread selfishness, dishonesty, and cowardice, of course humans might seem inherently sinful.
+Childhood emotional wounds can cause a lifetime of significant unease, insecurity, or feeling of inherent badness which colors the way many people see the world. When such wounded children grow up around widespread selfishness, dishonesty, and cowardice, it's no wonder humans might seem inherently sinful.
 
 However, no one is inherently bad, selfish or hateful. Hurtful qualities like selfishness or cowardice are not our nature as humans. They have to be trained.
 
