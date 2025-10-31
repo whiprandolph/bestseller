@@ -72,7 +72,7 @@ At boarding schools, children encountered a new form of child abuse: being force
 
 At Catholic boarding schools, Nootka girls learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were dirty and sinful, had no valuable opinions, and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 
-Endless stories of child abuse in Catholic boarding schools from around the world tell a similar story: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
+The Haudenosaunee[xxx-basic call to consciousness|p114], Potawatomi[xxx-braiding sweetgrass|putting down roots] and many other healthy nations suffered this way. Endless stories of child abuse in Catholic boarding schools from around the world tell a similar tale: child abuse and deprivation trains children to tolerate and perpetuate hurtful behavior, and this serves ruling classes as emotionally troubled, shame-filled people lack the spiritual strength to stand in solidarity to stop their abuse.
 
 Some Lakota and Nootka were thankfully able to maintain much of their ancient wisdom through the terrible boarding school period and ongoing enforced poverty, and still stand in solidarity with the Earth today. But their experiences show that it only took a single generation for terrible troubles like drunkenness, shame, and domestic violence to take hold that seem so tragically widespread in every unhealthy nation. This proves again that humans didn't "evolve" to live in unhealthy nations; we have to be trained for it, and a key aspect of this training involves difficult childhoods that result in emotional and spiritual wounds that many people struggle with their whole lives.
 
@@ -167,6 +167,10 @@ Ending this abuse will require creating new healthy nations, one community at a 
 You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution._
 
 ### References
+
+[xxx-basic call to consciousness|p114]-aaa (Notes, 2005, 114)
+
+[xxx-braiding sweetgrass|putting down roots]-aaa (Kimmerer, 2013, "Putting Down Roots")
 
 [xxx-daughters of copper woman|p79]-aaa (Cameron, 1981, 79)
 

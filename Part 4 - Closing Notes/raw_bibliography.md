@@ -146,7 +146,7 @@ Pharr, C. (Ed.). (1952). Book XVI 1.2. In The Theodosian Code. Princeton Univers
 Prechtel, M. (1999). Secrets of the Talking Jaguar. Tarcher.
 Prescott, J. (1975). Body Pleasure and the Origins of Violence. The Bulletin of The Atomic Scientists, 10–20.
 Prescott, J. (1977). Child Abuse in America: Slaughter of the Innocents. Hustler. https://www.violence.de/prescott/hustler-new/article.html
-Price, W. (1939). Nutrition and Physical Degeneration.
+Price, W. (2002). Nutrition and Physical Degeneration. Project Gutenberg of Australia.
 Randolph, W. (2024). One Disease One Cure: Ending Our Multi-Millennia Catastrophe. Three Integrities Publishing. https://1disease-1cure.com/
 Rebecca Liebert. (2024, July 15). Lubrizol. https://www.lubrizol.com/Our-Company/CEO-and-Leadership/Leadership/Rebecca-Liebert
 Revolutionary Agriculture Law (Google Translate, Trans.). (1993, December 31). Enlace Zapatista. https://enlacezapatista.ezln.org.mx/1993/12/31/ley-agraria-revolucionaria/

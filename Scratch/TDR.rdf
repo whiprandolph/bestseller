@@ -4144,6 +4144,11 @@
     </z:Attachment>
     <bib:Book rdf:about="#item_892">
         <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Project Gutenberg of Australia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -4155,7 +4160,7 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>Nutrition and Physical Degeneration</dc:title>
-        <dc:date>1939</dc:date>
+        <dc:date>2002</dc:date>
         <dc:description>[xxx-nutr phys gen]</dc:description>
     </bib:Book>
     <bib:Document rdf:about="https://www.haaretz.com/israel-news/2024-09-24/ty-article/.premium/israeli-arab-girl-12-suspended-from-school-after-empathizing-with-gazan-children/00000192-206a-dc44-affb-39fb8a800000">

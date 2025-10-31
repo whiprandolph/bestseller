@@ -24,11 +24,11 @@ Other evidence casts doubt on official explanations of the 9/11 attacks.[xxx-ae9
 
 Whether Russia, the USA, Ireland, Germany, France, Tibet, Great Britain, or any other unhealthy nation, the core problem is the same: a few ruling over the many. When rulers or ruling classes exist they always exploit the people in their own society, and this can happen in very disturbing ways.
 
-Many people hesitate to believe these stories, because it is so repugnant to imagine people of one's own country lying and acting so deeply selfishly. It's even more disturbing when it is our unaccountable leaders themselves acting so hurtfully.
+Many people hesitate to believe these stories, because it is so repugnant to imagine people of one's own country lying and acting so deeply selfishly. It's even more disturbing when it is the unaccountable leaders themselves acting so hurtfully.
 
 This is just a typical problem in nations that tolerate selfishness and abuse, and do not hold their leaders accountable. This sort of selfish behavior continues endlessly, while peace activists are punished for standing for the truth and trying to avoid unnecessary wars.
 
-### Selfless Violence in Healthy Nations
+### Stories of Selfless Violence
 
 Stories of collective self-defense show how people can use violence responsibly, in service of their communities and the common good.
 

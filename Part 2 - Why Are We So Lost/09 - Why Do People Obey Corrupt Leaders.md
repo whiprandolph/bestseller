@@ -32,7 +32,7 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _Healed people illegally:_ Christ illegally healed people on the Sabbath. (Matthew 12:10, Mark 3:2)[xxx-bible niv|matthew 12:10]<sup>,</sup>[xxx-bible niv|mark 3:2]
 
-* _Prioritized doing the right thing over following the law:_ When religious and legal authorities reminded him of the law, Christ said that taking care of people was more important than the law, saying, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible niv|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. 
+* _Prioritized doing the right thing over following unjust laws:_ When religious and legal authorities reminded him of the law, Christ said, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible niv|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. Christ's attitude is similar to the Haudenosaunee, whose nation was "founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
 
 * _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible esv|mark 11:15-18]
 
@@ -112,7 +112,7 @@ Religion is a major way that rulers have imposed sexism. Authoritarian religions
 
 If these holy books really are the Word of an All-Powerful God, then who could argue with them? But what if these religions and "holy" books are simply ideologies imposed on conquered people over many centuries, directly and indirectly training them for obedience?
 
-Tragically, even many non-religious ideologies encourage hurtful attitudes. For example, in my economics class in college, I was taught that humans are basically selfish, and this is good because the "invisible hand of the market" will organize people and channel their selfishness into productive activities that are good for capitalist society.
+Tragically, even many non-religious ideologies encourage hurtful attitudes. For example, in my economics class in college, I was taught that humans are basically selfish, and this is good because the "invisible hand of the market" will organize people and channel their selfishness into productive activities that serve capitalist society.
 
 Authoritarian ideologies train people to doubt their instincts, or see obedience as good, or believe they're disconnected from God, evil, shameful, inherently selfish or bad, or only conditionally good (if they obey authority figures). The list of hurtful beliefs is long!
 
@@ -230,6 +230,8 @@ It is critically important to choose for yourself what to believe. Ancient spiri
 Only by tapping into your own power to choose what to believe and what principles to uphold can you help build a healthy nation without these deep troubles.
 
 ### References
+
+[xxx-basic call to consciousness|p38]-aaa (Notes, 2005, 38)
 
 [xxx-from deep woods to civilization|civ preached practiced]-aaa (Eastman (Ohiyesa), 1916, "Civilization as Preached and Practiced")
 

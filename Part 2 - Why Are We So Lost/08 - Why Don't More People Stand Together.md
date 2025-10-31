@@ -122,7 +122,7 @@ Whether attacking activists, undermining social movements, or sponsoring astrotu
 
 Imagine living in a society where the leaders are the most generous, and where the leaders encourage deep solidarity and connection instead of sabotaging it. Imagine a society where activists who confront injustice are rewarded with gratitude instead of punishment.
 
-This is not a fantasy, but the normal way people live in healthy nations. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
+This is not a fantasy, but the normal way people live in healthy nations during traditional times. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
 What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _Basic Call to Consciousness,_ Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
 
@@ -136,7 +136,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 2. _Intentionally Avoiding Causes of Past Conflicts:_ The founders studied causes of past conflicts and created a Grand Council that helped resolve disputes, among other functions.[xxx-basic call to consciousness|p34]
 
-3. _Acknowledging the Earth's Needs:_ The Haudenosaunee take the nonhumans' needs into account, embracing strict laws of conservation and carefully avoid degrading the land.[xxx-basic call to consciousness|p104]
+3. _Acknowledging the Earth's Needs:_ The Haudenosaunee take the nonhumans' needs into account. They embrace strict laws of conservation and carefully avoid degrading the land.[xxx-basic call to consciousness|p104]
 
     As a result, in traditional times the Haudenosaunee lived with an "almost unimaginable abundance... of nuts, berries, roots, and herbs... the rivers teemed with fish and the forest and its meadows abounded with game..."[xxx-basic call to consciousness|p104]
 
@@ -148,7 +148,7 @@ It is impossible to briefly recount all the ways the Haudenosaunee have maintain
 
 6. _Avoiding Conquering Other People:_ The founders committed to never impose taxes, religion, or any injustice on anyone they defeated in war. While the Haudenosaunee were willing to keep fighting a war until the threat was fully addressed, adversaries could call for a cessation of hostilities at any time. They committed to never have a society where a few people ruled over the rest, even when they won the war and could be the rulers![xxx-basic call to consciousness|p37]
 
-7. _Leaders Serve the People:_ They avoid factions,[xxx-basic call to consciousness|p34] and no government imposes laws on anyone. Their leaders are expected to be generous.[xxx-basic call to consciousness|p104]
+7. _Leaders Serve the People:_ They avoid factions,[xxx-basic call to consciousness|p34] and no unaccountable leaders impose laws on anyone. Their leaders are expected to be generous.[xxx-basic call to consciousness|p104]
 
 What was the end result of a society based in part on these principles? Whereas one encyclopedia defines a "utopia" as "impossibly idealistic"[xxx-britannica utopia], the Haudenosaunee writers described how, prior to the arrival of European unhealthy nations, "It was, in fact, a kind of Utopia, a place where no one went hungry, a place where the people were happy and healthy."[xxx-basic call to consciousness|p104]
 
