@@ -90,7 +90,7 @@ Many citizens in democracies care deeply about their society but knowingly vote 
 
 Even so-called liberation movements will be disappointing as long as people accept their submissive obedience as legitimate.
 
-For example, black people and women were both treated abominably in the United States at the start of the 1900s, facing severe discrimination in the workplace, courtroom, and other areas of life. After more than a century of "women's liberation" and "black liberation" movements, what is the result? Women and black people can now become corrupt politicians, just like they can be selfish rich business owners, corrupt judges and police officers, and well-paid wage slaves.
+For example, black people and women were both treated abominably in the United States at the start of the 1900s, facing severe discrimination in the workplace, courtroom, and other areas of life. After more than a century of "women's liberation" and "black liberation" movements that focus on "civil rights," what is the result? Women and black people can now become corrupt politicians, just like they can be selfish rich business owners, corrupt judges and police officers, and well-paid wage slaves.
 
 Women and black people have essentially been offered a smaller serving of the same bad deal that white men have had since the United States' founding: if you're willing to embrace selfishness and sacrifice your integrity, you too can have a comfortable position in your corrupt society, and even a small chance at getting rich. Plenty of women and black people have taken this deal, just like many white men have taken it for centuries. In practice, these were movements not to seek liberation, but to increase people's privilege and reduce the abuse they faced.
 
