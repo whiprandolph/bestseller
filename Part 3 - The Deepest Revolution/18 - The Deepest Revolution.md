@@ -26,7 +26,7 @@ The only way to end this abuse is to stand up for ourselves. That's the Deepest 
 
 The night before his murder, Martin Luther King Jr said, "I've seen the promised land. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land."[xxx-mlk final speech afscmd]
 
-I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and  no rulers.
+I'm telling you I've BEEN to the promised land. I've lived with a whole healthy nation where people routinely have integrity, generosity, respect for men, women and children, deep connection with the Earth, strong leaders, and no rulers.
 
 The promised land is real, and I'll tell you what else I learned&nbsp; --&nbsp;&nbsp; _**WE are the promised land**._ Every single person can be one of our many messiahs, one of our many liberators as we free ourselves from the biggest trap in human history. And the more messiahs, the more liberators, the better. We are our own saviors.
 

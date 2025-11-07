@@ -171,7 +171,7 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Give thanks for Earth's intangible gifts</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #30<br/>Give thanks for the Earth's intangible gifts</div>
 </b><div class="rev-act-body">Have you ever gone on a walk to get fresh air and clear your head, or gone to the woods for private time away from people? Have you ever admired the enchanting silver light of the moon at night? Imagine life without any trees or fresh air or the moon, and see how poorer that life would be.<br/><br/>Think of an intangible gift you receive from the Earth, whether from plants or animals or streams or anything else, and practice noticing and feeling grateful for it.</div></div>
 
 

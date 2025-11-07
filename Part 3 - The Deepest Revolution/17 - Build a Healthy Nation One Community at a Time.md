@@ -4,7 +4,7 @@ Can you imagine your life if everyone around you could be trusted to take care o
 
 Okanagan Jeannette Armstrong called this deep trust of knowing your community is there to sustain you "the most secure feeling in the world."[xxx-original instructions|armstrong]
 
-People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. People in healthy nations routinely expect themselves and others to behave with integrity, generosity, awareness, authenticity, physical resilience, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
+People in healthy nations deliberately create and maintain this secure feeling by consistently holding themselves and each other to high standards that benefit individuals because they benefit the group. They routinely expect themselves and others to behave with integrity, generosity, awareness, physical resilience, and bravery. When people make mistakes, they help each other grow without guilt or shame. When qualities like integrity and generosity become widespread, trust naturally becomes widespread too.
 
 Healthy nations are built on healthy communities where people have deep relationships with each other and the Earth. The Zapatistas show how to build a healthy nation one community at a time.
 
@@ -38,7 +38,7 @@ But if you can help create a community of 5, 10, or 50 people, it will be part o
 
 This is what it means to _build a healthy nation one community at a time._ When you can form deep friendships with people who commit to supporting each other and the Earth, bringing out the best in each other and living a meaningful life every day, you're forming a little healthy community where trust and gratitude are the norm, because integrity and generosity are normal too.
 
-When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect their unhealthy nation because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced by deceitful politicians that their way of life is under attack, and they will fight the revolutionaries.
+When people feel isolated and scared, even if they don't like the corruption of their unhealthy nation, they will support and protect it because it offers them stability and some measure of safety and comfort. Their friends and family are all part of the unhealthy nation, and all their hopes and dreams are tied up in it. When a revolution occurs, people who don't have those deep relationships will easily be convinced by deceitful politicians that their way of life is under attack, and they will fight the revolutionaries.
 
 If you can form a little community that embraces these healthy-nation practices of deep solidarity and generosity, the people in your group won't be isolated anymore. Scary things might happen, but nobody in the community will face them alone. When people can orient to this community of deep relationships, they will have less motivation to protect their unhealthy nation in order to protect themselves. Instead they will enjoy that most secure feeling in the world when they trust their community to protect them.
 
@@ -59,7 +59,7 @@ You've practiced receiving the Earth's gifts with gratitude, and giving back to 
 
 You've joined with other people into groups that continually share with each other, and where people can safely speak their heart. You've practiced holding yourself and others to high standards and making it easy for others to do the same for you.
 
-If you haven't completed all the activities yet, that's ok! These are life-long practices, meant to be done over and over until they become a way of life. If you haven't started, that's ok too. Now is a good time to start.
+If you haven't done all the activities, that's ok! They are life-long practices, meant to be done repeatedly so they become a way of life. If you haven't begun, that's ok too. Now is a good time to start.
 
 ### Build a Healthy Community One Person at a Time
 
@@ -108,6 +108,8 @@ Recall the Haudenosaunee writers' words: "if absolute justice was established in
 _Peace in a community doesn't come because people avoid conflict. Peace comes when everyone stands for what's right,_ confronting inappropriate behavior as needed to hold each other to high standards. When you do this, peace and trust will naturally follow.
 
 Do not rely on artificial intelligence chatbots (AI) to make your decisions or give you "advice." Every AI transcript is recorded and available to any corporation or agency that wants it. Chatbots are very manipulative, often saying what they "think" the user wants to hear, not what would aid their spiritual growth. There is no substitute for you developing the spiritual strength to stand for what's right as needed. Consult with trusted friends when you need support. If you don't have trusted friends yet, go find them. They will be glad to meet you.
+
+You also cannot rely on any particular system of self-governance to keep your community healthy. Whether you use consensus, democracy, sociocracy, or anything else, no system of government will maintain a baseline of mutual respect if people lack spiritual strength. If that spiritual strength is strong and widespread, many forms of self-governance can work. This explains why, among the Haudenosaunee, "many of the rules... are designed to create a strong society rather than a strong government."[xxx-basic call to consciousness|p39]
 
 As a healthy community of people with high expectations, your group's standards of appropriate behavior will become the laws you live by -- laws based not on dominance, exploitation and selfishness but on justice, generosity, integrity, kindness, and bravery.
 
@@ -158,7 +160,7 @@ Learning when to forgive and how to hold good boundaries may sound hard, but it 
 
 Even the Zapatistas make mistakes. Major Moisés described their self-governance changes and he said that "we are just learning and... it will take a while to get going well."[xxx-ezln new structure]
 
-This is why it's important to cultivate spiritual strength together. Making your own laws and choosing how to uphold them (i.e. holding people to a high standard of behavior) is a big responsibility.
+This is why it's important to build spiritual strength together. Making and upholding your own laws (i.e. holding people to a high standard of behavior) is a big responsibility.
 
 So commit to that path of deep spiritual growth with others. Expect that mistakes will happen, and learn to grow and forgive. And when necessary, learn to hold healthy boundaries too so that, one way or another, selfishness will not take hold in your community.
 
@@ -173,7 +175,7 @@ It would be hard enough to grow up surrounded by these hurtful qualities and the
 
 The Zapatistas showed that the path to freedom may be difficult and dangerous, yet every one of them chose to walk it so they could escape this terrible way of life and create a healthy nation instead. And each of us can walk a similar path.
 
-With strong relationships in place and steady spiritual strength, you and your friends will be ready to address difficult questions, including how to build or acquire the needed weapons for self-defense and how to organize the communities so that the nation can effectively protect itself. The Zapatistas offer helpful details in their publications.[xxx-zapatista archive]
+With strong relationships and steady spiritual strength, you and your friends will be ready to address difficult questions, including how to build or acquire the needed weapons for self-defense and how to organize the communities so that the nation can protect itself. The Zapatistas offer helpful details in their writings.[xxx-zapatista archive]
 
 Just like the Zapatistas, every person in every unhealthy nation today has ancestors who once lived in healthy nations sometime in the past. For some it was only years or decades ago. For many others it's been centuries or millennia. Those ancestors enjoyed a way of life based on the three core spiritual practices, where every moment and every relationship was meaningful, life was full of joyful gratitude, and people gave their deepest love as a normal way of life without holding back.
 
@@ -189,6 +191,8 @@ Someday you may live in a free nation, or perhaps you will lay the groundwork so
 <div class="rev-act-body">Join or found a men's group or women's group dedicated to each person's spiritual growth. Meet regularly and help each other work through daily challenges with beautiful qualities such as integrity, kindness, generosity, bravery, and awareness. Support each other to cultivate and give your sacred gifts. If everyone in the group struggles in the same way, such as having low integrity, take care to truly have high standards and not reinforce each others' weaknesses.</div></div>
 
 ### References
+
+[xxx-basic call to consciousness|p39]-aaa (Notes, 2005, 39)
 
 [xxx-zapatista archive]-aaa (Archivo Histórico, n.d.)
 
