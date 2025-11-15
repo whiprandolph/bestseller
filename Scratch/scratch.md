@@ -6,6 +6,10 @@ If you live in an unhealthy nation, you're not free. Only privileged people who 
 
 Even many "left," "progressive," or "liberal" talking points miss the most important truths. For example, colonialism is real, but "decolonizing" is not enough to create healthy nations as India has shown. India was an unhealthy nation for thousands of years before the British colonized them, and they have been an unhealthy nation ever since the British left. In India, "decolonizing" just replaced a foreign ruling class with a local one. As long as people accept their submissive obedience as legitimate and ignore lessons of actually-free nations, these sorts of confused political perspectives will persist.**
 
+### To see the path to freedom, understand the path to tyranny
+
+
+
 
 ### Revolutionary Activities
 

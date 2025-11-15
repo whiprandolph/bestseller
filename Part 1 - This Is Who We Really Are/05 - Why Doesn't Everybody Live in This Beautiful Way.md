@@ -22,7 +22,7 @@ And they share one core difference from all unhealthy nations:
 
 <center>__*In healthy nations, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
-A nation is any group of people that protect each other from external threats and have their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
+A nation is any group of people that protect each other from external threats and have their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations able to maintain their traditional way of life, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
 
 Furthermore, in healthy nations, people expect each other to _uphold_ their law and seek justice. In unhealthy nations, people are expected to _obey_ the laws they're given and they're punished for disobedience. They're also punished for upholding the law themselves and seeking justice directly. After all, enforcing the law is the police's job, though the police have to follow orders too.
 

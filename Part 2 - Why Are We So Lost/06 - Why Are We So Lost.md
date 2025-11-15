@@ -4,7 +4,7 @@ Everybody is born with a sense of dignity, meaning that we each have a _natural 
 
 People of healthy nations have a common response when someone behaves disrespectfully towards their neighbors: they come together, discuss the problem, and consider how to respond collectively so they can return to that baseline of mutual respect that all humans expect from birth.
 
-People born and raised in healthy nations would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while others went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
+People born and raised in healthy nations during traditional times would be shocked if there were rich people, or if their leaders started giving money or special treatment to the rich while others went hungry or lived a precarious life. Or if rich businessmen used violent thugs to suppress people's efforts to get safe working conditions. Or if police arrested someone for saying the truth. Or if a loved one was falsely convicted of a crime, and the racist or sexist judge showed no interest in real justice.
 
 And they would be shocked if they were threatened with severe violence for trying to end these injustices.
 
@@ -67,7 +67,7 @@ Can you imagine living in a society where everyone accepts responsibility for se
 
 ### The Nootka Stand in Solidarity
 
-In healthy nations, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure no one is disrespected.
+In healthy nations that maintain their traditional ways, everyone upholds their laws as a normal way of life, protecting each other whenever the need arises. One story from the Nootka illustrates what life is like when everyone stands in solidarity to ensure that no one is disrespected.
 
 In the book _Daughters of Copper Woman,_ a Nootka storyteller described a cultural technique the Nootka used to help people see their own foolish behavior: people who acted like mirrors, helping other people see their own silly or foolish behavior by imitating it.[xxx-daughters of copper woman|109-112]
 

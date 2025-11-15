@@ -1,6 +1,6 @@
 ## Chapter 2: Can Whole Nations Embrace Generosity and Integrity?
 
-My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. Many groups of people around the world, large and small, have lived with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
+My time with the Ashaninka felt shocking, but it turns out their generous and respectful way of life is not exceptional at all. There are many nations around the world, large and small, where people live or lived in traditional times with generosity and integrity towards each other for millions of years. Cooperation and mutual respect was -- and in a few places, still is -- the norm, not the exception.
 
 What is not at all normal, in terms of our basic human nature, is how people live in the United States and every other unhealthy nation, past and present, that have dominated and warped people for millennia.
 
@@ -10,7 +10,7 @@ But we can do much better.
 
 ### No Police, No Prisons, No Widespread Crime
 
-One striking example of how different healthy nations are compared to what we generally think of as 'normal' is their remarkable lack of prisons, police, and crime.
+One striking difference between healthy nations living in traditional times compared to what we generally think of as 'normal' is their remarkable lack of prisons, police, and crime.
 
 Can you even imagine living in a nation without crime?
 

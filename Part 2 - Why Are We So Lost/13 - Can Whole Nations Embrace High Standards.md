@@ -4,7 +4,7 @@ Authorities systematically train conquered people to accept submissive obedience
 
 The consequences of submissive obedience are devastating. Authorities create and maintain all sorts of systemic problems, including widespread corruption, racism, sexism, hatred, child abuse, and greed. Many people accept and then adopt these hurtful attitudes, beliefs and practices as their own, and nearly everyone accepts these problems as inevitable.
 
-Without exception, every unhealthy nation has these intractable problems, and none of them exist in any healthy nation I've studied.
+Without exception, every unhealthy nation has these intractable problems, and none of them exist in healthy nations living in traditional times.
 
 But our troubles go deeper still.
 
