@@ -95,7 +95,7 @@ Taking a stand when someone misbehaves is often not "nice" or comfortable. You m
 
 High standards are not optional. You will not have a healthy community of deep trust without high standards. Many people have tried to form intentional communities and found them dissatisfying, and often they transform into mere groups of neighbors as trust diminishes over time. Why?
 
-Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, act in service, and stand for justice as needed (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that people will share and care for each other in hard times (kindness and generosity). Trust that others will see and understand them (awareness). Trust that people will protect each other in dangerous moments (bravery and selfless violence). Trust that when a person makes a mistake, others will know they're a good person doing their best, and help them learn from it (compassion).
+Healthy communities are based on trust, and there are many ways people want to trust each other -- trust that others will tell the truth, keep their promises, act in service, and stand for justice as needed (integrity). Trust that others will do the right thing even if it's scary or uncomfortable (bravery). Trust that people will share and care for each other (kindness and generosity). Trust that others will see and understand them (awareness). Trust that people will protect each other as needed (bravery and selfless violence). Trust that people will take accountability for their mistakes, and forgive others when they take accountability (accountability and compassion).
 
 If your community doesn't hold people to high standards in all these areas, deep trust will not grow, and it will be a group of friendly neighbors at best. To keep a community healthy, you must confront inappropriate behavior, either supporting someone in their spiritual growth or asking them to leave if they refuse to grow.
 
@@ -144,7 +144,7 @@ If someone makes a mistake and you respectfully confront them, what happens? If 
 
 "Perfect" has a few meanings. In one sense, everyone is perfect because everyone is basically good. In another sense, no one is perfect because everyone makes mistakes. Many people have developed bad habits and subconscious hurtful behaviors. Expect people, including yourself, to make mistakes and act hurtfully, often without knowing it. Be ready for these challenges.
 
-A person doesn't need to be "perfect" or never make mistakes in order to be trustworthy. The willingness to consistently acknowledge one's mistakes and grow from them lets a person cultivate deep integrity and become very trustworthy.
+A person doesn't need to be "perfect" or never make mistakes in order to be trustworthy. The willingness to take accountability for mistakes and grow from them lets a person cultivate deep integrity and become very trustworthy.
 
 Likewise, no relationship is perfect, but relationships can _deepen_ when people commit to growing together over time.
 

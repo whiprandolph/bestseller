@@ -32,11 +32,11 @@ These self-sufficient people needed no police or prisons. Each member took respo
 
 Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader, but he wasn't richer than average. When visiting his home, I noticed it was the same size and had the same items as everyone else's.
 
-Given their integrity and generosity, I wasn't surprised that no one seemed concerned about robbery. I never saw a building with doors, much less locks. Few of their houses even had walls!
-
 On Mike's suggestion, I made sure to bring a large sack of goods with me as gifts, including material for fishing, sewing, cooking, and anything else Mike had said they would find useful. I spent hundreds of dollars on it, and when they told me I could leave it in a home far from the village where I would be staying, I hesitated at first. Yet when I returned 2 weeks later with many Ashaninka to give out the gifts, I found the sack untouched, just as I had left it. This kind of widespread integrity was normal and unremarkable.
 
 As I handed out the gifts, they seemed genuinely grateful, and no one asked for more. I felt happy to share but also sad that I didn't have more to give. 
+
+Given their integrity and generosity, I wasn't surprised that no one seemed concerned about robbery. I never saw a building with doors, much less locks. Few of their houses even had walls!
 
 When it was time for me to go a week later, I did not want to say good-bye. All the Ashaninka I met seemed trustworthy, generous, capable, responsible, relaxed, joyful, and healthy -- not just one or two individuals, but everyone I found. They had no courts, no police, no prisons, and no corrupt government. I did see people gathering in council on my last day as they discussed how to respond to Peruvians who were overfishing the nearby river.
 

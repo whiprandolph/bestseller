@@ -42,19 +42,21 @@ _Riot Police in the United States_
 
 I was taught growing up that the police's job is to keep people safe and enforce the law. But the riot police consistently protect the interests and possessions of the rich and powerful even when they are clearly violating the law.
 
-And who are the police protecting the rich and powerful from? Of course, they protect the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy nations. The police are actually employed to scare people away from standing up for themselves, and to punish people for collectively seeking justice.
+And who are the police protecting the rich and powerful from? Of course, they protect the rich and powerful from people who are angry about low wages, pollution, corruption, wars based on lies, and all the usual injustices in unhealthy nations.
 
-This is what it means to live in an unfree, unhealthy nation: people are threatened and punished for seeking justice for themselves and their neighbors.
+Anyone who obediently follows orders gives up their responsibility to serve their people and becomes the servant of whoever gives the orders. Corrupt leaders thus use obedient police to scare people away from standing up for themselves and seeking justice.
 
-In unhealthy nations, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that leaders indulge in corruption and crime?
+This is what it means to live in an unfree, unhealthy nation: people are threatened and punished for seeking justice.
 
-As I was born and raised in an unhealthy nation, all this seemed normal and natural until I discovered healthy nations where people do not live this way.
+In unhealthy nations, where people are forbidden from holding their leaders accountable or standing with others to seek justice, is it any wonder that so many leaders indulge in corruption and crime?
+
+To anyone born in an unhealthy nation, this may seem natural. But healthy nations living in traditional times do not live this way.
 
 Every single human feels a deep urge to stand up for what's right, though many have learned to ignore it. _Your urge to "stand for what's right" is your natural desire to uphold the laws of your own nation and seek justice._ In healthy nations, people are expected to act on that urge because they only live with laws that they actually support. In unhealthy nations, people are trained to repress that urge and are punished for acting on it. In addition, many people are forced to live with laws they don't support -- another sign of living in an unfree society.
 
 Unhealthy nations systematically train people from childhood to "hold back" or "shut down" parts of themselves so they won't honor this urge to confront abusive authorities and seek justice. Each person responds in their own way. People can learn to habitually ignore certain feelings or urges, develop narrow-minded, selfish or hurtful attitudes, or ignore some aspects of reality, leading to all kinds of strange emotional and spiritual disturbances.
 
-In healthy nations, standing for what's right in solidarity with neighbors is not just allowed -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained from birth to have the spiritual strength to consistently uphold their laws with integrity.
+In healthy nations, standing for what's right in solidarity with neighbors is not just allowed -- it's expected. Everyone agrees on their laws, and everyone is expected to uphold them to ensure they can maintain a respectful way of life. Children are trained to have the spiritual strength to consistently confront any injustice.
 
 This shows why so many people of unhealthy nations are lost, with ineffective politics and endless corruption, greed, discrimination, and pollution, no matter who people vote for. When the path to universal justice is outlawed -- because people are forbidden from taking responsibility to choose and uphold their own laws -- _injustice and ineffective political movements become normalized._
 
@@ -98,7 +100,7 @@ This story also shows what it's like when everyone in a nation upholds the rules
 And this solidarity was not a one-off event. It was a way of life. The mirror walked out of the church, and all the people followed her, leaving the preacher alone. That church still exists and remains empty to this day.[xxx-daughters of copper woman|109-112]
 
 <div class="rev-act"><div class="rev-act-header">Revolutionary Activity #8<br/>Support someone else when they take a stand</div>
-<div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust that others would stand with her? In other words, how much easier was it for her to take a stand knowing that she would have others' support?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
+<div class="rev-act-body">The mirror-woman showed integrity by standing for the values that she wanted in her nation. Consider: how much harder would it have been for her to take that stand if she didn't trust others to stand with her? In other words, how much easier was it for her to take a stand knowing that others would support her?<br/><br/>Think of a time when you wanted to take a stand in some way -- perhaps because a bully was picking on someone, or a boss made a rude remark in public, or a teacher was rude to a student, or a company was polluting the Earth. Were you scared to speak up and confront them because you worried you'd be alone? How amazing would it feel knowing you could take a stand and you could trust others to support you?<br/><br/>Just like you would want others' support in difficult moments, they want yours too. Your support makes it easier for other people to act with integrity. Look for an opportunity to support someone else who "sticks their neck out" to do the right thing, even when it's unpopular.</div></div>
 
 ### Solidarity and Generosity Used to be Universal
 
@@ -118,7 +120,7 @@ You may not feel this affects you. Maybe you have enough goodies in your life or
 
 Regardless of which unhealthy nation you live in, and no matter how "safe" you feel, the answer is no. And because you know that, you have known since childhood that you must play along.
 
-But "playing along" is not who we really are. And because of that, each of us -- including you -- have the power to help make things right.
+But "playing along" is not who we really are. And that means each of us -- including you -- has the power to help make things right.
 
 For many of us, we and our ancestors have been trapped in this way of life for a very long time. This may be painful to face, but we absolutely can -- and we must -- face the truth and stand up together to change it.
 

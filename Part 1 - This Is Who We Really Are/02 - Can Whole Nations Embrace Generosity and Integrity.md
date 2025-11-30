@@ -14,7 +14,7 @@ One striking difference between healthy nations living in traditional times comp
 
 Can you even imagine living in a nation without crime?
 
-I was amazed to discover that the Ashaninka had no police or prisons, yet they also seemed so relaxed and unconcerned about crime. There were no locked doors. In fact, they didn't have doors!
+I was amazed to discover that the Ashaninka have no police or prisons, yet they also seem so relaxed and unconcerned about crime. There are no locked doors. In fact, they don't have doors!
 
 Avoiding crime may seem impossible in societies numbering in the thousands or more, yet many large healthy human nations have lived this way -- not just occasionally, but for millions of years.
 

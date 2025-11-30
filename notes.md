@@ -12,6 +12,40 @@ For the next decade, he studied dozens of nations who live or lived as beautiful
 
 William lives in the southern Appalachian mountains of eastern North America.
 
+### Note to small local retailer
+
+Hello Jordan,
+
+I am an author local to Black Mountain, and when I asked a barista at Seeker Coffee about offering my book in their shelf, she referred me to you.
+
+I’d like to tell you about the book to see if you’d like to stock it. I’ll share some details in this email and I’m happy to answer any questions as well.
+
+* Title: The Deepest Revolution
+* Dimensions: 6x9”, 180 pages main text, 196 pages total
+* Contains both commissioned illustrations and images
+* Wholesaler availability: Ingrams, Amazon, and other sources. I work with Publishdrive which makes the book available to many distributors, so if you work with someone besides Ingram or Amazon let me know and I’ll check. If you prefer, I could also get you physical copies as I have a box at my home. I’m also happy to give you a copy to evaluate.
+* For testimonials from early readers, see the book website here.
+* About the book:
++======+
+Did you know there are whole nations, past and present, where people live respectfully with each other and the Earth—without racism, sexism, child abuse, pollution, widespread crime, or prisons? Where leaders are trusted, and integrity and generosity are common?
+
+Meanwhile, so-called “civilized” nations, like France, the United States, Ecuador, and Russia endure endless injustices, needless suffering, poverty, corruption, discrimination, and abuse. Decade after decade, these troubles never end no matter who we vote for.
+
+What will it take to make integrity, respect, generosity, and alignment with the Earth pervasive, so people can trust their neighbors and leaders?
+
+It will take The Deepest Revolution. Based on the words and stories of people of healthy nations, nothing in this book is theoretical or too idealistic to achieve. If you’re tired of our endless political and cultural problems, and you’re ready for deep change in solidarity with other strong and caring people, these books are for you.
++======+
+* Cost: The book retails for $9.99 on Amazon. The wholesale distributors ought to offer standard discounts. If not, please let me know. If you want me to supply you with a box, I can do that for $5/book.
+
+If you have any questions or want to discuss anything, please let me know.
+
+Thank you,
+Will Randolph
+
+The Deepest Revolution
+https://thedeepestrevolution.com/
+
+(j.w.choquette@gmail.com)
 
 ### Interview Prep Notes
 
