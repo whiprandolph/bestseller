@@ -2,7 +2,7 @@
 
 I have really good news!
 
-If you're like most people (and like me until recently), you probably think that racism, sexism, greed, corruption, and many other troubles are an intrinsic part of basic human nature, or inescapable aspects of every nation around the world.
+If you're like most people (and like me until recently), you may think that troubles like racism, sexism, greed, and corruption are an intrinsic part of basic human nature, or inescapable aspects of every nation around the world.
 
 The good news is this: it is possible to live without these troubles.
 
@@ -28,7 +28,7 @@ No boss was pushing her to do unsatisfying work just to eat and pay the bills. S
 
 Everywhere I looked, it was like a story too good to be true. Their kids were friendly and very capable. A little girl of 5 or 6 showed me how to spin cotton into yarn. She seemed like quite the expert. A boy of about 10 finished making an arrow as I watched, then invited me to target practice with his hand-made bow.
 
-These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. Everyone was free to protect themselves and each other as needed.
+These self-sufficient people needed no police or prisons. Each member took responsibility for themselves and the good of the group. While I never saw any emotional outbursts or disputes, they were very willing to use violence to protect themselves if attacked. While walking between villages, I saw young men carry shotguns over their shoulders for protection from drug traffickers. Everyone was welcomed to protect themselves and each other as needed.
 
 Even their leaders surprised me. When I arrived at one very far-away village, a small man greeted us with a warm smile and helped my friends and me settle in. I later learned he was the village leader, but he wasn't richer than average. When visiting his home, I noticed it was the same size and had the same items as everyone else's.
 

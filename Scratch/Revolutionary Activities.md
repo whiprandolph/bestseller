@@ -132,8 +132,8 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Notice how you tolerate boredom</div>
-</b><div class="rev-act-body">Tolerating boredom is a key way many people learn to live with low standards. Anytime you feel bored, notice how you distract yourself. Do you seek fake excitement or connection by watching TV, playing video games, gambling, watching pornography, counting your money, or having meaningless arguments? Do you stay busy with work, or ignore your feelings with alcohol or drugs? One major source of boredom is feeling isolated and mostly thinking about oneself instead of how to help others. Next time you're bored, do something helpful for a friend, family member or neighbor so that they feel grateful to you. Ask the other person for suggestions if necessary.</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #23<br/>Learn from Healthy Nations</div>
+</b><div class="rev-act-body">How can a whole nation of people live with high standards, so that qualities like integrity, bravery, generosity, kindness, and awareness are normal? If you want to help form a healthy community and ultimately a healthy nation, you may have many questions after reading this book, whether about parenting, leadership, deepening your awareness, living in mutual relationship with the Earth, or other topics. Think of one question you have, and ask people from healthy nations or read their writings to find examples and lessons to answer your question. This book's bibliography can help.</div></div>
 
 
 

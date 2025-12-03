@@ -14,7 +14,7 @@ Do nations become unhealthy when they cover too much area? That doesn't make sen
 
 Before extended European contact, the Cherokee covered about 40,000 sq miles. Clearly humans can maintain healthy nations that cover huge distances and include many thousands of people.[xxx-cherokee pop and extent]
 
-Did the trouble happen when people started farming? No, the Huron gained about 75% of the food they ate from crops they grew. They still shocked French missionaries who couldn't understand how people could get along without police, prisons, and authorities imposing law and order.[xxx-huron farmers of the north|p26]<sup>,</sup>[xxx-huron farmers of the north|p71] Even prior to contact with European colonizers, the Haudenosaunee relied more on farming than hunting for food.[xxx-encyclopedia haudenosaunee|pvii]
+Did the trouble happen when people started farming? No, the Huron gained about 75% of the food they ate from farming. They still shocked French missionaries who couldn't understand how people could get along without police, prisons, and authorities imposing law and order.[xxx-huron farmers of the north|p26]<sup>,</sup>[xxx-huron farmers of the north|p71] Even before the Europeans' arrival, the Haudenosaunee relied more on farming than hunting for food.[xxx-encyclopedia haudenosaunee|pvii]
 
 Sometimes people of these nations are called native, indigenous, tribal, aboriginal, indian, or first nations. I call them healthy nations.
 
@@ -22,19 +22,19 @@ And they share one core difference from all unhealthy nations:
 
 <center>__*In healthy nations, everyone stands for a culture of mutual respect, and nobody rules over anybody else.*__</center>
 
-A nation is any group of people that protect each other from external threats and have their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations able to maintain their traditional way of life, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to submissively obey the laws they're given.
+A nation is any group of people that protect each other from external threats and have their own laws, or their own standards of acceptable behavior that they hold each other to. In healthy nations able to maintain their traditional ways, everyone agrees on their laws, whereas in unhealthy nations, a few people decide on the laws and the rest are expected to obey them.
 
 Furthermore, in healthy nations, people expect each other to _uphold_ their law and seek justice. In unhealthy nations, people are expected to _obey_ the laws they're given and they're punished for disobedience. They're also punished for upholding the law themselves and seeking justice directly. After all, enforcing the law is the police's job, though the police have to follow orders too.
 
-In healthy nations, everyone stands for a culture of mutual respect, so they have strong leaders and nobody imposes law on anybody else. Everyone agrees on their rules for appropriate behavior, so they can live in a respectful way with each other and the Earth. And when someone behaves inappropriately, anyone may take initiative to ensure there is accountability. Such healthy nations may fight with each other, but within the nation, they maintain a baseline of mutual respect.
+In healthy nations, everyone stands for a culture of mutual respect, so they have strong leaders and nobody imposes law on anybody else. Everyone agrees on their rules for appropriate behavior, so they can live in a respectful way with each other and the Earth. And when someone behaves inappropriately, anyone may take initiative to ensure there is accountability. Such healthy nations may fight with each other, but within the nation, mutual respect is normal.
 
 In unhealthy nations, one person or a few people rule over everyone else and demand obedience. Whether the rulers are kings, billionaires, imams, priests, prime ministers, or presidents, they impose laws that everyone else must follow or face severe punishment. The rulers choose how to enforce the law, and forbid the rest from directly holding misbehaving people accountable.
 
 Rulers use all manner of tricks, traps, and childhood training to create and maintain obedience. In fact, racism, sexism, dishonest leadership, pollution, disconnection from nature, selfishness, widespread child abuse, and needless poverty are all merely _common symptoms caused by the root cultural disease_ where some people rule over everyone else, and people accept their own submissive obedience as legitimate and normal.
 
-Every nation where a person or group imposes law on the rest has the same kinds of terrible troubles. For example, racism might "look" differently in one unhealthy nation compared to another. But they all have some kind of racism, with groups of higher-privilege and lower-privilege. These troubles do not exist in societies where everyone stands for what's right, and everyone agrees on the rules they live by.
+Every nation where a person or group imposes law on the rest has the same kinds of troubles. For example, racism might "look" different in one unhealthy nation compared to another. But they all have some kind of racism, with groups of higher and lower privilege. These troubles do not exist in societies where everyone stands for what's right, confronting injustice as needed.
 
-That is very good news! It means there is a way to end all the most terrible troubles we face. There is a way to end discrimination, greed, pollution, and so many other problems. The path to ending these problems is also the path to freedom. We must work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
+That is very good news! It means there is a way to live without so many problems like discrimination, greed, and pollution. The path to ending these problems is also the path to freedom. We must work together to create new nations where everyone agrees on their laws and everyone bravely upholds them as a normal way of life, taking humans' and nonhumans' needs into account.
 
 In order to find a pathway to freedom and live without these terrible troubles, we must first be clear on what "freedom" even means.
 
@@ -44,11 +44,13 @@ Spiritual strength is foundational for maintaining a free, healthy nation. But w
 
 To me, a person has _spiritual strength_ if they give their deepest love in each moment without holding back, and they stand for what's right for themselves and others.
 
-Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. In difficult moments you may sometimes feel uncertain or scared or angry, but regardless how you feel or what's going on around you, you give your deepest love, and you stand for what's right no matter what.
+Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. You do your best, even in difficult moments if you feel scared or uncertain.
 
 _Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by, and you expect the same from them so that justice becomes normal. _In a free society, everyone is expected to stand for what's right, and no one is punished for it._ Everyone is expected to cultivate the spiritual strength needed for this way of life.
 
-However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy nation punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy nations, no one has that freedom to uphold their own laws -- not even the rich.
+"Standing for what's right" means to live by the golden rule, which is to "treat others the way you would want to be treated." If someone is attacked, protect them as you would want someone to protect you. If someone is hungry, share with them like you would want someone to share with you. In a free society, everyone expects themselves and everyone else to live by the golden rule.
+
+However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy nation punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy nations, no one is allowed to confront the deepest injustices. It is illegal to fully embrace the golden rule.
 
 To survive in unfree nations, people learn to "hold back" or "shut down" parts of themselves and not even notice it just to get by, developing all sorts of emotional or spiritual wounds as explored in Part 2. These troubles represent a loss of that spiritual strength.
 
@@ -62,7 +64,7 @@ When too many people "hold back" or "shut down" parts of themselves and learn to
 
 Later in this book, Part 3 explores how you can work with others to create a beautiful way of life, a new nation of spiritually strong people living in actual freedom. It offers ways to create deep relationships and healthy communities which will be the building blocks of new healthy nations based on the stories of others who have done this. This requires tremendous hard work, bravery and risk -- and _it's worth it._
 
-But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including the one you live in. Recognizing the deep sickness will motivate you to create and maintain a way of life similar to how millions of people have lived since the dawn of time.
+But to understand why it's worth the risk, we must confront how deeply sick all unhealthy nations are, including yours. Recognizing the deep sickness will motivate you to build a way of life similar to how millions of people have lived since the dawn of time.
 
 Anytime a ruling class takes hold, selfishness and exploitation become widespread and normalized. And since "selfishness" and "corruption" are the same, corruption becomes normal too.
 
@@ -70,7 +72,7 @@ The truth is that _your unhealthy nation is a trap_ that keeps you and the peopl
 
 Many people avoid watching the news or thinking too deeply because "why bother" if you can't do anything about it? But what if you _can_ do something? Most people just haven't heard the perspectives and stories that offer a helpful path.
 
-The perspectives in Part 2 may feel hard to face alone. So let's be brave together and face the truth of unhealthy nations so we can see clearly why our current way of life isn't working, and why it never has. Together, we can uncover aspects of our own spiritual strength, and discover how people can build up each other's spiritual strength on the path to creating new beautiful nations together.
+The perspectives in Part 2 may feel hard to face alone. So let's be brave together and face the truth of unhealthy nations so we can see clearly why our current way of life isn't working, and why it never has. Together, we can uncover aspects of our own spiritual strength, and discover how people can build up each other's spiritual strength on the path to creating new beautiful nations.
 
 To face the deep sickness in every unhealthy nation and learn ways to build spiritual strength, join me in _Part 2 - Why Are We So Lost?_
 
