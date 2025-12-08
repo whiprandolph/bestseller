@@ -32,7 +32,7 @@ Consider how incredibly disobedient Jesus Christ was:
 
 * _Healed people illegally:_ Christ illegally healed people on the Sabbath. (Matthew 12:10, Mark 3:2)[xxx-bible niv|matthew 12:10]<sup>,</sup>[xxx-bible niv|mark 3:2]
 
-* _Prioritized doing the right thing over following unjust laws:_ When religious and legal authorities reminded him of the law, Christ said, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible niv|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. Christ's attitude is similar to the Haudenosaunee, whose nation was "founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
+* _Prioritized doing the right thing over following unjust laws:_ When religious and legal authorities reminded him of the law, Christ said, "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)[xxx-bible niv|mark 2:27] In other words, when people are in need and the law prevents helping them, we should prioritize doing the right thing and helping each other over following an unjust law. Christ's attitude is similar to the Haudenosaunee's, whose nation was "founded on concepts of moral justice, not statute law."[xxx-basic call to consciousness|p38]
 
 * _Attacked predatory money lenders:_ Jesus physically attacked predatory moneylenders (the equivalent to today's bankers and payday loan sharks) in the Temple who exploited his people. (Mark 11:15-18)[xxx-bible esv|mark 11:15-18]
 

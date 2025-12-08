@@ -44,11 +44,11 @@ Spiritual strength is foundational for maintaining a free, healthy nation. But w
 
 To me, a person has _spiritual strength_ if they give their deepest love in each moment without holding back, and they stand for what's right for themselves and others.
 
-Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. You do your best, even in difficult moments if you feel scared or uncertain.
+Spiritual strength exists when you're clear on your sacred gifts and you give them each moment. In other words, you know what matters to you and you act in service of it. You do your best, even if you feel scared or uncertain in difficult moments.
 
 _Freedom_ exists when your neighbors _expect_ you to stand for what's right and uphold the laws you live by, and you expect the same from them so that justice becomes normal. _In a free society, everyone is expected to stand for what's right, and no one is punished for it._ Everyone is expected to cultivate the spiritual strength needed for this way of life.
 
-"Standing for what's right" means to live by the golden rule, which is to "treat others the way you would want to be treated." If someone is attacked, protect them as you would want someone to protect you. If someone is hungry, share with them like you would want someone to share with you. In a free society, everyone expects themselves and everyone else to live by the golden rule.
+"Standing for what's right" means to carry out the golden rule, meaning to "treat others the way you would want to be treated." If someone is attacked, protect them as you would want someone to protect you. If someone is hungry, share with them like you would want someone to share with you. In a free society, everyone expects themselves and everyone else to live by the golden rule.
 
 However, if you live in a society with a ruling class, the police are the only ones allowed to enforce the law (and they have to follow orders). This means your unhealthy nation punishes you for seeking justice, even while abuses and corruption happen all around you. In unhealthy nations, no one is allowed to confront the deepest injustices. It is illegal to fully embrace the golden rule.
 

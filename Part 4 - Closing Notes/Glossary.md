@@ -34,7 +34,7 @@ _Selfless violence:_ Violence in service of others, especially defending one's c
 
 _Selfish violence:_ When a person commits violence or orders others to commit violence for the individual's benefit at the expense of the nation. Examples include authorities punishing peace activists who oppose unjust wars and killing spiritual leaders who confront injustices. (8, 9, 10, 12)
 
-_Submissive obedience:_ A way of life where people follow laws they don't choose and often don't like, knowingly obey corrupt leaders, and believe that this is ok. (9)
+_Slavery:_ A way of life where people follow laws they don't choose and often don't like, knowingly obey corrupt leaders, and believe that this is ok. Submissive obedience, selfishness, superficiality, and cowardice are common while integrity is rare. (9)
 
 _The three core spiritual practices:_ The spiritual foundation for living in healthy communities and healthy nations: cultivating a practical, aware gratitude for the gifts of life; giving one's sacred gifts; and living in reciprocity with people and the Earth. (3, 16)
 
