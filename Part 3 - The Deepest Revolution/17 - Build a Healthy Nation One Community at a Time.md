@@ -69,7 +69,7 @@ What kind of friends do you want to have? Do you want friends who have your back
 
 Of course -- you'd need to be that kind of friend too.
 
-There are so many people who want friendships like this. Whether you meet them online, at shops, at political events, anarchist spaces, in your neighborhood, or just by chance, many people long for such beautiful relationships, and they will be glad to meet you.
+Many people want friendships based on the golden rule. Whether you find them online, at shops, at political events, anarchist spaces, in your neighborhood, or by chance, they will be glad to meet you.
 
 Find others who also want rich friendships, and practice the revolutionary activities together. When you make a good friend, practice supporting each other, sharing, standing for what's right, holding each other to a high standard, encouraging each person to give their sacred gifts, and cultivating bravery. Practice creating private spaces so you can speak freely.
 
@@ -154,7 +154,7 @@ People cannot be afraid that any slip-up will cause them to be kicked out. There
 
 A person may lie or act selfishly because they don't trust others to handle the truth gracefully, or to remain friends after admitting their mistake. Counseling can also be a chance for the community to reflect on ways they unknowingly discourage good behavior.
 
-The essential attitude for holding good boundaries is this: _everyone is basically good, but some attitudes and behaviors such as dishonesty or cowardice are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can grow, or they must leave and take their hurtful attitudes and behaviors with them. Either way, the community maintains its high standards.
+The essential attitude for holding good boundaries is this: _everyone is basically good, but some attitudes and behaviors such as cowardice or dishonesty are toxic to a healthy community and must not be allowed to stay._ For the good of the community, these hurtful attitudes or behaviors must go. Either a person can grow, or they must leave and take their hurtful attitudes and behaviors with them. Either way, the community maintains its high standards.
 
 Learning when to forgive and how to hold good boundaries may sound hard, but it is part of the art of being human, and in a healthy community no single person makes these decisions alone.
 

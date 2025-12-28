@@ -10,7 +10,7 @@ _Cowardice:_ Prioritizing one's comfort over standing for what's right, the oppo
 
 _Freedom:_ A way of life where everyone in a nation expects themselves and everyone else to stand for what's right. Everyone agrees on their laws and bravely upholds them so justice, protection, and mutual respect are normal. (5, 7, 9, 13, 15, 17)
 
-_Healthy community:_ Communities where people hold each other to high standards of behavior, including generosity, integrity, and deep connection with the Earth so that trust and mutual respect are common. Healthy communities are the building blocks of healthy nations. (5, 8, 10, 17)
+_Healthy community:_ Communities where people hold each other to high standards of behavior, including generosity, integrity, and deep connection with the Earth so that trust and mutual aid are common. Healthy communities are the building blocks of healthy nations. (5, 8, 10, 17)
 
 _Integrity:_ The willingness to stand for a culture of mutual respect, including being honest, keeping promises, having an attitude of service, and standing for justice. (2, 5, 6, 7, 13, 14, 17)
 

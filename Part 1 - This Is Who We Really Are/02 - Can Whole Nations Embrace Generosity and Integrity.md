@@ -60,11 +60,11 @@ The Zapatistas show that even people who have lived with sexism, greed, and corr
 
 Of course, there are many stories of individual Americans or small groups pulling together in times of crisis or generally acting with kindness toward others. But a whole nation? Or even a whole town? Besides the Ashaninka, I have never seen a whole nation or town of honest, giving, respectful people. Have you?
 
-And yet as I read more about various healthy nations, I kept finding stories in which whole towns and even whole nations routinely acted with kindness and respect toward every member.
+And yet as I read more about various healthy nations living in traditional times, I kept finding stories in which whole towns and even whole nations routinely acted with kindness and respect toward every member.
 
 Nancy Basket, a woman of Cherokee descent, described how such kindness was maintained even as villages grew. When traditional Cherokee towns got larger than 600-700 people, hunting and foraging became difficult. Recognizing that the town needed to split into two, a new town site was agreed upon, often about seven miles away. They didn't have rich people and poor people, so that the poorest couldn't afford housing and had to leave or fend for themselves. Instead, everyone would go build the new homes and other structures regardless whether they were planning to live there or not. They even made sure all the gardens were planted.[xxx-basket interview]
 
-People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Like people in all healthy nations, they lived by the golden rule, each person treating the others the way they would want to be treated.
+People would go back and forth between the new and old sites as they prepared the new town. Everyone took responsibility for their neighbors' wellbeing. Like people in all healthy nations in traditional times, they lived by the golden rule, each person treating the others the way they would want to be treated.
 
 ### Trustworthy and Generous
 

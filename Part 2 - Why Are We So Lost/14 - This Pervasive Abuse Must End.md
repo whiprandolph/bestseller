@@ -10,11 +10,11 @@ Sadly, child sexual abuse runs rampant in these conditions, including by unaccou
 
 Child rape can become quite normalized. One boy was raped by monks in Buddhist Tibet and complained to other monks. He said, "they shrugged and said simply that that was just the way things were."[xxx-the struggle for modern tibet|chapter 3]
 
-Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile sexually assaulted dozens of underaged people as young as 8 years old from the 1960s-1980s. When a young woman complained to British Broadcasting Corporation (BBC) staff about his inappropriate behavior, the staff evicted her from the premises. Another was told, "keep your mouth shut, he's a VIP."[xxx-dame janet smith report|p3-4]<sup>,</sup>[xxx-dame janet smith report|p49]
+Many secular authority figures have also raped children, and few have faced any accountability at all -- clearly too few to deter any others. Famous British media personality Jimmy Savile sexually assaulted dozens of underaged people as young as 8 years old from the 1960s-1980s. When a young woman complained to British Broadcasting Corporation (BBC) staff about his inappropriate behavior, the staff evicted her from the premises. Another young woman was told, "keep your mouth shut, he's a VIP."[xxx-dame janet smith report|p3-4]<sup>,</sup>[xxx-dame janet smith report|p49]
 
 An orphanage in Portugal was revealed to house a huge child sexual abuse operation in 2002, although the police and the Portuguese president were notified of the abuses by several boys and even a government minister in 1980. Several low-ranking men were prosecuted, but none of the wealthy international clients who flew in to spend time with the boys faced justice. Of course, the police and politicians who "failed" to investigate likewise went unpunished.[xxx-guardian portugal boys]<sup>,</sup>[xxx-guardian portugal president knew]
 
-How do you think the Portuguese people felt watching these legal proceedings carefully ignore the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
+How do you think the Portuguese people felt watching these televised legal proceedings carefully ignore the worst perpetrators? They clearly did not prosecute the most powerful politicians, police, and businessmen who were involved -- how would you feel knowing all those people still had their wealth and power?
 
 Tragically, such disturbing troubles are common in unhealthy nations that punish you for seeking justice. Thus similar stories can be found in the United States.
 
@@ -34,7 +34,7 @@ A staggering level of abusive behavior always occurs when people allow themselve
 
 Can you imagine a world without child sexual abuse? Not just a world with more self-defense classes, or stronger laws, or better ways of supporting victims, but a world without _any_ child sexual abuse?
 
-This world is possible. Healthy nations do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy nations to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two Nootka girls.[xxx-daughters of copper woman|p73-74]
+This world is possible. Healthy nations in traditional times do not have child sexual abuse. When the Nootka first encountered Spanish conquistadors, they did not encounter any women. Instead, the Spanish "only brought men and young boys who got used as women whether they liked it or not."[xxx-daughters of copper woman|p71] Even in their first interaction with Europeans centuries ago, the Nootka noticed regular child rape that remains so common in unhealthy nations to this day. After a period of uneasy interactions, the Spaniards kidnapped, raped, and murdered two Nootka girls.[xxx-daughters of copper woman|p73-74]
 
 The Nootkas' response shows that they had never experienced child sexual assault until encountering an unhealthy nation:
 
@@ -66,9 +66,9 @@ Unfortunately, many ruling classes have recognized this truth, and this explains
 
 The Lakota and Nootka offer tragic examples, as they were ultimately unable to prevent conquering Christians from kidnapping most of their children and sending them to abusive boarding schools.
 
-Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated and trained to hate the healthy nation they'd grown up in. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
+Lakota children experienced many years of abuse at the Carlisle Indian Industrial School in the United States, where physical and sexual abuse was common. Girls and boys were shamed and humiliated and trained to hate their healthy nation. One man named White Hat said, "I was so angry that I was born an Indian that I didn't want to live."[xxx-black elk life of an american visionary|vanishing americans]
 
-At boarding schools, children encountered a new form of child abuse: being forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to provide for and protect his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
+At boarding schools, children encountered many forms of child abuse. They were forced to do work they often found meaningless or boring, unlike their traditional upbringing that emphasized always walking a meaningful, enlivening path. Ohiyesa hinted at his boredom when he wrote, "I hardly think I was ever tired in my life until those first days of boarding-school." Instead of being trained to protect and provide for his people, he was now continuously given meaningless schoolwork, "until not a semblance of our native dignity and self-respect was left."[xxx-from deep woods to civilization|on the white man's trail]
 
 At Catholic boarding schools, Nootka girls learned to feel intense shame and believe that once a month they became filthy. The boys were taught that women were dirty and sinful, had no valuable opinions, and only existed to serve men. When the children were finally allowed home, the Nootka mothers "saw the fighting and the drunkenness where once there was love and respect. They saw men beating their wives and children. They saw mothers beating their children and even abandoning them. They saw girls who should have been clan mothers become prostitutes in the cities the invaders built."[xxx-daughters of copper woman|p62]
 
@@ -84,7 +84,7 @@ But just because you are not aware of what your ancestors went through does not 
 
 Mistreatment of children has a profound effect on our politics, because people's childhood experiences can radically affect their spirituality -- that is, childhood experiences dramatically affect how people relate to themselves and the world. An abused or deprived child can struggle to trust other people or themselves, or cultivate deep rage, resentment, shame, sense of isolation, fear, stress, or other troubles that color the rest of their lives if they're unable to heal.
 
-The _True Americanism_ study interviewed 40 men, 25 who volunteered to fight in the Vietnam war and 15 who took a stand to end that war, even at great personal risk. The large majority of war volunteers had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."[xxx-true americanism|p50]<sup>,</sup>[xxx-true americanism|p25]
+The _True Americanism_ study interviewed 40 American men, 25 who volunteered to fight in the Vietnam war and 15 who took a stand to end that war, even at great personal risk. The large majority of war volunteers had grown up in traditional American families that researchers characterized as "conformistic," "emotionally isolated," and "autocratic," with adults emotionally lashing out at children while demanding respect in return, and even some physical abuse. The large majority of war-resisters grew up in households that researchers described as "warm," "gentle," and "friendly."[xxx-true americanism|p50]<sup>,</sup>[xxx-true americanism|p25]
 
 The differences in adulthood were profound. The war volunteers were aware they obeyed corrupt political leaders and were just cogs in a machine, and they were ok with this, telling the researchers things like, "somebody has got to be the cog in the wheel..." and "many people have got their thumb in the pie over there..." and "it doesn't matter to me why we're fighting or where we're fighting. It's my job as a soldier..."[xxx-true americanism|p151]
 
@@ -108,7 +108,7 @@ Child abuse or deprivation aren't all-or-nothing. Some people grow up with far m
 
 These emotional troubles can also make it difficult to have satisfying romantic and spousal relationships, limiting the connection and trust many people experience even in their families.
 
-The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful homes with troubles such as double standards, little loving touch, and emotional and physical abuse. In adulthood, they tolerated being a cog in a machine.
+The war-resisters had grown up with a respectful childhood, so respect was the norm for them. They grew up with the spiritual strength needed to oppose an unjust war. The war-volunteers had grown up in disrespectful homes with troubles such as double standards, little loving touch, and emotional and physical abuse. In adulthood, they tolerated being cogs in a machine.
 
 This is _not_ to say that "warriors are bad" or "war resistance is good." A nation must always be ready to defend itself. The question is whether or not people are emotionally capable of having integrity and deep relationships. Clearly when children are unable to heal from their abuse or deprivation, they can become adults willing to support disrespectful authorities.
 
@@ -126,7 +126,7 @@ Julian Assange said how people learn to tolerate abuse: "Every time we witness a
 
 What qualities would people need to cultivate to have the strength to live in a healthy nation? And how are adults trained to tolerate living in an unhealthy nation with widespread exploitation?
 
-* _Low-integrity:_ Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy nations where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
+* _Low-integrity instead of high integrity:_ Every human has an urge to stand for what's right in solidarity with others, but this isn't allowed in unhealthy nations where people are expected to obey the law but not uphold it. When people learn to ignore injustice or feel helpless to stop it, life can seem meaningless, and low integrity becomes common.
 
 * _Cowardice instead of bravery:_ When the police punish anyone who takes a stand against abusive authorities, they arrest the bravest people and scare the rest into holding back, tolerating abuse, and focusing on their own comfort and safety. When bravery is punished, cowardice becomes common.
 
@@ -163,6 +163,8 @@ To maintain this way of life, we are continually reconquered: our bravest, wises
 ### It is Time to End this Pervasive Abuse
 
 Ending this abuse will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account._
+
+After a shallow revolution, one ruling class takes over from another and for most people, nothing much changes. After the Deepest Revolution there will be no ruling class, as each person stands in solidarity with everyone else, fully embracing the golden rule.
 
 You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution._
 
