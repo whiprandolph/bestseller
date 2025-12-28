@@ -102,11 +102,15 @@ BOOK_ADDED_STYLE_BASE = """
   .quarterwidth {
     width: 25%;
   }
-  p, .rev-act {\n
+  p, .rev-act {
     font-size: 12pt;
     color:black;
     text-align: justify;
-  }\n
+  }
+
+  .rev-act-body {
+    text-align: justify;
+  }
 
   sup {
     font-size:9pt;
