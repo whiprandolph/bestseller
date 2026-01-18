@@ -18,7 +18,7 @@ Giving up old beliefs is hard. Even Jesus Christ needed 40 days alone in the des
 
 This kind of transformation seems common among activists and spiritual leaders. When you grow up in an unhealthy nation, you may be taught all kinds of hurtful or wrong things -- perhaps you learned that obedience is good and people are basically bad or naturally selfish (addressed in Chapters 7 and 9), that some people are worse than others or deserve to suffer (Chapter 10), that political and religious authorities serve the people (Chapters 8, 12 and 14), or that you live in a free society (Chapter 6).
 
-But in order for spiritual leaders like Jesus Christ, Don Cox, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
+But in order for spiritual leaders like Don Cox, Jesus Christ, and Bogaletch Gebre to truly serve their people, they had to go through transformations that helped them accept the truth and release the beliefs and attitudes that they knew were not working.
 
 Giving up old beliefs is hard, but it becomes so much easier when you begin to see a better way. It's easier to give up on "divinely-ordained" monarchy or authoritarian "democracy" when you see how free people choose their leaders. It's easier to give up submissive obedience when you see how people live freely, without fear of punishment. It's easier to trust yourself and trust others when you know how trustworthy people can be.
 
@@ -92,7 +92,7 @@ Like Tubman, both Martin Luther King Jr and Jesus Christ described a sense of be
 
 What is this greater power, or divine voice, that moves some people to act so selflessly even at great personal risk? And how come so few people seem to listen to it?
 
-The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a meaningful, dignified path in service of the people and nonhumans they love. The divine voice isn't the endless mental chatter so many people experience; it feels more like a deep knowing, or even an irresistible force that guides you on your own sacred path. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work, and find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of others.
+The truth is very simple: everyone has a divine voice in their heart that, from birth on, guides them to walk a meaningful, dignified path in service of the people and nonhumans they love. The divine voice isn't the endless mental chatter so many people experience; it feels more like a deep knowing, or even an irresistible force that guides you on your own sacred path. However, in unhealthy nations, people are subject to so much hurtful training that many learn to "hold back" or "shut down" parts of themselves, and ultimately they can learn to ignore that voice in their heart. People can learn to obediently follow others' direction instead of following their divine path. They can learn to embrace self-centeredness, low self-worth, or distrust. People can learn to tolerate meaningless work and find ways to distract themselves from the dissatisfaction of not giving their deepest love in service of others.
 
 Tubman, King, and Christ only seem unusual because they gave their love fully in unhealthy nations that train people to hold back their love. They could feel that inner divine voice, whereas many people learn to ignore it, starting with early childhood deprivation or abuse and continuing with endless training for obedience throughout school, church and adulthood.
 
@@ -130,7 +130,7 @@ There are many ways to discover and give your gifts, as Chapter 3 described: you
 
 In unhealthy nations that train people for a life of distraction, any practice that helps you avoid distraction can help reconnect you with that divine voice within you so that you can give your sacred gifts in life. These are life-long practices too, which will serve you well anytime you feel lost or stuck.
 
-<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Make time to discover your sacred gifts or your most meaningful path</div>
+<div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Discover your sacred gifts or your most meaningful path</div>
 <div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
 
 ### Cultivate Spiritual Strength, Part 3: Live in Reciprocity

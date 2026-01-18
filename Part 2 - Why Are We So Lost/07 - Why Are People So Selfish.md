@@ -76,7 +76,7 @@ Nancy Basket, a woman of Cherokee descent, summarized the traditional Cherokee c
 
 Ohiyesa of the Sioux described their traditional culture of sharing when he wrote, "During the summer, when Nature is at her best, and provides abundantly for the [Indian], it seems to me that no life is happier than his! Food is free -- lodging free -- everything free! All were alike rich in the summer, and, again, all were alike poor in the winter and early spring."[xxx-indian child life|early hardships]
 
-Amazingly, when people born into profit economies encounter people born into gift economies, they can each feel offended by the other. How is that possible?
+Gift economies arise when a whole community or nation embraces the golden rule, each person sharing with the others just as they would want others to share with them.
 
 #### Gift Economies and Indian Givers
 

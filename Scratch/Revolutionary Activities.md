@@ -75,7 +75,7 @@
 ### 09 - Why Do People Obey Corrupt Leaders
 
 <b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #13<br/>Choose what lessons you learn</div>
-</b><div class="rev-act-body">You have the power to choose which perspectives to learn from others, and which to ignore. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model. I kept this lesson, and I've learned much about bravery, generosity, and fasting from him. I was also taught that I should be obedient to God and human authorities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
+</b><div class="rev-act-body">You have the power to choose which perspectives to learn from others, and which to avoid. Think back to your childhood, and reflect on the beliefs and attitudes you were taught, whether from capitalism, a religion, or anything else. Think of a helpful insight or wisdom that you would like to keep in your life, and think of something hurtful or superficial from that belief system that you do not want to keep.<br/><br/>I grew up as a Christian, and I was taught that Jesus Christ was a good role model. I kept this lesson, and I've learned much about bravery, generosity, and fasting from him. I was also taught that I should be obedient to God and human authorities. But obeying corrupt authorities has never led to justice, so I cultivate integrity and bravery instead of obedience.</div></div>
 
 
 
@@ -122,8 +122,8 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Receive feedback graciously by looking for the lesson</div>
-</b><div class="rev-act-body">Oftentimes, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson to learn so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback.</div></div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #21<br/>Make it easy for others to hold you to a high standard</div>
+</b><div class="rev-act-body">Often, when one person feels upset by another, they'll struggle to speak clearly and respectfully. Whenever someone expresses frustration with you, or offers you constructive feedback, actively look for the lesson so that you can grow from the experience. Repeat the lesson back to them to ensure both of you agree on it. Make it easy rather than difficult for others to give you constructive feedback and hold you to a high standard.</div></div>
 
 
 
@@ -181,7 +181,7 @@
 
 
 
-<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Make time to discover your sacred gifts or your most meaningful path</div>
+<b><div class="rev-act"><div class="rev-act-header">Revolutionary Activity #32<br/>Discover your sacred gifts or your most meaningful path</div>
 </b><div class="rev-act-body">Choose a time in the near future when you can avoid all distractions and feel into your heart to sense what most matters to you, or how you could give your deepest love. Practice listening with curiosity, as you don't choose your sacred gifts -- they choose you.<br/><br/>If you do not get a clear answer quickly, have patience.</div></div>
 
 

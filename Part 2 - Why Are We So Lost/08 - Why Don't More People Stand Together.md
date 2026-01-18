@@ -124,11 +124,11 @@ Imagine living in a society where the leaders are the most generous, and where t
 
 This is not a fantasy, but the normal way people live in healthy nations during traditional times. The Haudenosaunee's traditional leaders were their spiritual leaders, and were expected to be extremely generous. Leaders "act more as conduits of the will of the people than as independent representatives of the people,"[xxx-basic call to consciousness|p38] and "when they don't perform, the will of the people will remove them."[xxx-original instructions|a democracy based on peace]
 
-What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards? In their book _Basic Call to Consciousness,_ Haudenosaunee writers summarized many crucial aspects of their society that have allowed them to live this way for over nine centuries.
+What sort of society would have the spiritual strength to choose leaders like this, and to replace any leader who does not live up to their standards?
 
 Long ago, several nations in eastern North America were suffering from a long period of violence, and eventually they decided to create a confederacy to ensure lasting peace. This became known as the Haudenosaunee Confederacy, also known as the Iroquois, which has survived as a healthy nation for over 900 years.[xxx-encyclopedia haudenosaunee|p265]
 
-It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
+In their book _Basic Call to Consciousness,_ Haudenosaunee writers summarized many crucial aspects of their society. It is impossible to briefly recount all the ways the Haudenosaunee have maintained a healthy nation for so long, but I believe these elements have many lessons to teach: 
 
 1. _Solidarity:_ As one people, they stand in solidarity to ensure that if anyone is attacked, the entire Confederacy would respond.[xxx-basic call to consciousness|p35]<sup>,</sup>[xxx-basic call to consciousness|p37]
 

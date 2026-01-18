@@ -46,7 +46,7 @@ Imagine a life where every moment feels alive, and you are free to contribute to
 
 Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, your friends and neighbors will come to your aid. Just like you would for them.
 
-Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day is meaningful and engaging for them. Imagine training children for qualities like generosity, awareness, bravery, connection, and joy so that these become normal parts of their lives and pervasive in your nation.
+Imagine having enough time with your kids and having enough time to make their education really excellent, so that every day is meaningful and engaging for them. Imagine training children for qualities like integrity, generosity, awareness, bravery, and joy so that these become normal parts of their lives and pervasive in your nation.
 
 Imagine no boring classes, no unaccountable school authorities, and no meaningless work and tests that train children for meaningless work in adulthood. Instead, imagine being a teenager and being treated so respectfully that there is nothing to rebel against.
 
