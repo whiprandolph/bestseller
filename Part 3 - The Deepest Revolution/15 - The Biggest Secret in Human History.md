@@ -42,7 +42,7 @@ Imagine having amazing friends who tell the truth, share, keep their promises, a
 
 Imagine choosing to live with those friends so you're surrounded by neighbors you deeply trust, and who trust you.
 
-Imagine a life where every moment feels alive, and you are free to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
+Imagine a life where every moment feels alive, and you are welcomed to contribute to your community in the most meaningful ways without worrying if it pays well or at all.
 
 Imagine a world with no police or prisons, where no one worries about crime because you know that if anyone misbehaves or threatens you, your friends and neighbors will come to your aid. Just like you would for them.
 

@@ -245,6 +245,8 @@ def get_odoc_refs():
     odoc_refs = {}
     for odoc_path in odoc_file_list:
         with open(odoc_path, 'r', encoding='utf-8') as handle:
+            print(odoc_file_list)
+            print(odoc_path)
             blob = handle.read()
             if ref_header not in blob:
                continue
@@ -360,8 +362,8 @@ def main():
     return all_refs_set
     
 
-odoc_file_list = odoc_get_file_list()
-odoc_refs = get_odoc_refs()
+#odoc_file_list = odoc_get_file_list()
+#odoc_refs = get_odoc_refs()
 
 
 if __name__ == '__main__':

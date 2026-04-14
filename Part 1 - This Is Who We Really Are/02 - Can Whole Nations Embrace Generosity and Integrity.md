@@ -74,7 +74,7 @@ Besides the lack of police and prisons, I also noticed observers remarking on th
 
 American S.M. Barrett described having complete trust in Apache leader Geronimo, saying, "When he once gives his word, nothing will turn him from fulfilling his promise."[xxx-geronimo autobio|introductory]
 
-Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne people completely trustworthy, sounding just like my experience with the Ashaninka.[xxx-fighting cheyennes|introduction]
+Stanley Vestal and George Grinnell also described how they found the Sioux and Cheyenne leaders completely trustworthy, sounding just like my experience with the Ashaninka.[xxx-fighting cheyennes|introduction]
 
 I remember first reading about Geronimo's integrity, and my mind went to all the untrustworthy politicians in the United States -- and also every other country I'd visited, including Ecuador, Peru, Germany, Great Britain, and Canada. Some individuals in these countries are trustworthy, but none of these nations has anything like the universal integrity I'd experienced with the Ashaninka, or like these other observers in the 1800s experienced with the Sioux, Cheyenne, and many other beautiful nations.
 

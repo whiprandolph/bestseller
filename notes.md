@@ -34,6 +34,11 @@ Meanwhile, so-called “civilized” nations, like France, the United States, Ec
 What will it take to make integrity, respect, generosity, and alignment with the Earth pervasive, so people can trust their neighbors and leaders?
 
 It will take The Deepest Revolution. Based on the words and stories of people of healthy nations, nothing in this book is theoretical or too idealistic to achieve. If you’re tired of our endless political and cultural problems, and you’re ready for deep change in solidarity with other strong and caring people, these books are for you.
+
+Shorter:
+
+Some nations have a way of life that produces endless corruption, greed, and discrimination. In other nations, integrity, generosity, and respect for the Earth are normal. How could we create a nation where trust and trustworthiness are normal?
+
 +======+
 * Cost: The book retails for $9.99 on Amazon. The wholesale distributors ought to offer standard discounts. If not, please let me know. If you want me to supply you with a box, I can do that for $5/book.
 
@@ -379,4 +384,15 @@ One Nootka storyteller described the importance of remembering these kinds of st
   * crisis but still sovereign and healthy
   * conquered but maintain traditions best they can
   * healthy nation forgotten
+
+## Malaprops event page notes
+
+### Description
+Some nations have a way of life that produces endless corruption, greed, and discrimination. In other nations, integrity, generosity, and respect for the Earth are normal. How could we create a nation where trust and trustworthiness are normal?
+
+### Prof & Social connections
+I've called the broader Ashevilla area home since 2014. I have done financial consulting or worked as a financial director for a variety of nonprofits and small businesses. I participate in a variety of homesteading and community mutual aid groups of people that support each other in homesteading, gardening, building construction, farming, and other projects. I participate in a dairy cooperative in Black Mountain.
+
+### Promotion Plans
+I publish a regular newsletter that includes 30+ people local to the Asheville area, and I will advertise the event on this newsletter. I will also publish a notice on my website and invite people from the various homesteader and community groups in which I participate as well as all my friends.
 

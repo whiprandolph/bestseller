@@ -166,7 +166,7 @@ To maintain this way of life, we are continually reconquered: our bravest, wises
 
 Ending this abuse will require creating new healthy nations, one community at a time, where _everyone agrees on the laws and everyone bravely upholds them, taking humans' and nonhumans' needs into account._
 
-After a shallow revolution, one ruling class takes over from another and for most people, nothing much changes. After the Deepest Revolution there will be no ruling class, as each person stands in solidarity with everyone else, fully embracing the golden rule.
+After a shallow revolution, one ruling class takes over from another and for most people, nothing much changes. In the Deepest Revolution, people form a nation without a ruling class, each person standing in solidarity with everyone else, fully embracing the golden rule.
 
 You and the people around you can do this. Explore paths to creating a new healthy nation in _Part 3 - The Deepest Revolution._
 
